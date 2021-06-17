@@ -1,0 +1,5378 @@
+[
+ {
+   "id": " 78A449CA-C285-40BA-A880-AB2500BD0EC0 ",
+   "permit_id": "PE19-1117",
+   "inspection_type": "Rough - Ele",
+   "date_time_scheduled": "2019-12-18 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 7793580B-87E0-4EA2-9AA6-AB2600C081E0 ",
+   "permit_id": "PB19-3969",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2019-12-23 12:00:00",
+   "address": "4254 CHERRY HILL DR"
+ },
+ {
+   "id": " 12D223A4-803A-44FB-871E-AB2700AC80DB ",
+   "permit_id": "PM19-1202",
+   "inspection_type": "Rough & Pressure Test",
+   "date_time_scheduled": "2019-12-20 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 2A20810B-DB96-4FDB-BE90-AB2761F6F724 ",
+   "permit_id": "PE11-0623",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2011-04-15 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 9759647F-240C-43F2-A04E-AB2800A715B1 ",
+   "permit_id": "PE19-1104",
+   "inspection_type": "Final - Generator",
+   "date_time_scheduled": "2020-01-10 12:00:00",
+   "address": "5818 CARMEN E CT"
+ },
+ {
+   "id": " 8CCC6752-FBC0-4DBE-8491-AB2800A76495 ",
+   "permit_id": "PM19-1195",
+   "inspection_type": "Final - Generator",
+   "date_time_scheduled": "2020-01-08 12:00:00",
+   "address": "5818 CARMEN E CT"
+ },
+ {
+   "id": " 29EE658F-A932-49C8-9C99-AB2800B81857 ",
+   "permit_id": "PB19-3943",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2019-12-20 10:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 15B37FFE-8FDA-44D5-93B5-AB2900D7EB5F ",
+   "permit_id": "PM17-1031",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-01-03 12:00:00",
+   "address": "3815 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 6DB77AE7-6B08-4049-9C04-AB2C008CCDE1 ",
+   "permit_id": "PB19-3943",
+   "inspection_type": "Re-Rough",
+   "date_time_scheduled": "2019-12-23 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 246D8318-83CD-44EC-9B4E-AB2C00DE0BB3 ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Trench",
+   "date_time_scheduled": "2019-12-27 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 802E158E-6B11-4473-993E-AB3300D2E0B3 ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Demo",
+   "date_time_scheduled": "2020-01-02 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " A3272A62-F85F-49AF-8D5E-AB3300F6ADAF ",
+   "permit_id": "PP19-0582",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-01-03 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 0778C6B4-79F1-4299-9059-AB34F18F46EA ",
+   "permit_id": "PB10-3352",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2010-12-02 12:00:00",
+   "address": "5228 DEER RUN CIR"
+ },
+ {
+   "id": " 2AD88C12-1A39-4499-B403-AB3600B3D098 ",
+   "permit_id": "PB19-3987",
+   "inspection_type": "Final Deck",
+   "date_time_scheduled": "2020-01-03 12:00:00",
+   "address": "5959 SEVILLE CIR"
+ },
+ {
+   "id": " 0B90E28E-DEE3-487B-B21F-AB3600BD89C1 ",
+   "permit_id": "PM20-1218",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-01-08 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 47DA3311-8064-4B14-A893-AB3600F14A90 ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Footing",
+   "date_time_scheduled": "2020-01-02 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 135779A0-DADB-41E6-9549-AB3600F488B5 ",
+   "permit_id": "PB19-3995",
+   "inspection_type": "Sand Garage",
+   "date_time_scheduled": "2020-01-03 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 04D33848-E6EB-4016-A8A1-AB3700DCB4FB ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Garage Trench Footing",
+   "date_time_scheduled": "2020-01-06 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " AA4B6B01-2B17-45A4-B238-AB3A008DBA46 ",
+   "permit_id": "PB19-3944",
+   "inspection_type": "Sand Basement",
+   "date_time_scheduled": "2020-01-06 0:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " A8B78422-C7B3-462A-B803-AB3A00A581E4 ",
+   "permit_id": "PB19-0001",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-01-07 12:00:00",
+   "address": "5540 PARK DR"
+ },
+ {
+   "id": " C5DCBFFD-AF07-4EFA-A962-AB3A00F13D72 ",
+   "permit_id": "PE19-1101",
+   "inspection_type": "Temporary Services",
+   "date_time_scheduled": "2020-01-10 0:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 4DDCA70D-6327-4812-A6AA-AB3A00F5E322 ",
+   "permit_id": "PE19-1114",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-01-10 0:00:00",
+   "address": "4470 DOW RIDGE RD"
+ },
+ {
+   "id": " 9E16DE1D-32D6-415A-A787-AB3A00F7DEE3 ",
+   "permit_id": "PE19-1122",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-01-15 0:00:00",
+   "address": "5080 HICKORY POINTE DR"
+ },
+ {
+   "id": " 9191A382-DB17-4A8A-B14D-AB3A00F82337 ",
+   "permit_id": "PM19-1215",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-01-15 0:00:00",
+   "address": "5080 HICKORY POINTE DR"
+ },
+ {
+   "id": " C3AA2370-E6F5-4213-BEA0-AB3A0106FF6E ",
+   "permit_id": "PE20-1123",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-01-10 12:00:00",
+   "address": "3328 ERIE DR"
+ },
+ {
+   "id": " B26E6C7F-42AA-4167-B308-AB3B00FABE1D ",
+   "permit_id": "PP19-0582",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-01-08 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 760329D8-99AD-4E9C-8624-AB3C00C5ACBB ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2020-01-10 10:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 6D4ECAE9-C39F-401E-A012-AB3D00B7992A ",
+   "permit_id": "PB19-3943",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-01-14 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " C04F74A7-EF94-4394-91B8-AB3E009B34DA ",
+   "permit_id": "PB19-3976",
+   "inspection_type": "Final Deck",
+   "date_time_scheduled": "2020-01-10 12:00:00",
+   "address": "4560 CHERRY HILL DR"
+ },
+ {
+   "id": " 35E32549-69AA-48E1-B740-AB4200BDED10 ",
+   "permit_id": "PP19-0581",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-02-05 12:00:00",
+   "address": "4048 OAK BANK CT"
+ },
+ {
+   "id": " F5C3E23B-CCC3-482F-8026-AB4200CA1635 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Brickledge/Flashing Lakeside",
+   "date_time_scheduled": "2020-01-15 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 259A1400-7CF4-4EC8-A46F-AB4300C5B193 ",
+   "permit_id": "PP20-0585",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-01-17 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 2D39C6D4-913E-4BD8-9435-AB4300EEF2F5 ",
+   "permit_id": "PB19-4008",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-01-17 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 63540386-B325-421B-891D-AB4500B9E320 ",
+   "permit_id": "CR130023",
+   "inspection_type": "Re-Inspection",
+   "date_time_scheduled": "2020-01-27 0:00:00",
+   "address": "3551 SHADY BEACH BLVD"
+ },
+ {
+   "id": " 4830A106-16EC-41FE-BEED-AB4500E714D0 ",
+   "permit_id": "PB19-4008",
+   "inspection_type": "Framing",
+   "date_time_scheduled": "2020-01-17 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 995E7957-75B5-4992-9DD2-AB4900DC017D ",
+   "permit_id": "PE19-1118",
+   "inspection_type": "Rough - Ele",
+   "date_time_scheduled": "2020-01-22 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " A47EF502-F5DA-49CC-8663-AB4A00B05360 ",
+   "permit_id": "PM19-1216",
+   "inspection_type": "Final - prefab",
+   "date_time_scheduled": "2020-01-24 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 1BAC3993-28B1-4C3E-837C-AB4A00B22D73 ",
+   "permit_id": "PM19-1202",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2019-12-27 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " B072B534-DB08-4164-AA36-AB4B00A557B4 ",
+   "permit_id": "PZ19-357",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-01-27 0:00:00",
+   "address": "3131 ERIE DR"
+ },
+ {
+   "id": " C517323D-D245-431C-91C1-AB4B00F7E2BF ",
+   "permit_id": "PB19-3999",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-01-24 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " D6E6F2EA-A8EC-45E0-B71D-AB4C008D8102 ",
+   "permit_id": "PM18-1117",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-01-27 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 475811EF-DC0A-4583-88AF-AB500098D4DD ",
+   "permit_id": "PM20-1223",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2020-01-31 12:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " 8F1CE006-1DEA-4A70-A62B-AB5200E1A57C ",
+   "permit_id": "PE20-1127",
+   "inspection_type": "Temporary Services",
+   "date_time_scheduled": "2020-01-31 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 29A533F7-E636-42A9-A222-AB5200E5B847 ",
+   "permit_id": "PP20-0587",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-01-31 12:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 50E51643-2A0A-43B7-BBF4-AB5300B1817D ",
+   "permit_id": "PB19-3995",
+   "inspection_type": "Brickledge/Flashing",
+   "date_time_scheduled": "2020-02-03 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 4B78B5A0-73E0-4D6A-A770-AB5300B8F6F1 ",
+   "permit_id": "PB20-4010",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2020-02-03 11:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 89FBE5F2-ADA6-42E4-95F7-AB5300E4215F ",
+   "permit_id": "PP19-0559",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-02-03 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " 0B267915-3557-44FF-9B82-AB5600DD51D0 ",
+   "permit_id": "PB20-4010",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-02-03 12:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 585B4AB0-54BC-409F-A84A-AB5600EE52A5 ",
+   "permit_id": "PP19-0582",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-02-05 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " A6E71B5E-731B-4A72-AC56-AB5600EEA100 ",
+   "permit_id": "PM19-1207",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2020-02-05 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 6444B922-EBE7-4750-B720-AB5700AD4814 ",
+   "permit_id": "PE19-1071",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-02-07 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " DFCCBCEE-3A5F-4F9F-A144-AB5700AD785F ",
+   "permit_id": "PE19-1091",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-02-07 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 13F6C18D-D243-47D7-BABB-AB5700DA16B9 ",
+   "permit_id": "PB20-4011",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-02-05 12:00:00",
+   "address": "3500 SEMINARY DR"
+ },
+ {
+   "id": " F8A98FFF-4C1C-4323-8CF5-AB5700ED431E ",
+   "permit_id": "PE19-1093",
+   "inspection_type": "Floor Heat",
+   "date_time_scheduled": "2020-02-07 12:00:00",
+   "address": "5019 ELMGATE DR"
+ },
+ {
+   "id": " E26304EC-DF7A-4E27-BB03-AB5700F71FDD ",
+   "permit_id": "PE20-1129",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-02-07 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 1D1A3026-2388-4393-BE9F-AB5D00915E15 ",
+   "permit_id": "PM19-1148",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-02-12 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " 2F894D65-9E03-4959-91FF-AB5D00BA49D0 ",
+   "permit_id": "PM20-1224",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-02-10 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 5CF145C0-B668-4B1B-877D-AB5E00A92A98 ",
+   "permit_id": "PB19-3995",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-02-11 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " CB1A862F-5237-4722-BCB9-AB5E00B7E975 ",
+   "permit_id": "PB20-4011",
+   "inspection_type": "Final Roof",
+   "date_time_scheduled": "2020-02-11 12:00:00",
+   "address": "3500 SEMINARY DR"
+ },
+ {
+   "id": " 72F8BD34-9F4C-49D4-A793-AB6000D1A1DE ",
+   "permit_id": "PP19-0559",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-02-14 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " 83F921F8-4039-4F8B-9473-AB60010775BF ",
+   "permit_id": "PM19-1209",
+   "inspection_type": "Rough - Main/2nd floor",
+   "date_time_scheduled": "2020-02-19 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 4900DEE0-AFBD-45B1-9CA1-AB6100A7586F ",
+   "permit_id": "PB18-3776",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-02-14 15:00:00",
+   "address": "5460 POSSUM LN"
+ },
+ {
+   "id": " C943DFB1-B4CF-4825-906D-AB650085AA1F ",
+   "permit_id": "PE20-1130",
+   "inspection_type": "Rough Pool",
+   "date_time_scheduled": "2020-02-19 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 4DD008BB-4909-4F0F-AA6D-AB650088300C ",
+   "permit_id": "PB19-3963",
+   "inspection_type": "Rough (Forms & Re-Rod)",
+   "date_time_scheduled": "2020-02-18 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 499D7CE5-9918-4FCE-8AFD-AB6500EC5522 ",
+   "permit_id": "PE19-1093",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-02-19 12:00:00",
+   "address": "5019 ELMGATE DR"
+ },
+ {
+   "id": " 11624ED7-67AF-4A69-AF9A-AB6700A23832 ",
+   "permit_id": "PE20-1125",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-02-21 12:00:00",
+   "address": "4093 ORCHARD LAKE RD"
+ },
+ {
+   "id": " B3FFF764-FBEB-4C14-B927-AB6800D55686 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Basement Footing",
+   "date_time_scheduled": "2020-02-24 0:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 1D98AA6A-5AB6-41D7-B45F-AB6800EA2032 ",
+   "permit_id": "PB19-4000",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-02-24 12:00:00",
+   "address": "4048 OAK BANK CT"
+ },
+ {
+   "id": " FA82A9BF-D6D7-40AD-B2AF-AB6B00AFE840 ",
+   "permit_id": "PP20-0586",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-02-26 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 97C4D5A9-7C40-4BF4-9FDB-AB6B00E17B03 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Basement Footing",
+   "date_time_scheduled": "2020-02-27 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 7E72665B-3621-40A9-8343-AB6C00C766E1 ",
+   "permit_id": "PE20-1131",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-02-26 12:00:00",
+   "address": "4931 ELMGATE DR"
+ },
+ {
+   "id": " 190AB633-7818-498C-9476-AB6D00A4BFC7 ",
+   "permit_id": "PM20-1220",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-03-02 12:00:00",
+   "address": "3595 LAPLAYA LN"
+ },
+ {
+   "id": " C41E488D-C702-485A-8D6F-AB6D00D353D8 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Basement Footing",
+   "date_time_scheduled": "2020-02-28 11:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " D0FC7334-3D11-4DBD-97C0-AB6E00DF726A ",
+   "permit_id": "PM20-1229",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-03-09 11:00:00",
+   "address": "5766 EVERGREEN AVE"
+ },
+ {
+   "id": " E2F24CF3-2B34-4D72-B828-AB6F00B95AD1 ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2020-03-04 13:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 03098475-C113-4FE3-B0B5-AB6F00DE061D ",
+   "permit_id": "PP20-0586",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-03-04 13:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 1EE78DB8-D26F-438E-83F7-AB7200ABC788 ",
+   "permit_id": "PM20-1231",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-03-06 12:00:00",
+   "address": "3301 ERIE DR"
+ },
+ {
+   "id": " 866202EC-814C-4D1A-B636-AB72010205D0 ",
+   "permit_id": "PB20-4016",
+   "inspection_type": "Final Roof",
+   "date_time_scheduled": "2020-03-04 0:00:00",
+   "address": "4935 BROWNING DR"
+ },
+ {
+   "id": " E19C8A4C-4D06-4F6D-B1EA-AB7400D64B21 ",
+   "permit_id": "PM19-1158",
+   "inspection_type": "Final Fireplace",
+   "date_time_scheduled": "2020-03-06 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " 11871453-2490-44C6-B3DE-AB7400DF85D3 ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2020-03-20 0:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " ED1EFEC5-2074-4719-9FA5-AB7400FEE88C ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Wall Steel",
+   "date_time_scheduled": "2020-03-05 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 6C24C2A5-74D2-41CB-B62C-AB7500CC0675 ",
+   "permit_id": "PM20-1224",
+   "inspection_type": "Re-Final",
+   "date_time_scheduled": "2020-03-09 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " AA55BDC8-1CBA-48DE-95A5-AB750105B292 ",
+   "permit_id": "PP20-0587",
+   "inspection_type": "Final & Rough Bathroom",
+   "date_time_scheduled": "2020-03-09 12:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " E044ADF3-AEC1-49FC-8FC0-AB7501063B61 ",
+   "permit_id": "PB20-4010",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-03-10 13:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 58319649-C34E-4D20-BBF0-AB7600936238 ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-03-06 0:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 0CF329A2-746C-4343-B638-AB7600CFBD01 ",
+   "permit_id": "PE19-1105",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-03-16 12:00:00",
+   "address": "4695 COMMERCE RD"
+ },
+ {
+   "id": " 013D9068-E925-4B22-8268-AB79009B6A04 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Basement Wall Re-Steel",
+   "date_time_scheduled": "2020-03-09 23:30:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 8BA1F8DC-7A34-45B2-AD59-AB794FE5ED61 ",
+   "permit_id": "PB08-3238",
+   "inspection_type": "Sand Basement",
+   "date_time_scheduled": "2009-03-30 12:00:00",
+   "address": "4930 BIRCHWAY DR"
+ },
+ {
+   "id": " B9185AF6-BDB2-43BE-856E-AB7A00D8B6E1 ",
+   "permit_id": "PB19-3940",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-03-12 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " 7028FBC2-3196-4AF8-AF79-AB7A00FDA083 ",
+   "permit_id": "PB20-4015",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-03-10 12:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 60DC60DB-8CDF-439C-A8E8-AB7B00DB975E ",
+   "permit_id": "PE19-1082",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-03-13 12:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " 465F14A4-0400-4AE2-9A40-AB7D00E8E0F0 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Back Fill",
+   "date_time_scheduled": "2020-03-16 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 648C9618-C373-428D-B220-AB7D00F7C0C3 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Brickledge/Flashing West side",
+   "date_time_scheduled": "2020-03-16 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 2CF8DA63-3545-4545-B0ED-AB8000FE2FBB ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Back Fill",
+   "date_time_scheduled": "2020-03-17 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 90B023B8-E845-4DA8-B242-AB8200DEBF7F ",
+   "permit_id": "PB20-4018",
+   "inspection_type": "Post Hole-Front Deck",
+   "date_time_scheduled": "2020-03-19 12:00:00",
+   "address": "4394 CHERRY HILL DR"
+ },
+ {
+   "id": " E3D31352-8D0F-42CE-9E42-AB830090B896 ",
+   "permit_id": "WS20-0257",
+   "inspection_type": "Sewer & Water Line",
+   "date_time_scheduled": "2020-03-19 0:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 31B79DAE-4B4A-4D0A-A106-AB8300A2076D ",
+   "permit_id": "PM20-1232",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-03-20 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " D8268571-F206-4F14-8FCC-AB8300F274D9 ",
+   "permit_id": "ESA19-26",
+   "inspection_type": "Final ESA",
+   "date_time_scheduled": "2021-04-05 0:00:00",
+   "address": "4431 DOW RIDGE RD"
+ },
+ {
+   "id": " 43A2FBDE-B8CE-49A6-A72E-AB870085AE8B ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Trench Inspection",
+   "date_time_scheduled": "2020-03-23 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " E08E759D-B597-4B73-819A-AB8700890E24 ",
+   "permit_id": "PP20-0590",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-03-23 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 6838315D-E5C3-47F1-8A36-AB8982E9640A ",
+   "permit_id": "PE10-5710",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2011-02-16 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " EB341390-C31F-4B27-ABAA-AB9100A22C42 ",
+   "permit_id": "PE19-1082",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2020-04-02 12:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " 307C4ACB-020A-4A45-99D7-ABB800EDFD53 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Trench Footing",
+   "date_time_scheduled": "2020-05-13 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " D152BC8B-46DF-4226-908F-ABB9009A6464 ",
+   "permit_id": "PM20-1227",
+   "inspection_type": "rough",
+   "date_time_scheduled": "2020-05-13 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 79693B4A-5293-40BC-A95B-ABB900D62721 ",
+   "permit_id": "PE17-0960",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-05-15 12:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " 44E00294-0729-43D9-B7BC-ABBC0088FA6A ",
+   "permit_id": "PB20-4020",
+   "inspection_type": "Foundation",
+   "date_time_scheduled": "2020-05-19 12:00:00",
+   "address": "5000 W SHORE DR"
+ },
+ {
+   "id": " F6EF8BD9-961E-4623-ADA5-ABBC00A167D9 ",
+   "permit_id": "PB20-4019",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-05-18 12:00:00",
+   "address": "5000 W SHORE DR"
+ },
+ {
+   "id": " 6B8EE194-C0CD-415C-9247-ABBC00C38D04 ",
+   "permit_id": "PE19-1121",
+   "inspection_type": "Rough 1st & 2nd Floor",
+   "date_time_scheduled": "2020-05-15 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 07249546-F25F-4221-B8CF-ABBC00C55009 ",
+   "permit_id": "PB20-4025",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-05-26 12:00:00",
+   "address": "4233 CHERRY HILL DR"
+ },
+ {
+   "id": " 5E60AD77-EA5B-4455-B676-ABBC00D10748 ",
+   "permit_id": "PP20-0592",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-05-15 12:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 6CA2B315-78FD-4E80-84DF-ABBC00D7FADC ",
+   "permit_id": "PP20-0587",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-06-15 12:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 780CB094-84C4-4E72-ABE2-ABBC00DEDA66 ",
+   "permit_id": "PE20-1136",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-05-18 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 017EABED-EAD0-49C6-AD71-ABBC00E0F367 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Rough Building",
+   "date_time_scheduled": "2020-05-18 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " BADE2F69-442E-447B-A842-ABBF008235E5 ",
+   "permit_id": "PB20-4017",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-05-19 12:00:00",
+   "address": "3238 ERIE DR"
+ },
+ {
+   "id": " E6492DDD-1FCA-484E-B032-ABBF008E4C0C ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Basement & Sunroom Sand",
+   "date_time_scheduled": "2020-05-18 0:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " B14039FD-925C-40E2-A351-ABBF00B1CE46 ",
+   "permit_id": "PZ19-355",
+   "inspection_type": "Landscaping",
+   "date_time_scheduled": "2020-05-18 12:00:00",
+   "address": "5236 ELMGATE DR"
+ },
+ {
+   "id": " 06C93102-C9EC-4F09-91D0-ABBF01012AD6 ",
+   "permit_id": "PP20-0592",
+   "inspection_type": "Re-Underground",
+   "date_time_scheduled": "2020-05-20 12:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 6BAEE2EC-2D2B-4187-9A47-ABC200789765 ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Sand Garage",
+   "date_time_scheduled": "2020-05-21 10:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " F91EFCD6-F60C-4600-A189-ABC2008B8A91 ",
+   "permit_id": "PB20-4018",
+   "inspection_type": "Post Hole & Open Frame",
+   "date_time_scheduled": "2020-05-21 12:00:00",
+   "address": "4394 CHERRY HILL DR"
+ },
+ {
+   "id": " 072E190E-AAF7-44D0-B826-ABC200F537F8 ",
+   "permit_id": "PZ19-366",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2020-05-21 12:00:00",
+   "address": "3115 W SHORE DR"
+ },
+ {
+   "id": " C334F460-2613-4DCF-BBC0-ABC2010B2182 ",
+   "permit_id": "PE20-1135",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-05-27 10:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " BA6691A3-1DC3-45A1-A756-ABC70097B6F0 ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Garage Floor",
+   "date_time_scheduled": "2020-05-26 0:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " D906F880-5B42-44EC-AA1E-ABC7009EB59F ",
+   "permit_id": "PP20-0595",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-05-27 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " EDB4FCFA-CC39-47C6-A90E-ABC700D9AE9B ",
+   "permit_id": "PB20-4025",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-05-27 0:00:00",
+   "address": "4233 CHERRY HILL DR"
+ },
+ {
+   "id": " CA6BEAB7-5280-44F7-A294-ABC700DA0107 ",
+   "permit_id": "PZ19-369",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-05-27 12:00:00",
+   "address": "5645 SHORE DR"
+ },
+ {
+   "id": " E14D3DDD-E425-4DCC-BED1-ABC700EE8F0D ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Garage Floor - Front",
+   "date_time_scheduled": "2020-05-27 0:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 8AC2CC05-7409-41F7-917F-ABC700F3C77E ",
+   "permit_id": "PB20-4024",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-05-27 0:00:00",
+   "address": "3751 INDIAN TRL"
+ },
+ {
+   "id": " 57EFAE95-775E-4DFF-A52C-ABC90091F0E9 ",
+   "permit_id": "PE20-1135",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-05-29 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " A4B9B895-3466-4573-8B3E-ABC900AD9843 ",
+   "permit_id": "PP20-0596",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-05-29 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 86DCA3D5-80CC-46CD-98C6-ABC900D2501F ",
+   "permit_id": "PE20-1124",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-05-29 11:00:00",
+   "address": "3535 INDIAN TRL BLDG F"
+ },
+ {
+   "id": " DEF73CE5-A637-4BFD-A46B-ABC900D43429 ",
+   "permit_id": "PE20-1132",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-05-29 11:00:00",
+   "address": "3535 INDIAN TRL BLDG F"
+ },
+ {
+   "id": " 4B358C3B-C2A3-4CB0-9665-ABCD008247A3 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Garage & Basement Sand",
+   "date_time_scheduled": "2020-06-02 0:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " A9DDD39C-8867-48A3-9DFE-ABCD00859B1E ",
+   "permit_id": "PP19-0582",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2020-06-01 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " E45E8519-82CB-4621-832C-ABCD0085F46D ",
+   "permit_id": "PM19-1207",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2020-06-01 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 8033BB43-08A6-463D-96FB-ABCD00991A28 ",
+   "permit_id": "PE20-1138",
+   "inspection_type": "Wet Niche",
+   "date_time_scheduled": "2020-06-01 12:00:00",
+   "address": "4045 HARBOR VISTA DR"
+ },
+ {
+   "id": " E3E0B131-F97F-410C-9DA2-ABCE00DFED1F ",
+   "permit_id": "PB19-4005",
+   "inspection_type": "Special - Status Inspection",
+   "date_time_scheduled": "2020-06-09 10:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 52BB484D-9AEA-49DE-B1BE-ABCE00E1A6BB ",
+   "permit_id": "PB19-4002",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2020-06-04 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 06DA838C-287E-4764-836D-ABD0009C438E ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-06-04 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " BCEFA78D-EBFB-45CA-B13E-ABD0009C7B14 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-06-05 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 32A231D9-5EE0-4551-8C47-ABD000F975B3 ",
+   "permit_id": "PM19-1150",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-06-05 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " B007DC80-4525-4C5C-9CB9-ABD000FD38EA ",
+   "permit_id": "E200045",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2020-06-15 12:00:00",
+   "address": "3245 BAY SHORE DR"
+ },
+ {
+   "id": " 6FBBD3B1-434E-4613-BF6C-ABD100FB87B9 ",
+   "permit_id": "PB20-4029",
+   "inspection_type": "Steel",
+   "date_time_scheduled": "2020-06-08 12:00:00",
+   "address": "4045 HARBOR VISTA DR"
+ },
+ {
+   "id": " 69F87F19-BCE5-4D0C-A109-ABD4008BD057 ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Garage Floor",
+   "date_time_scheduled": "2020-06-09 0:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " B71E43B2-7DBB-4FFD-88BB-ABD400E3C259 ",
+   "permit_id": "PE20-1133",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2020-06-09 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 3CB281AA-097D-47C6-B5F5-ABD700DBD154 ",
+   "permit_id": "PE20-1126",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-06-15 14:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 7021DC30-3A8D-4748-AB66-ABD800B0CB4B ",
+   "permit_id": "PM19-1214",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-06-15 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 1EE57E86-D5E6-4540-B228-ABDB0085276E ",
+   "permit_id": "PB20-4020",
+   "inspection_type": "Rough Framing",
+   "date_time_scheduled": "2020-06-17 0:00:00",
+   "address": "5000 W SHORE DR"
+ },
+ {
+   "id": " B63C7A97-1A15-4C53-AC37-ABDB00C4836C ",
+   "permit_id": "PE19-1082",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-06-17 0:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " 637CC2CF-B9FF-44D9-A5B1-ABDB00F5AC62 ",
+   "permit_id": "PM19-1206",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-06-22 0:00:00",
+   "address": "3141 W SHORE DR"
+ },
+ {
+   "id": " C4E56B3F-2500-45D5-ACA6-ABDC009E25CB ",
+   "permit_id": "PB19-3974",
+   "inspection_type": "Trench Footing",
+   "date_time_scheduled": "2020-06-17 11:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 5C086DC5-9E7A-4779-8206-ABDD00B40E26 ",
+   "permit_id": "PE20-1142",
+   "inspection_type": "1st Floor Rough",
+   "date_time_scheduled": "2020-06-19 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 84FE34F3-B6A2-4381-8B51-ABDD00BC76D6 ",
+   "permit_id": "PB18-3793",
+   "inspection_type": "Final for TC of O",
+   "date_time_scheduled": "2020-06-26 12:00:00",
+   "address": "5741 SHORE DR"
+ },
+ {
+   "id": " 46C279BF-8422-4252-907E-ABDD00CBF108 ",
+   "permit_id": "PB20-4027",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-06-18 10:00:00",
+   "address": "4334 S BAY DR"
+ },
+ {
+   "id": " 8891BC12-7AB4-4D76-8C2E-ABDD00E444E0 ",
+   "permit_id": "PB20-4015",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-06-19 12:00:00",
+   "address": "5570 BLUEBIRD AVE"
+ },
+ {
+   "id": " 9CDE31D6-6E94-4E65-8F9F-ABDD00FE209E ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Sand Basement",
+   "date_time_scheduled": "2020-06-19 12:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 6FD8394F-F88F-497A-9204-ABDF00DC7A26 ",
+   "permit_id": "PM19-1150",
+   "inspection_type": "Rough - Mech for finish basmnt",
+   "date_time_scheduled": "2020-06-22 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 56F19A50-8408-4939-B149-ABDF00F28488 ",
+   "permit_id": "PM16-0943",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-06-22 12:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " 1B5F9CA6-5FCE-4DB7-ABD7-ABE200A6129B ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Sand Garage",
+   "date_time_scheduled": "2020-06-22 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 50C6EA00-A22D-4689-A6AB-ABE200B362D5 ",
+   "permit_id": "PB19-4002",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-06-23 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 936D9066-F906-4AD2-8AD1-ABE200D1EF58 ",
+   "permit_id": "PB17-3731",
+   "inspection_type": "Rough Basement",
+   "date_time_scheduled": "2020-06-22 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " A4D1BFAC-E61D-4AEA-97C7-ABE300ABA9D5 ",
+   "permit_id": "PE20-1144",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "5000 W SHORE DR"
+ },
+ {
+   "id": " 76FD99DE-79E3-4979-A899-ABE300B3BB44 ",
+   "permit_id": "PE17-0960",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " 0725BB9F-D52D-4042-9D69-ABE300C9E9BF ",
+   "permit_id": "PP19-0577",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " BDC2128B-0EEB-45E2-8AA0-ABE300D19DAF ",
+   "permit_id": "PM19-1200",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "3401 W SHORE DR"
+ },
+ {
+   "id": " 761C0BB6-43EE-4654-9988-ABE300D369D5 ",
+   "permit_id": "PE19-1082",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " DFF38876-1D57-421A-B4D7-ABE400865BD9 ",
+   "permit_id": "PP20-0596",
+   "inspection_type": "Upper Rough - Plmb",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " A9069755-807D-4D3C-BE30-ABE50085939C ",
+   "permit_id": "PB19-3983",
+   "inspection_type": "Sand Basement & Garage",
+   "date_time_scheduled": "2020-06-26 11:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 0F51389E-6FBF-4822-BB36-ABE500B0C311 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 3FD610FD-2089-45AD-8739-ABE500C9D95F ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Pressure Test",
+   "date_time_scheduled": "2020-06-26 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 2DBDF517-9878-49EF-8343-ABE500CCB28F ",
+   "permit_id": "PP19-0577",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-06-29 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " A48B6B21-F704-4A96-9028-ABE6007C78AB ",
+   "permit_id": "PB14-3472",
+   "inspection_type": "Special - Status",
+   "date_time_scheduled": "2020-07-15 12:00:00",
+   "address": "4450 PONTIAC TRL"
+ },
+ {
+   "id": " D2C1802C-A1B6-4837-AF82-ABE600C3666A ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Porch Slab",
+   "date_time_scheduled": "2020-06-26 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " F0BD5D6C-99BF-48A8-9499-ABE600CDE4DA ",
+   "permit_id": "PM20-1226",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-06-29 12:00:00",
+   "address": "3328 ERIE DR"
+ },
+ {
+   "id": " 7BE7E0C2-07C7-45A9-9282-ABE600D74F03 ",
+   "permit_id": "PB19-3983",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2020-06-26 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " B56FDDA1-CA2B-4367-A6DC-ABE900EAFFE7 ",
+   "permit_id": "PM20-1246",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 881FCC1E-5730-41C0-AFDC-ABE900F34ADE ",
+   "permit_id": "PE19-1110",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " D7267686-2D18-42F4-81A6-ABE900F9EB35 ",
+   "permit_id": "PP20-0602",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 9EE8122C-A91E-4A6D-9FFF-ABEA00EAB7AD ",
+   "permit_id": "PP19-0577",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 0461F620-23CD-4820-B875-ABEA00ECFD47 ",
+   "permit_id": "PB20-4037",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "3115 ERIE DR"
+ },
+ {
+   "id": " 0A0C089B-7027-402B-AC6D-ABEA00F4ED5F ",
+   "permit_id": "PB20-4041",
+   "inspection_type": "Flashing & WRB",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "4009 HARBOR VISTA DR"
+ },
+ {
+   "id": " D833229A-3266-4DA1-A56F-ABEB0084F7DA ",
+   "permit_id": "PB20-4028",
+   "inspection_type": "Tent",
+   "date_time_scheduled": "2020-07-02 13:00:00",
+   "address": "5171 COMMERCE RD"
+ },
+ {
+   "id": " 26FB62CC-3589-4ECD-9C40-ABEB00AF21C3 ",
+   "permit_id": "PE20-1137",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-06 12:00:00",
+   "address": "4640 DOW RIDGE RD"
+ },
+ {
+   "id": " B4AE96F0-0CCD-4E7C-A20D-ABEB00AF475C ",
+   "permit_id": "PM20-1233",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-06 12:00:00",
+   "address": "4640 DOW RIDGE RD"
+ },
+ {
+   "id": " E65F9325-30B8-476A-B111-ABEB00B312F9 ",
+   "permit_id": "PB19-3998",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-06-24 12:00:00",
+   "address": "3565 WARDS POINTE DR"
+ },
+ {
+   "id": " 810BE001-3503-4A70-ADB2-ABEB00B8160B ",
+   "permit_id": "PB20-4018",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-07-02 12:00:00",
+   "address": "4394 CHERRY HILL DR"
+ },
+ {
+   "id": " BB669ECF-6A09-4CF6-BB2E-ABEB00C0DA60 ",
+   "permit_id": "PE20-1144",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-07-02 12:00:00",
+   "address": "5000 W SHORE DR"
+ },
+ {
+   "id": " B679838C-BAEE-4084-8D3E-ABEB00E2AB6C ",
+   "permit_id": "PB19-3998",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "3565 WARDS POINTE DR"
+ },
+ {
+   "id": " 51C5BD55-7838-4F0F-AEB1-ABEB00F13621 ",
+   "permit_id": "PE20-1145",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2020-07-06 12:00:00",
+   "address": "3740 ARCADIA DR"
+ },
+ {
+   "id": " 03C0D4BF-C471-4590-8571-ABEB01028EA6 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Insulation for Main & 2ndFloor",
+   "date_time_scheduled": "2020-07-02 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 2AD68C8F-A06F-4ED5-AF36-ABEB0102F8C4 ",
+   "permit_id": "PB16-3623",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-07-02 12:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " 57971B55-9294-4984-877D-ABEC00934984 ",
+   "permit_id": "PZ19-347",
+   "inspection_type": "Landscaping",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "3565 WARDS POINTE DR"
+ },
+ {
+   "id": " F55BFE85-65D8-4CB2-BE23-ABEC0093B1E8 ",
+   "permit_id": "PZ19-348",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2020-07-01 12:00:00",
+   "address": "3565 WARDS POINTE DR"
+ },
+ {
+   "id": " E8703901-41B4-4E31-9A2D-ABEC00941091 ",
+   "permit_id": "ESA19-22",
+   "inspection_type": "Final ESA",
+   "date_time_scheduled": "2020-07-01 0:00:00",
+   "address": "3565 WARDS POINTE DR"
+ },
+ {
+   "id": " 09709719-C704-403D-B477-ABF0009D934C ",
+   "permit_id": "ESA17-13",
+   "inspection_type": "Final ESA",
+   "date_time_scheduled": "2020-07-06 0:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " C684BAB7-DB89-4DDA-8BA7-ABF000D0D4D4 ",
+   "permit_id": "PM19-1202",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-08 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " A1355A06-A81E-4CAA-A0B4-ABF000DC89BC ",
+   "permit_id": "PM19-1214",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-07-08 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 2D7D8A8F-3149-441D-9E95-ABF10099E50F ",
+   "permit_id": "PP19-0580",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-07-08 12:00:00",
+   "address": "3401 W SHORE DR"
+ },
+ {
+   "id": " 26EB590A-2AAA-444D-9A64-ABF101042CA0 ",
+   "permit_id": "PB17-3732",
+   "inspection_type": "Final Pool",
+   "date_time_scheduled": "2020-07-10 12:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " F27D9865-7304-4AA2-946A-ABF101045401 ",
+   "permit_id": "PE17-1000",
+   "inspection_type": "Final  Pool",
+   "date_time_scheduled": "2020-07-08 12:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " 73B92539-6C5D-4A4D-BA15-ABF2009E626C ",
+   "permit_id": "PB17-3731",
+   "inspection_type": "Insulation - Basement",
+   "date_time_scheduled": "2020-07-09 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " D207468B-D0BC-4D06-A535-ABF200A6A9B5 ",
+   "permit_id": "PE19-1112",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-08 12:00:00",
+   "address": "3401 W SHORE DR"
+ },
+ {
+   "id": " 9463B25E-A78B-45B4-873C-ABF200DD7D6B ",
+   "permit_id": "ESA19-29",
+   "inspection_type": "Final ESA",
+   "date_time_scheduled": "2020-07-08 0:00:00",
+   "address": "4054 OAK BANK CT"
+ },
+ {
+   "id": " 8BFA305C-A0E3-4C79-B8D5-ABF200DDAEC5 ",
+   "permit_id": "PZ20-376",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-07-08 0:00:00",
+   "address": "4054 OAK BANK CT"
+ },
+ {
+   "id": " FA6A7F7E-7C7A-44C0-AF0A-ABF3009AB050 ",
+   "permit_id": "PB19-3964",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-07-09 12:00:00",
+   "address": "3401 W SHORE DR"
+ },
+ {
+   "id": " B6E42AA3-A950-49DA-A38B-ABF3009B3DA2 ",
+   "permit_id": "PB19-3983",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-07-10 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 6B320376-4EDE-47E9-BDE2-ABF300C8AB6F ",
+   "permit_id": "PP20-0603",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-07-10 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " 6EFDD80F-9EF4-4AA7-AEBB-ABF300DD8310 ",
+   "permit_id": "PE15-0870",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-13 12:00:00",
+   "address": "3377 W SHORE DR"
+ },
+ {
+   "id": " 2A4E90FB-7039-4E53-83CB-ABF300DD9E16 ",
+   "permit_id": "PM18-1095",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-13 12:00:00",
+   "address": "3377 W SHORE DR"
+ },
+ {
+   "id": " 75347882-91C9-4C25-90E7-ABF3FD8949EA ",
+   "permit_id": "PE04-8004",
+   "inspection_type": "Rough - Ele",
+   "date_time_scheduled": "2005-07-29 12:00:00",
+   "address": "4150 PONTIAC TRL"
+ },
+ {
+   "id": " 600C7282-D7E4-4C56-884F-ABF400F40795 ",
+   "permit_id": "PB20-4027",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-07-13 12:00:00",
+   "address": "4334 S BAY DR"
+ },
+ {
+   "id": " 98181C7E-E00B-4236-A2BF-ABF70085E7C0 ",
+   "permit_id": "PB20-4031",
+   "inspection_type": "Open Hole",
+   "date_time_scheduled": "2020-07-13 12:00:00",
+   "address": "5652 PONTIAC TRL"
+ },
+ {
+   "id": " 2B72E161-AAA4-4945-88E8-ABF700BF3555 ",
+   "permit_id": "PB20-4013",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-07-16 12:00:00",
+   "address": "3411 W SHORE DR"
+ },
+ {
+   "id": " 712A45E9-29AA-44D2-A6C7-ABF700F6C6C3 ",
+   "permit_id": "PB20-4023",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-07-13 12:00:00",
+   "address": "4251 PINE LN"
+ },
+ {
+   "id": " 8E9C6C18-CD7F-463F-95A2-ABF700FC1CE3 ",
+   "permit_id": "PM20-1219",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-15 12:00:00",
+   "address": "5220 DEER RUN CIR"
+ },
+ {
+   "id": " 87E9231C-0DC9-4823-98B5-ABF800D4982D ",
+   "permit_id": "PP20-0597",
+   "inspection_type": "Water Line",
+   "date_time_scheduled": "2020-07-15 12:00:00",
+   "address": "3216 BAY SHORE DR"
+ },
+ {
+   "id": " 4699865E-405B-4673-BEF6-ABF800E79B49 ",
+   "permit_id": "PM18",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-15 12:00:00",
+   "address": "4993 ELMGATE DR"
+ },
+ {
+   "id": " B5395049-CFFE-490F-88EB-ABF800E7AAC8 ",
+   "permit_id": "PE18-0001",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-15 12:00:00",
+   "address": "4993 ELMGATE DR"
+ },
+ {
+   "id": " E7E58FB9-26A2-4100-9E86-ABF9008D693B ",
+   "permit_id": "PM20-1227",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-07-16 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 6AE972F7-D96D-4479-A1BA-ABF9009F03CB ",
+   "permit_id": "PE20-1138",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-07-17 12:00:00",
+   "address": "4045 HARBOR VISTA DR"
+ },
+ {
+   "id": " A93F9EBC-7F6A-4B0D-8A2B-ABF900D98DED ",
+   "permit_id": "PB19-3974",
+   "inspection_type": "Garage Sand",
+   "date_time_scheduled": "2020-07-15 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " ABD446AA-47FB-4BE4-B4C5-ABF900E7D30B ",
+   "permit_id": "PB20-4044",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-07-16 12:00:00",
+   "address": "3750 COMMERCE RD"
+ },
+ {
+   "id": " FC31DBC7-0A58-4EEA-9E4F-ABFB00F82F71 ",
+   "permit_id": "PM20-1244",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-24 12:00:00",
+   "address": "5959 SEVILLE CIR"
+ },
+ {
+   "id": " 8DD2DBCD-2171-467B-BE81-ABFE00906128 ",
+   "permit_id": "PB18-3791",
+   "inspection_type": "Final Pool",
+   "date_time_scheduled": "2020-07-22 0:00:00",
+   "address": "4993 ELMGATE DR"
+ },
+ {
+   "id": " EF172D4B-068A-4755-BA72-ABFE00C5A0FB ",
+   "permit_id": "PM19-1214",
+   "inspection_type": "Rough - Fireplace Master bed",
+   "date_time_scheduled": "2020-07-22 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 06B25F79-605F-4488-B050-ABFF00B7AC6A ",
+   "permit_id": "PE19-1117",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-22 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 7AE4246E-8898-4B4E-B39C-ABFF00D04BAC ",
+   "permit_id": "PB20-4044",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-07-22 12:00:00",
+   "address": "3750 COMMERCE RD"
+ },
+ {
+   "id": " AD144E69-5796-43E5-BCEA-ABFF00DDDF8C ",
+   "permit_id": "PE20-1149",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-07-22 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 5E1D9F3C-969E-4814-BC26-ABFF00E151DF ",
+   "permit_id": "PM20-1243",
+   "inspection_type": "Rough - Fireplace Great Room",
+   "date_time_scheduled": "2020-07-22 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " A4092ED6-48AF-4303-9781-AC0000C9DB18 ",
+   "permit_id": "PM20-1254",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-24 12:00:00",
+   "address": "4045 HARBOR VISTA DR"
+ },
+ {
+   "id": " FF8D3C0B-EE75-4A06-8145-AC0000D58629 ",
+   "permit_id": "PE19-1076",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-27 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " AA051E54-2441-4555-AA5A-AC0000E99AE3 ",
+   "permit_id": "PE19-1113",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-29 12:00:00",
+   "address": "4923 ELMGATE DR"
+ },
+ {
+   "id": " 965B7BCD-BACD-4E4D-AF71-AC0100867C91 ",
+   "permit_id": "PE19-1117",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-24 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " E1CCA698-DA8A-4148-9509-AC0100A5C8FF ",
+   "permit_id": "PB19-3978",
+   "inspection_type": "Deck",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "4923 ELMGATE DR"
+ },
+ {
+   "id": " CFC6CA9F-40FC-4839-BFA7-AC0100CFFDDF ",
+   "permit_id": "PP19-0551",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-07-24 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " 5FE53738-FEF0-44D3-ACD8-AC0200865F8A ",
+   "permit_id": "PE20-1135",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-27 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 86445A0E-4747-45FE-8926-AC0200D8A9FF ",
+   "permit_id": "PM19-1149",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-27 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " E9C17279-D2A9-4299-8DB9-AC0500D465CF ",
+   "permit_id": "PB19-3988",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-07-28 12:00:00",
+   "address": "4513 CHERRY HILL DR"
+ },
+ {
+   "id": " 16111972-B2F1-44BD-82EA-AC0500FA75BA ",
+   "permit_id": "WS20-0258",
+   "inspection_type": "Water Line",
+   "date_time_scheduled": "2020-07-28 14:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 8ACFD32E-AD6A-494B-A548-AC07008C415E ",
+   "permit_id": "PE20-1141",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-07-29 12:00:00",
+   "address": "5520 GARDEN TER"
+ },
+ {
+   "id": " 4FA078EB-183A-42BB-BE9D-AC0700A752DC ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " F968968D-9963-4A42-8267-AC08009AD68B ",
+   "permit_id": "PB17-3735",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " 21F21611-CB19-434D-BCF0-AC0800B32B1D ",
+   "permit_id": "PB20-4040",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-08-04 12:00:00",
+   "address": "5587 EVERGREEN AVE"
+ },
+ {
+   "id": " 9D52C804-E591-433F-80A2-AC0800C37E73 ",
+   "permit_id": "PB19-3943",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-07-30 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 951C1215-AF82-4E02-BB77-AC0800D19FD5 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Sand Garage",
+   "date_time_scheduled": "2020-07-30 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 907D8897-136F-442B-AB94-AC0800D21BB5 ",
+   "permit_id": "PB20-4033",
+   "inspection_type": "Sand Garage",
+   "date_time_scheduled": "2020-07-30 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " DD2CDD20-B562-4926-BF44-AC0800F232E7 ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 94904FFF-3D90-4DD5-A410-AC0800F73480 ",
+   "permit_id": "WS20-0258",
+   "inspection_type": "Water & Sewer Line",
+   "date_time_scheduled": "2020-08-03 0:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 75E5A79E-AE6C-45FD-AFBB-AC0900891588 ",
+   "permit_id": "PM19-1138",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-07-31 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " 6020964C-C225-4CBD-8C8E-AC0900A7CAAF ",
+   "permit_id": "PP20-0601",
+   "inspection_type": "Secondary Water Meter",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "4032 BEACH DR"
+ },
+ {
+   "id": " 68D2B6CD-B178-4503-B850-AC0900C6CC9A ",
+   "permit_id": "PM20-1253",
+   "inspection_type": "Gas Pressure & underground",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " 360ED3B2-6A95-4217-B3AA-AC0900DA1426 ",
+   "permit_id": "PM20-1247",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "5994 PONTIAC TRL"
+ },
+ {
+   "id": " 68B5F350-7E89-4616-BF03-AC0C00F28DC8 ",
+   "permit_id": "PM20-1249",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-07 12:00:00",
+   "address": "5357 TRILLIUM CT"
+ },
+ {
+   "id": " 9389159A-309B-4ACE-8953-AC0C00FFEBB5 ",
+   "permit_id": "PZ15-231",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2020-08-03 12:00:00",
+   "address": "4923 ELMGATE DR"
+ },
+ {
+   "id": " 7D4CD64B-6482-4578-A85A-AC0D00C6E4F6 ",
+   "permit_id": "PM20-1250",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-08-05 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " CE75554E-6B1E-4582-83A1-AC0D00E802FE ",
+   "permit_id": "PM20-1241",
+   "inspection_type": "Rough Garage Floor Heat",
+   "date_time_scheduled": "2020-08-05 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 0807D8A1-72F4-40FE-AD82-AC0D01003780 ",
+   "permit_id": "PE20-1152",
+   "inspection_type": "Temporary Services",
+   "date_time_scheduled": "2020-08-07 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 77DD9940-D562-4B07-A889-AC0E00BD630F ",
+   "permit_id": "PP20-0598",
+   "inspection_type": "Water Line",
+   "date_time_scheduled": "2020-08-05 12:00:00",
+   "address": "4595 OLD ORCHARD TRL"
+ },
+ {
+   "id": " B1E3AED2-B9E3-4C7D-8F25-AC0E00C5729D ",
+   "permit_id": "PE20-1150",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-08-07 12:00:00",
+   "address": "5696 WOODLAWN AVE"
+ },
+ {
+   "id": " 0CEFFB32-E126-4EE9-AAD9-AC0E00F7DC97 ",
+   "permit_id": "PM20-1237",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-12 12:00:00",
+   "address": "4536 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " EED505E2-B22E-4A14-A9F9-AC0F009A4D74 ",
+   "permit_id": "PB19-4002",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-08-07 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " AE7EAFBA-1B46-4B60-A169-AC0F00E3F673 ",
+   "permit_id": "PM18-1074",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-07 12:00:00",
+   "address": "4321 CHERRY HILL DR"
+ },
+ {
+   "id": " 5A74DA30-3B14-4F0F-841C-AC1000D40271 ",
+   "permit_id": "PM20-1242",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-10 0:00:00",
+   "address": "3445 ERIE DR"
+ },
+ {
+   "id": " D8943408-3162-49CB-8601-AC1000F91341 ",
+   "permit_id": "PP20-0605",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-08-10 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " 5C79811A-195E-4511-9067-AC13009257D9 ",
+   "permit_id": "PB20-4047",
+   "inspection_type": "Footing",
+   "date_time_scheduled": "2020-08-11 12:00:00",
+   "address": "3309 W SHORE DR"
+ },
+ {
+   "id": " 1B73918C-2EE7-4897-8860-AC1300DF16A3 ",
+   "permit_id": "PP20-0602",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-08-10 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 470D9B98-A0EA-4BD6-A0EB-AC1300F459AF ",
+   "permit_id": "PM20-1258",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2020-08-12 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " BF08FEED-880B-4298-AC11-AC1400A7577D ",
+   "permit_id": "PB18-3793",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-08-12 12:00:00",
+   "address": "5741 SHORE DR"
+ },
+ {
+   "id": " E566B443-C62F-4C60-A070-AC1400B2B103 ",
+   "permit_id": "PP20-0602",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-08-12 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 8130EE32-4896-49B7-BCF5-AC1400B3119E ",
+   "permit_id": "PB20-4045",
+   "inspection_type": "Rough Frame Deck",
+   "date_time_scheduled": "2020-08-12 0:00:00",
+   "address": "4513 CHERRY HILL DR"
+ },
+ {
+   "id": " 634B71A5-3B30-4FA5-A902-AC1400BAA007 ",
+   "permit_id": "PB20-4040",
+   "inspection_type": "Final Deck",
+   "date_time_scheduled": "2020-08-12 12:00:00",
+   "address": "5587 EVERGREEN AVE"
+ },
+ {
+   "id": " 952F5212-88C3-431F-A34D-AC1400EC7E12 ",
+   "permit_id": "PM20-1235",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-08-12 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 34DA81E6-D302-4705-85A9-AC15009498DE ",
+   "permit_id": "PP20-0606",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-08-17 16:30:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 80F3D02C-02E3-47B4-8D59-AC1500BA4425 ",
+   "permit_id": "PE19-1121",
+   "inspection_type": "Walkout Basement Rough",
+   "date_time_scheduled": "2020-08-14 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 49B45BD5-F790-4940-9431-AC1500C964F7 ",
+   "permit_id": "PM19-1209",
+   "inspection_type": "Rough -Lower level duct",
+   "date_time_scheduled": "2020-08-17 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 2158D2ED-37B2-4464-9966-AC1600A3F2FC ",
+   "permit_id": "PE20-1153",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-08-14 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " 84E9FC65-5812-419B-966B-AC1600E48B8A ",
+   "permit_id": "PE19-1076",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-08-14 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " B18B3F1F-DF76-48A2-B0A1-AC17009CEB4D ",
+   "permit_id": "PB19-3988",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-08-17 10:00:00",
+   "address": "4513 CHERRY HILL DR"
+ },
+ {
+   "id": " 5DB858FD-71B3-4661-8F52-AC1700AF246E ",
+   "permit_id": "PM20-1221",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-17 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " 781D7D9C-3CEE-4240-B08E-AC1700DC1101 ",
+   "permit_id": "PZ20-389",
+   "inspection_type": "Concrete",
+   "date_time_scheduled": "2020-08-17 12:00:00",
+   "address": "3571 ARROWVALE DR"
+ },
+ {
+   "id": " 22719243-D2F6-4C74-97AD-AC1700EF6340 ",
+   "permit_id": "PB17-3735",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-08-17 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " ED5F87B2-77A5-470C-BE6B-AC1700EF9E24 ",
+   "permit_id": "PB17-3731",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-08-17 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 4A1C1FF8-54C7-4186-94D2-AC1A00A0AF85 ",
+   "permit_id": "PZ20-385",
+   "inspection_type": "Fence",
+   "date_time_scheduled": "2020-08-17 12:00:00",
+   "address": "3535 ERIE DR"
+ },
+ {
+   "id": " 467C4222-ABDD-4D59-92C6-AC1A00DA7B0D ",
+   "permit_id": "PE19-1120",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-08-21 12:00:00",
+   "address": "3801 LAKEVIEW BLVD"
+ },
+ {
+   "id": " EEB98B3D-88D3-4D36-A966-AC1A00DA9A23 ",
+   "permit_id": "PM19-1211",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-21 12:00:00",
+   "address": "3801 LAKEVIEW BLVD"
+ },
+ {
+   "id": " C27B2A6F-94A2-4292-A297-AC1A00E87C80 ",
+   "permit_id": "PM20-1261",
+   "inspection_type": "rough - Mech",
+   "date_time_scheduled": "2020-08-19 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " B8F37610-C441-4931-9A44-AC1B0092D35C ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-08-19 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " BB6D2F71-3BBF-46C3-9446-AC1B00B3032F ",
+   "permit_id": "PE20-1148",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-08-19 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " FB3207AA-E306-4CC7-91E5-AC1B00C0FB4B ",
+   "permit_id": "PE20-1156",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-08-19 12:00:00",
+   "address": "4513 CHERRY HILL DR"
+ },
+ {
+   "id": " 29D0CEF7-C0E8-43D6-A5A6-AC1B00DB712F ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Rough Framing Lower Lvl",
+   "date_time_scheduled": "2020-08-19 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " A32BDBF7-C474-4D57-A685-AC1C008F588B ",
+   "permit_id": "WS20-0259",
+   "inspection_type": "Water/Sewer Line",
+   "date_time_scheduled": "2020-08-21 0:00:00",
+   "address": "4315 CHERRY HILL DR"
+ },
+ {
+   "id": " C2CC64E5-A81E-401E-B471-AC1C00B72AAC ",
+   "permit_id": "PB19-3990",
+   "inspection_type": "Rough & Insulation",
+   "date_time_scheduled": "2020-08-20 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " ECC9D980-CA4A-47A2-9B5A-AC1C00D65AF0 ",
+   "permit_id": "PM12-0679",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-08-24 12:00:00",
+   "address": "4932 BROWNING DR"
+ },
+ {
+   "id": " 6A7D0128-F281-443F-B8ED-AC1C00F35ABB ",
+   "permit_id": "PE17-0958",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-08-24 12:00:00",
+   "address": "5201 N BAY DR"
+ },
+ {
+   "id": " 37B582B5-305A-412D-82F0-AC1C00F82022 ",
+   "permit_id": "PB20-4045",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-08-20 12:00:00",
+   "address": "4513 CHERRY HILL DR"
+ },
+ {
+   "id": " 0EC7673B-13A6-4DB7-968A-AC1E008E299F ",
+   "permit_id": "PP20-0600",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-08-24 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " A7E9BB21-DE19-4287-A407-AC1E01053311 ",
+   "permit_id": "PB20-4021",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2020-08-26 12:00:00",
+   "address": "4249 WOODLANDS LN"
+ },
+ {
+   "id": " 1FEE7A47-0B76-4DAE-8CFC-AC1E01056680 ",
+   "permit_id": "PP20-0594",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-08-26 12:00:00",
+   "address": "4249 WOODLANDS LN"
+ },
+ {
+   "id": " A5B69DF0-FA9C-40AE-B11B-AC1E0105FC74 ",
+   "permit_id": "PE20-1134",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-08-26 12:00:00",
+   "address": "4249 WOODLANDS LN"
+ },
+ {
+   "id": " 8034241F-C459-4AC9-B948-AC2100FCEC52 ",
+   "permit_id": "PP20-0609",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-08-31 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 446EE8E7-C723-40C9-9A54-AC2200ADCF0B ",
+   "permit_id": "PP20-0596",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-08-26 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " C63ECEF5-DDAD-48E7-9318-AC2200AF0A7A ",
+   "permit_id": "PB20-4026",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-08-26 12:00:00",
+   "address": "5530 IDEAL PL"
+ },
+ {
+   "id": " C3FB42ED-3A24-4E46-9CE0-AC2200B15987 ",
+   "permit_id": "PZ19-373",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2020-08-25 0:00:00",
+   "address": "3801 LAKEVIEW BLVD"
+ },
+ {
+   "id": " A91537F9-A42F-4075-B889-AC2300E1C868 ",
+   "permit_id": "PM20-1259",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-08-28 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 68E9C867-B4D2-4880-9C89-AC2300E8C864 ",
+   "permit_id": "PB20-4031",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-08-26 0:00:00",
+   "address": "5652 PONTIAC TRL"
+ },
+ {
+   "id": " 38DE5480-A1FE-4DA7-AF4C-AC2400ECD956 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Insulation Lower Lvl",
+   "date_time_scheduled": "2020-08-31 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " D09B235A-6963-4968-9853-AC2500AC274B ",
+   "permit_id": "PB16-3661",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-09-01 12:00:00",
+   "address": "5600 PONTIAC TRL"
+ },
+ {
+   "id": " 979EB2BB-3EAB-4B81-A9CB-AC2500AD3183 ",
+   "permit_id": "PE17-0985",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-09-02 12:00:00",
+   "address": "5600 PONTIAC TRL"
+ },
+ {
+   "id": " 2278513E-7EB2-4980-AF8B-AC2500AD5BB5 ",
+   "permit_id": "PP17-0504",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-08-31 12:00:00",
+   "address": "5600 PONTIAC TRL"
+ },
+ {
+   "id": " 3E73D7B8-9E59-46B9-B600-AC2500CB0B48 ",
+   "permit_id": "PB20-4048",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-09-01 12:00:00",
+   "address": "4250 PINE LN"
+ },
+ {
+   "id": " 9D37EEE3-4E2B-4208-B891-AC2500F8C9A0 ",
+   "permit_id": "PB19-3974",
+   "inspection_type": "Rough - Bldg",
+   "date_time_scheduled": "2020-08-31 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 088F7EC8-E334-4C79-8135-AC2800D1235A ",
+   "permit_id": "PM20-1245",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-09-03 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " 003C3FF8-0F8A-44B9-8790-AC2900C06823 ",
+   "permit_id": "PB20-4046",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2020-09-02 0:00:00",
+   "address": "5822 PRADO CT"
+ },
+ {
+   "id": " E8D978CC-822E-4FB5-A773-AC2900E3E31E ",
+   "permit_id": "PB19-3973",
+   "inspection_type": "Brickledge/Flashing",
+   "date_time_scheduled": "2020-09-02 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " FE70FCAB-EBF6-48B6-971D-AC2A008758B3 ",
+   "permit_id": "PB20-4048",
+   "inspection_type": "Second Open Roof",
+   "date_time_scheduled": "2020-09-02 0:00:00",
+   "address": "4250 PINE LN"
+ },
+ {
+   "id": " E06E5A10-E165-4161-A881-AC2A00B090D2 ",
+   "permit_id": "PM19-1177",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2020-09-04 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 3714280C-5CEB-4AFC-A987-AC2A00EDD760 ",
+   "permit_id": "PB20-4052",
+   "inspection_type": "Final Siding",
+   "date_time_scheduled": "2020-09-03 12:00:00",
+   "address": "4505 CHERRY HILL DR"
+ },
+ {
+   "id": " 72757D02-DEBA-4EC4-A0CD-AC2B00C96F47 ",
+   "permit_id": "PB19-3974",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-09-04 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 2624BC4F-9AFF-4D59-8785-AC2B00FC264B ",
+   "permit_id": "PE20-1143",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-09-04 13:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " 4AA2B029-3F1D-401A-9006-AC2C00A79454 ",
+   "permit_id": "PB19-3983",
+   "inspection_type": "Brickledge/Flashing",
+   "date_time_scheduled": "2020-09-10 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " AC6DBDAD-D09A-44E1-8D88-AC2C00BFE96A ",
+   "permit_id": "PB19-3974",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2020-09-07 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 8BC54611-C6A6-402A-932F-AC3000E0AAB8 ",
+   "permit_id": "PE19-1086",
+   "inspection_type": "Pool Wire Mesh Bonding",
+   "date_time_scheduled": "2020-09-09 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " D2137144-6107-4F0E-BECB-AC3000EA5403 ",
+   "permit_id": "PM20-1266",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-09-09 12:00:00",
+   "address": "3141 W SHORE DR"
+ },
+ {
+   "id": " 378CAE12-DE81-403C-8346-AC3000FE6990 ",
+   "permit_id": "PP20-0608",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-09-09 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 99DD0E6B-EA9A-427C-B987-AC3100B18046 ",
+   "permit_id": "PM20-1250",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-09-11 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 999F32A9-A74C-4D5E-8D68-AC3100B1C9A5 ",
+   "permit_id": "PE20-1147",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-09-11 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 6F05E6FE-5B5B-4007-A847-AC3100BB5472 ",
+   "permit_id": "PE20-1150",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-09-09 12:00:00",
+   "address": "5696 WOODLAWN AVE"
+ },
+ {
+   "id": " 74DCC982-38ED-44DE-AF43-AC3100EA4338 ",
+   "permit_id": "PB20-4048",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-09-10 13:00:00",
+   "address": "4250 PINE LN"
+ },
+ {
+   "id": " B7BE965F-BEBE-4E2E-8D20-AC3200884C1A ",
+   "permit_id": "PB20-4047",
+   "inspection_type": "Rough Deck",
+   "date_time_scheduled": "2020-09-11 11:00:00",
+   "address": "3309 W SHORE DR"
+ },
+ {
+   "id": " EF837273-0B9A-46E3-8F5D-AC3200B15DF9 ",
+   "permit_id": "PE17-0985",
+   "inspection_type": "Re-Final - Ele",
+   "date_time_scheduled": "2020-09-11 12:00:00",
+   "address": "5600 PONTIAC TRL"
+ },
+ {
+   "id": " 16577757-0945-4875-9397-AC3600ECD2CF ",
+   "permit_id": "PM20-1262",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-09-23 12:00:00",
+   "address": "3500 WARDS POINTE DR"
+ },
+ {
+   "id": " 5508559E-E708-4E80-AB87-AC3700B46BC3 ",
+   "permit_id": "PE20-1151",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2020-09-16 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 2E98D664-1286-4CA9-852F-AC3700C9E5FE ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Masonry Damper",
+   "date_time_scheduled": "2020-09-16 0:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " F343903F-B106-4881-899C-AC3800A78BDC ",
+   "permit_id": "PP19-0571",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-09-18 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 3DD470B4-E4C6-4DFF-81E6-AC3800BF076C ",
+   "permit_id": "PM20-1238",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-09-23 12:00:00",
+   "address": "5880 SEVILLE CIR"
+ },
+ {
+   "id": " 985F355C-E6E2-47A9-97DB-AC3800BF1521 ",
+   "permit_id": "PE20-1139",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-09-23 12:00:00",
+   "address": "5880 SEVILLE CIR"
+ },
+ {
+   "id": " 33A9759F-D916-41D9-B041-AC39008FC9CA ",
+   "permit_id": "PM20-1236",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-09-21 12:00:00",
+   "address": "5751 SHORE DR"
+ },
+ {
+   "id": " 7A230CB1-5286-44A9-969C-AC3900F6264D ",
+   "permit_id": "PM20-1245",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-09-18 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " 7B4551B7-9320-46FB-81C5-AC390104D722 ",
+   "permit_id": "PE19-1118",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-09-21 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 04274E9E-1E28-4F33-AB69-AC3A0086BD3A ",
+   "permit_id": "PP20-0611",
+   "inspection_type": "Water Line",
+   "date_time_scheduled": "2020-09-21 12:00:00",
+   "address": "2910 ORCHARD PL"
+ },
+ {
+   "id": " 2D63C54C-1F38-479E-A1DF-AC3A009F87AC ",
+   "permit_id": "PM20-1267",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-09-21 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 4F111F6C-411F-47B8-88D7-AC3A00E4CEDF ",
+   "permit_id": "PB20-4050",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-09-21 12:00:00",
+   "address": "5725 SHORE DR"
+ },
+ {
+   "id": " 8530E272-3ED5-46EC-B993-AC3D00C166A7 ",
+   "permit_id": "PB19-3961",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2020-09-28 0:00:00",
+   "address": "4529 CHERRY HILL DR"
+ },
+ {
+   "id": " 7EBD0925-A2DB-4A47-B7F9-AC3D00C9DB88 ",
+   "permit_id": "PB20-4036",
+   "inspection_type": "Preliminary Rough",
+   "date_time_scheduled": "2020-09-22 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " ED8AEC3F-EA08-4863-B2CC-AC3D01074693 ",
+   "permit_id": "PB18-3793",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-09-22 12:00:00",
+   "address": "5741 SHORE DR"
+ },
+ {
+   "id": " F570C15E-0C0E-4E67-885F-AC3E0097B593 ",
+   "permit_id": "PB20-0607",
+   "inspection_type": "Foundation",
+   "date_time_scheduled": "2020-09-24 12:00:00",
+   "address": "3386 WARDS POINTE DR"
+ },
+ {
+   "id": " 139815DC-3B24-410A-BD24-AC3E00F742DD ",
+   "permit_id": "PE20-1159",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-09-23 12:00:00",
+   "address": "5780 LAKEVIEW AVE"
+ },
+ {
+   "id": " A88C577D-CF92-4D9E-A963-AC3E01000AD1 ",
+   "permit_id": "PZ20-392",
+   "inspection_type": "Driveway Addition - Final",
+   "date_time_scheduled": "2020-09-23 12:00:00",
+   "address": "4953 W STRONG CT"
+ },
+ {
+   "id": " 9367D947-62D5-4715-B3D3-AC3E0106AA8C ",
+   "permit_id": "PB20-4059",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-09-23 0:00:00",
+   "address": "5207 DEER RUN CIR"
+ },
+ {
+   "id": " E61BDFD1-36B1-4D02-BCC4-AC3F00B2FCB8 ",
+   "permit_id": "PM20-1251",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-09-30 12:00:00",
+   "address": "4048 OAK BANK CT"
+ },
+ {
+   "id": " 2B02CF52-4EB8-47B9-8785-AC3F00E30401 ",
+   "permit_id": "PB20-4036",
+   "inspection_type": "Rough/Insulation",
+   "date_time_scheduled": "2020-09-28 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " 92CEE4A6-2E5E-4A71-94BA-AC44009B31D4 ",
+   "permit_id": "PP20-0600",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-09-30 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " 9A34FE92-D2AF-49C9-B919-AC4400C88887 ",
+   "permit_id": "PB20-4051",
+   "inspection_type": "Final Building - Roof",
+   "date_time_scheduled": "2020-09-28 12:00:00",
+   "address": "4570 CHERRY HILL DR"
+ },
+ {
+   "id": " EAF68CAA-CD6D-4A79-8B65-AC4400E048C6 ",
+   "permit_id": "PB20-4036",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-09-30 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " CCC84BCB-5BB7-4CA8-BF96-AC45009CECF9 ",
+   "permit_id": "PP20-0602",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-09-30 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 8DAE63F3-A8F3-44A5-A487-AC4600F923F4 ",
+   "permit_id": "P200001",
+   "inspection_type": "Tree Removal Inspection",
+   "date_time_scheduled": "2020-10-01 0:00:00",
+   "address": "3421 W SHORE DR"
+ },
+ {
+   "id": " CD0CD263-1C21-4088-A3F4-AC4601064BF6 ",
+   "permit_id": "PB20-4036",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-10-02 12:00:00",
+   "address": "4524 ORCHARD TRAIL CT"
+ },
+ {
+   "id": " 5DC55C9D-9C14-47EF-B514-AC47009D2121 ",
+   "permit_id": "CR200001",
+   "inspection_type": "Rental",
+   "date_time_scheduled": "2020-10-06 0:00:00",
+   "address": "4502 CHERRY HILL DR"
+ },
+ {
+   "id": " 5AF544F0-D400-43A8-80E9-AC4B008A85DD ",
+   "permit_id": "PP20-0612",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-10-09 12:00:00",
+   "address": "3850 SHADY BEACH BLVD"
+ },
+ {
+   "id": " 508FD99C-B82B-4D14-AF64-AC4B009C4B34 ",
+   "permit_id": "PE20-1129",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 76C75DDD-D158-46AE-ABFB-AC4B009C9181 ",
+   "permit_id": "PP20-0585",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " D2C5C719-2279-4510-8898-AC4B009D6584 ",
+   "permit_id": "PB19-4008",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-10-09 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " D2035F80-84D6-4213-87E1-AC4B00DC9A2A ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Special - Firestopping",
+   "date_time_scheduled": "2020-10-06 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 93ABA646-C288-4822-9F49-AC4C00968BAA ",
+   "permit_id": "PP20-0613",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " 3BEB2BAF-F962-4E40-AE17-AC4C00BC139A ",
+   "permit_id": "PE20-1160",
+   "inspection_type": "Rough - Ele",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " CED198A9-F54E-4E72-B6B6-AC4C00C07BDC ",
+   "permit_id": "E200108",
+   "inspection_type": "Code",
+   "date_time_scheduled": "2020-10-09 0:00:00",
+   "address": "4382 CHERRY HILL DR"
+ },
+ {
+   "id": " 994A97BD-8B1A-4B85-9E7C-AC4C00F061A0 ",
+   "permit_id": "PE20-1153",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " C92CC765-366D-418F-AFF0-AC4C00F23D9E ",
+   "permit_id": "PM20-1257",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " 7B8D2156-94FB-45FD-A478-AC4C00F29305 ",
+   "permit_id": "PM20-1261",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " 0A62E690-B042-4466-9E76-AC4C00F3C0DA ",
+   "permit_id": "PP20-0605",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-10-07 12:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " 15DEF875-3965-496A-A79F-AC4D008AA423 ",
+   "permit_id": "PP19-0561",
+   "inspection_type": "Rough - Above",
+   "date_time_scheduled": "2020-10-09 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 0627BE6A-50BF-44AF-B65C-AC4D00B44F75 ",
+   "permit_id": "PM20-1271",
+   "inspection_type": "Rough - 4 Fireplaces",
+   "date_time_scheduled": "2020-10-09 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 1D76BF71-4506-4B62-BF0E-AC4D00DA822D ",
+   "permit_id": "PM20-1270",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-19 12:00:00",
+   "address": "4274 PINE LN"
+ },
+ {
+   "id": " 30809E01-0A9C-49DE-9272-AC4E00AF2C71 ",
+   "permit_id": "PB19-3990",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2020-10-09 0:00:00",
+   "address": "4540 ARLINE DR"
+ },
+ {
+   "id": " FF68D7DB-F08E-4981-B590-AC4F008A5CDB ",
+   "permit_id": "PB20-4060",
+   "inspection_type": "Rough & Insulation",
+   "date_time_scheduled": "2020-10-09 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " EA672F76-1909-48CD-916E-AC52008EABBF ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Brick/Flashing",
+   "date_time_scheduled": "2020-10-13 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 303278CB-3164-47F2-ACAA-AC5200C61979 ",
+   "permit_id": "PP20-0585",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-10-14 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " 36BC0133-E9D6-4DDA-ACB2-AC5200EB9CA2 ",
+   "permit_id": "PM20-1241",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-10-16 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " A6C38BD6-E1A0-4DD7-883C-AC5200FCA326 ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Sand Basement",
+   "date_time_scheduled": "2020-10-12 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 868AFDD6-4379-4C82-8DB0-AC5300B5FC2F ",
+   "permit_id": "PE20-1133",
+   "inspection_type": "Rough - Main 2 floors",
+   "date_time_scheduled": "2020-10-19 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 33908B73-D8D7-4AA6-8AE4-AC5300DF454F ",
+   "permit_id": "PM20-1272",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-21 12:00:00",
+   "address": "4685 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 8245F8E6-52BB-46DF-B501-AC5300EACA0B ",
+   "permit_id": "PP20-0590",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-10-14 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 5F597824-8725-4C23-A577-AC5400A18749 ",
+   "permit_id": "PE20-1130",
+   "inspection_type": "Underground For Pool",
+   "date_time_scheduled": "2020-10-19 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 47CB3616-419B-43B5-8BB3-AC5400AD4FC6 ",
+   "permit_id": "PM20-1271",
+   "inspection_type": "Rough Fireplace",
+   "date_time_scheduled": "2020-10-16 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 6E5A0B2F-9FD0-4AAE-8132-AC5400C31A60 ",
+   "permit_id": "PM20-1256",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2020-10-16 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " A943727F-FE07-4D8D-BB5C-AC5400D755F2 ",
+   "permit_id": "PM20-1268",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-19 12:00:00",
+   "address": "4015 SHADY BEACH BLVD"
+ },
+ {
+   "id": " 626561B0-597E-48D3-BD62-AC5600E17201 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2020-10-19 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " E96E31E1-00C2-475B-AD26-AC5600F3BAD4 ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2020-10-16 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " CE032238-3D4C-4160-915F-AC5900C354C5 ",
+   "permit_id": "PB19-3944",
+   "inspection_type": "Brick Flashing",
+   "date_time_scheduled": "2020-10-21 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " B2B624A2-0834-49C9-92B1-AC590103E794 ",
+   "permit_id": "PE20-1163",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2020-10-21 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " C986756B-4950-4A19-8726-AC5A00ABD060 ",
+   "permit_id": "PE20-1162",
+   "inspection_type": "Open Trench",
+   "date_time_scheduled": "2020-10-21 12:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " 57B5C23F-A9AF-4A1A-8946-AC5B009BBC46 ",
+   "permit_id": "PP18-0531",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-10-23 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 860F5434-7F88-4D32-8795-AC5B009BE7D3 ",
+   "permit_id": "PM18-1081",
+   "inspection_type": "Final Gas Piping",
+   "date_time_scheduled": "2020-10-23 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 12D31754-01D5-43E1-B149-AC5B00B08F61 ",
+   "permit_id": "PM20-1276",
+   "inspection_type": "Underground Gas",
+   "date_time_scheduled": "2020-10-23 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 15472C66-1CF2-459E-826A-AC5D00CF11EE ",
+   "permit_id": "PE20-1133",
+   "inspection_type": "Rough Garage",
+   "date_time_scheduled": "2020-10-26 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 38C847ED-DBAE-4D2A-BD5B-AC60009F77BF ",
+   "permit_id": "PM20-1274",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-10-28 12:00:00",
+   "address": "5846 PRADO CT"
+ },
+ {
+   "id": " 9604F5FC-FCA5-4BE7-81F8-AC6000EDD687 ",
+   "permit_id": "PP20-0614",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-10-28 0:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 2B047FE5-FE20-4E4E-808E-AC6000F95580 ",
+   "permit_id": "PM20-1250",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2020-10-28 0:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 7BB42D2B-1F4E-404E-9ADE-AC6100ACFDE5 ",
+   "permit_id": "PB20-4026",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-10-28 12:00:00",
+   "address": "5530 IDEAL PL"
+ },
+ {
+   "id": " 15D3CDD6-B486-4F28-8C26-AC6100B496A3 ",
+   "permit_id": "PM20-1239",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-28 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 0ADB0E03-540C-41F9-A729-AC6100CD1BE9 ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Rough Front Porch",
+   "date_time_scheduled": "2020-10-29 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 66127C10-7417-4A75-AA54-AC6100D4DCCB ",
+   "permit_id": "PP20-0613",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-10-28 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " DBC96856-5243-497C-B5A5-AC6100E35178 ",
+   "permit_id": "PB20-4062",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2020-10-30 0:00:00",
+   "address": "4069 HARBOR VISTA DR"
+ },
+ {
+   "id": " 6616E428-66D6-4667-8EFC-AC6100E95CEF ",
+   "permit_id": "PM20-1273",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-10-28 12:00:00",
+   "address": "4569 CHERRY HILL DR"
+ },
+ {
+   "id": " 6727DCAE-C087-411E-88E3-AC6100F27912 ",
+   "permit_id": "PP20-0606",
+   "inspection_type": "Garage Floor Drain",
+   "date_time_scheduled": "2020-10-28 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 2C552F78-7E75-4F73-ADB8-AC6200E7F326 ",
+   "permit_id": "PM20-1278",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-11-02 12:00:00",
+   "address": "4951 ELMGATE DR"
+ },
+ {
+   "id": " FCE180DD-FA1B-4DE0-83FB-AC6200E90F5D ",
+   "permit_id": "PE20-1164",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2020-10-30 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " CA2EE530-34A3-4595-8973-AC6200F2BF48 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Rough Garage",
+   "date_time_scheduled": "2020-10-29 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " FADFBDA2-5CC9-4585-B371-AC6200F36C76 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-10-30 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 7E879576-5DAA-444A-B1B4-AC6300B3A3E6 ",
+   "permit_id": "PB19-3995",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2020-10-30 0:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 63B359FA-7DCB-449B-8A6A-AC6400F9C826 ",
+   "permit_id": "PZ20-380",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-11-02 0:00:00",
+   "address": "3452 WARDS POINTE DR"
+ },
+ {
+   "id": " 95060D71-0A58-42F9-A2FA-AC6700A1F3CA ",
+   "permit_id": "CR190007",
+   "inspection_type": "Follow-up",
+   "date_time_scheduled": "2020-11-04 0:00:00",
+   "address": "5534 PARK DR"
+ },
+ {
+   "id": " D0477491-3DBF-43C9-AA8D-AC6700B38551 ",
+   "permit_id": "PZ20-393",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-11-03 0:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " E10EDCC9-3817-4CF0-8F2E-AC6701008EB2 ",
+   "permit_id": "PM19-1134",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-11-06 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 38141910-94F7-4B9F-BFFB-AC68008AF56E ",
+   "permit_id": "PE20-1160",
+   "inspection_type": "Floor Heat",
+   "date_time_scheduled": "2020-11-04 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " A877BA56-78AD-42B9-B179-AC68008D5278 ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Raised Patio",
+   "date_time_scheduled": "2020-11-05 0:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 716C7552-AB71-4691-9834-AC6800BAC99F ",
+   "permit_id": "PE20-1130",
+   "inspection_type": "Deck bonding",
+   "date_time_scheduled": "2020-11-04 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 14E036C2-7465-4F1D-9B91-AC690084EE0A ",
+   "permit_id": "PB19-3968",
+   "inspection_type": "Rough Underground & Bonding",
+   "date_time_scheduled": "2020-11-04 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " B1022DC6-A4B0-4B04-8037-AC6901034CDB ",
+   "permit_id": "PE19-0002",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-11-09 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 116D5037-08AD-4D71-912B-AC6A008C2BB6 ",
+   "permit_id": "PB20-4061",
+   "inspection_type": "Rough Turret",
+   "date_time_scheduled": "2020-11-05 12:00:00",
+   "address": "3131 BAY SHORE DR"
+ },
+ {
+   "id": " FDD0F171-791C-4BA1-BACF-AC6A009AF909 ",
+   "permit_id": "PB17-3735",
+   "inspection_type": "Final Grade",
+   "date_time_scheduled": "2020-11-09 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " FA2FCDA6-AEEF-44BA-AC7A-AC6A00A1D91C ",
+   "permit_id": "PZ18-317",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2020-10-29 0:00:00",
+   "address": "4099 PONTIAC TRL"
+ },
+ {
+   "id": " FAA87B41-AC4D-4A0B-A438-AC6A00FFBF49 ",
+   "permit_id": "PE20-1138",
+   "inspection_type": "Underground Deck Bonding",
+   "date_time_scheduled": "2020-11-09 12:00:00",
+   "address": "4045 HARBOR VISTA DR"
+ },
+ {
+   "id": " A1CCF346-1615-43FE-8DEA-AC6B008526F5 ",
+   "permit_id": "PE20-1157",
+   "inspection_type": "Underground & Bonding for pool",
+   "date_time_scheduled": "2020-11-09 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " EC543839-EEB0-40EF-9CE6-AC6E00B8A410 ",
+   "permit_id": "PE20-1129",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-11-09 12:00:00",
+   "address": "3777 INDIAN TRL"
+ },
+ {
+   "id": " A13FB7A5-1B9A-455B-8D46-AC6E00DC73F3 ",
+   "permit_id": "PB19-3969",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-11-09 12:00:00",
+   "address": "4254 CHERRY HILL DR"
+ },
+ {
+   "id": " 1257D2D9-6F6D-4A10-B355-AC6E00F79745 ",
+   "permit_id": "PB17-3735",
+   "inspection_type": "Final Grade",
+   "date_time_scheduled": "2020-11-12 12:00:00",
+   "address": "3649 WARDS POINTE DR"
+ },
+ {
+   "id": " E067FE3A-0BE7-4C15-9B30-AC6F008390BC ",
+   "permit_id": "PB20-4047",
+   "inspection_type": "Final Deck &Terrace Addition",
+   "date_time_scheduled": "2020-11-10 11:00:00",
+   "address": "3309 W SHORE DR"
+ },
+ {
+   "id": " 8C31EE2A-7A92-428C-8285-AC6F00EF069F ",
+   "permit_id": "PB20-4057",
+   "inspection_type": "Footing-Basement",
+   "date_time_scheduled": "2020-11-16 13:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 414DE0A7-1E35-423A-A89C-AC70009D445C ",
+   "permit_id": "PM20-1264",
+   "inspection_type": "Duct Steel",
+   "date_time_scheduled": "2020-11-13 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 279D4C95-BF13-4F36-AA89-AC7000E2A4C0 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Brickledge/Flashing",
+   "date_time_scheduled": "2020-11-13 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " FB3396B9-7E61-475D-9A93-AC7000E3C4F0 ",
+   "permit_id": "PP20-0595",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-11-13 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " DF256791-206C-41F7-BA5F-AC7100A928E8 ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-11-13 13:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 71D2B3B9-ACB4-4A76-9F51-AC7100F00B6E ",
+   "permit_id": "PM20-1267",
+   "inspection_type": "In Floor Pressure Test",
+   "date_time_scheduled": "2020-11-13 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 295E90A2-9723-48E3-A558-AC7500E75F58 ",
+   "permit_id": "PM20-1269",
+   "inspection_type": "Underground Rough Ductwork",
+   "date_time_scheduled": "2020-11-18 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 6AE2905B-7217-4870-B073-AC7501029EC9 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-11-18 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 2158BF3C-E6C2-4FDE-9828-AC7800BFF34B ",
+   "permit_id": "PE20-1164",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-11-20 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " B90814DB-B371-47E1-881E-AC7900DF3D25 ",
+   "permit_id": "PZ20-403",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-11-20 12:00:00",
+   "address": "3294 WARDS POINTE DR"
+ },
+ {
+   "id": " 9E7ECBDF-2250-4235-BCA8-AC7C0098AB3D ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-11-30 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 766F201C-126E-4351-BAC0-AC7C00F637DC ",
+   "permit_id": "PP20-0615",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2020-11-25 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 8B99083A-3594-4370-88B8-AC7C00F7BCBE ",
+   "permit_id": "PZ20-403",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-11-23 12:00:00",
+   "address": "3294 WARDS POINTE DR"
+ },
+ {
+   "id": " F37FC353-EE16-4653-A991-AC7C00FA4A7E ",
+   "permit_id": "PZ20-403",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-11-25 12:00:00",
+   "address": "3294 WARDS POINTE DR"
+ },
+ {
+   "id": " 604F299D-EDAA-40D9-8936-AC7D009199AA ",
+   "permit_id": "PP20-0590",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2020-11-25 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " E0589C7F-A05C-4514-9C4C-AC7D0095BEFB ",
+   "permit_id": "PB17-3741",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2020-12-03 9:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " B8CD97FC-299A-4836-988C-AC7D00D3D84C ",
+   "permit_id": "PM20-1269",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-11-25 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " D6523CDB-6996-48D6-9178-AC7D00FF27AB ",
+   "permit_id": "PB20-4056",
+   "inspection_type": "Final Roof",
+   "date_time_scheduled": "2020-11-30 12:00:00",
+   "address": "4294 CHERRY HILL DR"
+ },
+ {
+   "id": " 922596B1-331E-4BFF-8450-AC830098A5A1 ",
+   "permit_id": "PP20-0602",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-12-02 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " 1D6C4B42-0CAF-4F41-8BE5-AC83009938E1 ",
+   "permit_id": "PM20-1258",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-12-02 12:00:00",
+   "address": "3652 ERIE DR"
+ },
+ {
+   "id": " EDBD5A77-45E6-4B5F-AC18-AC8300DED02D ",
+   "permit_id": "PB17-3741",
+   "inspection_type": "Final Building TCO",
+   "date_time_scheduled": "2020-12-18 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " A2BD51B6-A2AE-4448-A086-AC83010496B9 ",
+   "permit_id": "PB19-3973",
+   "inspection_type": "2 Garages & Basement Sand",
+   "date_time_scheduled": "2020-12-01 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " DE9D9F29-7D99-4EF2-AA7E-AC8400DE74C8 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Rough & Concrete Pour",
+   "date_time_scheduled": "2020-12-03 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " B6B1819C-938B-4EBF-8BB2-AC8500BEA9F6 ",
+   "permit_id": "PE20-1167",
+   "inspection_type": "Temporary Services",
+   "date_time_scheduled": "2020-12-02 12:00:00",
+   "address": "3535 INDIAN TRL BLDG F"
+ },
+ {
+   "id": " B1D2E753-4859-4146-B143-AC8500F08778 ",
+   "permit_id": "PM19-1180",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-12-04 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 9874B80A-E462-47E6-83EB-AC858E716541 ",
+   "permit_id": "PE08-6208",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2008-10-27 12:00:00",
+   "address": "5752 PONTIAC TRL"
+ },
+ {
+   "id": " 9EABCE37-38EC-452C-A1F2-AC8600F8FA56 ",
+   "permit_id": "PB20-4057",
+   "inspection_type": "Footing",
+   "date_time_scheduled": "2020-12-07 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " FCAE5ADC-8AE6-4489-A344-AC8700904D66 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Sand - Living Room",
+   "date_time_scheduled": "2020-12-03 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 9E7F0A51-B6CB-47C7-8CE8-AC87009F8642 ",
+   "permit_id": "PZ20-403",
+   "inspection_type": "Final Seawall",
+   "date_time_scheduled": "2020-12-04 12:00:00",
+   "address": "3294 WARDS POINTE DR"
+ },
+ {
+   "id": " D5E88DFB-FA92-417B-931C-AC8A009EED41 ",
+   "permit_id": "PE20-1135",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-12-09 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 04FF54F5-253B-4F02-8D2C-AC8A00AD9BF6 ",
+   "permit_id": "PM20-1284",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2020-12-09 12:00:00",
+   "address": "5725 SHORE DR"
+ },
+ {
+   "id": " 605BCE70-3FBE-4F7C-90D7-AC8A00AE1337 ",
+   "permit_id": "PP20-0616",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-12-09 12:00:00",
+   "address": "5725 SHORE DR"
+ },
+ {
+   "id": " EC3A7B6A-B595-47BE-9E5F-AC8A00DED64B ",
+   "permit_id": "PB20-4064",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2020-12-08 12:00:00",
+   "address": "3863 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 3156CEE1-A71D-45C0-9BDF-AC8B00F2BD6B ",
+   "permit_id": "PB19-3988",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-12-10 12:00:00",
+   "address": "4513 CHERRY HILL DR"
+ },
+ {
+   "id": " 7BC816DD-27FC-4CDD-9742-AC8C00B3F45F ",
+   "permit_id": "PP20-0586",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-12-11 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " B29C2FE1-32D2-472F-9982-AC8E0085EE03 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Re-Rough",
+   "date_time_scheduled": "2020-12-11 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 4FCEF243-5A41-4274-92BB-AC8E00C06E5D ",
+   "permit_id": "PE20-1151",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-12-14 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 3D656668-F2DD-46B0-B117-AC8E00D69734 ",
+   "permit_id": "PP20-0613",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2020-12-14 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " DF049E5F-995E-4768-986A-AC8E00E111C0 ",
+   "permit_id": "PE20-1160",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-12-14 12:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " E66D7889-56C2-4629-A066-AC8E00E944AE ",
+   "permit_id": "PM20-1241",
+   "inspection_type": "Gas Pressure-in floor radiant",
+   "date_time_scheduled": "2020-12-16 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 252F1C80-E793-413B-A7FB-AC8E00F8E5A7 ",
+   "permit_id": "PB19-4002",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2020-12-14 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 21405C4B-8E75-448F-AC37-AC9100DB224F ",
+   "permit_id": "PM20-1286",
+   "inspection_type": "First Floor Ductwork",
+   "date_time_scheduled": "2020-12-16 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 7D8861B6-8DF9-4FE3-AC44-AC9200A2E68C ",
+   "permit_id": "PM20-1275",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2020-12-16 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 0A590594-FCC4-4A36-A17C-AC9200C09DB1 ",
+   "permit_id": "PE19-0002",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2020-12-16 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " E3059C61-6529-4D68-882A-AC930093A57A ",
+   "permit_id": "PB20-4057",
+   "inspection_type": "Re-Footing",
+   "date_time_scheduled": "2020-12-16 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 8D716C28-4871-4999-9B18-AC9300B880F8 ",
+   "permit_id": "PB19-3944",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2020-12-18 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 86AFBE07-EEFA-45DC-9940-AC9400B06368 ",
+   "permit_id": "PB20-4066",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2020-12-18 12:00:00",
+   "address": "4601 DOW RIDGE RD"
+ },
+ {
+   "id": " 9BA7A6E4-AA15-40FE-B029-AC950087404A ",
+   "permit_id": "PB20-4057",
+   "inspection_type": "Trench Footing",
+   "date_time_scheduled": "2020-12-18 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 53F3356D-7755-4D38-9A51-AC980090BC81 ",
+   "permit_id": "CR190003",
+   "inspection_type": "Rental",
+   "date_time_scheduled": "2020-12-21 14:30:00",
+   "address": "5595 BIRDVIEW HTS"
+ },
+ {
+   "id": " 2294DFC7-BF9F-4365-A865-AC99008C56CD ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-12-22 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 7456BD00-19FA-4869-956E-AC9F00D1C72F ",
+   "permit_id": "E200133",
+   "inspection_type": "Code",
+   "date_time_scheduled": "2020-12-30 0:00:00",
+   "address": "5509 SHORE DR"
+ },
+ {
+   "id": " B01E7B61-C789-49EF-8A2D-ACA000E80FC2 ",
+   "permit_id": "PB20-4012",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2020-12-30 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 7788869E-1C78-4F61-A949-ACA000FCDBAA ",
+   "permit_id": "PB19-3991",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2020-12-30 12:00:00",
+   "address": "4931 ELMGATE DR"
+ },
+ {
+   "id": " CF99F04A-3D57-4AB8-B5B8-ACA60097EA44 ",
+   "permit_id": "PB16-3641",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-04 0:00:00",
+   "address": "4876 WILLOW LN"
+ },
+ {
+   "id": " 7494F0F7-5724-41DE-AB4E-ACA600B79147 ",
+   "permit_id": "E200134",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2020-12-16 0:00:00",
+   "address": "5003 ELMGATE DR"
+ },
+ {
+   "id": " 63D00A20-9497-45C5-9013-ACA600BA9634 ",
+   "permit_id": "PM20-1280",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-01-06 10:00:00",
+   "address": "3969 LAPLAYA LN"
+ },
+ {
+   "id": " A85DEC10-ABE1-41D9-8FBB-ACA600F0B600 ",
+   "permit_id": "PB17-3681",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-04 10:00:00",
+   "address": "4073 BEACH DR"
+ },
+ {
+   "id": " D6BA3B16-027C-47A5-8F32-ACA600F1DB8F ",
+   "permit_id": "PB17-3719",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2019-03-01 0:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " AC38B5C5-A2F8-49D4-A6CB-ACA600F2B81D ",
+   "permit_id": "PB17-3674",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-04 0:00:00",
+   "address": "4165 ORCHARD LAKE RD"
+ },
+ {
+   "id": " A7FEDBD2-7F66-4506-8A45-ACA600F3690D ",
+   "permit_id": "PB17-3704",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-04 0:00:00",
+   "address": "3795 INDIAN TRL"
+ },
+ {
+   "id": " 7C66AB9B-A117-4CF4-B6F7-ACA601060372 ",
+   "permit_id": "PZ18-335",
+   "inspection_type": "Landscaping",
+   "date_time_scheduled": "2021-01-04 0:00:00",
+   "address": "4722 DOW RIDGE RD"
+ },
+ {
+   "id": " 359E0AB9-A3C6-4253-88D6-ACA60106579F ",
+   "permit_id": "PZ18-334",
+   "inspection_type": "Landscaping",
+   "date_time_scheduled": "2021-01-04 0:00:00",
+   "address": "5295 ELMGATE DR"
+ },
+ {
+   "id": " 6C8BDE55-69F9-4A3A-84D4-ACA800C71B84 ",
+   "permit_id": "PE20-1166",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2021-01-08 12:00:00",
+   "address": "4387 CHERRY HILL DR"
+ },
+ {
+   "id": " 24364FB5-59B9-4310-AB89-ACAA00AD5502 ",
+   "permit_id": "PB18-3787",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "3565 WARDS POINTE DR"
+ },
+ {
+   "id": " 2FA6C5AF-A011-40A5-BAC4-ACAA00E03F4B ",
+   "permit_id": "PB17-3670",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "3892 SHADY BEACH BLVD"
+ },
+ {
+   "id": " 406FC8BB-09E5-4A82-875A-ACAA00E1F876 ",
+   "permit_id": "PB16-3653",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "3470 WARDS POINTE DR"
+ },
+ {
+   "id": " 64CE9E5C-A597-4E44-B346-ACAA00E2AFD3 ",
+   "permit_id": "PB17-3721",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "5790 LAKEVIEW AVE"
+ },
+ {
+   "id": " 3DCE4459-56CA-4E87-A69A-ACAA00E33DD3 ",
+   "permit_id": "PB18-3779",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "4597 PONTIAC TRL"
+ },
+ {
+   "id": " FEB1DE2F-B20F-44AE-AFDB-ACAA00E35CD2 ",
+   "permit_id": "PB18-3796",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "4921 E STRONG CT"
+ },
+ {
+   "id": " 5918C123-26A5-491B-8324-ACAA00E38044 ",
+   "permit_id": "PB17-3722",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "3835 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 5A36B8AD-D1AC-453A-A1FB-ACAA00E498A2 ",
+   "permit_id": "PB18-3766",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 0:00:00",
+   "address": "3529 SEMINARY DR"
+ },
+ {
+   "id": " D9D9F9F6-E772-4ABF-8BE5-ACAA0102BC87 ",
+   "permit_id": "PB18-3933",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 12:00:00",
+   "address": "4450 DOW RIDGE RD"
+ },
+ {
+   "id": " 45DC6063-649E-4990-84DE-ACAD00856286 ",
+   "permit_id": "PP18-0520",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-01-08 12:00:00",
+   "address": "4490 DOW RIDGE RD"
+ },
+ {
+   "id": " DAD94B8F-27BD-436F-B889-ACAD00B1A8E6 ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-01-15 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " 7B6589EA-1DD1-459E-BDBA-ACAD00BAD5E6 ",
+   "permit_id": "PB18-3935",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 12:00:00",
+   "address": "3328 ERIE DR"
+ },
+ {
+   "id": " 5C60BADF-FA01-4011-B886-ACAD00C3A9CF ",
+   "permit_id": "PB18-3828",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-08 12:00:00",
+   "address": "4116 COMMERCE RD"
+ },
+ {
+   "id": " 51D2CC65-6BCB-4408-AD8D-ACAD00C41199 ",
+   "permit_id": "PB18-3932",
+   "inspection_type": "Rough Frame",
+   "date_time_scheduled": "2021-01-11 12:00:00",
+   "address": "4201 CHERRY HILL DR"
+ },
+ {
+   "id": " 72D52A4C-359A-490B-B8D1-ACAD00CB60E0 ",
+   "permit_id": "PE20-1133",
+   "inspection_type": "Rough Lower Level",
+   "date_time_scheduled": "2021-01-13 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " 9C03B880-DB6B-415B-9395-ACAE00AE29DB ",
+   "permit_id": "PB17-3697",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "3329 INDIANDALE DR"
+ },
+ {
+   "id": " B960E668-9392-4FDE-814A-ACAE00AEAC6B ",
+   "permit_id": "PB18-3824",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "3272 ERIE DR"
+ },
+ {
+   "id": " E546AC9D-9215-4DB6-9FDA-ACAE00AED112 ",
+   "permit_id": "PZ19-370",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "3272 ERIE DR"
+ },
+ {
+   "id": " 6B492808-76EE-4E7F-8045-ACAE00AEFB64 ",
+   "permit_id": "PB19-3936",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "3301 ERIE DR"
+ },
+ {
+   "id": " 4D219C7D-1D66-47A2-87A7-ACAE00B06443 ",
+   "permit_id": "PB18-3823",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "5171 COMMERCE RD"
+ },
+ {
+   "id": " 38A2B95C-7C96-470B-8C02-ACAE00B35E30 ",
+   "permit_id": "PB18-3778",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "4313 CHERRY HILL DR"
+ },
+ {
+   "id": " 5A4E3751-F97E-4196-9CBD-ACAE00B37A15 ",
+   "permit_id": "PZ18-320",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-01-11 0:00:00",
+   "address": "4313 CHERRY HILL DR"
+ },
+ {
+   "id": " 7B5EF08E-D723-41DE-985B-ACAE00B43DE2 ",
+   "permit_id": "PZ19-350",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-01-11 12:00:00",
+   "address": "4585 ARLINE DR"
+ },
+ {
+   "id": " 7DFB29D9-CFAD-421C-95F6-ACAE00B46B2C ",
+   "permit_id": "PB16-3659",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-11 12:00:00",
+   "address": "4585 ARLINE DR"
+ },
+ {
+   "id": " 9EBE6F97-34D9-4FE1-95F9-ACAE00DE46EE ",
+   "permit_id": "PE20-1166",
+   "inspection_type": "Service",
+   "date_time_scheduled": "2021-01-13 12:00:00",
+   "address": "4387 CHERRY HILL DR"
+ },
+ {
+   "id": " 63FF6D1B-313A-4841-B96F-ACB000C69D43 ",
+   "permit_id": "PM21-1296",
+   "inspection_type": "Rough/final - Mech",
+   "date_time_scheduled": "2021-01-15 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 0A270555-6E4A-4939-B6A3-ACB000D91BE6 ",
+   "permit_id": "PE21-1171",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-01-20 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " BB361E08-39D8-4E00-9DFF-ACB1008E7FE3 ",
+   "permit_id": "PE18-1014",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-01-20 12:00:00",
+   "address": "4200 COMMERCE RD"
+ },
+ {
+   "id": " 463589F3-99E8-48FF-BC2F-ACB1008F1410 ",
+   "permit_id": "PP18-0517",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-01-20 12:00:00",
+   "address": "4200 COMMERCE RD"
+ },
+ {
+   "id": " 725C4327-9D24-40E2-A3B2-ACB100B14013 ",
+   "permit_id": "PM20-1286",
+   "inspection_type": "Lower Level Rough Ductwork",
+   "date_time_scheduled": "2021-01-22 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 15A3DFBE-CD68-4B61-8DC6-ACB500AC7F31 ",
+   "permit_id": "PB18-3826",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-01-19 12:00:00",
+   "address": "4085 PONTIAC TRL"
+ },
+ {
+   "id": " 284159F8-F0E6-406D-8EDD-ACB500BF1B8D ",
+   "permit_id": "PP19-0570",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-01-20 12:00:00",
+   "address": "5019 ELMGATE DR"
+ },
+ {
+   "id": " F97D010E-D715-4B9C-A2E9-ACB500FC0E60 ",
+   "permit_id": "PB20-4063",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-19 12:00:00",
+   "address": "4093 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 08E1B5D2-0826-4359-BCFC-ACB600D6D71F ",
+   "permit_id": "PB20-4060",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-21 0:00:00",
+   "address": "3908 LAPLAYA LN"
+ },
+ {
+   "id": " 5CAC4574-0C7A-434F-921C-ACB600D73F53 ",
+   "permit_id": "PB18-3930",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-21 0:00:00",
+   "address": "5019 ELMGATE DR"
+ },
+ {
+   "id": " 71959F20-ED01-43C5-834E-ACB600D7B059 ",
+   "permit_id": "PB19-3982",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-21 0:00:00",
+   "address": "5019 ELMGATE DR"
+ },
+ {
+   "id": " FA9A4889-91E5-459E-8DD9-ACB700DAA56D ",
+   "permit_id": "PB19-3962",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-03-15 0:00:00",
+   "address": "4495 HIDDEN VALLEY DR"
+ },
+ {
+   "id": " BB4ADCDE-6EB4-48BC-9C8E-ACB800C643C0 ",
+   "permit_id": "PB19-3960",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-21 0:00:00",
+   "address": "5109 DEER RUN CIR"
+ },
+ {
+   "id": " EF6DFDBE-9091-4485-B707-ACB800C6C994 ",
+   "permit_id": "PB19-3975",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-21 0:00:00",
+   "address": "5800 LAKEVIEW AVE"
+ },
+ {
+   "id": " 5D88B868-8CB8-4B14-AABE-ACB800C8A380 ",
+   "permit_id": "PB19-3965",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-01-21 0:00:00",
+   "address": "5282 ELMGATE DR"
+ },
+ {
+   "id": " 873E79E0-527E-43C8-8B0E-ACBB00D25609 ",
+   "permit_id": "PZ19-364",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " B0923D56-AF72-4A0A-8637-ACBC009A361A ",
+   "permit_id": "PM20-1264",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-01-27 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 54FD2402-EFE7-4AF6-B838-ACBC00E91BE9 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Rough - Bldg Lower Level Frame",
+   "date_time_scheduled": "2021-02-02 9:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " FD64E172-48A9-4D18-8C38-ACC300C1D3A8 ",
+   "permit_id": "PE20-1163",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-02-05 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 1AFCDCEB-1E01-4058-8A8B-ACC300F0F863 ",
+   "permit_id": "PB16-3658",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-02-02 12:00:00",
+   "address": "4000 COMMERCE RD"
+ },
+ {
+   "id": " BB52C94E-4FC3-4762-AF92-ACC300F8D933 ",
+   "permit_id": "PB18-3769",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-02-02 9:00:00",
+   "address": "4490 DOW RIDGE RD"
+ },
+ {
+   "id": " AB06C2AF-69EC-4C99-98A3-ACC300FDDBB8 ",
+   "permit_id": "PE20-1142",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-02-03 9:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " ACC72324-F8E4-4A43-984B-ACC30104A237 ",
+   "permit_id": "PZ19-361",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-02-05 9:00:00",
+   "address": "3725 SUNSET BLVD"
+ },
+ {
+   "id": " C5EC4459-4C57-4347-994C-ACC600C9D412 ",
+   "permit_id": "PB19-3940",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-02-05 12:00:00",
+   "address": "2921 ORCHARD PL"
+ },
+ {
+   "id": " 39E0C5BB-CEEC-464C-AEFC-ACC9009837C6 ",
+   "permit_id": "PB19-3985",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-02-08 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " B2EFFF4F-A672-42BE-9B14-ACC9009A08C1 ",
+   "permit_id": "PZ19-365",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-03-01 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " 17339F8E-5EBC-4137-85A0-ACC900AE3254 ",
+   "permit_id": "PB20-4038",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-03-01 12:00:00",
+   "address": "5201 N BAY DR"
+ },
+ {
+   "id": " 2339F921-477A-4E2B-8081-ACC900B312E5 ",
+   "permit_id": "PE20-1140",
+   "inspection_type": "Low Voltage",
+   "date_time_scheduled": "2021-02-10 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " BB18BD8C-686D-48BE-9A59-ACC900FBFE15 ",
+   "permit_id": "PM14-0780",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-14 12:00:00",
+   "address": "4215 VILLAGE CT"
+ },
+ {
+   "id": " DEFDE34E-680C-47B6-9A6C-ACC900FCAFCC ",
+   "permit_id": "PZ20-394",
+   "inspection_type": "Entrance Gate",
+   "date_time_scheduled": "2021-02-12 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 115747C3-8CCC-4D89-9D8B-ACC900FDBA3C ",
+   "permit_id": "PZ20-388",
+   "inspection_type": "Fence",
+   "date_time_scheduled": "2021-02-12 12:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 8B3E124B-DDD8-4185-BF30-ACCA00BF9DA7 ",
+   "permit_id": "PM21-1300",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-02-10 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " DACD8F91-2D8D-4983-BADA-ACCA00EBFC8D ",
+   "permit_id": "PZ20-377",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-02-08 0:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 9DB25047-AEE3-4F98-AAB0-ACCA00EC27CE ",
+   "permit_id": "ESA20-30",
+   "inspection_type": "Final ESA",
+   "date_time_scheduled": "2021-02-08 0:00:00",
+   "address": "5982 PONTIAC TRL"
+ },
+ {
+   "id": " 7B085D2A-CC7A-4DD5-B490-ACCA0106332F ",
+   "permit_id": "PM21-1293",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-02-17 0:00:00",
+   "address": "3535 INDIAN TRL BLDG F"
+ },
+ {
+   "id": " E418BE40-D6F5-4664-857E-ACCB00B7E038 ",
+   "permit_id": "PB20-4065",
+   "inspection_type": "Rough & Insulation",
+   "date_time_scheduled": "2021-02-11 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 58FA2FDC-FE94-4524-9866-ACCC00860B73 ",
+   "permit_id": "PB19-3971",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-02-22 9:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " 24B645CD-5361-41ED-AE1C-ACCC00BECB4E ",
+   "permit_id": "PP20-0609",
+   "inspection_type": "Rough In-Wall",
+   "date_time_scheduled": "2021-02-12 9:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " 8B1AD6A3-E232-4F8F-8492-ACCC00F633C9 ",
+   "permit_id": "PZ16-265",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-02-11 12:00:00",
+   "address": "3470 WARDS POINTE DR"
+ },
+ {
+   "id": " 90A4C422-20B9-4A8E-B757-ACCD00B0D136 ",
+   "permit_id": "PZ17-0001",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-02-12 12:00:00",
+   "address": "3700 LAPLAYA LN"
+ },
+ {
+   "id": " E08D0D98-5AA0-4BD2-A1A0-ACD200B3C0E0 ",
+   "permit_id": "PZ18-310",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-05-04 12:00:00",
+   "address": "5841 CARMEN E CT"
+ },
+ {
+   "id": " 3714E005-3A8C-4141-8B19-ACDB00A161B6 ",
+   "permit_id": "PB19-3989",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-02-26 12:00:00",
+   "address": "4931 ELMGATE DR"
+ },
+ {
+   "id": " 7CD5D186-83C5-4DDC-8106-ACDB00A179D9 ",
+   "permit_id": "PB19-4001",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-02-26 12:00:00",
+   "address": "4931 ELMGATE DR"
+ },
+ {
+   "id": " 7AF2B6FB-0CD8-4004-A50B-ACDF00AA009E ",
+   "permit_id": "PB19-3989",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-02-26 12:00:00",
+   "address": "4931 ELMGATE DR"
+ },
+ {
+   "id": " 60BB6957-0A95-4C1C-A571-ACDF00ABA899 ",
+   "permit_id": "PB19-3943",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-02-26 12:00:00",
+   "address": "5360 ELMGATE BAY"
+ },
+ {
+   "id": " 4B420468-AD73-4CA3-8168-ACDF00B989EB ",
+   "permit_id": "PZ18-326",
+   "inspection_type": "Final Retaining Wall",
+   "date_time_scheduled": "2021-03-02 12:00:00",
+   "address": "3572 WARDS POINTE DR"
+ },
+ {
+   "id": " EB357888-2E1E-4F3A-9C1B-ACDF00BA2846 ",
+   "permit_id": "PB19-3986",
+   "inspection_type": "Final Roof",
+   "date_time_scheduled": "2021-03-02 12:00:00",
+   "address": "5250 ELMGATE DR"
+ },
+ {
+   "id": " B24D97D9-824B-420A-9F2D-ACE0CC396DFA ",
+   "permit_id": "PB07-3177",
+   "inspection_type": "Rough - Bldg",
+   "date_time_scheduled": "2007-10-26 12:00:00",
+   "address": "4380 PINE TREE LN"
+ },
+ {
+   "id": " FC625450-47D8-4F2E-A7D7-ACE20095F36E ",
+   "permit_id": "PB17-3731",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2021-03-08 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 88E3F8A7-61EC-42DB-9AC2-ACE200F3FA55 ",
+   "permit_id": "PP19-0579",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-03-05 12:00:00",
+   "address": "3572 WARDS POINTE DR"
+ },
+ {
+   "id": " B8F13AF6-B494-4052-9509-ACE700BF81CE ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2021-03-15 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 8FEAAAAC-D3E0-4269-A927-ACE800B5949D ",
+   "permit_id": "PE21-1172",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-03-12 12:00:00",
+   "address": "4560 DOW RIDGE RD"
+ },
+ {
+   "id": " E2A0E62D-5460-4CBA-BB4B-ACE9009B4CC5 ",
+   "permit_id": "PP19-0568",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-03-15 12:00:00",
+   "address": "4254 CHERRY HILL DR"
+ },
+ {
+   "id": " EEADB60E-2371-454A-87D0-ACE900BEE055 ",
+   "permit_id": "PE18-1017",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-03-15 12:00:00",
+   "address": "5250 ELMGATE DR"
+ },
+ {
+   "id": " 9682144F-D202-4073-8888-ACE900E1527A ",
+   "permit_id": "PE18-1030",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-03-15 12:00:00",
+   "address": "5460 POSSUM LN"
+ },
+ {
+   "id": " 104F67E2-57D0-4743-BDAF-ACE900E238A2 ",
+   "permit_id": "PP18-0530",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-03-15 12:00:00",
+   "address": "5460 POSSUM LN"
+ },
+ {
+   "id": " 04643775-B0F5-4199-90C3-ACED00AB84AB ",
+   "permit_id": "PP21-0620",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2021-03-17 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 45F64CCC-19D3-4980-A690-ACED00AEDB49 ",
+   "permit_id": "PE18-1034",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-03-17 12:00:00",
+   "address": "3750 COMMERCE RD"
+ },
+ {
+   "id": " 87A4F301-95F0-4767-AAEB-ACED00CE7E4C ",
+   "permit_id": "PB21-4077",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-03-17 13:00:00",
+   "address": "3402 WARDS POINTE DR"
+ },
+ {
+   "id": " C3125212-4FCC-40D2-8E05-ACED00D8D849 ",
+   "permit_id": "PP21-0621",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-03-19 0:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 78482D46-B446-4095-B8F0-ACEE00ED5EBE ",
+   "permit_id": "PB21-4074",
+   "inspection_type": "Concrete Pour",
+   "date_time_scheduled": "2021-03-18 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " F76BE541-F294-47AC-9B61-ACEE00EDC5F4 ",
+   "permit_id": "PM21-1298",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "4560 DOW RIDGE RD"
+ },
+ {
+   "id": " 7C4DF12B-756F-41FB-BD34-ACEE00EDF4FB ",
+   "permit_id": "PP21-0617",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "4560 DOW RIDGE RD"
+ },
+ {
+   "id": " 7D02B67A-7DEF-42B8-8097-ACEE00F8FC17 ",
+   "permit_id": "PB21-4075",
+   "inspection_type": "Trench Footing",
+   "date_time_scheduled": "2021-03-19 11:30:00",
+   "address": "2824 ORCHARD PL"
+ },
+ {
+   "id": " 58D6FB28-0512-40D6-B2CA-ACF0009A7BFC ",
+   "permit_id": "PM21-1302",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "3650 SUNSET BLVD"
+ },
+ {
+   "id": " 372411AB-660F-4B49-986F-ACF000AA2894 ",
+   "permit_id": "PB20-4043",
+   "inspection_type": "Rough - Bldg",
+   "date_time_scheduled": "2021-03-22 12:00:00",
+   "address": "4560 DOW RIDGE RD"
+ },
+ {
+   "id": " B7AAF8F7-D9CC-4B7D-A0DB-ACF000DE3799 ",
+   "permit_id": "PB20-4067",
+   "inspection_type": "Special - Pressure Test",
+   "date_time_scheduled": "2021-03-22 12:00:00",
+   "address": "5656 PONTIAC TRL"
+ },
+ {
+   "id": " A9E02E01-97F8-4259-86A4-ACF000FC1688 ",
+   "permit_id": "PZ18-338",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-03-19 11:30:00",
+   "address": "4441 CHERRY HILL DR"
+ },
+ {
+   "id": " 9CED9DC8-0D46-45CB-AAA0-ACF000FC748F ",
+   "permit_id": "PZ18-332",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "3660 FAIRLAWN TER"
+ },
+ {
+   "id": " FD6D4081-711E-4F74-ACE1-ACF000FCA14C ",
+   "permit_id": "PZ18-333",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "5655 SHORE DR"
+ },
+ {
+   "id": " 80EAC5BC-D8C3-4C25-AE27-ACF000FCCA37 ",
+   "permit_id": "PZ19-368",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " F3276A0E-5BF4-4B95-9B65-ACF000FD0012 ",
+   "permit_id": "PZ19-367",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "4470 DOW RIDGE RD"
+ },
+ {
+   "id": " 1472BB5C-1A08-43EF-9FDF-ACF000FD477E ",
+   "permit_id": "PZ18-328",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-03-19 12:00:00",
+   "address": "4431 DOW RIDGE RD"
+ },
+ {
+   "id": " 0815EF82-0D10-4994-9DF2-ACF400BF4BDF ",
+   "permit_id": "PM20-1288",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "4150 PONTIAC TRL"
+ },
+ {
+   "id": " BBBE9113-2BE6-48D3-8096-ACF400CA1F76 ",
+   "permit_id": "PM20-1287",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "4640 DOW RIDGE RD"
+ },
+ {
+   "id": " E2D06257-E6EA-4BAC-BA5B-ACF400CEB6EB ",
+   "permit_id": "PE20-1149",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-03-24 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " AAA9B3F5-ADA6-46FC-B862-ACF500B70032 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-03-26 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 07BE3E28-EA6F-4BF4-9E0C-ACF500CC62EB ",
+   "permit_id": "PE21-1175",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-03-26 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 1FE879C2-EC2A-4C85-BF56-ACF500E0424F ",
+   "permit_id": "PP20-0608",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-03-26 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " BBE6CF6C-B3BD-4F12-89A7-ACF600D10CFC ",
+   "permit_id": "PP21-0622",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2021-03-26 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 0465B80C-19B4-4C3D-A007-ACF600D45F3B ",
+   "permit_id": "PM19-1193",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-16 12:00:00",
+   "address": "3880 VISTA LN"
+ },
+ {
+   "id": " E3AF1E18-56B2-464E-9EFD-ACF7008EA2BB ",
+   "permit_id": "PP21-0620",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-03-26 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 9D931A47-F9BB-4A07-8562-ACF7009C1056 ",
+   "permit_id": "PE21-1176",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "4009 PARK DR"
+ },
+ {
+   "id": " F7393A6A-814E-45E6-9B4A-ACF7009C2EC4 ",
+   "permit_id": "PM21-1309",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "4009 PARK DR"
+ },
+ {
+   "id": " 359A3687-3E75-4D77-9A8D-ACF700AA027C ",
+   "permit_id": "PE21-1170",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "4127 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 151F2863-F212-44E1-88D4-ACF700EE1994 ",
+   "permit_id": "PP20-0595",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2021-03-29 12:00:00",
+   "address": "4050 OAK BANK CT"
+ },
+ {
+   "id": " 65BD24BA-5F50-41F0-A5B1-ACF701017D72 ",
+   "permit_id": "PB21-4076",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-03-30 12:00:00",
+   "address": "5518 SUNSHINE PL"
+ },
+ {
+   "id": " 2E7E2A15-D5EC-408F-ACD6-ACFA00C71A6D ",
+   "permit_id": "PE21-1178",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " CB390E0E-9517-4B48-B412-ACFA00DDEF85 ",
+   "permit_id": "PE18-1017",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-12 12:00:00",
+   "address": "5250 ELMGATE DR"
+ },
+ {
+   "id": " DA6509C8-48F6-43C6-B164-ACFB00BE4F17 ",
+   "permit_id": "PM21-1304",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-04-05 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 1936291E-E690-4D3F-80D0-ACFB00D85705 ",
+   "permit_id": "PM21-1312",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 9CB3F22A-63B6-4275-8DA0-ACFB00E0550B ",
+   "permit_id": "PP18-0517",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-03-31 12:00:00",
+   "address": "4200 COMMERCE RD"
+ },
+ {
+   "id": " 6C60CD69-EC0B-4ADD-B0E3-ACFC009EF775 ",
+   "permit_id": "PB20-4032",
+   "inspection_type": "Special - Pres. Test for F.M.",
+   "date_time_scheduled": "2021-04-01 12:00:00",
+   "address": "5652 PONTIAC TRL"
+ },
+ {
+   "id": " 3C48A00E-DF3E-4933-9FB2-ACFC00D25B52 ",
+   "permit_id": "PE20-1136",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-05 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " FEEC454E-C020-4A3C-A8EF-ACFC00F1AC4B ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Sand Garage",
+   "date_time_scheduled": "2021-04-01 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " ACD701EF-7508-491D-9E13-ACFD008BCD31 ",
+   "permit_id": "PB21-4076",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-04-05 12:00:00",
+   "address": "5518 SUNSHINE PL"
+ },
+ {
+   "id": " DDC1572E-E012-4211-844F-ACFD00C2EB79 ",
+   "permit_id": "PM21-1313",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-04-05 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 7F0FA215-A366-49A7-B96F-AD0100A1F79A ",
+   "permit_id": "PB19-4002",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-04-08 12:00:00",
+   "address": "5961 CARMEN W CT"
+ },
+ {
+   "id": " 70F150F4-95EF-4EDB-94BC-AD0100AD6C00 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 463D86E2-C632-4361-8A18-AD0100BAC93F ",
+   "permit_id": "PM21-1310",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " 64059D02-A9EA-4CCF-8A5C-AD0100BBAEB7 ",
+   "permit_id": "PE21-1177",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "3765 INDIAN TRL"
+ },
+ {
+   "id": " A53828F5-4C4F-4332-8599-AD0100E78B3E ",
+   "permit_id": "PM20-1230",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 7636F6BB-BAE7-4D8E-B02F-AD0100F496EF ",
+   "permit_id": "PE18-1041",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "4311 HICKORY CT"
+ },
+ {
+   "id": " A338FB8B-6F8A-4878-96A0-AD0100F4C306 ",
+   "permit_id": "PM18-1097",
+   "inspection_type": "Final - Generator",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "4311 HICKORY CT"
+ },
+ {
+   "id": " 6E1CAD8B-8470-4548-B743-AD0100F5598A ",
+   "permit_id": "PZ18-327",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-05-04 12:00:00",
+   "address": "4311 HICKORY CT"
+ },
+ {
+   "id": " 9D1CC6C6-90F5-4F69-BE5D-AD0100F88D13 ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Status/Final",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 6452CED2-0EDC-4976-966C-AD020081BD64 ",
+   "permit_id": "PZ18-336",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-04-05 12:00:00",
+   "address": "5645 SHORE DR"
+ },
+ {
+   "id": " F17E9351-936E-4146-BB3E-AD0200825BD1 ",
+   "permit_id": "PZ18-330",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-04-06 12:00:00",
+   "address": "2953 ORCHARD PL"
+ },
+ {
+   "id": " BC077FAA-1548-42E8-A578-AD020093DD00 ",
+   "permit_id": "PM20-1227",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 6A806349-AB39-4686-85F8-AD0200BC894C ",
+   "permit_id": "PZ17-301",
+   "inspection_type": "Screening",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "3300 INDIANDALE DR"
+ },
+ {
+   "id": " 46D9547A-22B5-4B1D-BA2A-AD0200DB3788 ",
+   "permit_id": "PB20-4057",
+   "inspection_type": "Sand Garage & Basement",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " E6064F11-8F46-4D8C-9465-AD0200E06387 ",
+   "permit_id": "PE21-1179",
+   "inspection_type": "Temporary Services",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "5654 PONTIAC TRL"
+ },
+ {
+   "id": " 31982D68-F43B-405F-BDA3-AD0200F1C75A ",
+   "permit_id": "PB21-4073",
+   "inspection_type": "Footing",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "5821 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 35DB4FEF-3F29-46BA-8030-AD0300AC2002 ",
+   "permit_id": "PE20-1136",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-07 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " DE968478-4584-45A9-ABB9-AD040088D317 ",
+   "permit_id": "PM20-1227",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-09 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 288E3C28-F415-41C0-9E54-AD0400D8E607 ",
+   "permit_id": "PP21-0619",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-04-09 12:00:00",
+   "address": "5822 PRADO CT"
+ },
+ {
+   "id": " 1527A318-D435-44BB-A7FC-AD0400EDD3DB ",
+   "permit_id": "PB21-4070",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-04-13 12:00:00",
+   "address": "3080 BAY SHORE DR"
+ },
+ {
+   "id": " 8CDD2D32-566A-4B42-931E-AD0400FDDD3D ",
+   "permit_id": "PM17-1028",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "4424 CRANBROOK TRL"
+ },
+ {
+   "id": " 8E851275-24B2-481F-94E0-AD0400FE9842 ",
+   "permit_id": "PZ17-306",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-05-04 0:00:00",
+   "address": "4424 CRANBROOK TRL"
+ },
+ {
+   "id": " C9C0D3F6-73EB-46FE-9212-AD0500B12F36 ",
+   "permit_id": "PM20-1279",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-12 12:00:00",
+   "address": "4945 PELLETIER BLVD"
+ },
+ {
+   "id": " DBA6D6FE-7453-4CFF-8915-AD0500BCBC26 ",
+   "permit_id": "PB21-4076",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-04-13 12:00:00",
+   "address": "5518 SUNSHINE PL"
+ },
+ {
+   "id": " 33A665EB-B5FA-466E-877E-AD0800B19C59 ",
+   "permit_id": "E161406",
+   "inspection_type": "Foundation",
+   "date_time_scheduled": "2021-04-12 12:00:00",
+   "address": "4940 BIRCHWAY DR"
+ },
+ {
+   "id": " D7869D0C-DD3A-468F-B9FA-AD0800B5ED53 ",
+   "permit_id": "PB19-4009",
+   "inspection_type": "Footing - Deck post hole",
+   "date_time_scheduled": "2021-04-13 12:00:00",
+   "address": "4950 BIRCHWAY DR"
+ },
+ {
+   "id": " B3CC237A-C40B-4B4F-88BF-AD0A00921B56 ",
+   "permit_id": "PM21-1311",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-23 12:00:00",
+   "address": "5518 SUNSHINE PL"
+ },
+ {
+   "id": " 639EAE4D-48D2-4ACD-8A77-AD0A00BC5616 ",
+   "permit_id": "PM21-1315",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-14 12:00:00",
+   "address": "2877 ORCHARD PL"
+ },
+ {
+   "id": " C11C2F65-1EE7-4C96-90A4-AD0F008C35E5 ",
+   "permit_id": "PM20-1264",
+   "inspection_type": "In-Wall Gas & Hydronics",
+   "date_time_scheduled": "2021-04-19 12:00:00",
+   "address": "4415 S BAY DR"
+ },
+ {
+   "id": " D8A2460C-F641-45E3-A5EB-AD0F00AB2BF4 ",
+   "permit_id": "PM21-1308",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-04-21 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " D6D12922-5894-452B-94AC-AD0F00B8CD9A ",
+   "permit_id": "CR210001",
+   "inspection_type": "Initial",
+   "date_time_scheduled": "2021-04-20 12:00:00",
+   "address": "3769 ARCADIA DR"
+ },
+ {
+   "id": " 6CEA4A09-C23B-4F0A-A551-AD0F00BC979D ",
+   "permit_id": "PE21-1182",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-04-21 12:00:00",
+   "address": "5812 PONTIAC TRL"
+ },
+ {
+   "id": " F5BACF8B-8EC9-4C20-887D-AD0F00BDD51B ",
+   "permit_id": "PE18-1042",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-21 12:00:00",
+   "address": "5812 PONTIAC TRL"
+ },
+ {
+   "id": " F0F59BC8-047E-4021-86D5-AD0F00BEA496 ",
+   "permit_id": "PB19-3997",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-04-21 12:00:00",
+   "address": "5812 PONTIAC TRL"
+ },
+ {
+   "id": " 60A6DC80-1D3F-451F-89A8-AD100085DF8E ",
+   "permit_id": "PM21-0001",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2021-04-21 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 03EC5CCB-9446-48AD-A452-AD1000A30EF4 ",
+   "permit_id": "PM21-1320",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2021-04-21 12:00:00",
+   "address": "4700 DOW RIDGE RD"
+ },
+ {
+   "id": " E28F621D-AE15-4748-B5E6-AD100101FD32 ",
+   "permit_id": "PM19-1193",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-30 12:00:00",
+   "address": "3880 VISTA LN"
+ },
+ {
+   "id": " E56EB4CD-DFFF-4158-833E-AD1100E4626B ",
+   "permit_id": "PE21-1175",
+   "inspection_type": "Rough Ceiling",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 78A2D371-79FF-4CEB-866A-AD1100E8C682 ",
+   "permit_id": "PM20-1285",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-03 12:00:00",
+   "address": "3386 WARDS POINTE DR"
+ },
+ {
+   "id": " D066FD8F-1383-4AE3-A433-AD1200E72A23 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 779CE74E-E783-42B4-B497-AD1200F917BE ",
+   "permit_id": "PB21-4074",
+   "inspection_type": "Open Ceiling",
+   "date_time_scheduled": "2021-04-27 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " DACF9E30-7751-4770-9580-AD1300929FCE ",
+   "permit_id": "PM19-1204",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-30 12:00:00",
+   "address": "5937 CARMEN W CT"
+ },
+ {
+   "id": " DAC36E4E-E5FF-472F-9DD5-AD1300F51C0D ",
+   "permit_id": "PB21-4082",
+   "inspection_type": "Pad Footing",
+   "date_time_scheduled": "2021-04-26 13:00:00",
+   "address": "4402 PINE TREE LN"
+ },
+ {
+   "id": " 106C4242-7922-443D-A6E5-AD1300F97AA4 ",
+   "permit_id": "PE21-1184",
+   "inspection_type": "Partial Rough",
+   "date_time_scheduled": "2021-04-26 10:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " F44ED754-40B4-452C-AF31-AD160096958F ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Rough - Bldg",
+   "date_time_scheduled": "2021-04-26 13:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 31EEE36D-6C4E-4FA5-B086-AD16009C88DC ",
+   "permit_id": "PB19-3994",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-04-27 13:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 10F176F5-2D50-4506-98D9-AD16009DFC11 ",
+   "permit_id": "PM21-1313",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2021-04-28 13:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 5ECBB037-81D3-4797-A8FB-AD1600B68D5A ",
+   "permit_id": "PE21-1173",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-26 12:00:00",
+   "address": "4948 BROWNING DR"
+ },
+ {
+   "id": " 80689B7F-4F8A-44EB-839C-AD1600D3B0D5 ",
+   "permit_id": "PB19-4005",
+   "inspection_type": "Partial Rough Frame",
+   "date_time_scheduled": "2021-04-28 12:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 73C77166-5EBB-4EC8-8F19-AD1700921478 ",
+   "permit_id": "PB21-4074",
+   "inspection_type": "Open Ceiling",
+   "date_time_scheduled": "2021-05-04 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 24FE4018-06F8-465D-9B06-AD1700939322 ",
+   "permit_id": "PP20-0596",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-05-03 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " C4E08BC8-ABB8-4508-8673-AD1700AE10E9 ",
+   "permit_id": "PE21-1185",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-04-28 13:00:00",
+   "address": "3725 SUNSET BLVD"
+ },
+ {
+   "id": " 845E70D2-E6A1-492E-A1E5-AD1800E9ED85 ",
+   "permit_id": "PM20-1246",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-04-29 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " E3586B5D-1726-46EA-BC8A-AD1800F35FF9 ",
+   "permit_id": "PP21-0623",
+   "inspection_type": "Water Line",
+   "date_time_scheduled": "2021-05-03 12:00:00",
+   "address": "5871 SEVILLE CIR"
+ },
+ {
+   "id": " 300E5B5F-233F-45A0-8156-AD1A00F1414B ",
+   "permit_id": "PE20-1163",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-05-10 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 81979400-EB4F-412F-9745-AD1A00FBE44B ",
+   "permit_id": "PM21-1321",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-03 12:00:00",
+   "address": "3497 ARROWVALE DR"
+ },
+ {
+   "id": " EF0FD6D8-5B68-4C13-B9F5-AD1D00E30F08 ",
+   "permit_id": "PM21-1297",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "4048 OAK BANK CT"
+ },
+ {
+   "id": " 53DDA605-29A3-4AC1-8D18-AD1D00E6C3E0 ",
+   "permit_id": "PM19-1150",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-05 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 7E791733-B49A-4920-8C14-AD1E00E6BFE5 ",
+   "permit_id": "PB20-4053",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-05-05 12:00:00",
+   "address": "3525 SEMINARY DR"
+ },
+ {
+   "id": " 1C193285-4B80-47BD-A1F2-AD1E00FD6710 ",
+   "permit_id": "PP20-0596",
+   "inspection_type": "Temp Final - Plmb",
+   "date_time_scheduled": "2021-05-05 1:30:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 230F4D53-A3D0-48F3-B739-AD1F00B402AB ",
+   "permit_id": "PP21-0624",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2021-05-07 12:00:00",
+   "address": "5821 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 95EDA9A6-0835-4410-9BF7-AD1F00B4A1F8 ",
+   "permit_id": "PE21-1183",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2021-05-07 12:00:00",
+   "address": "5821 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 24A98B12-957E-46BE-88DA-AD1F00E239A8 ",
+   "permit_id": "PP20-0593",
+   "inspection_type": "Re- Final",
+   "date_time_scheduled": "2021-05-07 12:00:00",
+   "address": "3706 LAKEVIEW BLVD"
+ },
+ {
+   "id": " 33F51E00-3847-48D6-9B28-AD1F00F4EE06 ",
+   "permit_id": "PM20-1290",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 325EC636-2633-43F4-B349-AD1F00F56CE7 ",
+   "permit_id": "PE20-1168",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "5164 DEER RUN CIR"
+ },
+ {
+   "id": " 594ED989-10E7-4539-BD18-AD2000FA891A ",
+   "permit_id": "PB21-4091",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-05-10 0:00:00",
+   "address": "4206 WOODLANDS LN"
+ },
+ {
+   "id": " 22911EB0-CC71-4C82-9FEF-AD210093E8C8 ",
+   "permit_id": "PZ20-384",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-05-07 0:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " B1463462-9E7C-4F05-9C00-AD2100941404 ",
+   "permit_id": "PB17-3753",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-05-07 0:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " 1C24F410-26DD-4E21-A3C1-AD21009E137A ",
+   "permit_id": "PM19-1146",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-14 0:00:00",
+   "address": "5741 SHORE DR"
+ },
+ {
+   "id": " F27C807E-2357-4260-9CAF-AD2100C6AAA7 ",
+   "permit_id": "PE21-1186",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2021-05-10 12:00:00",
+   "address": "5545 EVERGREEN AVE"
+ },
+ {
+   "id": " 3E15E985-708B-4AF4-9242-AD2100F562AF ",
+   "permit_id": "PZ18-313",
+   "inspection_type": "Seawall",
+   "date_time_scheduled": "2021-05-07 12:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " DA42994C-F447-4A97-9E83-AD2100FCE1D0 ",
+   "permit_id": "PB17-3664",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-05-07 12:00:00",
+   "address": "5867 BRAVO CT"
+ },
+ {
+   "id": " 228819A9-040A-4404-9ECD-AD24009058F4 ",
+   "permit_id": "PB21-4071",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-05-13 12:00:00",
+   "address": "3655 ARCADIA DR"
+ },
+ {
+   "id": " E43330A7-668E-4BA4-8EBA-AD240090E3B5 ",
+   "permit_id": "PM21-1308",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-12 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 70BDA43C-FA9A-479A-9107-AD24009151B2 ",
+   "permit_id": "PB19-3992",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2021-05-10 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " A8AB7A96-F6D6-4396-877D-AD24009D43B5 ",
+   "permit_id": "PM19-1139",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-12 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 5EA47EBA-B453-4FF7-B344-AD2400A923BB ",
+   "permit_id": "PE21-1175",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 6C5BE45D-2C02-4DB3-B654-AD2500A8C210 ",
+   "permit_id": "PE21-1187",
+   "inspection_type": "Wet Niche Pool Light",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "5081 COMMERCE RD"
+ },
+ {
+   "id": " 4DC67C56-F0D6-45D6-A38B-AD2500E4B557 ",
+   "permit_id": "PP21-0620",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 515D05F3-BABB-453E-864D-AD2600D05819 ",
+   "permit_id": "PB21-4079",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-05-18 12:00:00",
+   "address": "4380 PINE TREE LN"
+ },
+ {
+   "id": " 47E92A31-6B2B-4B39-85AC-AD2600DA9EF6 ",
+   "permit_id": "PP21-0626",
+   "inspection_type": "Underground",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "2824 ORCHARD PL"
+ },
+ {
+   "id": " 2A119055-8F09-478D-BFC0-AD2600EB3169 ",
+   "permit_id": "PB21-4074",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-05-17 10:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 088D36A4-EFE8-42F9-8DD3-AD2800898843 ",
+   "permit_id": "PB21-4092",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2021-05-14 12:00:00",
+   "address": "3815 SUNSET BLVD"
+ },
+ {
+   "id": " F690C762-0270-4D22-AD0B-AD2B00993996 ",
+   "permit_id": "PP21-0620",
+   "inspection_type": "Re-Final - Plmb",
+   "date_time_scheduled": "2021-05-17 12:00:00",
+   "address": "4143 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 578D94F9-81F5-4BA6-8D2E-AD2B00AB51F0 ",
+   "permit_id": "PZ20-400",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-05-18 0:00:00",
+   "address": "5700 PONTIAC TRL"
+ },
+ {
+   "id": " 041C5B64-805F-4200-86E8-AD2B00C5A259 ",
+   "permit_id": "PE19-1091",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-05-19 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 8DCAFABF-58E4-42D1-BA4E-AD2B00E226F5 ",
+   "permit_id": "PM19-1150",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-19 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " DB225CD6-3F4E-470B-8816-AD2C00EE9B44 ",
+   "permit_id": "PZ19-344",
+   "inspection_type": "Shed",
+   "date_time_scheduled": "2021-05-18 12:00:00",
+   "address": "5812 PONTIAC TRL"
+ },
+ {
+   "id": " 2C43B60D-17D0-47D9-87CC-AD2C00F0EE1F ",
+   "permit_id": "PM21-4080",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2021-05-07 12:00:00",
+   "address": "5812 PONTIAC TRL"
+ },
+ {
+   "id": " EA5104AF-8508-4242-B8BA-AD2C01003CFE ",
+   "permit_id": "PB19-3983",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2021-05-18 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 424FFA6C-56D4-4CFE-B308-AD2D00901C0D ",
+   "permit_id": "PB21-4082",
+   "inspection_type": "Final",
+   "date_time_scheduled": "2021-05-20 0:00:00",
+   "address": "4402 PINE TREE LN"
+ },
+ {
+   "id": " 339AC0DD-BDCE-427C-9178-AD2D00A7CED0 ",
+   "permit_id": "PB21-4091",
+   "inspection_type": "Final Roof",
+   "date_time_scheduled": "2021-05-20 12:00:00",
+   "address": "4206 WOODLANDS LN"
+ },
+ {
+   "id": " D50959E2-FA5D-4E8F-B22B-AD2D00BEED1B ",
+   "permit_id": "PM20-1281",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-21 12:00:00",
+   "address": "4790 DOW RIDGE RD"
+ },
+ {
+   "id": " 91CC2C98-18FA-4ED6-A513-AD2D00EE99F7 ",
+   "permit_id": "PB21-4092",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-05-19 12:00:00",
+   "address": "3815 SUNSET BLVD"
+ },
+ {
+   "id": " 01F9627D-B2F1-4164-9D12-AD2E008E9BA0 ",
+   "permit_id": "PB19-0001",
+   "inspection_type": "Final Roof",
+   "date_time_scheduled": "2021-05-20 12:00:00",
+   "address": "5540 PARK DR"
+ },
+ {
+   "id": " 8C8ABE62-2866-4524-8E9D-AD2E00C14E0C ",
+   "permit_id": "PM21-1325",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-05-21 12:00:00",
+   "address": "2824 ORCHARD PL"
+ },
+ {
+   "id": " DE25228D-63F9-4EFE-AAAC-AD2E00E8BB3D ",
+   "permit_id": "PP18-0529",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-05-21 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 4D243B13-16A9-46C9-9090-AD2F00D226B7 ",
+   "permit_id": "PB21-4093",
+   "inspection_type": "open roof",
+   "date_time_scheduled": "2021-05-25 0:00:00",
+   "address": "4405 CRANBROOK TRL"
+ },
+ {
+   "id": " 2083E7C5-E248-49D4-8A5A-AD2F00E1336B ",
+   "permit_id": "PP20-0615",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-05-24 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 04472AEC-7724-4020-B860-AD32008B32DC ",
+   "permit_id": "PP20-0606",
+   "inspection_type": "Shower Pan",
+   "date_time_scheduled": "2021-05-26 16:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " EC03103D-3F2F-4538-923B-AD3200AD11C6 ",
+   "permit_id": "PB19-4005",
+   "inspection_type": "Insulation",
+   "date_time_scheduled": "2021-05-28 12:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 3727C2A5-3B86-4705-8EC5-AD33009B1EDA ",
+   "permit_id": "PM21-1327",
+   "inspection_type": "Final - Generator",
+   "date_time_scheduled": "2021-06-02 12:00:00",
+   "address": "3725 SHADY BEACH BLVD"
+ },
+ {
+   "id": " DC3D3C09-7FB4-41E7-92AC-AD3300ACCCAC ",
+   "permit_id": "PE21-1190",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-06-02 12:00:00",
+   "address": "3725 SHADY BEACH BLVD"
+ },
+ {
+   "id": " 9D9A5690-2E12-49A3-A6F2-AD3300AD3C0E ",
+   "permit_id": "PZ21-418",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-06-14 0:00:00",
+   "address": "3725 SHADY BEACH BLVD"
+ },
+ {
+   "id": " 2038DF1A-CC94-4693-99D6-AD3300D884C8 ",
+   "permit_id": "PB21-4069",
+   "inspection_type": "Trench Footing",
+   "date_time_scheduled": "2021-05-27 12:00:00",
+   "address": "3599 WARDS POINTE DR"
+ },
+ {
+   "id": " EEEE4576-C73C-42CC-AE65-AD3300EF094A ",
+   "permit_id": "PB21-4093",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-05-26 0:00:00",
+   "address": "4405 CRANBROOK TRL"
+ },
+ {
+   "id": " 4B5D7115-1EF4-49F5-94A6-AD34009E766A ",
+   "permit_id": "PB19-3957",
+   "inspection_type": "Final Deck",
+   "date_time_scheduled": "2021-05-26 0:00:00",
+   "address": "3541 SHADY BEACH BLVD"
+ },
+ {
+   "id": " CFEF04BA-220E-428C-A1A5-AD3400B269FF ",
+   "permit_id": "PB19-3944",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2021-06-14 0:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " 9BFB7A78-3005-423B-A26F-AD3400B2D2C8 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " E6E90A73-5DFA-4E24-A797-AD3400ED8950 ",
+   "permit_id": "PB21-4093",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-05-28 0:00:00",
+   "address": "4405 CRANBROOK TRL"
+ },
+ {
+   "id": " EDEE87AD-C581-44A2-A729-AD340103A651 ",
+   "permit_id": "PM21-1301",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-06-02 12:00:00",
+   "address": "4009 HARBOR VISTA DR"
+ },
+ {
+   "id": " BC3ED62C-4009-4D8E-9634-AD3500A4D6CD ",
+   "permit_id": "PB19-3941",
+   "inspection_type": "Final Inspection",
+   "date_time_scheduled": "2021-05-28 0:00:00",
+   "address": "4960 BIRCHWAY DR"
+ },
+ {
+   "id": " 370F6381-8803-430E-B847-AD3500F68573 ",
+   "permit_id": "PB21-4093",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-05-27 0:00:00",
+   "address": "4405 CRANBROOK TRL"
+ },
+ {
+   "id": " 41864F79-0E5F-4532-A2F6-AD3500FF639A ",
+   "permit_id": "PB21-4092",
+   "inspection_type": "Final Deck",
+   "date_time_scheduled": "2021-05-28 0:00:00",
+   "address": "3815 SUNSET BLVD"
+ },
+ {
+   "id": " 7A71CD7E-04A1-46BD-B02D-AD350105E45E ",
+   "permit_id": "PB17-3731",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-06-01 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 5032DA58-FC66-4992-AEDF-AD3600DD169E ",
+   "permit_id": "PB21-4084",
+   "inspection_type": "Deck Post Hole",
+   "date_time_scheduled": "2021-06-01 0:00:00",
+   "address": "5509 EVERGREEN AVE"
+ },
+ {
+   "id": " A8D702E7-FDB2-4E8C-A7A0-AD3600E5F533 ",
+   "permit_id": "PB21-4093",
+   "inspection_type": "Final roof",
+   "date_time_scheduled": "2021-06-01 12:00:00",
+   "address": "4405 CRANBROOK TRL"
+ },
+ {
+   "id": " 6F647243-23F3-4BBB-AB35-AD3600E691E5 ",
+   "permit_id": "PB19-4005",
+   "inspection_type": "Fire Stopping all 3 levels",
+   "date_time_scheduled": "2021-05-28 0:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 6A550C5F-E6BB-4C6B-B79D-AD3601002F37 ",
+   "permit_id": "PB14-3472",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2021-06-11 0:00:00",
+   "address": "4450 PONTIAC TRL"
+ },
+ {
+   "id": " A20F3041-9685-46FD-8AB2-AD36010075AA ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Status Inspection",
+   "date_time_scheduled": "2021-06-11 0:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 97AEB121-E53B-465A-8DE2-AD3A008DEE4D ",
+   "permit_id": "PB19-3983",
+   "inspection_type": "Final Building",
+   "date_time_scheduled": "2021-06-04 12:00:00",
+   "address": "4316 CHERRY HILL DR"
+ },
+ {
+   "id": " 4B2A04C5-3154-45A4-ACD6-AD3A0099EFC1 ",
+   "permit_id": "PB21-4073",
+   "inspection_type": "Footing",
+   "date_time_scheduled": "2021-06-01 12:00:00",
+   "address": "5821 OLD ORCHARD TRL"
+ },
+ {
+   "id": " B901E07A-EC30-401A-B080-AD3A009CFE18 ",
+   "permit_id": "PE21-0001",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-06-02 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 35B9C715-23A8-4BF9-B644-AD3A00BBBACA ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Brickledge/Flashing",
+   "date_time_scheduled": "2021-06-02 12:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 332CF8D1-1352-4FD2-91B7-AD3A00C49FD7 ",
+   "permit_id": "PM18-1008",
+   "inspection_type": "Final Furnace",
+   "date_time_scheduled": "2021-06-02 12:00:00",
+   "address": "3819 LAPLAYA LN"
+ },
+ {
+   "id": " 886948A2-1239-497C-8FF9-AD3B008AC74D ",
+   "permit_id": "PM21-1319",
+   "inspection_type": "Final - Furnace",
+   "date_time_scheduled": "2021-06-04 12:00:00",
+   "address": "4305 CHERRY HILL DR"
+ },
+ {
+   "id": " 300A5ED8-D9EA-47E8-B7F7-AD3B00EEDB40 ",
+   "permit_id": "PM21-1306",
+   "inspection_type": "Gas Pressure",
+   "date_time_scheduled": "2021-06-04 12:00:00",
+   "address": "5305 ELMGATE BAY DR"
+ },
+ {
+   "id": " 7E0A722D-32A9-4076-840B-AD3C00A0AE9E ",
+   "permit_id": "PM19-1150",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-06-04 12:00:00",
+   "address": "3850 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " D73CAC86-C895-4972-9442-AD3C00A13DFE ",
+   "permit_id": "PZ21-4072",
+   "inspection_type": "Special",
+   "date_time_scheduled": "2021-06-03 12:00:00",
+   "address": "4825 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 3A375B50-3EA0-4AC6-A94B-AD3C00A1604D ",
+   "permit_id": "PB19-3966",
+   "inspection_type": "Brick Flashing",
+   "date_time_scheduled": "2021-06-03 12:00:00",
+   "address": "3988 SUMMERS RIDGE DR"
+ },
+ {
+   "id": " 92851F77-EF1C-42C6-87BE-AD3C00D1E65E ",
+   "permit_id": "PM21-1305",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-06-04 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " E1966D79-86ED-46D6-B2F1-AD3C00E4103C ",
+   "permit_id": "PZ19-362",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-06-04 0:00:00",
+   "address": "4695 COMMERCE RD"
+ },
+ {
+   "id": " 06AF93B8-921C-4762-A7C8-AD3D00AB07DF ",
+   "permit_id": "PE20-1146",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-06-07 12:00:00",
+   "address": "4455 S BAY DR"
+ },
+ {
+   "id": " FB3C76B2-B5E9-4474-BCC0-AD3D00AB26C4 ",
+   "permit_id": "PM20-1248",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-06-07 12:00:00",
+   "address": "4455 S BAY DR"
+ },
+ {
+   "id": " FA4B56A3-05F4-4D8E-92B3-AD3D00ABD77E ",
+   "permit_id": "PZ20-383",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-06-07 0:00:00",
+   "address": "4455 S BAY DR"
+ },
+ {
+   "id": " 05880E62-4411-4E4E-8CA9-AD4000EB10EE ",
+   "permit_id": "PM21-1303",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-06-07 12:00:00",
+   "address": "4948 BROWNING DR"
+ },
+ {
+   "id": " C7A241AB-3E08-4E7E-9A2B-AD4000F1F4AD ",
+   "permit_id": "PB19-3944",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "4685 COMMERCE RD"
+ },
+ {
+   "id": " FCA553C9-E1B3-4F64-A0C7-AD4000F21831 ",
+   "permit_id": "PB19-3939",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "5281 N BAY DR"
+ },
+ {
+   "id": " 8F5C15C7-3C0A-4B2A-B0B5-AD4000F23A9D ",
+   "permit_id": "PB14-3472",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "4450 PONTIAC TRL"
+ },
+ {
+   "id": " 37BC2A76-0C59-44BD-B9E7-AD4000F29F41 ",
+   "permit_id": "PB15-3574",
+   "inspection_type": "Status",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "4725 OLD ORCHARD TRL"
+ },
+ {
+   "id": " 05D68456-43AD-4BE4-9358-AD4000F6763D ",
+   "permit_id": "PP21-0622",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-06-09 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 9D8EA2E2-9F37-44F9-B8EB-AD4000FC54F0 ",
+   "permit_id": "PZ21-409",
+   "inspection_type": "Final Generator",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "4948 BROWNING DR"
+ },
+ {
+   "id": " CCB77CCD-D8CA-42BA-9224-AD4100F2399F ",
+   "permit_id": "PM21-1300",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-06-09 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " 91E68362-BD31-4BD4-B436-AD4100F2EF9D ",
+   "permit_id": "PP20-0615",
+   "inspection_type": "Final - Plmb",
+   "date_time_scheduled": "2021-06-09 12:00:00",
+   "address": "3206 ORCHARD LAKE RD"
+ },
+ {
+   "id": " CD6FBE0C-7379-4D9A-8834-AD410101246A ",
+   "permit_id": "PB21-4103",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-06-10 13:30:00",
+   "address": "5581 PARK DR"
+ },
+ {
+   "id": " 3CF326C6-7592-49B7-A647-AD4200A7C96C ",
+   "permit_id": "PP21-0626",
+   "inspection_type": "Rough - Plmb",
+   "date_time_scheduled": "2021-06-11 12:00:00",
+   "address": "2824 ORCHARD PL"
+ },
+ {
+   "id": " 3E88BC78-E572-44B1-886A-AD4200B8B521 ",
+   "permit_id": "PM21-1305",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-06-11 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 66F93A06-DFDC-4310-B2DA-AD4200CCDF8E ",
+   "permit_id": "PM21-1333",
+   "inspection_type": "Rough - Mech",
+   "date_time_scheduled": "2021-06-11 12:00:00",
+   "address": "2824 ORCHARD PL"
+ },
+ {
+   "id": " B601F1AB-9AFA-4D1C-BE42-AD4200DC7F4E ",
+   "permit_id": "PE21-1181",
+   "inspection_type": "Final - Ele",
+   "date_time_scheduled": "2021-07-07 12:00:00",
+   "address": "4375 CHERRY HILL DR"
+ },
+ {
+   "id": " AA52B0A7-1EA1-48E1-A161-AD4200DC9CDF ",
+   "permit_id": "PM21-1317",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-07-09 12:00:00",
+   "address": "4375 CHERRY HILL DR"
+ },
+ {
+   "id": " D7B807B1-B53A-4F30-B54A-AD4200DD7A85 ",
+   "permit_id": "PZ21-413",
+   "inspection_type": "Generator Installation",
+   "date_time_scheduled": "2021-07-09 12:00:00",
+   "address": "4375 CHERRY HILL DR"
+ },
+ {
+   "id": " B46E9056-F282-4FDC-A307-AD4200E19CD3 ",
+   "permit_id": "PB21-4099",
+   "inspection_type": "Footing",
+   "date_time_scheduled": "2021-06-10 12:00:00",
+   "address": "4209 CHERRY HILL DR"
+ },
+ {
+   "id": " 7F6D5295-49E6-4174-81B9-AD420102FE81 ",
+   "permit_id": "PB20-4057",
+   "inspection_type": "Rough",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "3061 BAY SHORE DR"
+ },
+ {
+   "id": " 5E5AD6C9-BD58-4566-A6B1-AD430087EE3A ",
+   "permit_id": "PB21-4101",
+   "inspection_type": "Post Hole",
+   "date_time_scheduled": "2021-06-11 13:30:00",
+   "address": "3560 WARDS POINTE DR"
+ },
+ {
+   "id": " 35686EF5-926C-4E35-A7E8-AD4300C4D9C1 ",
+   "permit_id": "PB21-4103",
+   "inspection_type": "Open Roof",
+   "date_time_scheduled": "2021-06-11 13:30:00",
+   "address": "5581 PARK DR"
+ },
+ {
+   "id": " 8E6D2356-6488-49C6-AA6C-AD4300E3772A ",
+   "permit_id": "PM21-1332",
+   "inspection_type": "Final - Mech",
+   "date_time_scheduled": "2021-06-14 12:00:00",
+   "address": "4049 BEACH DR"
+ }
+]
