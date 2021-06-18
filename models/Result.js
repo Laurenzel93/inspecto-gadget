@@ -1,17 +1,20 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
-class Comment extends Model {}
+class Result extends Model {}
 
-Comment.init(
+Result.init(
   {
-    time_id: {
+    result_id: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,
     },
-    title: {
+    result: {
       type: DataTypes.STRING,
+    },
+    notes: {
+      type: DataTypes.TEXT, 
     },
     inspection_id: {
       type: DataTypes.STRING,
@@ -19,15 +22,6 @@ Comment.init(
         model: "inspection",
         key: "id",
       },
-    },
-    comment: {
-      type: DataTypes.TEXT, 
-    },
-    date: {
-      type: DataTypes.DATE,
-    },
-    entered_by: {
-      type: DataTypes.STRING,
     },
   },
   {
@@ -38,4 +32,4 @@ Comment.init(
   }
 );
 
-module.exports = Comment;
+module.exports = Result;
