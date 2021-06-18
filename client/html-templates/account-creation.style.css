@@ -8,13 +8,17 @@ body {
 }
 
 /* Header styling */
-.jumbo {
-    padding: 2rem;
-    text-align: center;
-    background-color: var(--gray-background);
-    border-bottom: 3px solid black;
+.headerContainer {
     border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: #343a40;
+    color: white;
+    /* padding: 10px; */
 }
+/* 
+.navbar {
+    display: inline !important;
+} */
 
 /* Main content of page */
 .loginFormContainer {
@@ -73,10 +77,11 @@ input {
 .formControlContainer {
     padding: 10px;
     padding-bottom: 20px;
+    padding-left: 0;
 }
 
 .customFormControl {
-    max-width: 80%;
+    padding-left: 0 !important;
 }
 
 .btnContainer {
