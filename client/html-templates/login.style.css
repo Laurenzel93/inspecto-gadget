@@ -1,0 +1,74 @@
+:root {
+    --gray-background: #dedede;
+    --blue-background: #b8daff;
+}
+
+body {
+    background-color: var(--blue-background);
+}
+
+.jumbo {
+    padding: 2rem;
+    text-align: center;
+    background-color: var(--gray-background);
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+
+.loginFormContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.loginForm {
+    justify-content: center;
+    width: 22.5rem;
+}
+
+#emailHelp {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #827ECC;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #827ECC;
+}
+
+label {
+    font-weight: 500;
+}
+
+input {
+    border-radius: 8px !important;
+}
+
+.customBtn {
+    background-color: #827ECC;
+    color: white;
+    /* border: 2px solid #b5b5b5; */
+    border-radius: 8px;
+}
+
+.customBtn:hover {
+    background-color: #363199;
+    color: white;
+    
+}
+
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 1.5rem !important;
+    }
+
+    .loginFormContainer {
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
