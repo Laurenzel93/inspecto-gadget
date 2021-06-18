@@ -13,30 +13,21 @@ Permit.init(
     permit_type: {
       type: DataTypes.STRING,
     },
-    date_expires: {
+    date_issued: {
+      type: DataTypes.STRING,
+    },
+    date_expired: {
       type: DataTypes.DATE,
     },
     work_description: {
       type: DataTypes.STRING, 
     },
-    grand_total: {
-      type: DataTypes.INTEGER,
-    },
-    paid_total: {
-      type: DataTypes.INTEGER,
-    },
-    balance_due: {
-      type: DataTypes.INTEGER,
-    },
-    address: {
+    owner_name: {
       type: DataTypes.STRING,
     },
-    contractor: {
+    parcel_number: {
       type: DataTypes.STRING,
     },
-    owner: {
-      type: DataTypes.STRING,
-    }
   },
   {
     sequelize,
