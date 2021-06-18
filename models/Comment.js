@@ -5,7 +5,7 @@ class Comment extends Model {}
 
 Comment.init(
   {
-    time_id: {
+    comment_id: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,
@@ -13,22 +13,20 @@ Comment.init(
     title: {
       type: DataTypes.STRING,
     },
-    inspection_id: {
-      type: DataTypes.STRING,
-      references: {
-        model: "inspection",
-        key: "id",
-      },
-    },
     comment: {
       type: DataTypes.TEXT, 
     },
     date: {
       type: DataTypes.DATE,
     },
-    entered_by: {
+    inspection_id: {
       type: DataTypes.STRING,
+      references: {
+        model: "inspection",
+        key: "inspection_id",
+      },
     },
+    
   },
   {
     sequelize,

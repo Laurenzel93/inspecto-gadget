@@ -1,3122 +1,2732 @@
 [
  {
-   "time_id": "2020010214514804258",
+   "comment_id": "2020010214514804258",
    "title": "Inspection Result",
-   "inspection_id": "802E158E-6B11-4473-993E-AB3300D2E0B3",
    "comment": "Fire damaged material removed.",
    "date": "2020-01-02 14:51:34",
-   "entered_by": "lwenzel"
+   "inspection_id": "802E158E-6B11-4473-993E-AB3300D2E0B3"
  },
  {
-   "time_id": "2020010214524080160",
+   "comment_id": "2020010214524080160",
    "title": "Inspection Result",
-   "inspection_id": "47DA3311-8064-4B14-A893-AB3600F14A90",
    "comment": "Pad footings due for new stanchion support in basement",
    "date": "2020-01-02 14:51:59",
-   "entered_by": "lwenzel"
+   "inspection_id": "47DA3311-8064-4B14-A893-AB3600F14A90"
  },
  {
-   "time_id": "2020010614063607573",
+   "comment_id": "2020010614063607573",
    "title": "comment",
-   "inspection_id": "04D33848-E6EB-4016-A8A1-AB3700DCB4FB",
    "comment": "Garage at north side of porte cache. West wall dug down to virgin ground",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "04D33848-E6EB-4016-A8A1-AB3700DCB4FB"
  },
  {
-   "time_id": "2020010710042361162",
+   "comment_id": "2020010710042361162",
    "title": "",
-   "inspection_id": "243DFFD1-A1B7-4278-9275-AB250091120C",
    "comment": "l bags of yard waste sitting at the edge of the road",
    "date": "2020-01-07 10:04:17",
-   "entered_by": "NYACOUB"
+   "inspection_id": "243DFFD1-A1B7-4278-9275-AB250091120C"
  },
  {
-   "time_id": "2020010710044944164",
+   "comment_id": "2020010710044944164",
    "title": "",
-   "inspection_id": "91F5A8F1-C303-4841-B7DC-AB1E0088F8AA",
    "comment": "very loud water pump",
    "date": "2020-01-07 10:04:46",
-   "entered_by": "NYACOUB"
+   "inspection_id": "91F5A8F1-C303-4841-B7DC-AB1E0088F8AA"
  },
  {
-   "time_id": "2020010710054468666",
+   "comment_id": "2020010710054468666",
    "title": "",
-   "inspection_id": "01E1539C-B4B4-4D87-951A-AB2100B55908",
    "comment": "Yard Waste placed at curb",
    "date": "2020-01-07 10:05:30",
-   "entered_by": "NYACOUB"
+   "inspection_id": "01E1539C-B4B4-4D87-951A-AB2100B55908"
  },
  {
-   "time_id": "2020010710075792668",
+   "comment_id": "2020010710075792668",
    "title": "",
-   "inspection_id": "09B5A05C-EAF6-451E-9D1E-AB2500943C4B",
    "comment": "Several bags of yard waste along the roads edge",
    "date": "2020-01-07 10:07:52",
-   "entered_by": "NYACOUB"
+   "inspection_id": "09B5A05C-EAF6-451E-9D1E-AB2500943C4B"
  },
  {
-   "time_id": "2020010710083702670",
+   "comment_id": "2020010710083702670",
    "title": "",
-   "inspection_id": "2296B841-114F-4540-B7A5-AB190103EA43",
    "comment": "Damaged Lawn by the Waste Company",
    "date": "2020-01-07 10:08:23",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2296B841-114F-4540-B7A5-AB190103EA43"
  },
  {
-   "time_id": "2020010710090250772",
+   "comment_id": "2020010710090250772",
    "title": "",
-   "inspection_id": "EAF7E4E5-8BD5-4D26-A456-AB3300DFF9E2",
    "comment": "Pumping water from dredging into the lake",
    "date": "2020-01-07 10:08:59",
-   "entered_by": "NYACOUB"
+   "inspection_id": "EAF7E4E5-8BD5-4D26-A456-AB3300DFF9E2"
  },
  {
-   "time_id": "2020010710100882674",
+   "comment_id": "2020010710100882674",
    "title": "",
-   "inspection_id": "8470948A-0C24-4098-9B7D-AB2700EB0072",
    "comment": "Possible work without a permit",
    "date": "2020-01-07 10:09:59",
-   "entered_by": "NYACOUB"
+   "inspection_id": "8470948A-0C24-4098-9B7D-AB2700EB0072"
  },
  {
-   "time_id": "2020010715161069758",
+   "comment_id": "2020010715161069758",
    "title": "comment",
-   "inspection_id": "B26E6C7F-42AA-4167-B308-AB3B00FABE1D",
-   "comment": "1/7/19 Part of the underground plumbing was covered when the initial underground was performed. The contractors have dug it up but are pouring concrete tomorrow night and steve won't make it there in time. Don will inspect around 10AM 1/8/19 and steve will give the okay.",
+   "comment": "1/7/19 Part of the underground plumbing was covered when the initial.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "B26E6C7F-42AA-4167-B308-AB3B00FABE1D"
  },
  {
-   "time_id": "2020010715180646460",
+   "comment_id": "2020010715180646460",
    "title": "Inspection comment",
-   "inspection_id": "A3272A62-F85F-49AF-8D5E-AB3300F6ADAF",
    "comment": "Underground plumbing was covered up",
    "date": "2020-01-07 15:17:17",
-   "entered_by": "lwenzel"
+   "inspection_id": "A3272A62-F85F-49AF-8D5E-AB3300F6ADAF"
  },
  {
-   "time_id": "2020010812003939057",
+   "comment_id": "2020010812003939057",
    "title": "comment",
-   "inspection_id": "760329D8-99AD-4E9C-8624-AB3C00C5ACBB",
    "comment": "Al Lake 586-855-7753",
    "date": "2020-01-08 11:59:57",
-   "entered_by": "lwenzel"
+   "inspection_id": "760329D8-99AD-4E9C-8624-AB3C00C5ACBB"
  },
  {
-   "time_id": "2020010813562230362",
+   "comment_id": "2020010813562230362",
    "title": "comment",
-   "inspection_id": "1B1AC045-C82B-4820-B809-AB3C00E54C73",
-   "comment": "Work was done at the edge of the water which has undermined the soil and there is a large tree that may fall.",
+   "comment": "Work was done at the edge of the water and tree may fall.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "1B1AC045-C82B-4820-B809-AB3C00E54C73"
  },
  {
-   "time_id": "2020011013434157656",
+   "comment_id": "2020011013434157656",
    "title": "Inspection comment",
-   "inspection_id": "760329D8-99AD-4E9C-8624-AB3C00C5ACBB",
    "comment": "See attached report per DLP on 1/10/20",
    "date": "2020-01-10 13:43:18",
-   "entered_by": "lwenzel"
+   "inspection_id": "760329D8-99AD-4E9C-8624-AB3C00C5ACBB"
  },
  {
-   "time_id": "2020011308481894861",
+   "comment_id": "2020011308481894861",
    "title": "comment",
-   "inspection_id": "BBD8BFDD-5FAF-4467-A907-AB410089D266",
-   "comment": "Officer Frost stopped work from continuing this weekend at the BP gas station. No permit for this work has been pulled. See Frost's attached notes",
+   "comment": "Officer Frost stopped work from continuing this weekend at the BP gas station. No permit",
    "date": "2020-01-13 8:48:14",
-   "entered_by": "lwenzel"
+   "inspection_id": "BBD8BFDD-5FAF-4467-A907-AB410089D266"
  },
  {
-   "time_id": "2020011415371045881",
+   "comment_id": "2020011415371045881",
    "title": "comment",
-   "inspection_id": "6E1D0E10-A097-4547-8362-AB4201004D04",
-   "comment": "Judy Asbury called to report her neighbor's (Vinnie Johnson)  property is overflowing with water in her own property. See attached email and photos from Judy Asbury.",
+   "comment": "Judy Asbury called to report her neighbor's (Vinnie Johnson)  property is overflowing",
    "date": "2020-01-14 15:37:04",
-   "entered_by": "lwenzel"
+   "inspection_id": "6E1D0E10-A097-4547-8362-AB4201004D04"
  },
  {
-   "time_id": "2020011511264921159",
+   "comment_id": "2020011511264921159",
    "title": "",
-   "inspection_id": "A9DBEA93-1BC7-4C56-9C32-AB4300BC6448",
    "comment": "Exterior Debris",
    "date": "2020-01-15 11:26:42",
-   "entered_by": "NYACOUB"
+   "inspection_id": "A9DBEA93-1BC7-4C56-9C32-AB4300BC6448"
  },
  {
-   "time_id": "2020011711170475557",
+   "comment_id": "2020011711170475557",
    "title": "Scheduling comment",
-   "inspection_id": "63540386-B325-421B-891D-AB4500B9E320",
    "comment": "1) Exterior light at rear door not working",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "63540386-B325-421B-891D-AB4500B9E320"
  },
  {
-   "time_id": "2020012415082075557",
+   "comment_id": "2020012415082075557",
    "title": "Inspection comment",
-   "inspection_id": "F5C3E23B-CCC3-482F-8026-AB4200CA1635",
    "comment": "Front and east side of home",
    "date": "2020-01-24 15:08:09",
-   "entered_by": "lwenzel"
+   "inspection_id": "F5C3E23B-CCC3-482F-8026-AB4200CA1635"
  },
  {
-   "time_id": "2020012708382571063",
+   "comment_id": "2020012708382571063",
    "title": "comment",
-   "inspection_id": "27981530-D130-4BE3-B35A-AB4F008CFA32",
    "comment": "Resident pushing snow onto Mr. Suresh Balchandani's lawn and damaging it in the process.",
    "date": "2020-01-27 8:38:18",
-   "entered_by": "lwenzel"
+   "inspection_id": "27981530-D130-4BE3-B35A-AB4F008CFA32"
  },
  {
-   "time_id": "2020012710351936670",
+   "comment_id": "2020012710351936670",
    "title": "comment",
-   "inspection_id": "1AA649FC-040C-476A-8AEE-AB4F00AE62EF",
    "comment": "Boat stored in front yard",
    "date": "2020-01-27 10:35:15",
-   "entered_by": "lwenzel"
+   "inspection_id": "1AA649FC-040C-476A-8AEE-AB4F00AE62EF"
  },
  {
-   "time_id": "2020013114094426793",
+   "comment_id": "2020013114094426793",
    "title": "",
-   "inspection_id": "FF139EF7-DE17-4AB3-A671-AB5300E8B307",
    "comment": "Contractors parking on a private driveway and causing a tree damage",
    "date": "2020-01-31 14:09:41",
-   "entered_by": "NYACOUB"
+   "inspection_id": "FF139EF7-DE17-4AB3-A671-AB5300E8B307"
  },
  {
-   "time_id": "2020021010072418159",
+   "comment_id": "2020021010072418159",
    "title": "",
-   "inspection_id": "D81D62D4-093B-490D-9194-AB5D00A66C24",
-   "comment": "Work was done at the edge of the water which has undermined the soil and there is a large tree that may fall",
+   "comment": "Work was done at the edge of the water which has undermined the soil and tree may fall",
    "date": "2020-02-10 10:07:20",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D81D62D4-093B-490D-9194-AB5D00A66C24"
  },
  {
-   "time_id": "2020021111251181859",
+   "comment_id": "2020021111251181859",
    "title": "",
-   "inspection_id": "2F894D65-9E03-4959-91FF-AB5D00BA49D0",
-   "comment": "GPI wasn�t on. The company will email the certified letter of pressure test result to the City. The CSST gas pipe cover has to go inside the coupling for it to be grounded properly. I told them to call it back in for inspection",
+   "comment": "GPI wasn�t on. The company will email the certified letter of pressure test result to the City.",
    "date": "2020-02-11 11:25:00",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2F894D65-9E03-4959-91FF-AB5D00BA49D0"
  },
  {
-   "time_id": "2020021411222075458",
+   "comment_id": "2020021411222075458",
    "title": "Inspection comment",
-   "inspection_id": "1D1A3026-2388-4393-BE9F-AB5D00915E15",
-   "comment": "Homeowner didn�t want to have normal air grids and put in grids like they are in wood floor for supply air. Sun Heating had nothing to do with that. If there isn�t proper return air its on the home owner.",
+   "comment": "Homeowner didn�t want to have normal air grids and put in grids like they are in wood floor for supply air.",
    "date": "2020-02-14 11:22:11",
-   "entered_by": "NYACOUB"
+   "inspection_id": "1D1A3026-2388-4393-BE9F-AB5D00915E15"
  },
  {
-   "time_id": "2020021810521537879",
+   "comment_id": "2020021810521537879",
    "title": "",
-   "inspection_id": "04ED6527-DDD4-4EA0-9FA2-AB6500B2FDC3",
    "comment": "Working without a permit",
    "date": "2020-02-18 10:52:08",
-   "entered_by": "NYACOUB"
+   "inspection_id": "04ED6527-DDD4-4EA0-9FA2-AB6500B2FDC3"
  },
  {
-   "time_id": "2020022107503570356",
+   "comment_id": "2020022107503570356",
    "title": "",
-   "inspection_id": "83F921F8-4039-4F8B-9473-AB60010775BF",
    "comment": "Partial approval. An additional supply air to a few different places. A re-inspection should be called.",
    "date": "2020-02-21 7:50:28",
-   "entered_by": "NYACOUB"
+   "inspection_id": "83F921F8-4039-4F8B-9473-AB60010775BF"
  },
  {
-   "time_id": "2020022414542945683",
+   "comment_id": "2020022414542945683",
    "title": "",
-   "inspection_id": "B3FFF764-FBEB-4C14-B927-AB6800D55686",
    "comment": "Footing ok south spread footing for crawl and small portion on lakeside. Rail footing for crawlspace",
    "date": "2020-02-24 14:54:26",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B3FFF764-FBEB-4C14-B927-AB6800D55686"
  },
  {
-   "time_id": "2020022614265672856",
+   "comment_id": "2020022614265672856",
    "title": "comment",
-   "inspection_id": "54759049-8B5B-4513-B842-AB6D00E9C2F8",
-   "comment": "Construction crew left debris and trash by curbside by mailbox. GFL did not pick it up and it has been sitting outside for a few days. Sue Miller at 3118 Erie called about this",
+   "comment": "Construction crew left debris and trash by curbside by mailbox. GFL did not pick it up and it has been sitting outside",
    "date": "her number is 248-798-6870. She says the homeowner doesn't live in Michigan",
-   "entered_by": "2020-02-26 14:26:51"
+   "inspection_id": "54759049-8B5B-4513-B842-AB6D00E9C2F8"
  },
  {
-   "time_id": "2020022808055839156",
+   "comment_id": "2020022808055839156",
    "title": "",
-   "inspection_id": "97C4D5A9-7C40-4BF4-9FDB-AB6B00E17B03",
    "comment": "rail footing for basement portion ok. steel in place per plan",
    "date": "2020-02-28 8:05:39",
-   "entered_by": "NYACOUB"
+   "inspection_id": "97C4D5A9-7C40-4BF4-9FDB-AB6B00E17B03"
  },
  {
-   "time_id": "2020022814060789476",
+   "comment_id": "2020022814060789476",
    "title": "",
-   "inspection_id": "C41E488D-C702-485A-8D6F-AB6D00D353D8",
    "comment": "basement railed and rerod approved",
    "date": "2020-02-28 14:05:45",
-   "entered_by": "NYACOUB"
+   "inspection_id": "C41E488D-C702-485A-8D6F-AB6D00D353D8"
  },
  {
-   "time_id": "2020030308413216964",
+   "comment_id": "2020030308413216964",
    "title": "",
-   "inspection_id": "828131CC-75B4-4525-91D4-AB73008EDDB6",
    "comment": "Exterior Debris",
    "date": "2020-03-03 8:41:25",
-   "entered_by": "NYACOUB"
+   "inspection_id": "828131CC-75B4-4525-91D4-AB73008EDDB6"
  },
  {
-   "time_id": "2020030413005234160",
+   "comment_id": "2020030413005234160",
    "title": "Scheduling comment",
-   "inspection_id": "E19C8A4C-4D06-4F6D-B1EA-AB7400D64B21",
    "comment": "Lockbox Code 1934",
    "date": "2020-03-04 13:00:52",
-   "entered_by": "NYACOUB"
+   "inspection_id": "E19C8A4C-4D06-4F6D-B1EA-AB7400D64B21"
  },
  {
-   "time_id": "2020030508273271558",
+   "comment_id": "2020030508273271558",
    "title": "",
-   "inspection_id": "018D2B82-B2CD-4BF2-8BB8-AB75008B136E",
    "comment": "Remving Dead Trees. No permit required",
    "date": "2020-03-05 8:27:14",
-   "entered_by": "NYACOUB"
+   "inspection_id": "018D2B82-B2CD-4BF2-8BB8-AB75008B136E"
  },
  {
-   "time_id": "2020030509430013262",
+   "comment_id": "2020030509430013262",
    "title": "",
-   "inspection_id": "10BB9A8B-C531-4A91-AC7F-AB75009D6C41",
    "comment": "Installed 10ft fence on north of property line",
    "date": "2020-03-05 9:42:41",
-   "entered_by": "NYACOUB"
+   "inspection_id": "10BB9A8B-C531-4A91-AC7F-AB75009D6C41"
  },
  {
-   "time_id": "2020030512230684165",
+   "comment_id": "2020030512230684165",
    "title": "Scheduling comment",
-   "inspection_id": "6C24C2A5-74D2-41CB-B62C-AB7500CC0675",
-   "comment": "GPI wasn�t on. The company will email the certified letter of pressure test result to the City. The CSST gas pipe cover has to go inside the coupling for it to be grounded properly. I told them to call it back in for inspection",
+   "comment": "GPI wasn�t on. The company will email the certified letter of pressure test result to the City. ",
    "date": "2020-03-05 12:23:06",
-   "entered_by": "NYACOUB"
+   "inspection_id": "6C24C2A5-74D2-41CB-B62C-AB7500CC0675"
  },
  {
-   "time_id": "2020030909131628259",
+   "comment_id": "2020030909131628259",
    "title": "comment",
-   "inspection_id": "0E742083-B90D-4508-A772-AB790097901C",
    "comment": "Brush in pathway at rear lot",
    "date": "2020-03-09 9:13:11",
-   "entered_by": "lwenzel"
+   "inspection_id": "0E742083-B90D-4508-A772-AB790097901C"
  },
  {
-   "time_id": "2020030915521987769",
+   "comment_id": "2020030915521987769",
    "title": "comment",
-   "inspection_id": "8D1E257E-DE73-4A87-B9FE-AB790104D632",
    "comment": "3/9/20 - Received an email from Marianne Pollard",
-   "date": "(see attached) in which she writes that she is still getting sick from the de-icer used on the street in front of her home.  This has been an ongoing complaint to which she has called or visited the city on several occasions",
-   "entered_by": "the latest being this email dated 3/6/20 received at 2:05 pm.  When she made a complaint before"
+   "date": "",
+   "inspection_id": "8D1E257E-DE73-4A87-B9FE-AB790104D632"
  },
  {
-   "time_id": "2020031108205782570",
+   "comment_id": "2020031108205782570",
    "title": "comment",
-   "inspection_id": "6951C47D-EAD3-4984-89D0-AB7B00897655",
    "comment": "Couch at road",
    "date": "2020-03-11 8:20:53",
-   "entered_by": "lwenzel"
+   "inspection_id": "6951C47D-EAD3-4984-89D0-AB7B00897655"
  },
  {
-   "time_id": "2020031308415845356",
+   "comment_id": "2020031308415845356",
    "title": "",
-   "inspection_id": "B9185AF6-BDB2-43BE-856E-AB7A00D8B6E1",
    "comment": "Final building disapproved",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "B9185AF6-BDB2-43BE-856E-AB7A00D8B6E1"
  },
  {
-   "time_id": "2020031712540699471",
+   "comment_id": "2020031712540699471",
    "title": "",
-   "inspection_id": "60DC60DB-8CDF-439C-A8E8-AB7B00DB975E",
    "comment": "1.\tCannot double tap meter",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "60DC60DB-8CDF-439C-A8E8-AB7B00DB975E"
  },
  {
-   "time_id": "2020031908471857264",
+   "comment_id": "2020031908471857264",
    "title": "Scheduling comment",
-   "inspection_id": "E3D31352-8D0F-42CE-9E42-AB830090B896",
    "comment": "Water & Sewer",
    "date": "2020-03-19 8:47:18",
-   "entered_by": "NYACOUB"
+   "inspection_id": "E3D31352-8D0F-42CE-9E42-AB830090B896"
  },
  {
-   "time_id": "2020031909505014367",
+   "comment_id": "2020031909505014367",
    "title": "Scheduling comment",
-   "inspection_id": "31B79DAE-4B4A-4D0A-A106-AB8300A2076D",
    "comment": "Lockbox # 5961 front door",
    "date": "2020-03-19 9:50:49",
-   "entered_by": "NYACOUB"
+   "inspection_id": "31B79DAE-4B4A-4D0A-A106-AB8300A2076D"
  },
  {
-   "time_id": "201101171154500023395",
+   "comment_id": "201101171154500023395",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N",
-   "date": "R9E",
-   "entered_by": "SEC 15 ORCHARD LAKE WOODLANDS NO 1 LOT 17"
+   "date": "",
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2020040211221126765",
+   "comment_id": "2020040211221126765",
    "title": "comment",
-   "inspection_id": "1EB13B4D-4F2E-49DE-96D9-AB9100BAE80F",
    "comment": "Neighbor called to complain this resident is puttng trash out way too early (thursday for monday pickup.)",
    "date": "2020-04-02 11:22:06",
-   "entered_by": "lwenzel"
+   "inspection_id": "1EB13B4D-4F2E-49DE-96D9-AB9100BAE80F"
  },
  {
-   "time_id": "2020040612205739173",
+   "comment_id": "2020040612205739173",
    "title": "",
-   "inspection_id": "C24AE60D-C7AE-439E-B4B2-AB9500CB05FB",
    "comment": "Planting pine trees on neighbor�s property line",
    "date": "2020-04-06 12:20:54",
-   "entered_by": "NYACOUB"
+   "inspection_id": "C24AE60D-C7AE-439E-B4B2-AB9500CB05FB"
  },
  {
-   "time_id": "2020040613522713775",
+   "comment_id": "2020040613522713775",
    "title": "",
-   "inspection_id": "98632F5E-F0D9-4249-8DF1-AB8100F515AD",
    "comment": "High Grass",
    "date": "2020-04-06 13:52:22",
-   "entered_by": "NYACOUB"
+   "inspection_id": "98632F5E-F0D9-4249-8DF1-AB8100F515AD"
  },
  {
-   "time_id": "2020040613540271077",
+   "comment_id": "2020040613540271077",
    "title": "",
-   "inspection_id": "F2170B0B-BC22-4F76-818D-AB6500D6EAA6",
    "comment": "Bright light shining on 3 Walnut Lane",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "F2170B0B-BC22-4F76-818D-AB6500D6EAA6"
  },
  {
-   "time_id": "201101171154510023770",
+   "comment_id": "201101171154510023770",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N",
-   "date": "R9E",
-   "entered_by": "SEC 16 SHADY BEACH HEIGHTS SUB LOTS 1 TO 5 INCL BLK 13"
+   "date": "",
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2020042308530438670",
+   "comment_id": "2020042308530438670",
    "title": "comment",
-   "inspection_id": "65EB04F4-32A1-4CE6-931E-ABA600923633",
    "comment": "Generator installed in side yard without permit.",
    "date": "2020-04-23 8:52:57",
-   "entered_by": "lwenzel"
+   "inspection_id": "65EB04F4-32A1-4CE6-931E-ABA600923633"
  },
  {
-   "time_id": "2020042310513737774",
+   "comment_id": "2020042310513737774",
    "title": "comment",
-   "inspection_id": "F4A44BF2-ECD9-4A94-8805-ABA600B29766",
    "comment": "Blight on east side of house.",
    "date": "2020-04-23 10:51:32",
-   "entered_by": "lwenzel"
+   "inspection_id": "F4A44BF2-ECD9-4A94-8805-ABA600B29766"
  },
  {
-   "time_id": "2020050813540945375",
+   "comment_id": "2020050813540945375",
    "title": "",
-   "inspection_id": "73F92492-EF06-439E-8700-ABB500E4846B",
-   "comment": "Craig Morgan 248-321-9058 called about his neighbor leaving his boat out on his front lawn. He says his neighbor has done this before for months at a time.",
+   "comment": "Craig Morgan 248-321-9058 called about his neighbor leaving his boat out on his front lawn.",
    "date": "2020-05-08 13:54:05",
-   "entered_by": "lwenzel"
+   "inspection_id": "73F92492-EF06-439E-8700-ABB500E4846B"
  },
  {
-   "time_id": "2020051209373319379",
+   "comment_id": "2020051209373319379",
    "title": "",
-   "inspection_id": "37F58CB4-16A6-4B01-BDC7-ABB9009E6BE0",
    "comment": "trailer parked on vacant lot",
    "date": "2020-05-12 9:37:24",
-   "entered_by": "NYACOUB"
+   "inspection_id": "37F58CB4-16A6-4B01-BDC7-ABB9009E6BE0"
  },
  {
-   "time_id": "2020051214353877841",
+   "comment_id": "2020051214353877841",
    "title": "",
-   "inspection_id": "92B315C9-6C90-445C-B24B-ABB900F05F24",
    "comment": "removing trees without a permit",
    "date": "2020-05-12 14:35:31",
-   "entered_by": "NYACOUB"
+   "inspection_id": "92B315C9-6C90-445C-B24B-ABB900F05F24"
  },
  {
-   "time_id": "2020051214490544063",
+   "comment_id": "2020051214490544063",
    "title": "",
-   "inspection_id": "58319649-C34E-4D20-BBF0-AB7600936238",
    "comment": "Roof was completed pn 5/12/2020. No open roof inspection took place",
    "date": "2020-05-12 14:48:43",
-   "entered_by": "NYACOUB"
+   "inspection_id": "58319649-C34E-4D20-BBF0-AB7600936238"
  },
  {
-   "time_id": "2020051510041817164",
+   "comment_id": "2020051510041817164",
    "title": "comment",
-   "inspection_id": "307C4ACB-020A-4A45-99D7-ABB800EDFD53",
    "comment": "5/13/20 - Garage trench footing approved. Rear patio trench footing approved",
    "date": "down to 5-6 feet deep. To brown clay sand/clay. - GM",
-   "entered_by": "2020-05-15 10:02:51"
+   "inspection_id": "307C4ACB-020A-4A45-99D7-ABB800EDFD53"
  },
  {
-   "time_id": "2020051513393201470",
+   "comment_id": "2020051513393201470",
    "title": "comment",
-   "inspection_id": "017EABED-EAD0-49C6-AD71-ABBC00E0F367",
    "comment": "Call Gerry about fireplace situation before going out",
    "date": "2020-05-15 13:39:15",
-   "entered_by": "lwenzel"
+   "inspection_id": "017EABED-EAD0-49C6-AD71-ABBC00E0F367"
  },
  {
-   "time_id": "2020051807580590259",
+   "comment_id": "2020051807580590259",
    "title": "",
-   "inspection_id": "85F981B8-1289-4D85-B035-ABBF0082FBF3",
    "comment": "investigating Construction of a seawall",
    "date": "2020-05-18 7:58:03",
-   "entered_by": "NYACOUB"
+   "inspection_id": "85F981B8-1289-4D85-B035-ABBF0082FBF3"
  },
  {
-   "time_id": "2020051808390394662",
+   "comment_id": "2020051808390394662",
    "title": "Scheduling comment",
-   "inspection_id": "E6492DDD-1FCA-484E-B032-ABBF008E4C0C",
    "comment": "248-563-3816 Kevin",
    "date": "2020-05-18 8:39:04",
-   "entered_by": "NYACOUB"
+   "inspection_id": "E6492DDD-1FCA-484E-B032-ABBF008E4C0C"
  },
  {
-   "time_id": "2020051811021694479",
+   "comment_id": "2020051811021694479",
    "title": "",
-   "inspection_id": "159744FB-39DB-421D-88ED-ABBF00B5986B",
    "comment": "Pile of sand",
    "date": "2020-05-18 11:02:10",
-   "entered_by": "NYACOUB"
+   "inspection_id": "159744FB-39DB-421D-88ED-ABBF00B5986B"
  },
  {
-   "time_id": "2020051811572921883",
+   "comment_id": "2020051811572921883",
    "title": "",
-   "inspection_id": "FF050EE5-5A46-427E-9418-ABBF00C4A9DA",
    "comment": "Interior work without a permit",
    "date": "2020-05-18 11:56:47",
-   "entered_by": "NYACOUB"
+   "inspection_id": "FF050EE5-5A46-427E-9418-ABBF00C4A9DA"
  },
  {
-   "time_id": "2020051813503671589",
+   "comment_id": "2020051813503671589",
    "title": "",
-   "inspection_id": "B14039FD-925C-40E2-A351-ABBF00B1CE46",
    "comment": "waiting on as-built grade plan",
    "date": "2020-05-18 13:50:19",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B14039FD-925C-40E2-A351-ABBF00B1CE46"
  },
  {
-   "time_id": "2020052109245610495",
+   "comment_id": "2020052109245610495",
    "title": "comment",
-   "inspection_id": "44E00294-0729-43D9-B7BC-ABBC0088FA6A",
    "comment": "Footing for porte cochere approved. Tester on site to do housel test and concrete test",
    "date": "reports forthcoming.",
-   "entered_by": "2020-05-21 9:23:18"
+   "inspection_id": "44E00294-0729-43D9-B7BC-ABBC0088FA6A"
  },
  {
-   "time_id": "2020052114532100191",
+   "comment_id": "2020052114532100191",
    "title": "comment",
-   "inspection_id": "072E190E-AAF7-44D0-B826-ABC200F537F8",
    "comment": "Should be ready for inspection in 1-2 weeks - DLP",
    "date": "2020-05-21 14:53:04",
-   "entered_by": "lwenzel"
+   "inspection_id": "072E190E-AAF7-44D0-B826-ABC200F537F8"
  },
  {
-   "time_id": "2020052114581096793",
+   "comment_id": "2020052114581096793",
    "title": "comment",
-   "inspection_id": "46F1C6E1-7395-43BD-B553-ABC200A2433E",
-   "comment": "5.21.20 Spoke with homeowner. She needs a report from a tree contractor saying the trees are dead/dying and need to be removed. They don't appear to be dead. Once I receive this",
-   "date": "I will do another inspection. - DLP",
-   "entered_by": "2020-05-21 14:57:16"
+   "comment": "5.21.20 Spoke with homeowner. She needs a report saying tree dead. Once I receive this",
+   "date": "2020-05-21 14:57:16",
+   "inspection_id": "46F1C6E1-7395-43BD-B553-ABC200A2433E"
  },
  {
-   "time_id": "2020052115052390795",
+   "comment_id": "2020052115052390795",
    "title": "comment",
-   "inspection_id": "6BAEE2EC-2D2B-4187-9A47-ABC200789765",
    "comment": "5.21.20",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "6BAEE2EC-2D2B-4187-9A47-ABC200789765"
  },
  {
-   "time_id": "2020052609343619977",
+   "comment_id": "2020052609343619977",
    "title": "",
-   "inspection_id": "A9681734-082B-4238-98FF-ABC7009DABC8",
    "comment": "High Grass",
    "date": "2020-05-26 9:34:31",
-   "entered_by": "NYACOUB"
+   "inspection_id": "A9681734-082B-4238-98FF-ABC7009DABC8"
  },
  {
-   "time_id": "2020052612055653795",
+   "comment_id": "2020052612055653795",
    "title": "",
-   "inspection_id": "B849032F-4698-4AB9-A0C8-ABC700C72536",
    "comment": "Lakeside work without a permit",
    "date": "2020-05-26 12:05:43",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B849032F-4698-4AB9-A0C8-ABC700C72536"
  },
  {
-   "time_id": "2020052612084439424",
+   "comment_id": "2020052612084439424",
    "title": "",
-   "inspection_id": "5DFE1FCC-39BF-43A8-B507-ABC700C7C301",
    "comment": "tree removal",
    "date": "2020-05-26 12:08:37",
-   "entered_by": "NYACOUB"
+   "inspection_id": "5DFE1FCC-39BF-43A8-B507-ABC700C7C301"
  },
  {
-   "time_id": "2020052614285737437",
+   "comment_id": "2020052614285737437",
    "title": "Scheduling comment",
-   "inspection_id": "E14D3DDD-E425-4DCC-BED1-ABC700EE8F0D",
    "comment": "No Address posted on the house",
    "date": "2020-05-26 14:28:57",
-   "entered_by": "NYACOUB"
+   "inspection_id": "E14D3DDD-E425-4DCC-BED1-ABC700EE8F0D"
  },
  {
-   "time_id": "2020052614484425048",
+   "comment_id": "2020052614484425048",
    "title": "Scheduling comment",
-   "inspection_id": "8AC2CC05-7409-41F7-917F-ABC700F3C77E",
-   "comment": "248-683-2268 Mrs. Atikian called and complaint on the roof job and want they City to inspect the roof and final it.",
+   "comment": "248-683-2268 want they City to inspect the roof and final it.",
    "date": "2020-05-26 14:48:44",
-   "entered_by": "NYACOUB"
+   "inspection_id": "8AC2CC05-7409-41F7-917F-ABC700F3C77E"
  },
  {
-   "time_id": "2020052614505902852",
+   "comment_id": "2020052614505902852",
    "title": "",
-   "inspection_id": "0CB461D4-4867-4AEF-9940-ABC700F4672D",
    "comment": "High Grass",
    "date": "2020-05-26 14:50:55",
-   "entered_by": "NYACOUB"
+   "inspection_id": "0CB461D4-4867-4AEF-9940-ABC700F4672D"
  },
  {
-   "time_id": "2020052614522326356",
+   "comment_id": "2020052614522326356",
    "title": "",
-   "inspection_id": "3E8502B1-D149-4942-8761-ABC700F50385",
    "comment": "High Grass",
    "date": "2020-05-26 14:52:19",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3E8502B1-D149-4942-8761-ABC700F50385"
  },
  {
-   "time_id": "2020052808514244571",
+   "comment_id": "2020052808514244571",
    "title": "comment",
-   "inspection_id": "57EFAE95-775E-4DFF-A52C-ABC90091F0E9",
    "comment": "Lockbox code is 5961",
    "date": "2020-05-28 8:51:30",
-   "entered_by": "lwenzel"
+   "inspection_id": "57EFAE95-775E-4DFF-A52C-ABC90091F0E9"
  },
  {
-   "time_id": "2020052816134096681",
+   "comment_id": "2020052816134096681",
    "title": "comment",
-   "inspection_id": "142E720A-6C85-4C17-BBCF-ABC9010B289E",
    "comment": "Neighbor called to report blight issue on this property. Tall weeds and grass.",
    "date": "2020-05-28 16:13:32",
-   "entered_by": "lwenzel"
+   "inspection_id": "142E720A-6C85-4C17-BBCF-ABC9010B289E"
  },
  {
-   "time_id": "2020052816250248783",
+   "comment_id": "2020052816250248783",
    "title": "comment",
-   "inspection_id": "CA6BEAB7-5280-44F7-A294-ABC700DA0107",
-   "comment": "Did another inspection - rear yard is non graded. Silt fence is up but not installed properly. - GM",
+   "comment": "Did another inspection - rear yard is non graded. Silt fence not installed properly. - GM",
    "date": "2020-05-28 16:24:29",
-   "entered_by": "lwenzel"
+   "inspection_id": "CA6BEAB7-5280-44F7-A294-ABC700DA0107"
  },
  {
-   "time_id": "2020052816260929485",
+   "comment_id": "2020052816260929485",
    "title": "comment",
-   "inspection_id": "EDB4FCFA-CC39-47C6-A90E-ABC700D9AE9B",
    "comment": "Open roof - rear complete. Front is 50% open. Approved. - GM",
    "date": "2020-05-28 16:25:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "EDB4FCFA-CC39-47C6-A90E-ABC700D9AE9B"
  },
  {
-   "time_id": "2020060409304594476",
+   "comment_id": "2020060409304594476",
    "title": "Lockbox",
-   "inspection_id": "BCEFA78D-EBFB-45CA-B13E-ABD0009C7B14",
    "comment": "Code is 1373",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "BCEFA78D-EBFB-45CA-B13E-ABD0009C7B14"
  },
  {
-   "time_id": "2020060414572462384",
+   "comment_id": "2020060414572462384",
    "title": "comment",
-   "inspection_id": "06DA838C-287E-4764-836D-ABD0009C438E",
    "comment": "Insulation approved except for bonus room over garage (not ready).",
    "date": "2020-06-04 14:56:54",
-   "entered_by": "lwenzel"
+   "inspection_id": "06DA838C-287E-4764-836D-ABD0009C438E"
  },
  {
-   "time_id": "2020060415124361493",
+   "comment_id": "2020060415124361493",
    "title": "comment",
-   "inspection_id": "32A231D9-5EE0-4551-8C47-ABD000F975B3",
    "comment": "Contractor can be reached at 248-620-7087",
    "date": "2020-06-04 15:12:13",
-   "entered_by": "lwenzel"
+   "inspection_id": "32A231D9-5EE0-4551-8C47-ABD000F975B3"
  },
  {
-   "time_id": "2020060415245600933",
+   "comment_id": "2020060415245600933",
    "title": "comment",
-   "inspection_id": "5DB5C248-E2D0-4729-B907-ABD000FDEC53",
    "comment": "High grass",
    "date": "2020-06-04 15:24:48",
-   "entered_by": "lwenzel"
+   "inspection_id": "5DB5C248-E2D0-4729-B907-ABD000FDEC53"
  },
  {
-   "time_id": "2020060415260416337",
+   "comment_id": "2020060415260416337",
    "title": "comment",
-   "inspection_id": "D0168C6B-4EAA-45F0-BFFA-ABD000FB6A9A",
    "comment": "High grass",
    "date": "2020-06-04 15:25:52",
-   "entered_by": "lwenzel"
+   "inspection_id": "D0168C6B-4EAA-45F0-BFFA-ABD000FB6A9A"
  },
  {
-   "time_id": "2020060415263541141",
+   "comment_id": "2020060415263541141",
    "title": "comment",
-   "inspection_id": "4306A48B-D71A-4A5A-AD0F-ABD000FE6616",
    "comment": "High grass",
    "date": "2020-06-04 15:26:29",
-   "entered_by": "lwenzel"
+   "inspection_id": "4306A48B-D71A-4A5A-AD0F-ABD000FE6616"
  },
  {
-   "time_id": "2020060415354959951",
+   "comment_id": "2020060415354959951",
    "title": "comment",
-   "inspection_id": "92E5C53C-74C5-4595-AAF2-ABD00100D89C",
    "comment": "high grass",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "92E5C53C-74C5-4595-AAF2-ABD00100D89C"
  },
  {
-   "time_id": "2020060415374430157",
+   "comment_id": "2020060415374430157",
    "title": "comment",
-   "inspection_id": "12249CE8-7744-46B0-8F3C-ABD001016A71",
    "comment": "high grass",
    "date": "2020-06-04 15:37:36",
-   "entered_by": "lwenzel"
+   "inspection_id": "12249CE8-7744-46B0-8F3C-ABD001016A71"
  },
  {
-   "time_id": "2020060415393921963",
+   "comment_id": "2020060415393921963",
    "title": "comment",
-   "inspection_id": "A5DF9C09-3B71-4610-8471-ABD00101C990",
    "comment": "high grass",
    "date": "2020-06-04 15:39:35",
-   "entered_by": "lwenzel"
+   "inspection_id": "A5DF9C09-3B71-4610-8471-ABD00101C990"
  },
  {
-   "time_id": "2020060415405982868",
+   "comment_id": "2020060415405982868",
    "title": "comment",
-   "inspection_id": "30688982-A0B2-4FD6-A2F0-ABD0010258EA",
    "comment": "high grass",
    "date": "2020-06-04 15:40:53",
-   "entered_by": "lwenzel"
+   "inspection_id": "30688982-A0B2-4FD6-A2F0-ABD0010258EA"
  },
  {
-   "time_id": "2020060415424230974",
+   "comment_id": "2020060415424230974",
    "title": "comment",
-   "inspection_id": "A6312E15-2A07-4640-B217-ABD00102B817",
    "comment": "high grass",
    "date": "2020-06-04 15:42:16",
-   "entered_by": "lwenzel"
+   "inspection_id": "A6312E15-2A07-4640-B217-ABD00102B817"
  },
  {
-   "time_id": "2020060415434488780",
+   "comment_id": "2020060415434488780",
    "title": "comment",
-   "inspection_id": "82563D8F-60F6-451A-8465-ABD001031E74",
    "comment": "high grass",
    "date": "2020-06-04 15:43:38",
-   "entered_by": "lwenzel"
+   "inspection_id": "82563D8F-60F6-451A-8465-ABD001031E74"
  },
  {
-   "time_id": "2020060514210315882",
+   "comment_id": "2020060514210315882",
    "title": "comment",
-   "inspection_id": "A9DDD39C-8867-48A3-9DFE-ABCD00859B1E",
    "comment": "Steve's inspection notes:",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "A9DDD39C-8867-48A3-9DFE-ABCD00859B1E"
  },
  {
-   "time_id": "2020060514221044986",
+   "comment_id": "2020060514221044986",
    "title": "comment",
-   "inspection_id": "CC4E8858-8C3F-45B7-A1D6-ABD100ECA150",
    "comment": "Tall grass at front of lot on Sunbeam.",
    "date": "2020-06-05 14:22:06",
-   "entered_by": "lwenzel"
+   "inspection_id": "CC4E8858-8C3F-45B7-A1D6-ABD100ECA150"
  },
  {
-   "time_id": "2020060514244551788",
+   "comment_id": "2020060514244551788",
    "title": "comment",
-   "inspection_id": "E45E8519-82CB-4621-832C-ABCD0085F46D",
    "comment": "Notes:",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "E45E8519-82CB-4621-832C-ABCD0085F46D"
  },
  {
-   "time_id": "2020060809353304082",
+   "comment_id": "2020060809353304082",
    "title": "",
-   "inspection_id": "FEE57749-E192-4081-BB1A-ABD4009DE5B0",
    "comment": "Possible work without a permit - Siding work and Porch",
    "date": "2020-06-08 9:35:31",
-   "entered_by": "NYACOUB"
+   "inspection_id": "FEE57749-E192-4081-BB1A-ABD4009DE5B0"
  },
  {
-   "time_id": "2020060814095574239",
+   "comment_id": "2020060814095574239",
    "title": "Inspection Result",
-   "inspection_id": "BCEFA78D-EBFB-45CA-B13E-ABD0009C7B14",
    "comment": "Need Pressure Test on the underground PVC",
    "date": "2020-06-08 14:09:36",
-   "entered_by": "NYACOUB"
+   "inspection_id": "BCEFA78D-EBFB-45CA-B13E-ABD0009C7B14"
  },
  {
-   "time_id": "2020060814375978241",
+   "comment_id": "2020060814375978241",
    "title": "Inspection Result",
-   "inspection_id": "32A231D9-5EE0-4551-8C47-ABD000F975B3",
    "comment": "1.\tR/A opening not large enough",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "32A231D9-5EE0-4551-8C47-ABD000F975B3"
  },
  {
-   "time_id": "2020061112552870775",
+   "comment_id": "2020061112552870775",
    "title": "comment",
-   "inspection_id": "FBFBB5E8-8BBA-4706-826B-ABD6008FC3BD",
    "comment": "Ralph Faranso is requesting the inspection be done at 2PM.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "FBFBB5E8-8BBA-4706-826B-ABD6008FC3BD"
  },
  {
-   "time_id": "2020061210183157860",
+   "comment_id": "2020061210183157860",
    "title": "comment",
-   "inspection_id": "536F6A38-7C68-4287-AE6B-ABD800A96D36",
-   "comment": "Utility lines are hanging over the driveway. Homeowner is asking the City to help fix this.",
+   "comment": "Utility lines are hanging over the driveway.asking the City to help fix this.",
    "date": "2020-06-12 10:18:27",
-   "entered_by": "lwenzel"
+   "inspection_id": "536F6A38-7C68-4287-AE6B-ABD800A96D36"
  },
  {
-   "time_id": "2020061210461045264",
+   "comment_id": "2020061210461045264",
    "title": "comment",
-   "inspection_id": "7021DC30-3A8D-4748-AB66-ABD800B0CB4B",
    "comment": "Fireplace is on the porch",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "7021DC30-3A8D-4748-AB66-ABD800B0CB4B"
  },
  {
-   "time_id": "2020061215102709371",
+   "comment_id": "2020061215102709371",
    "title": "comment",
-   "inspection_id": "4E4A794E-82CF-4F5F-8731-ABD800F9F804",
    "comment": "high grass",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "4E4A794E-82CF-4F5F-8731-ABD800F9F804"
  },
  {
-   "time_id": "2020061215130823777",
+   "comment_id": "2020061215130823777",
    "title": "comment",
-   "inspection_id": "092AF7EF-259D-4981-A30D-ABD800FAB3B1",
    "comment": "high grass",
    "date": "2020-06-12 15:13:01",
-   "entered_by": "lwenzel"
+   "inspection_id": "092AF7EF-259D-4981-A30D-ABD800FAB3B1"
  },
  {
-   "time_id": "2020061608351636659",
+   "comment_id": "2020061608351636659",
    "title": "comment",
-   "inspection_id": "6F2FDCFB-AC2B-4BB7-BAF9-ABDC008D6857",
    "comment": "high grass",
    "date": "2020-06-16 8:35:10",
-   "entered_by": "lwenzel"
+   "inspection_id": "6F2FDCFB-AC2B-4BB7-BAF9-ABDC008D6857"
  },
  {
-   "time_id": "2020061608371497965",
+   "comment_id": "2020061608371497965",
    "title": "comment",
-   "inspection_id": "9BFADC79-615E-48F3-B836-ABDC008DF2F8",
    "comment": "high grass",
    "date": "2020-06-16 8:37:07",
-   "entered_by": "lwenzel"
+   "inspection_id": "9BFADC79-615E-48F3-B836-ABDC008DF2F8"
  },
  {
-   "time_id": "2020061712531020964",
+   "comment_id": "2020061712531020964",
    "title": "",
-   "inspection_id": "C4E56B3F-2500-45D5-ACA6-ABDC009E25CB",
    "comment": "trench footing garage and expanded foyer",
    "date": "2020-06-17 12:52:54",
-   "entered_by": "NYACOUB"
+   "inspection_id": "C4E56B3F-2500-45D5-ACA6-ABDC009E25CB"
  },
  {
-   "time_id": "2020061712562597166",
+   "comment_id": "2020061712562597166",
    "title": "Inspection Result",
-   "inspection_id": "1EE57E86-D5E6-4540-B228-ABDB0085276E",
    "comment": "1-\tProvide additional anchors on ledger supporting rafters at brick wall south side of front entrance",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "1EE57E86-D5E6-4540-B228-ABDB0085276E"
  },
  {
-   "time_id": "2020061913231103061",
+   "comment_id": "2020061913231103061",
    "title": "Scheduling comment",
-   "inspection_id": "6FD8394F-F88F-497A-9204-ABDF00DC7A26",
    "comment": "1.\tR/A opening not large enough",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "6FD8394F-F88F-497A-9204-ABDF00DC7A26"
  },
  {
-   "time_id": "2020061913590049361",
+   "comment_id": "2020061913590049361",
    "title": "comment",
-   "inspection_id": "22F77D19-5049-4F49-93D8-ABDF00E65AAE",
    "comment": "high grass",
    "date": "2020-06-19 13:58:55",
-   "entered_by": "lwenzel"
+   "inspection_id": "22F77D19-5049-4F49-93D8-ABDF00E65AAE"
  },
  {
-   "time_id": "2020061913594141865",
+   "comment_id": "2020061913594141865",
    "title": "comment",
-   "inspection_id": "1F1CB3D9-C2FB-4CF2-9D74-ABDF00E68A8D",
    "comment": "high grass",
    "date": "2020-06-19 13:59:36",
-   "entered_by": "lwenzel"
+   "inspection_id": "1F1CB3D9-C2FB-4CF2-9D74-ABDF00E68A8D"
  },
  {
-   "time_id": "2020062210534837757",
+   "comment_id": "2020062210534837757",
    "title": "",
-   "inspection_id": "50C6EA00-A22D-4689-A6AB-ABE200B362D5",
    "comment": "lockbox 5961",
    "date": "2020-06-22 10:53:38",
-   "entered_by": "NYACOUB"
+   "inspection_id": "50C6EA00-A22D-4689-A6AB-ABE200B362D5"
  },
  {
-   "time_id": "2020062312432340353",
+   "comment_id": "2020062312432340353",
    "title": "Scheduling comment",
-   "inspection_id": "BDC2128B-0EEB-45E2-8AA0-ABE300D19DAF",
    "comment": "Lockbox 1985",
    "date": "2020-06-23 12:43:23",
-   "entered_by": "NYACOUB"
+   "inspection_id": "BDC2128B-0EEB-45E2-8AA0-ABE300D19DAF"
  },
  {
-   "time_id": "2020062409484307069",
+   "comment_id": "2020062409484307069",
    "title": "comment",
-   "inspection_id": "FC2A37FA-B366-450F-B534-ABE400A19124",
    "comment": "high weeds/grass",
    "date": "2020-06-24 9:48:34",
-   "entered_by": "lwenzel"
+   "inspection_id": "FC2A37FA-B366-450F-B534-ABE400A19124"
  },
  {
-   "time_id": "2020062412370974687",
+   "comment_id": "2020062412370974687",
    "title": "comment",
-   "inspection_id": "5986AE90-854C-4C0B-BFF7-ABE400CFDBD2",
    "comment": "high grass",
    "date": "2020-06-24 12:37:04",
-   "entered_by": "lwenzel"
+   "inspection_id": "5986AE90-854C-4C0B-BFF7-ABE400CFDBD2"
  },
  {
-   "time_id": "2020062508333586458",
+   "comment_id": "2020062508333586458",
    "title": "comment",
-   "inspection_id": "3CFDB719-CDC9-434F-AA39-ABE5008CD4F1",
    "comment": "Possible landscaping work being done without a permit",
    "date": "2020-06-25 8:33:31",
-   "entered_by": "lwenzel"
+   "inspection_id": "3CFDB719-CDC9-434F-AA39-ABE5008CD4F1"
  },
  {
-   "time_id": "2020062512153633458",
+   "comment_id": "2020062512153633458",
    "title": "Scheduling comment",
-   "inspection_id": "3FD610FD-2089-45AD-8739-ABE500C9D95F",
    "comment": "Contact Robert 734-558-6802 Before Inspection",
    "date": "2020-06-25 12:15:36",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3FD610FD-2089-45AD-8739-ABE500C9D95F"
  },
  {
-   "time_id": "2020062512265626668",
+   "comment_id": "2020062512265626668",
    "title": "Inspection comment",
-   "inspection_id": "0725BB9F-D52D-4042-9D69-ABE300C9E9BF",
    "comment": "1. Turn the water heater up bet 135 to 145 degrees and then adjust tubs and showers bet 110 to 120 degrees.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "0725BB9F-D52D-4042-9D69-ABE300C9E9BF"
  },
  {
-   "time_id": "2020062512290057070",
+   "comment_id": "2020062512290057070",
    "title": "comment",
-   "inspection_id": "2DBDF517-9878-49EF-8343-ABE500CCB28F",
    "comment": "Added 10 stacks and reinspection fee. - LW",
    "date": "2020-06-25 12:28:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "2DBDF517-9878-49EF-8343-ABE500CCB28F"
  },
  {
-   "time_id": "2020062515341186781",
+   "comment_id": "2020062515341186781",
    "title": "comment",
-   "inspection_id": "0F51389E-6FBF-4822-BB36-ABE500B0C311",
    "comment": "This is the second time I have been at this house for underground plumbing.  I was there about a month ago and failed it because there was no test. The underground is outside but not considered a W&S.  I wanted a test the first time when I failed it.  I got a call from the Plumber today to ask me if I could go back out there today.  I did and there was no test again.  He was assuming that since it e=was outside he wouldn�t need a test. My sticker says he still needs a test.  So far I�ve had 2 inspections there. He should probably be billed for the 2 inspections.\n Thanks,\n Steve",
    "date": "2020-06-25 15:34:00",
-   "entered_by": "lwenzel"
+   "inspection_id": "0F51389E-6FBF-4822-BB36-ABE500B0C311"
  },
  {
-   "time_id": "2020062611515534257",
+   "comment_id": "2020062611515534257",
    "title": "Scheduling comment",
-   "inspection_id": "D2C1802C-A1B6-4837-AF82-ABE600C3666A",
    "comment": "Julio 586-835-8984",
    "date": "2020-06-26 11:51:55",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D2C1802C-A1B6-4837-AF82-ABE600C3666A"
  },
  {
-   "time_id": "2020062914160824063",
+   "comment_id": "2020062914160824063",
    "title": "Lockbox",
-   "inspection_id": "B56FDDA1-CA2B-4367-A6DC-ABE900EAFFE7",
    "comment": "Lockbox: 1373",
    "date": "2020-06-29 14:15:47",
-   "entered_by": "lwenzel"
+   "inspection_id": "B56FDDA1-CA2B-4367-A6DC-ABE900EAFFE7"
  },
  {
-   "time_id": "2020063008222677756",
+   "comment_id": "2020063008222677756",
    "title": "comment",
-   "inspection_id": "2DBDF517-9878-49EF-8343-ABE500CCB28F",
    "comment": "1. Temperatures still aren't adjusted properly.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "2DBDF517-9878-49EF-8343-ABE500CCB28F"
  },
  {
-   "time_id": "2020070110440559580",
+   "comment_id": "2020070110440559580",
    "title": "Inspection comment",
-   "inspection_id": "B56FDDA1-CA2B-4367-A6DC-ABE900EAFFE7",
    "comment": "Reconnect bath fan ducts to terminations",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "B56FDDA1-CA2B-4367-A6DC-ABE900EAFFE7"
  },
  {
-   "time_id": "2020070113454998289",
+   "comment_id": "2020070113454998289",
    "title": "Inspection comment",
-   "inspection_id": "E65F9325-30B8-476A-B111-ABEB00B312F9",
    "comment": "6/24/2020 Final Building Inspection",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "E65F9325-30B8-476A-B111-ABEB00B312F9"
  },
  {
-   "time_id": "2020070115485065223",
+   "comment_id": "2020070115485065223",
    "title": "comment",
-   "inspection_id": "DDB3682A-8772-40E0-983A-ABEB0103AA19",
    "comment": "High weeds",
    "date": "2020-07-01 15:48:44",
-   "entered_by": "lwenzel"
+   "inspection_id": "DDB3682A-8772-40E0-983A-ABEB0103AA19"
  },
  {
-   "time_id": "2020070609364579457",
+   "comment_id": "2020070609364579457",
    "title": "",
-   "inspection_id": "03C0D4BF-C471-4590-8571-ABEB01028EA6",
    "comment": "insulation ok. Provide insulation certificate at time of final inspection",
    "date": "2020-07-06 9:36:11",
-   "entered_by": "NYACOUB"
+   "inspection_id": "03C0D4BF-C471-4590-8571-ABEB01028EA6"
  },
  {
-   "time_id": "2020070611310394162",
+   "comment_id": "2020070611310394162",
    "title": "Inspection comment",
-   "inspection_id": "881FCC1E-5730-41C0-AFDC-ABE900F34ADE",
    "comment": "Plugs not working",
    "date": "2020-07-06 11:30:48",
-   "entered_by": "lwenzel"
+   "inspection_id": "881FCC1E-5730-41C0-AFDC-ABE900F34ADE"
  },
  {
-   "time_id": "2020070715055213257",
+   "comment_id": "2020070715055213257",
    "title": "",
-   "inspection_id": "BADE2F69-442E-447B-A842-ABBF008235E5",
    "comment": "Spoke with Symon who told me he will be apply for a permit for brick patio. He will have his contractor pull the permit",
    "date": "2020-07-07 15:05:42",
-   "entered_by": "NYACOUB"
+   "inspection_id": "BADE2F69-442E-447B-A842-ABBF008235E5"
  },
  {
-   "time_id": "2020070815283548667",
+   "comment_id": "2020070815283548667",
    "title": "comment",
-   "inspection_id": "A1355A06-A81E-4CAA-A0B4-ABF000DC89BC",
    "comment": "Pre fab reinspection",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "A1355A06-A81E-4CAA-A0B4-ABF000DC89BC"
  },
  {
-   "time_id": "2011012810543700111",
+   "comment_id": "2011012810543700111",
    "title": "Final Failed",
-   "inspection_id": "9D5C2A9B-617F-4A85-87EC-F2C93516DAF0",
    "comment": "Provide air balance to City secure gasline @ furnace",
    "date": "2011-01-28 10:54:37",
-   "entered_by": ""
+   "inspection_id": "9D5C2A9B-617F-4A85-87EC-F2C93516DAF0"
  },
  {
-   "time_id": "2020071012273143482",
+   "comment_id": "2020071012273143482",
    "title": "Inspection comment",
-   "inspection_id": "B6E42AA3-A950-49DA-A38B-ABF3009B3DA2",
    "comment": "Need to inspect bond insulation in basement on final",
    "date": "2020-07-10 12:27:07",
-   "entered_by": "lwenzel"
+   "inspection_id": "B6E42AA3-A950-49DA-A38B-ABF3009B3DA2"
  },
  {
-   "time_id": "2020071314481277173",
+   "comment_id": "2020071314481277173",
    "title": "Inspection comment",
-   "inspection_id": "98181C7E-E00B-4236-A2BF-ABF70085E7C0",
    "comment": "Spoke to Bob Hoffman the demo contractor. He will clean up the hole and take a photo - DLP",
    "date": "2020-07-13 14:47:35",
-   "entered_by": "lwenzel"
+   "inspection_id": "98181C7E-E00B-4236-A2BF-ABF70085E7C0"
  },
  {
-   "time_id": "2020071611093487662",
+   "comment_id": "2020071611093487662",
    "title": "Inspection comment",
-   "inspection_id": "712A45E9-29AA-44D2-A6C7-ABF700F6C6C3",
    "comment": "Basement egress window",
    "date": "2020-07-16 11:09:17",
-   "entered_by": "lwenzel"
+   "inspection_id": "712A45E9-29AA-44D2-A6C7-ABF700F6C6C3"
  },
  {
-   "time_id": "2020072208031192658",
+   "comment_id": "2020072208031192658",
    "title": "",
-   "inspection_id": "00443EF0-8A51-474B-B156-AC00008478D0",
    "comment": "Expired Business License",
    "date": "2020-07-22 8:03:04",
-   "entered_by": "NYACOUB"
+   "inspection_id": "00443EF0-8A51-474B-B156-AC00008478D0"
  },
  {
-   "time_id": "2020072208043769562",
+   "comment_id": "2020072208043769562",
    "title": "",
-   "inspection_id": "48AD3A40-2470-42C6-B860-AC000084E5E9",
    "comment": "Expired Business License",
    "date": "2020-07-22 8:04:22",
-   "entered_by": "NYACOUB"
+   "inspection_id": "48AD3A40-2470-42C6-B860-AC000084E5E9"
  },
  {
-   "time_id": "2020072208053935466",
+   "comment_id": "2020072208053935466",
    "title": "",
-   "inspection_id": "7EE3987A-9172-47F6-818C-AC0000854072",
    "comment": "Expired Business License",
    "date": "2020-07-22 8:05:25",
-   "entered_by": "NYACOUB"
+   "inspection_id": "7EE3987A-9172-47F6-818C-AC0000854072"
  },
  {
-   "time_id": "2020072208063497970",
+   "comment_id": "2020072208063497970",
    "title": "",
-   "inspection_id": "C8859F88-D69A-4CF5-83E6-AC0000858927",
    "comment": "Expired Business License",
    "date": "2020-07-22 8:06:24",
-   "entered_by": "NYACOUB"
+   "inspection_id": "C8859F88-D69A-4CF5-83E6-AC0000858927"
  },
  {
-   "time_id": "2020072208073164774",
+   "comment_id": "2020072208073164774",
    "title": "",
-   "inspection_id": "8D260FF2-551F-4171-868C-AC000085C509",
    "comment": "Expired Business License",
    "date": "2020-07-22 8:07:24",
-   "entered_by": "NYACOUB"
+   "inspection_id": "8D260FF2-551F-4171-868C-AC000085C509"
  },
  {
-   "time_id": "2020072713064990156",
+   "comment_id": "2020072713064990156",
    "title": "Inspection comment",
-   "inspection_id": "86445A0E-4747-45FE-8926-AC0200D8A9FF",
    "comment": "Need to install gas line to garage heater and properly secure basement furnace.",
    "date": "2020-07-27 13:06:13",
-   "entered_by": "lwenzel"
+   "inspection_id": "86445A0E-4747-45FE-8926-AC0200D8A9FF"
  },
  {
-   "time_id": "2020072813153609374",
+   "comment_id": "2020072813153609374",
    "title": "",
-   "inspection_id": "5986AE90-854C-4C0B-BFF7-ABE400CFDBD2",
    "comment": "High Grass",
    "date": "2020-07-28 13:15:30",
-   "entered_by": "NYACOUB"
+   "inspection_id": "5986AE90-854C-4C0B-BFF7-ABE400CFDBD2"
  },
  {
-   "time_id": "2020072813515069876",
+   "comment_id": "2020072813515069876",
    "title": "comment",
-   "inspection_id": "E9C17279-D2A9-4299-8DB9-AC0500D465CF",
    "comment": "Remove water from hole - DLP",
    "date": "2020-07-28 13:51:38",
-   "entered_by": "lwenzel"
+   "inspection_id": "E9C17279-D2A9-4299-8DB9-AC0500D465CF"
  },
  {
-   "time_id": "2020072814490569584",
+   "comment_id": "2020072814490569584",
    "title": "Inspection comment",
-   "inspection_id": "16111972-B2F1-44BD-82EA-AC0500FA75BA",
    "comment": "Inspected water line only. I have approved from the road to within 50 feet from the house. I gave them approval to back fill that portion of pipe.",
    "date": "2020-07-28 14:48:00",
-   "entered_by": "lwenzel"
+   "inspection_id": "16111972-B2F1-44BD-82EA-AC0500FA75BA"
  },
  {
-   "time_id": "2020072909261793957",
+   "comment_id": "2020072909261793957",
    "title": "Inspection comment",
-   "inspection_id": "06B25F79-605F-4488-B050-ABFF00B7AC6A",
    "comment": "1) GFI plugs in poolhouse",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "06B25F79-605F-4488-B050-ABFF00B7AC6A"
  },
  {
-   "time_id": "2020073012434046458",
+   "comment_id": "2020073012434046458",
    "title": "Scheduling comment",
-   "inspection_id": "951C1215-AF82-4E02-BB77-AC0800D19FD5",
    "comment": "Kevin 248-563-3816",
    "date": "2020-07-30 12:43:40",
-   "entered_by": "NYACOUB"
+   "inspection_id": "951C1215-AF82-4E02-BB77-AC0800D19FD5"
  },
  {
-   "time_id": "2020073015301824562",
+   "comment_id": "2020073015301824562",
    "title": "Inspection comment",
-   "inspection_id": "9D52C804-E591-433F-80A2-AC0800C37E73",
    "comment": "Not Approved - Per DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "9D52C804-E591-433F-80A2-AC0800C37E73"
  },
  {
-   "time_id": "2020073015370819064",
+   "comment_id": "2020073015370819064",
    "title": "Inspection comment",
-   "inspection_id": "94904FFF-3D90-4DD5-A410-AC0800F73480",
    "comment": "Did another inspection and found the waterline that I inspected on 7/28/20 was now backfilled and the balance of the line to the house was not completed. Also found 3 sections of the sewer load pipe installed and approved.",
    "date": "2020-07-30 15:32:14",
-   "entered_by": "lwenzel"
+   "inspection_id": "94904FFF-3D90-4DD5-A410-AC0800F73480"
  },
  {
-   "time_id": "201101171154540024226",
+   "comment_id": "201101171154540024226",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N R9E SEC 16 ASSESSOR'S PLAT OF SHADY BEACH LOT 56",
    "date": "2011-01-17 0:00:00",
-   "entered_by": ""
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2020080312051921779",
+   "comment_id": "2020080312051921779",
    "title": "Inspection comment",
-   "inspection_id": "DD2CDD20-B562-4926-BF44-AC0800F232E7",
    "comment": "Approved on the conditions that:",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "DD2CDD20-B562-4926-BF44-AC0800F232E7"
  },
  {
-   "time_id": "2020080312124022868",
+   "comment_id": "2020080312124022868",
    "title": "",
-   "inspection_id": "E1B117C8-021B-4823-9D66-AC0C00C8DDBE",
    "comment": "Roof replacement without a permit",
    "date": "2020-08-03 12:12:13",
-   "entered_by": "NYACOUB"
+   "inspection_id": "E1B117C8-021B-4823-9D66-AC0C00C8DDBE"
  },
  {
-   "time_id": "2020080312145332981",
+   "comment_id": "2020080312145332981",
    "title": "Inspection comment",
-   "inspection_id": "F968968D-9963-4A42-8267-AC08009AD68B",
    "comment": "Approved on the following conditions:",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "F968968D-9963-4A42-8267-AC08009AD68B"
  },
  {
-   "time_id": "2020080609221142073",
+   "comment_id": "2020080609221142073",
    "title": "Scheduling comment",
-   "inspection_id": "EED505E2-B22E-4A14-A9F9-AC0F009A4D74",
    "comment": "248-403-1109  Zoran",
    "date": "2020-08-06 9:22:11",
-   "entered_by": "NYACOUB"
+   "inspection_id": "EED505E2-B22E-4A14-A9F9-AC0F009A4D74"
  },
  {
-   "time_id": "2020081108315941056",
+   "comment_id": "2020081108315941056",
    "title": "Inspection comment",
-   "inspection_id": "1B73918C-2EE7-4897-8860-AC1300DF16A3",
    "comment": "Wrap water pipe outside wall of garage",
    "date": "2020-08-11 8:29:49",
-   "entered_by": "lwenzel"
+   "inspection_id": "1B73918C-2EE7-4897-8860-AC1300DF16A3"
  },
  {
-   "time_id": "2020081113281201961",
+   "comment_id": "2020081113281201961",
    "title": "",
-   "inspection_id": "40D601E3-4705-49DD-8CF1-ABF10087D8E3",
    "comment": "drainage concern. Gap is not a major issue and existed prior to repair to existing wall. Will close complaint. - DLP",
    "date": "2020-08-11 13:28:00",
-   "entered_by": "NYACOUB"
+   "inspection_id": "40D601E3-4705-49DD-8CF1-ABF10087D8E3"
  },
  {
-   "time_id": "2020081113284895163",
+   "comment_id": "2020081113284895163",
    "title": "",
-   "inspection_id": "AD0596F3-920F-4B55-B392-AC0700A0DB55",
    "comment": "overgrown poison ivy",
    "date": "2020-08-11 13:28:46",
-   "entered_by": "NYACOUB"
+   "inspection_id": "AD0596F3-920F-4B55-B392-AC0700A0DB55"
  },
  {
-   "time_id": "2020081113292693665",
+   "comment_id": "2020081113292693665",
    "title": "",
-   "inspection_id": "6ED96F09-B1FE-4243-A238-ABFE00B00244",
    "comment": "Light on front of home is very bright and shining into the neighbor's home",
    "date": "2020-08-11 13:29:24",
-   "entered_by": "NYACOUB"
+   "inspection_id": "6ED96F09-B1FE-4243-A238-ABFE00B00244"
  },
  {
-   "time_id": "2020081113302212067",
+   "comment_id": "2020081113302212067",
    "title": "",
-   "inspection_id": "EF2A9F11-F5A2-4D48-83E8-AC0000B86EBC",
    "comment": "Neighbor called to report his neighbors are digging and planting trees.",
    "date": "2020-08-11 13:30:14",
-   "entered_by": "NYACOUB"
+   "inspection_id": "EF2A9F11-F5A2-4D48-83E8-AC0000B86EBC"
  },
  {
-   "time_id": "2020081113314360969",
+   "comment_id": "2020081113314360969",
    "title": "",
-   "inspection_id": "B724CC8B-4D89-44D8-BF09-ABF101007019",
    "comment": "work without a permit",
    "date": "2020-08-11 13:31:34",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B724CC8B-4D89-44D8-BF09-ABF101007019"
  },
  {
-   "time_id": "2020081113331562671",
+   "comment_id": "2020081113331562671",
    "title": "",
-   "inspection_id": "5362F5C5-091A-4B70-902D-ABF100EC61CB",
    "comment": "rocks placed within 18 inches of the edge of the road in violation of the city ordinance.",
    "date": "2020-08-11 13:33:12",
-   "entered_by": "NYACOUB"
+   "inspection_id": "5362F5C5-091A-4B70-902D-ABF100EC61CB"
  },
  {
-   "time_id": "2020081113343418373",
+   "comment_id": "2020081113343418373",
    "title": "",
-   "inspection_id": "7178CD3A-8124-4AD0-A630-ABF700AF1A6A",
    "comment": "shed located on 4217 Cherry Hill Dr. E. that is violation of the City Ordinance",
    "date": "2020-08-11 13:34:32",
-   "entered_by": "NYACOUB"
+   "inspection_id": "7178CD3A-8124-4AD0-A630-ABF700AF1A6A"
  },
  {
-   "time_id": "2020081114275506475",
+   "comment_id": "2020081114275506475",
    "title": "",
-   "inspection_id": "0DE14905-F94D-45B3-B77B-ABDB00896B34",
    "comment": "Water Problem between neighbors",
    "date": "2020-08-11 14:27:41",
-   "entered_by": "NYACOUB"
+   "inspection_id": "0DE14905-F94D-45B3-B77B-ABDB00896B34"
  },
  {
-   "time_id": "2020081114281750977",
+   "comment_id": "2020081114281750977",
    "title": "",
-   "inspection_id": "142640E7-C59E-4A09-B82B-AA9401027489",
    "comment": "Large pontoon boat with a large canopy covering it in the driveway",
    "date": "2020-08-11 14:28:15",
-   "entered_by": "NYACOUB"
+   "inspection_id": "142640E7-C59E-4A09-B82B-AA9401027489"
  },
  {
-   "time_id": "2020081114284337879",
+   "comment_id": "2020081114284337879",
    "title": "",
-   "inspection_id": "4F2FE595-3DED-4F04-BFAC-ABE500B6BD07",
    "comment": "exposed beam in the ceiling it looks like it could collapse.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "4F2FE595-3DED-4F04-BFAC-ABE500B6BD07"
  },
  {
-   "time_id": "2020081207295216156",
+   "comment_id": "2020081207295216156",
    "title": "Final the 5 day notice",
-   "inspection_id": "8BEE1896-DC19-4A14-9057-ABF70084DBD9",
    "comment": "8/12/20 - Do an inspection to verify if work is done and cleaned up.  DLP",
    "date": "2020-08-12 7:28:48",
-   "entered_by": "DPratt"
+   "inspection_id": "8BEE1896-DC19-4A14-9057-ABF70084DBD9"
  },
  {
-   "time_id": "2020081214545052959",
+   "comment_id": "2020081214545052959",
    "title": "Inspection comment",
-   "inspection_id": "BF08FEED-880B-4298-AC11-AC1400A7577D",
    "comment": "Spoke with homeowner she needs to",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "BF08FEED-880B-4298-AC11-AC1400A7577D"
  },
  {
-   "time_id": "2020081214572685361",
+   "comment_id": "2020081214572685361",
    "title": "comment",
-   "inspection_id": "31488054-4C87-4C47-A224-AC0F00ACEAC8",
    "comment": "Her landscaper told her somoene is dumping lawn-clippings on her property. She believes it's her neighbor. Arlene (248) 683-2268 would like a follow up call.",
    "date": "2020-08-12 14:57:20",
-   "entered_by": "lwenzel"
+   "inspection_id": "31488054-4C87-4C47-A224-AC0F00ACEAC8"
  },
  {
-   "time_id": "2020081313521881082",
+   "comment_id": "2020081313521881082",
    "title": "Scheduling comment",
-   "inspection_id": "84E9FC65-5812-419B-966B-AC1600E48B8A",
    "comment": "1) Tub light",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "84E9FC65-5812-419B-966B-AC1600E48B8A"
  },
  {
-   "time_id": "2020081414315020168",
+   "comment_id": "2020081414315020168",
    "title": "Scheduling comment",
-   "inspection_id": "22719243-D2F6-4C74-97AD-AC1700EF6340",
    "comment": "1) Need final grade",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "22719243-D2F6-4C74-97AD-AC1700EF6340"
  },
  {
-   "time_id": "2020081414324470671",
+   "comment_id": "2020081414324470671",
    "title": "Scheduling comment",
-   "inspection_id": "ED5F87B2-77A5-470C-BE6B-AC1700EF9E24",
    "comment": "Dave 248-756-4685",
    "date": "2020-08-14 14:32:45",
-   "entered_by": "NYACOUB"
+   "inspection_id": "ED5F87B2-77A5-470C-BE6B-AC1700EF9E24"
  },
  {
-   "time_id": "2020081711415606057",
+   "comment_id": "2020081711415606057",
    "title": "comment",
-   "inspection_id": "781D7D9C-3CEE-4240-B08E-AC1700DC1101",
    "comment": "Concrete patio ready to pour - approved.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "781D7D9C-3CEE-4240-B08E-AC1700DC1101"
  },
  {
-   "time_id": "2020081715205885981",
+   "comment_id": "2020081715205885981",
    "title": "Inspection comment",
-   "inspection_id": "ED5F87B2-77A5-470C-BE6B-AC1700EF9E24",
    "comment": "Did special inspection & reviewed framing under deck that is going to be covered. Framing approved. - DLP",
    "date": "2020-08-17 15:19:31",
-   "entered_by": "lwenzel"
+   "inspection_id": "ED5F87B2-77A5-470C-BE6B-AC1700EF9E24"
  },
  {
-   "time_id": "2011033015442800058",
+   "comment_id": "2011033015442800058",
    "title": "Rough",
-   "inspection_id": "B4D1D141-9C58-4EDF-849A-2F707008A535",
    "comment": "Items 1 2 5 8 and 9 on previous violation list dated 3/16/11not completed.",
    "date": "2011-03-30 15:44:29",
-   "entered_by": ""
+   "inspection_id": "B4D1D141-9C58-4EDF-849A-2F707008A535"
  },
  {
-   "time_id": "2020081811435535821",
+   "comment_id": "2020081811435535821",
    "title": "comment",
-   "inspection_id": "FB3207AA-E306-4CC7-91E5-AC1B00C0FB4B",
    "comment": "Please call homeowner if she doesn't answer door (315) 560-2084",
    "date": "2020-08-18 11:43:08",
-   "entered_by": "lwenzel"
+   "inspection_id": "FB3207AA-E306-4CC7-91E5-AC1B00C0FB4B"
  },
  {
-   "time_id": "2020081908270742556",
+   "comment_id": "2020081908270742556",
    "title": "Inspection comment",
-   "inspection_id": "34DA81E6-D302-4705-85A9-AC15009498DE",
    "comment": "The plumber will be adding 10 stacks to this permit",
    "date": "2020-08-19 8:26:52",
-   "entered_by": "lwenzel"
+   "inspection_id": "34DA81E6-D302-4705-85A9-AC15009498DE"
  },
  {
-   "time_id": "2020082112115269059",
+   "comment_id": "2020082112115269059",
    "title": "comment",
-   "inspection_id": "B4377898-4DFD-4EFC-B994-AC1E00C8D40F",
    "comment": "High weeds/grass",
    "date": "2020-08-21 12:11:47",
-   "entered_by": "lwenzel"
+   "inspection_id": "B4377898-4DFD-4EFC-B994-AC1E00C8D40F"
  },
  {
-   "time_id": "2020082608431260658",
+   "comment_id": "2020082608431260658",
    "title": "comment",
-   "inspection_id": "584C2FEB-6C87-4A83-8DD7-AC23008F5E06",
    "comment": "Excessive window signage and temporary signage",
    "date": "2020-08-26 8:43:08",
-   "entered_by": "lwenzel"
+   "inspection_id": "584C2FEB-6C87-4A83-8DD7-AC23008F5E06"
  },
  {
-   "time_id": "2020082614102771261",
+   "comment_id": "2020082614102771261",
    "title": "Inspection comment",
-   "inspection_id": "68E9C867-B4D2-4880-9C89-AC2300E8C864",
    "comment": "Detached garage at west side of property to remain",
    "date": "2020-08-26 14:10:05",
-   "entered_by": "lwenzel"
+   "inspection_id": "68E9C867-B4D2-4880-9C89-AC2300E8C864"
  },
  {
-   "time_id": "2020082713122346261",
+   "comment_id": "2020082713122346261",
    "title": "comment",
-   "inspection_id": "5F438DA1-DFEB-4D2E-BFC6-AC2400D8C6D2",
    "comment": "High weeds on vacant property. Weed have been cut",
    "date": "2020-08-27 13:12:17",
-   "entered_by": "lwenzel"
+   "inspection_id": "5F438DA1-DFEB-4D2E-BFC6-AC2400D8C6D2"
  },
  {
-   "time_id": "201101171154520024031",
+   "comment_id": "201101171154520024031",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N R9E SEC 16 ASSESSOR'S PLAT OF SHADY BEACH LOT 56 SEC 16 ASSESSOR'S PLAT OF SHADY BEACH LOT 37",
    "date": "2011-01-17 0:00:00",
-   "entered_by": ""
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2020083111301347084",
+   "comment_id": "2020083111301347084",
    "title": "Inspection comment",
-   "inspection_id": "9D37EEE3-4E2B-4208-B891-AC2500F8C9A0",
    "comment": "Need to fire/draft sop at all dropped ceilings. Ok to insulate will check on insulation inspection. -DLP",
    "date": "2020-08-31 11:29:40",
-   "entered_by": "lwenzel"
+   "inspection_id": "9D37EEE3-4E2B-4208-B891-AC2500F8C9A0"
  },
  {
-   "time_id": "2020090113565927967",
+   "comment_id": "2020090113565927967",
    "title": "Inspection Result",
-   "inspection_id": "D09B235A-6963-4968-9853-AC2500AC274B",
    "comment": "1) Provide proper guardrail and ballister system at front walkway/bridge to house.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "D09B235A-6963-4968-9853-AC2500AC274B"
  },
  {
-   "time_id": "2020090114235223760",
+   "comment_id": "2020090114235223760",
    "title": "",
-   "inspection_id": "F608E192-7DC4-411D-9EF2-AC1300909B37",
    "comment": "High Grass",
    "date": "2020-09-01 14:23:45",
-   "entered_by": "NYACOUB"
+   "inspection_id": "F608E192-7DC4-411D-9EF2-AC1300909B37"
  },
  {
-   "time_id": "2020090114291033862",
+   "comment_id": "2020090114291033862",
    "title": "",
-   "inspection_id": "B60D6F68-29BD-443C-A39C-AC0E0091E788",
    "comment": "Removing Trees",
    "date": "2020-09-01 14:25:53",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B60D6F68-29BD-443C-A39C-AC0E0091E788"
  },
  {
-   "time_id": "2020090114301942964",
+   "comment_id": "2020090114301942964",
    "title": "",
-   "inspection_id": "184F554B-261A-4B0F-B1D8-ABE60101E383",
    "comment": "water running onto neighbor's lot",
    "date": "2020-09-01 14:30:04",
-   "entered_by": "NYACOUB"
+   "inspection_id": "184F554B-261A-4B0F-B1D8-ABE60101E383"
  },
  {
-   "time_id": "2020090114323393066",
+   "comment_id": "2020090114323393066",
    "title": "",
-   "inspection_id": "608D9045-B7F2-40B5-B0F9-AC2800775993",
    "comment": "Work without a permit. No Permit is required",
    "date": "2020-09-01 14:32:27",
-   "entered_by": "NYACOUB"
+   "inspection_id": "608D9045-B7F2-40B5-B0F9-AC2800775993"
  },
  {
-   "time_id": "2020090411295560456",
+   "comment_id": "2020090411295560456",
    "title": "comment",
-   "inspection_id": "979EB2BB-3EAB-4B81-A9CB-AC2500AD3183",
    "comment": "1) GFI protect all plugs in bathrooms & laundry.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "979EB2BB-3EAB-4B81-A9CB-AC2500AD3183"
  },
  {
-   "time_id": "2020090411365189158",
+   "comment_id": "2020090411365189158",
    "title": "Inspection comment",
-   "inspection_id": "E8D978CC-822E-4FB5-A773-AC2900E3E31E",
    "comment": "9/2/20 - Partial foundation brick flashing approved. Need to check mortar corbeling at top of wall on front & right (east) side of home.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "E8D978CC-822E-4FB5-A773-AC2900E3E31E"
  },
  {
-   "time_id": "2020091010460631563",
+   "comment_id": "2020091010460631563",
    "title": "Scheduling comment",
-   "inspection_id": "EF837273-0B9A-46E3-8F5D-AC3200B15DF9",
    "comment": "1) GFI protect all plugs in bathrooms & laundry.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "EF837273-0B9A-46E3-8F5D-AC3200B15DF9"
  },
  {
-   "time_id": "2020091115282840168",
+   "comment_id": "2020091115282840168",
    "title": "Inspection comment",
-   "inspection_id": "B7BE965F-BEBE-4E2E-8D20-AC3200884C1A",
    "comment": "Rough deck structural steel inspection approved. Report forthcoming on structual steel.",
    "date": "2020-09-11 15:24:55",
-   "entered_by": "lwenzel"
+   "inspection_id": "B7BE965F-BEBE-4E2E-8D20-AC3200884C1A"
  },
  {
-   "time_id": "2020091610103830357",
+   "comment_id": "2020091610103830357",
    "title": "",
-   "inspection_id": "F343903F-B106-4881-899C-AC3800A78BDC",
    "comment": "Gate code 1758",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "F343903F-B106-4881-899C-AC3800A78BDC"
  },
  {
-   "time_id": "2020091715091689967",
+   "comment_id": "2020091715091689967",
    "title": "Inspection comment",
-   "inspection_id": "F343903F-B106-4881-899C-AC3800A78BDC",
    "comment": "For second floor showers only",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "F343903F-B106-4881-899C-AC3800A78BDC"
  },
  {
-   "time_id": "2020091809413275657",
+   "comment_id": "2020091809413275657",
    "title": "Scheduling comment",
-   "inspection_id": "2D63C54C-1F38-479E-A1DF-AC3A009F87AC",
    "comment": "Please inspect after 11 AM",
    "date": "2020-09-18 9:41:32",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2D63C54C-1F38-479E-A1DF-AC3A009F87AC"
  },
  {
-   "time_id": "2020092108253764871",
+   "comment_id": "2020092108253764871",
    "title": "",
-   "inspection_id": "9CBC49CC-EAA2-4367-8DDF-AC3D008A9B62",
    "comment": "Constructing a deck without a permit",
    "date": "2020-09-21 8:25:04",
-   "entered_by": "NYACOUB"
+   "inspection_id": "9CBC49CC-EAA2-4367-8DDF-AC3D008A9B62"
  },
  {
-   "time_id": "2020092115583836478",
+   "comment_id": "2020092115583836478",
    "title": "Scheduling comment",
-   "inspection_id": "ED8AEC3F-EA08-4863-B2CC-AC3D01074693",
    "comment": "Spoke with homeowner she needs to",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "ED8AEC3F-EA08-4863-B2CC-AC3D01074693"
  },
  {
-   "time_id": "2020092214415279570",
+   "comment_id": "2020092214415279570",
    "title": "Inspection comment",
-   "inspection_id": "7EBD0925-A2DB-4A47-B7F9-AC3D00C9DB88",
    "comment": "Need to inspect rough at time of insulation inspection with approved plans. Okay to insulate.",
    "date": "2020-09-22 14:41:20",
-   "entered_by": "lwenzel"
+   "inspection_id": "7EBD0925-A2DB-4A47-B7F9-AC3D00C9DB88"
  },
  {
-   "time_id": "2020092413465732862",
+   "comment_id": "2020092413465732862",
    "title": "",
-   "inspection_id": "2B02CF52-4EB8-47B9-8785-AC3F00E30401",
    "comment": "Call  half hour before inspection  Paul 248-809-3139",
    "date": "2020-09-24 13:46:08",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2B02CF52-4EB8-47B9-8785-AC3F00E30401"
  },
  {
-   "time_id": "2020092910505207364",
+   "comment_id": "2020092910505207364",
    "title": "Inspection comment",
-   "inspection_id": "ED8AEC3F-EA08-4863-B2CC-AC3D01074693",
    "comment": "Steps from deck to lawn - complete",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "ED8AEC3F-EA08-4863-B2CC-AC3D01074693"
  },
  {
-   "time_id": "2020093010564872889",
+   "comment_id": "2020093010564872889",
    "title": "comment",
-   "inspection_id": "EC98C78F-EBEE-414D-A323-AC4600B42D0A",
    "comment": "Found landscape material in dumpster (blight)",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "EC98C78F-EBEE-414D-A323-AC4600B42D0A"
  },
  {
-   "time_id": "201101171154530024193",
+   "comment_id": "201101171154530024193",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N R9E SEC 16 SHADY BEACH HEIGHTS SUB LOTS 1 T0 8 INCL BLK 24 7-17-01 FR 001 & 002",
    "date": "2011-01-17 0:00:00",
-   "entered_by": ""
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2020100114451054272",
+   "comment_id": "2020100114451054272",
    "title": "comment",
-   "inspection_id": "99DD0E6B-EA9A-427C-B987-AC3100B18046",
    "comment": "Pool heater not completed",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "99DD0E6B-EA9A-427C-B987-AC3100B18046"
  },
  {
-   "time_id": "2020100614265469271",
+   "comment_id": "2020100614265469271",
    "title": "",
-   "inspection_id": "2A66D6CE-5F77-40DB-9495-A9DF00A2C92C",
    "comment": "1-\tInstall tub in master bath and acquire final plumbing approval",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "2A66D6CE-5F77-40DB-9495-A9DF00A2C92C"
  },
  {
-   "time_id": "2020100709163369360",
+   "comment_id": "2020100709163369360",
    "title": "",
-   "inspection_id": "67AAE3B1-46FE-40C5-AF31-AC4D0098A198",
    "comment": "Trash left outside the house. Trash has been removed on 10/12/20.",
    "date": "2020-10-07 9:16:26",
-   "entered_by": "NMOROGI"
+   "inspection_id": "67AAE3B1-46FE-40C5-AF31-AC4D0098A198"
  },
  {
-   "time_id": "2020100710564919963",
+   "comment_id": "2020100710564919963",
    "title": "Scheduling comment",
-   "inspection_id": "0627BE6A-50BF-44AF-B65C-AC4D00B44F75",
    "comment": "Garage Code 0803",
    "date": "2020-10-07 10:56:49",
-   "entered_by": "NMOROGI"
+   "inspection_id": "0627BE6A-50BF-44AF-B65C-AC4D00B44F75"
  },
  {
-   "time_id": "2020100911433066257",
+   "comment_id": "2020100911433066257",
    "title": "",
-   "inspection_id": "4DCF8589-F9CA-401F-8254-AC2A00894C7A",
    "comment": "cutting stone on the lake side of the residence",
    "date": "2020-10-09 11:43:26",
-   "entered_by": "NYACOUB"
+   "inspection_id": "4DCF8589-F9CA-401F-8254-AC2A00894C7A"
  },
  {
-   "time_id": "2020100914404343659",
+   "comment_id": "2020100914404343659",
    "title": "",
-   "inspection_id": "76C75DDD-D158-46AE-ABFB-AC4B009C9181",
    "comment": "Water too hot tub and shower adjust between 110-120",
    "date": "2020-10-09 14:39:38",
-   "entered_by": "NYACOUB"
+   "inspection_id": "76C75DDD-D158-46AE-ABFB-AC4B009C9181"
  },
  {
-   "time_id": "2020101413043841268",
+   "comment_id": "2020101413043841268",
    "title": "Scheduling comment",
-   "inspection_id": "A943727F-FE07-4D8D-BB5C-AC5400D755F2",
    "comment": "313-402-5317 Mr. Patterson.",
    "date": "2020-10-14 13:04:38",
-   "entered_by": "NYACOUB"
+   "inspection_id": "A943727F-FE07-4D8D-BB5C-AC5400D755F2"
  },
  {
-   "time_id": "2020101614482745158",
+   "comment_id": "2020101614482745158",
    "title": "Inspection comment",
-   "inspection_id": "E96E31E1-00C2-475B-AD26-AC5600F3BAD4",
    "comment": "Rough frame approved subject to rough electrical. Complete fire stopping. - DLP",
    "date": "2020-10-16 14:48:00",
-   "entered_by": "lwenzel"
+   "inspection_id": "E96E31E1-00C2-475B-AD26-AC5600F3BAD4"
  },
  {
-   "time_id": "2020102612183780963",
+   "comment_id": "2020102612183780963",
    "title": "Inspection comment",
-   "inspection_id": "C986756B-4950-4A19-8726-AC5A00ABD060",
    "comment": "Cannot busy conduit bodies",
    "date": "2020-10-26 12:18:29",
-   "entered_by": "lwenzel"
+   "inspection_id": "C986756B-4950-4A19-8726-AC5A00ABD060"
  },
  {
-   "time_id": "2020102614270320569",
+   "comment_id": "2020102614270320569",
    "title": "comment",
-   "inspection_id": "9604F5FC-FCA5-4BE7-81F8-AC6000EDD687",
    "comment": "Garage Code: 2763",
    "date": "2020-10-26 14:26:24",
-   "entered_by": "lwenzel"
+   "inspection_id": "9604F5FC-FCA5-4BE7-81F8-AC6000EDD687"
  },
  {
-   "time_id": "2020102709583758057",
+   "comment_id": "2020102709583758057",
    "title": "Lockbox",
-   "inspection_id": "8DC46B59-8ABD-46EB-8BB7-AC6100A451FC",
    "comment": "Front Door Lockbox 3807",
    "date": "2020-10-27 9:58:26",
-   "entered_by": "lwenzel"
+   "inspection_id": "8DC46B59-8ABD-46EB-8BB7-AC6100A451FC"
  },
  {
-   "time_id": "2020102710590182263",
+   "comment_id": "2020102710590182263",
    "title": "comment",
-   "inspection_id": "15D3CDD6-B486-4F28-8C26-AC6100B496A3",
    "comment": "Garage Code: 2763",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "15D3CDD6-B486-4F28-8C26-AC6100B496A3"
  },
  {
-   "time_id": "2020102908262557258",
+   "comment_id": "2020102908262557258",
    "title": "comment",
-   "inspection_id": "7EE74158-F3F9-49CC-9227-AC63008AB981",
    "comment": "Possible accessory structure without a permit",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "7EE74158-F3F9-49CC-9227-AC63008AB981"
  },
  {
-   "time_id": "2020110209500479769",
+   "comment_id": "2020110209500479769",
    "title": "Scheduling comment",
-   "inspection_id": "95060D71-0A58-42F9-A2FA-AC6700A1F3CA",
    "comment": "Siding will need to be painted within 12 months to keep it from rotting.",
    "date": "2020-11-02 9:50:04",
-   "entered_by": "NYACOUB"
+   "inspection_id": "95060D71-0A58-42F9-A2FA-AC6700A1F3CA"
  },
  {
-   "time_id": "2020110315073496664",
+   "comment_id": "2020110315073496664",
    "title": "comment",
-   "inspection_id": "9DB803F1-0C25-4271-AE6B-AC6800F90B2F",
    "comment": "Excessive noise from generator",
    "date": "2020-11-03 15:07:30",
-   "entered_by": "lwenzel"
+   "inspection_id": "9DB803F1-0C25-4271-AE6B-AC6800F90B2F"
  },
  {
-   "time_id": "2020110409233207859",
+   "comment_id": "2020110409233207859",
    "title": "comment",
-   "inspection_id": "259CA2E7-547C-4102-A3BC-AC69009A6C04",
    "comment": "Tree caught in power lines. Tree has been removed.  DLP",
    "date": "2020-11-04 9:23:28",
-   "entered_by": "lwenzel"
+   "inspection_id": "259CA2E7-547C-4102-A3BC-AC69009A6C04"
  },
  {
-   "time_id": "2020110410491404563",
+   "comment_id": "2020110410491404563",
    "title": "comment",
-   "inspection_id": "16D734DA-B252-4A3F-8BB8-AC6900B22CA5",
    "comment": "Workers parking in street",
    "date": "2020-11-04 10:49:10",
-   "entered_by": "lwenzel"
+   "inspection_id": "16D734DA-B252-4A3F-8BB8-AC6900B22CA5"
  },
  {
-   "time_id": "2020110412042515068",
+   "comment_id": "2020110412042515068",
    "title": "comment",
-   "inspection_id": "F3BD3ACD-9854-4D12-A489-AC6900C6AEF8",
    "comment": "BP station has a window sign with a \"crawl\" and intermittent flashing.",
    "date": "2020-11-04 12:04:20",
-   "entered_by": "lwenzel"
+   "inspection_id": "F3BD3ACD-9854-4D12-A489-AC6900C6AEF8"
  },
  {
-   "time_id": "2020110513222187066",
+   "comment_id": "2020110513222187066",
    "title": "",
-   "inspection_id": "116D5037-08AD-4D71-912B-AC6A008C2BB6",
    "comment": "Partial rough building for turret framing ok. Inspected turret on ground prior to contractor setting it in place. Asked contractor to take pictures of connection to top plate of walls as this area will not be accessible after the turret is in place.",
    "date": "2020-11-05 13:22:17",
-   "entered_by": "NYACOUB"
+   "inspection_id": "116D5037-08AD-4D71-912B-AC6A008C2BB6"
  },
  {
-   "time_id": "2020110614590245670",
+   "comment_id": "2020110614590245670",
    "title": "comment",
-   "inspection_id": "12363A85-4FB8-4B36-9B6C-AC4800E968A0",
    "comment": "Commercial vehicle in driveway. Vehicle removed on 10/12/20. Closed.",
    "date": "2020-11-06 14:58:34",
-   "entered_by": "lwenzel"
+   "inspection_id": "12363A85-4FB8-4B36-9B6C-AC4800E968A0"
  },
  {
-   "time_id": "2020110615032371772",
+   "comment_id": "2020110615032371772",
    "title": "comment",
-   "inspection_id": "677CBE16-F632-414B-B89F-AC4F0080364A",
    "comment": "Tony Banks reported that there was siding work going on second story of home. After inspection they are only painting. No permit is required. Closing enforcement.",
    "date": "2020-11-06 15:02:36",
-   "entered_by": "lwenzel"
+   "inspection_id": "677CBE16-F632-414B-B89F-AC4F0080364A"
  },
  {
-   "time_id": "2020110615035268074",
+   "comment_id": "2020110615035268074",
    "title": "comment",
-   "inspection_id": "D3746489-0C2E-4A20-B347-AC6000C0D5F7",
    "comment": "Shrink wrapped boat with advertising/signage in side yard. The signage violates city ordinance.",
    "date": "2020-11-06 15:03:48",
-   "entered_by": "lwenzel"
+   "inspection_id": "D3746489-0C2E-4A20-B347-AC6000C0D5F7"
  },
  {
-   "time_id": "2020110615041596576",
+   "comment_id": "2020110615041596576",
    "title": "comment",
-   "inspection_id": "1B1E1314-42B9-4E2C-8403-AC5D0093EDB9",
    "comment": "10/23/20 - Jessica Cohen called to complain about the policial signs in her sub - Shady Beach. The signs are along the edge of the roads edge.",
    "date": "2020-11-06 15:04:10",
-   "entered_by": "lwenzel"
+   "inspection_id": "1B1E1314-42B9-4E2C-8403-AC5D0093EDB9"
  },
  {
-   "time_id": "2020110615045864078",
+   "comment_id": "2020110615045864078",
    "title": "comment",
-   "inspection_id": "B0E4D0D4-B013-4260-B961-AC4F007D9496",
    "comment": "Sgt. Tony Banks reported that there may be work going on at 4595 Old Orchard Trl. He found someone unloading gravel or rocks.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "B0E4D0D4-B013-4260-B961-AC4F007D9496"
  },
  {
-   "time_id": "2020110615070669380",
+   "comment_id": "2020110615070669380",
    "title": "comment",
-   "inspection_id": "3227A0F3-7B73-4F3F-965D-A75C00A3E577",
    "comment": "During building process they installed a drain and covered it with cloth and rocks. It's preventing drainage.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "3227A0F3-7B73-4F3F-965D-A75C00A3E577"
  },
  {
-   "time_id": "2020110615091718582",
+   "comment_id": "2020110615091718582",
    "title": "comment",
-   "inspection_id": "0AAF2FCA-344A-40F5-B784-A95E00A0DE2E",
    "comment": "Site Inspection because of water getting into walkout basement. Homeowner hired contractor to solve issue. Closing enforcement.",
    "date": "2020-11-06 15:09:13",
-   "entered_by": "lwenzel"
+   "inspection_id": "0AAF2FCA-344A-40F5-B784-A95E00A0DE2E"
  },
  {
-   "time_id": "2020110911132479157",
+   "comment_id": "2020110911132479157",
    "title": "comment",
-   "inspection_id": "EC543839-EEB0-40EF-9CE6-AC6E00B8A410",
    "comment": "Past inspection failed due to blanks not being installed in panel cover. They are installed now and contractor has sent pictures on 11/9/20.",
    "date": "2020-11-09 11:12:21",
-   "entered_by": "lwenzel"
+   "inspection_id": "EC543839-EEB0-40EF-9CE6-AC6E00B8A410"
  },
  {
-   "time_id": "2020111210165171957",
+   "comment_id": "2020111210165171957",
    "title": "Scheduling comment",
-   "inspection_id": "DF256791-206C-41F7-BA5F-AC7100A928E8",
    "comment": "Exterior Debris",
    "date": "2020-11-12 10:16:51",
-   "entered_by": "NYACOUB"
+   "inspection_id": "DF256791-206C-41F7-BA5F-AC7100A928E8"
  },
  {
-   "time_id": "2020111214350618462",
+   "comment_id": "2020111214350618462",
    "title": "Lockbox Info",
-   "inspection_id": "71D2B3B9-ACB4-4A76-9F51-AC7100F00B6E",
    "comment": "Lockbox Code: 1290",
    "date": "2020-11-12 14:34:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "71D2B3B9-ACB4-4A76-9F51-AC7100F00B6E"
  },
  {
-   "time_id": "2020111614110152557",
+   "comment_id": "2020111614110152557",
    "title": "comment",
-   "inspection_id": "8C31EE2A-7A92-428C-8285-AC6F00EF069F",
    "comment": "Footing is a 16\" wide by 12\" deep spread footing. I had the contractor check the bottom of the footing and we found the ground/earth was solid.",
    "date": "2020-11-16 14:09:47",
-   "entered_by": "lwenzel"
+   "inspection_id": "8C31EE2A-7A92-428C-8285-AC6F00EF069F"
  },
  {
-   "time_id": "201101171154550024367",
+   "comment_id": "201101171154550024367",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N R9E SEC 16 ASSESSOR'S PLAT OF SHADY BEACH LOTS 13 & 14",
    "date": "2011-01-17 0:00:00",
-   "entered_by": ""
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2020112308441364062",
+   "comment_id": "2020112308441364062",
    "title": "comment",
-   "inspection_id": "B90814DB-B371-47E1-881E-AC7900DF3D25",
    "comment": "11/20/20 - Met on site with EGLE representatives to discuss possible violation of seawall permit. Complaint from neighbor indicated that contractor was placing soil into water. Observed some soil added at front of new seawall. EGLE representatives are going to require removal of additional soil and contractor is required to install additional rip-rap out into the water. Soil erosion inspection with Oakland County on site as well.  -GM",
    "date": "2020-11-23 8:39:00",
-   "entered_by": "lwenzel"
+   "inspection_id": "B90814DB-B371-47E1-881E-AC7900DF3D25"
  },
  {
-   "time_id": "2020112315121992688",
+   "comment_id": "2020112315121992688",
    "title": "comment",
-   "inspection_id": "8B99083A-3594-4370-88B8-AC7C00F7BCBE",
    "comment": "11/23/20 - Visited site on this date. Contractor still placing seawall stones. Did not start removal of soil on water side but should start tomorrow or wed. Will re-inspect site on 11.25.20. - GM",
    "date": "2020-11-23 15:12:14",
-   "entered_by": "lwenzel"
+   "inspection_id": "8B99083A-3594-4370-88B8-AC7C00F7BCBE"
  },
  {
-   "time_id": "2020113012093368458",
+   "comment_id": "2020113012093368458",
    "title": "",
-   "inspection_id": "2E413255-AFA1-45C0-8DCF-AC780092C871",
    "comment": "pontoon boat parked in the yard with shrink wrap that had a sign for \"Wilson Marine\" stinciled on it. Closed sign has been removed",
    "date": "2020-11-30 12:09:18",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2E413255-AFA1-45C0-8DCF-AC780092C871"
  },
  {
-   "time_id": "2020113012105024860",
+   "comment_id": "2020113012105024860",
    "title": "",
-   "inspection_id": "CA403097-ED00-4C27-9CDD-AC7800EFB6C9",
    "comment": "travel trailer parked in the homes driveway.   Closed. trailer has been removed",
    "date": "2020-11-30 12:10:32",
-   "entered_by": "NYACOUB"
+   "inspection_id": "CA403097-ED00-4C27-9CDD-AC7800EFB6C9"
  },
  {
-   "time_id": "2020113013340801397",
+   "comment_id": "2020113013340801397",
    "title": "",
-   "inspection_id": "D835CEBF-61F4-403D-82E3-AAE100C5F75B",
    "comment": "Don met with Marty West to discuss what needs to be done before to issuing TC of O",
    "date": "2020-11-30 13:32:25",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D835CEBF-61F4-403D-82E3-AAE100C5F75B"
  },
  {
-   "time_id": "2020120114052496157",
+   "comment_id": "2020120114052496157",
    "title": "comment",
-   "inspection_id": "F37FC353-EE16-4653-A991-AC7C00FA4A7E",
    "comment": "11/25/20 - Received photos (see attached) from contractor showing soil removed on water side. Ok to continue work and needs to call for final inspection. - GM",
    "date": "2020-12-01 14:04:30",
-   "entered_by": "lwenzel"
+   "inspection_id": "F37FC353-EE16-4653-A991-AC7C00FA4A7E"
  },
  {
-   "time_id": "2020120114263791259",
+   "comment_id": "2020120114263791259",
    "title": "Inspection comment",
-   "inspection_id": "B1022DC6-A4B0-4B04-8037-AC6901034CDB",
    "comment": "1. Finish master closet",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "B1022DC6-A4B0-4B04-8037-AC6901034CDB"
  },
  {
-   "time_id": "2020121608580139057",
+   "comment_id": "2020121608580139057",
    "title": "Scheduling comment",
-   "inspection_id": "E3059C61-6529-4D68-882A-AC930093A57A",
    "comment": "810-660-2324 Matt",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "E3059C61-6529-4D68-882A-AC930093A57A"
  },
  {
-   "time_id": "2020121610185763661",
+   "comment_id": "2020121610185763661",
    "title": "Chase Bank",
-   "inspection_id": "9FCD4B50-74F3-4205-8B61-AC9300A9BBD5",
    "comment": "Received a complaint regarding bright parking lot lights. These lights have been turned down as of 1/8/21 and this enforcement can be closed. -DLP",
    "date": "2020-12-16 10:18:40",
-   "entered_by": "NYACOUB"
+   "inspection_id": "9FCD4B50-74F3-4205-8B61-AC9300A9BBD5"
  },
  {
-   "time_id": "2020121612544674666",
+   "comment_id": "2020121612544674666",
    "title": "",
-   "inspection_id": "2F36EC85-BB72-4FC0-B8F6-AC9300D49A73",
    "comment": "Special Water Heater Inspection. No Permit was issued for the work.",
    "date": "2020-12-16 12:54:43",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2F36EC85-BB72-4FC0-B8F6-AC9300D49A73"
  },
  {
-   "time_id": "2020121811111804257",
+   "comment_id": "2020121811111804257",
    "title": "comment",
-   "inspection_id": "8D716C28-4871-4999-9B18-AC9300B880F8",
    "comment": "Rough building ok per GM pending submission of sealed truss drawings",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "8D716C28-4871-4999-9B18-AC9300B880F8"
  },
  {
-   "time_id": "2020121811123781059",
+   "comment_id": "2020121811123781059",
    "title": "comment",
-   "inspection_id": "9BA7A6E4-AA15-40FE-B029-AC950087404A",
    "comment": "Trench footing garage & porch ok per GM",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "9BA7A6E4-AA15-40FE-B029-AC950087404A"
  },
  {
-   "time_id": "2020121811133550661",
+   "comment_id": "2020121811133550661",
    "title": "comment",
-   "inspection_id": "86AFBE07-EEFA-45DC-9940-AC9400B06368",
    "comment": "Open roof ok per GM",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "86AFBE07-EEFA-45DC-9940-AC9400B06368"
  },
  {
-   "time_id": "2020122215234429965",
+   "comment_id": "2020122215234429965",
    "title": "comment",
-   "inspection_id": "2294DFC7-BF9F-4365-A865-AC99008C56CD",
    "comment": "Met on site to discuss stair railing with trim carpenter. Ok per GM",
    "date": "2020-12-22 15:23:13",
-   "entered_by": "lwenzel"
+   "inspection_id": "2294DFC7-BF9F-4365-A865-AC99008C56CD"
  },
  {
-   "time_id": "2021010411112891962",
+   "comment_id": "2021010411112891962",
    "title": "Inspection Result",
-   "inspection_id": "7494F0F7-5724-41DE-AB4E-ACA600B79147",
    "comment": "See attachment for Steve's Inspection Results",
    "date": "2021-01-04 11:11:13",
-   "entered_by": "lwenzel"
+   "inspection_id": "7494F0F7-5724-41DE-AB4E-ACA600B79147"
  },
  {
-   "time_id": "2021010510461837862",
+   "comment_id": "2021010510461837862",
    "title": "comment",
-   "inspection_id": "5F989C11-C724-4544-9306-AC8C00A7CB49",
    "comment": "A resident called to report construction materials in his neighbor's yard. I contacted the homeowner and he told me they will be removed asap. I inspected the site the next day the materials have been removed. Closing enforcement. -DLP",
    "date": "2021-01-05 10:46:03",
-   "entered_by": "lwenzel"
+   "inspection_id": "5F989C11-C724-4544-9306-AC8C00A7CB49"
  },
  {
-   "time_id": "2021010510480131864",
+   "comment_id": "2021010510480131864",
    "title": "comment",
-   "inspection_id": "2DAFD24E-A7D4-459B-858C-AC9800E66C79",
    "comment": "The City received a complaint that there were a lot of cars parked on the road in front of this home. I measured the distance from the cars and trucks to the street side of the curb and found 15 feet.  This is wide enough for emergency vehicles to get through.  There were no driveways blocked and I found no issues. Closing enforcement - DLP",
    "date": "2021-01-05 10:47:55",
-   "entered_by": "lwenzel"
+   "inspection_id": "2DAFD24E-A7D4-459B-858C-AC9800E66C79"
  },
  {
-   "time_id": "2021010510520237966",
+   "comment_id": "2021010510520237966",
    "title": "comment",
-   "inspection_id": "3A8D905F-65A8-470E-8F2A-AC9800F084FD",
    "comment": "Received a complaint about a shed in the yard of 4521 Cherry Hill. After investigating on site there is no shed that can be seen. Closing enforcement. DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "3A8D905F-65A8-470E-8F2A-AC9800F084FD"
  },
  {
-   "time_id": "2021010511132966568",
+   "comment_id": "2021010511132966568",
    "title": "",
-   "inspection_id": "F132B5A8-E4B4-468F-9F08-ACA1009E1150",
    "comment": "Special water heater inspection conducted by plumbing inspector Steve Munson",
    "date": "2021-01-05 11:13:01",
-   "entered_by": "lwenzel"
+   "inspection_id": "F132B5A8-E4B4-468F-9F08-ACA1009E1150"
  },
  {
-   "time_id": "2021010511152572970",
+   "comment_id": "2021010511152572970",
    "title": "comment",
-   "inspection_id": "5A2A8344-2103-4814-A585-AC9900F7BBEB",
    "comment": "Possible work being done inside without a permit. I contacted the homeowner and the contractor is going to come in to pull a permit. Closing enforcement. DLP",
    "date": "2021-01-05 11:15:21",
-   "entered_by": "lwenzel"
+   "inspection_id": "5A2A8344-2103-4814-A585-AC9900F7BBEB"
  },
  {
-   "time_id": "2021010511155306872",
+   "comment_id": "2021010511155306872",
    "title": "comment",
-   "inspection_id": "8FFFDA80-A1C6-4FB1-9C14-AC9F00D12CC5",
    "comment": "Doing siding work without permit installing new siding and new flashing. Went by and found that the contractor taped flashing to the house wrap. Closing enforcement. -DLP",
    "date": "2021-01-05 11:15:48",
-   "entered_by": "lwenzel"
+   "inspection_id": "8FFFDA80-A1C6-4FB1-9C14-AC9F00D12CC5"
  },
  {
-   "time_id": "2021010813465467478",
+   "comment_id": "2021010813465467478",
    "title": "comment",
-   "inspection_id": "64CE9E5C-A597-4E44-B346-ACAA00E2AFD3",
    "comment": "Spoke with Stephen on 1/4/21 who said the work is completed. Conducted inspection today; work is done. - DLP 1/8/21",
    "date": "2021-01-08 13:45:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "64CE9E5C-A597-4E44-B346-ACAA00E2AFD3"
  },
  {
-   "time_id": "2021011311290012873",
+   "comment_id": "2021011311290012873",
    "title": "comment",
-   "inspection_id": "6C8BDE55-69F9-4A3A-84D4-ACA800C71B84",
    "comment": "1) ??? cable from transfer switch to main panel.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "6C8BDE55-69F9-4A3A-84D4-ACA800C71B84"
  },
  {
-   "time_id": "2021011412033800467",
+   "comment_id": "2021011412033800467",
    "title": "Lockbox Code",
-   "inspection_id": "63FF6D1B-313A-4841-B96F-ACB000C69D43",
    "comment": "Code: 1245",
    "date": "2021-01-14 12:03:21",
-   "entered_by": "lwenzel"
+   "inspection_id": "63FF6D1B-313A-4841-B96F-ACB000C69D43"
  },
  {
-   "time_id": "2021011508420791360",
+   "comment_id": "2021011508420791360",
    "title": "Inspection Cost",
-   "inspection_id": "463589F3-99E8-48FF-BC2F-ACB1008F1410",
    "comment": "OL will pay for this status inspection",
    "date": "2021-01-15 8:41:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "463589F3-99E8-48FF-BC2F-ACB1008F1410"
  },
  {
-   "time_id": "2021011508422009062",
+   "comment_id": "2021011508422009062",
    "title": "Inspection Cost",
-   "inspection_id": "BB361E08-39D8-4E00-9DFF-ACB1008E7FE3",
    "comment": "OL will pay for this status inspection",
    "date": "2021-01-15 8:42:13",
-   "entered_by": "lwenzel"
+   "inspection_id": "BB361E08-39D8-4E00-9DFF-ACB1008E7FE3"
  },
  {
-   "time_id": "2021011510460295365",
+   "comment_id": "2021011510460295365",
    "title": "Lockbox Code",
-   "inspection_id": "725C4327-9D24-40E2-A3B2-ACB100B14013",
    "comment": "Code 1758",
    "date": "2021-01-15 10:45:50",
-   "entered_by": "lwenzel"
+   "inspection_id": "725C4327-9D24-40E2-A3B2-ACB100B14013"
  },
  {
-   "time_id": "2021012010544878576",
+   "comment_id": "2021012010544878576",
    "title": "comment",
-   "inspection_id": "F97D010E-D715-4B9C-A2E9-ACB500FC0E60",
    "comment": "Final monument sign not approved. Sign not constructed in accordance with approved plan and City ordinance. Sign construction does not have required 12\" wide masonry columns on sides of sign. Email sent to Jennifer at Aver sign company notifying her (see attachements). - GM",
    "date": "2021-01-20 10:52:49",
-   "entered_by": "lwenzel"
+   "inspection_id": "F97D010E-D715-4B9C-A2E9-ACB500FC0E60"
  },
  {
-   "time_id": "2021012011342887284",
+   "comment_id": "2021012011342887284",
    "title": "comment",
-   "inspection_id": "88DB9B3F-7BD3-4B6D-A586-A78300EE3B13",
    "comment": "5/30/17 - The south block wall of the dumpster enclosure behind 4165 apparently has been struck and is cracked and may fall.  This is an unsafe condition and will need to be corrected.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "88DB9B3F-7BD3-4B6D-A586-A78300EE3B13"
  },
  {
-   "time_id": "2021012212051235662",
+   "comment_id": "2021012212051235662",
    "title": "Inspection comment",
-   "inspection_id": "EF6DFDBE-9091-4485-B707-ACB800C6C994",
    "comment": "1/21/21 - Took photos of open roof. Spoke with Jeff. He will email. -DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "EF6DFDBE-9091-4485-B707-ACB800C6C994"
  },
  {
-   "time_id": "2021012212264307062",
+   "comment_id": "2021012212264307062",
    "title": "comment",
-   "inspection_id": "5D88B868-8CB8-4B14-AABE-ACB800C8A380",
    "comment": "1/22/21 - Desk is not completed. Owner needs to request a 3 month extension - DLP",
    "date": "2021-01-22 12:26:10",
-   "entered_by": "lwenzel"
+   "inspection_id": "5D88B868-8CB8-4B14-AABE-ACB800C8A380"
  },
  {
-   "time_id": "2021012712411520086",
+   "comment_id": "2021012712411520086",
    "title": "comment",
-   "inspection_id": "B0923D56-AF72-4A0A-8637-ACBC009A361A",
    "comment": "Bath fan ducts not properly installed. Fire stop heat ducts at plates.",
    "date": "2021-01-27 12:40:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "B0923D56-AF72-4A0A-8637-ACBC009A361A"
  },
  {
-   "time_id": "2021020112091419068",
+   "comment_id": "2021020112091419068",
    "title": "comment",
-   "inspection_id": "6BFA69BC-9B1B-4FC3-9015-ACBC00CE4C6D",
    "comment": "One of the officers notified us that there may be work going on inside the home.  I did an inspection today and found no work going on.  I will check again on Friday",
    "date": "2/29/21.  DLP",
-   "entered_by": ""
+   "inspection_id": "6BFA69BC-9B1B-4FC3-9015-ACBC00CE4C6D"
  },
  {
-   "time_id": "2021020214390187683",
+   "comment_id": "2021020214390187683",
    "title": "comment",
-   "inspection_id": "1AFCDCEB-1E01-4058-8A8B-ACC300F0F863",
    "comment": "All debris in front yard has been removed per conditions on recently approved 9 month permit extension by council. -DLP",
    "date": "2021-02-02 14:37:45",
-   "entered_by": "lwenzel"
+   "inspection_id": "1AFCDCEB-1E01-4058-8A8B-ACC300F0F863"
  },
  {
-   "time_id": "2021020214452011385",
+   "comment_id": "2021020214452011385",
    "title": "comment",
-   "inspection_id": "54FD2402-EFE7-4AF6-B838-ACBC00E91BE9",
    "comment": "The firestopping and lower level insulation are both completed and approved.",
    "date": "2021-02-02 14:44:47",
-   "entered_by": "lwenzel"
+   "inspection_id": "54FD2402-EFE7-4AF6-B838-ACBC00E91BE9"
  },
  {
-   "time_id": "2021020215052291488",
+   "comment_id": "2021020215052291488",
    "title": "comment",
-   "inspection_id": "312175E1-8690-4E4C-AA84-ACC300F87CF4",
    "comment": "Conducted final inspection today. All stipulations",
    "date": "2021-02-02 15:05:01",
-   "entered_by": "lwenzel"
+   "inspection_id": "312175E1-8690-4E4C-AA84-ACC300F87CF4"
  },
  {
-   "time_id": "2021020215062192691",
+   "comment_id": "2021020215062192691",
    "title": "Inspection Result",
-   "inspection_id": "BB52C94E-4FC3-4762-AF92-ACC300F8D933",
    "comment": "Conducted final inspection today. All 5 stipulations from temp c of o are completed. Ready to issue final c of o. -DLP",
    "date": "2021-02-02 15:06:11",
-   "entered_by": "lwenzel"
+   "inspection_id": "BB52C94E-4FC3-4762-AF92-ACC300F8D933"
  },
  {
-   "time_id": "2021020313221042262",
+   "comment_id": "2021020313221042262",
    "title": "Inspection Result",
-   "inspection_id": "BB361E08-39D8-4E00-9DFF-ACB1008E7FE3",
    "comment": "No work was completed. Can issue a refund for all applicable charges.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "BB361E08-39D8-4E00-9DFF-ACB1008E7FE3"
  },
  {
-   "time_id": "2021020813113024167",
+   "comment_id": "2021020813113024167",
    "title": "comment",
-   "inspection_id": "39E0C5BB-CEEC-464C-AEFC-ACC9009837C6",
    "comment": "No railings on deck. I will call the contractor. DLP",
    "date": "2021-02-08 13:10:59",
-   "entered_by": "lwenzel"
+   "inspection_id": "39E0C5BB-CEEC-464C-AEFC-ACC9009837C6"
  },
  {
-   "time_id": "2021021113544161360",
+   "comment_id": "2021021113544161360",
    "title": "comment",
-   "inspection_id": "947DE6F4-8648-4458-9B23-ACCC00E48190",
    "comment": "Call came in to the PD that someone was cutting their trees and branches were falling into their yard. I spoke with homeowner and the tree cutting service and they said they will make sure the branches are cleaned up within a few days. I will follow-up soon. -DLP",
    "date": "2021-02-11 13:53:40",
-   "entered_by": "lwenzel"
+   "inspection_id": "947DE6F4-8648-4458-9B23-ACCC00E48190"
  },
  {
-   "time_id": "2011051111421200052",
+   "comment_id": "2011051111421200052",
    "title": "",
-   "inspection_id": "356EB305-8D7A-4214-8417-FAB4ECE12561",
    "comment": "1- ELECTION WALL NEW PLUGS",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "356EB305-8D7A-4214-8417-FAB4ECE12561"
  },
  {
-   "time_id": "2021031610384341220",
+   "comment_id": "2021031610384341220",
    "title": "comment",
-   "inspection_id": "45F64CCC-19D3-4980-A690-ACED00AEDB49",
    "comment": "Don asked me to set this up for Ron. Not sure if he coordinated through the church. -LW",
    "date": "2021-03-16 10:38:18",
-   "entered_by": "lwenzel"
+   "inspection_id": "45F64CCC-19D3-4980-A690-ACED00AEDB49"
  },
  {
-   "time_id": "2021031714084309581",
+   "comment_id": "2021031714084309581",
    "title": "Inspection Result",
-   "inspection_id": "9682144F-D202-4073-8888-ACE900E1527A",
    "comment": "1) Install 240 volt plug",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "9682144F-D202-4073-8888-ACE900E1527A"
  },
  {
-   "time_id": "2021031714092860983",
+   "comment_id": "2021031714092860983",
    "title": "Inspection comment",
-   "inspection_id": "EEADB60E-2371-454A-87D0-ACE900BEE055",
    "comment": "Not corrected since last inspection in May 2018",
    "date": "2021-03-17 14:09:14",
-   "entered_by": "lwenzel"
+   "inspection_id": "EEADB60E-2371-454A-87D0-ACE900BEE055"
  },
  {
-   "time_id": "2021031915250437265",
+   "comment_id": "2021031915250437265",
    "title": "comment",
-   "inspection_id": "ECA235B6-9619-4EB2-8E9E-ACE700ECE81E",
    "comment": "Received a complaint from Ms. Elaine Serling on 3/10/21 regarding dust from masonry saw cutting. After conducting multiple inspections over the course of a week I did not find anyone working and creating dust. I am closing this complaint - DLP",
    "date": "2021-03-19 15:24:18",
-   "entered_by": "lwenzel"
+   "inspection_id": "ECA235B6-9619-4EB2-8E9E-ACE700ECE81E"
  },
  {
-   "time_id": "2021032312331473973",
+   "comment_id": "2021032312331473973",
    "title": "Lockbox Code",
-   "inspection_id": "E2D06257-E6EA-4BAC-BA5B-ACF400CEB6EB",
    "comment": "Lockbox: 1373",
    "date": "2021-03-23 12:32:57",
-   "entered_by": "lwenzel"
+   "inspection_id": "E2D06257-E6EA-4BAC-BA5B-ACF400CEB6EB"
  },
  {
-   "time_id": "2021032411063329957",
+   "comment_id": "2021032411063329957",
    "title": "Lockbox",
-   "inspection_id": "AAA9B3F5-ADA6-46FC-B862-ACF500B70032",
    "comment": "code: 1373",
    "date": "2021-03-24 11:06:22",
-   "entered_by": "lwenzel"
+   "inspection_id": "AAA9B3F5-ADA6-46FC-B862-ACF500B70032"
  },
  {
-   "time_id": "2021032611135057560",
+   "comment_id": "2021032611135057560",
    "title": "comment",
-   "inspection_id": "E2D06257-E6EA-4BAC-BA5B-ACF400CEB6EB",
    "comment": "Need carbon-smoke combo in bedroom hallway. Check on building final",
    "date": "2021-03-26 11:04:33",
-   "entered_by": "lwenzel"
+   "inspection_id": "E2D06257-E6EA-4BAC-BA5B-ACF400CEB6EB"
  },
  {
-   "time_id": "2021032613403360062",
+   "comment_id": "2021032613403360062",
    "title": "Inspection Result",
-   "inspection_id": "AAA9B3F5-ADA6-46FC-B862-ACF500B70032",
    "comment": "1. Install dishwasher",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "AAA9B3F5-ADA6-46FC-B862-ACF500B70032"
  },
  {
-   "time_id": "2021032614283229265",
+   "comment_id": "2021032614283229265",
    "title": "Lockbox Code",
-   "inspection_id": "151F2863-F212-44E1-88D4-ACF700EE1994",
    "comment": "Code: 2468",
    "date": "2021-03-26 14:28:23",
-   "entered_by": "lwenzel"
+   "inspection_id": "151F2863-F212-44E1-88D4-ACF700EE1994"
  },
  {
-   "time_id": "2021032908313513158",
+   "comment_id": "2021032908313513158",
    "title": "",
-   "inspection_id": "65BD24BA-5F50-41F0-A5B1-ACF701017D72",
    "comment": "Cancelled by the contractor. Homeowner has covid",
    "date": "2021-03-29 8:31:16",
-   "entered_by": "NYACOUB"
+   "inspection_id": "65BD24BA-5F50-41F0-A5B1-ACF701017D72"
  },
  {
-   "time_id": "2021032913284627183",
+   "comment_id": "2021032913284627183",
    "title": "",
-   "inspection_id": "CB390E0E-9517-4B48-B412-ACFA00DDEF85",
    "comment": "Open splice on wire",
    "date": "2021-03-29 13:28:41",
-   "entered_by": "NYACOUB"
+   "inspection_id": "CB390E0E-9517-4B48-B412-ACFA00DDEF85"
  },
  {
-   "time_id": "2021033007564869058",
+   "comment_id": "2021033007564869058",
    "title": "",
-   "inspection_id": "490DD79D-65C9-4CA9-91D8-ACFB00828654",
    "comment": "Owner of the house dumps stuff in the backyard and stored leaves bags. 4/5/2021 Yard has been cleaned up -DLP",
    "date": "2021-03-30 7:56:46",
-   "entered_by": "NYACOUB"
+   "inspection_id": "490DD79D-65C9-4CA9-91D8-ACFB00828654"
  },
  {
-   "time_id": "2021033013075207492",
+   "comment_id": "2021033013075207492",
    "title": "Scheduling comment",
-   "inspection_id": "1936291E-E690-4D3F-80D0-ACFB00D85705",
    "comment": "Lockbox 1373",
    "date": "2021-03-30 13:07:52",
-   "entered_by": "NYACOUB"
+   "inspection_id": "1936291E-E690-4D3F-80D0-ACFB00D85705"
  },
  {
-   "time_id": "2021033114310163660",
+   "comment_id": "2021033114310163660",
    "title": "",
-   "inspection_id": "513BECDF-0C5A-47DA-AF55-ACE70103B8A1",
    "comment": "Spot Light has turned down. Closed",
    "date": "2021-03-31 14:30:43",
-   "entered_by": "NYACOUB"
+   "inspection_id": "513BECDF-0C5A-47DA-AF55-ACE70103B8A1"
  },
  {
-   "time_id": "2021040112414244762",
+   "comment_id": "2021040112414244762",
    "title": "",
-   "inspection_id": "6AF54A64-7D45-4CA2-8466-ACFC00F7FEC0",
    "comment": "Blight in the Front Yard",
    "date": "2021-04-01 12:41:33",
-   "entered_by": "NYACOUB"
+   "inspection_id": "6AF54A64-7D45-4CA2-8466-ACFC00F7FEC0"
  },
  {
-   "time_id": "2021040112444271964",
+   "comment_id": "2021040112444271964",
    "title": "",
-   "inspection_id": "2ED1CA4E-7AD4-4524-A90D-ACE200FCE251",
    "comment": "3/1/21 Interior leak from roof",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "2ED1CA4E-7AD4-4524-A90D-ACE200FCE251"
  },
  {
-   "time_id": "2021040112460364966",
+   "comment_id": "2021040112460364966",
    "title": "",
-   "inspection_id": "09C51E5B-3B10-41BF-900F-ACE600DA0937",
    "comment": "dumpster overflowing . Dumpster has been removed",
    "date": "2021-04-01 12:45:53",
-   "entered_by": "NYACOUB"
+   "inspection_id": "09C51E5B-3B10-41BF-900F-ACE600DA0937"
  },
  {
-   "time_id": "2021040112470388868",
+   "comment_id": "2021040112470388868",
    "title": "",
-   "inspection_id": "87981E78-56B2-4142-A1A7-ACDF00F13FB7",
    "comment": "Exterior Debris",
    "date": "2021-04-01 12:46:54",
-   "entered_by": "NYACOUB"
+   "inspection_id": "87981E78-56B2-4142-A1A7-ACDF00F13FB7"
  },
  {
-   "time_id": "2021040112480426270",
+   "comment_id": "2021040112480426270",
    "title": "",
-   "inspection_id": "4C2074B0-1E1B-4C16-88FF-ACE90083C63E",
    "comment": "Debris next to garage. Debris has been removed",
    "date": "2021-04-01 12:47:53",
-   "entered_by": "NYACOUB"
+   "inspection_id": "4C2074B0-1E1B-4C16-88FF-ACE90083C63E"
  },
  {
-   "time_id": "2021040112485191172",
+   "comment_id": "2021040112485191172",
    "title": "",
-   "inspection_id": "3B3BE5E2-6C38-4C2F-8C34-ACF000874393",
    "comment": "bright light coming from 3656 3650 Arcadia. 4/1/2021 Light has been turned off. Closed",
    "date": "2021-04-01 12:48:49",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3B3BE5E2-6C38-4C2F-8C34-ACF000874393"
  },
  {
-   "time_id": "2021040510313465676",
+   "comment_id": "2021040510313465676",
    "title": "Scheduling comment",
-   "inspection_id": "70F150F4-95EF-4EDB-94BC-AD0100AD6C00",
    "comment": "1. Install dishwasher",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "70F150F4-95EF-4EDB-94BC-AD0100AD6C00"
  },
  {
-   "time_id": "2021040608055293060",
+   "comment_id": "2021040608055293060",
    "title": "Approved",
-   "inspection_id": "ACD701EF-7508-491D-9E13-ACFD008BCD31",
    "comment": "Did an open roof inspection and met contractor. they are going to try to finish shingling but the might stop due to the rain. Found the entire roof has been covered with ice & Water shield.",
    "date": "2021-04-06 8:03:43",
-   "entered_by": "NYACOUB"
+   "inspection_id": "ACD701EF-7508-491D-9E13-ACFD008BCD31"
  },
  {
-   "time_id": "2021040708473425856",
+   "comment_id": "2021040708473425856",
    "title": "",
-   "inspection_id": "BC077FAA-1548-42E8-A578-AD020093DD00",
    "comment": "Lockbox #1960",
    "date": "2021-04-07 8:47:23",
-   "entered_by": "NYACOUB"
+   "inspection_id": "BC077FAA-1548-42E8-A578-AD020093DD00"
  },
  {
-   "time_id": "2021040710271688857",
+   "comment_id": "2021040710271688857",
    "title": "Lockbox",
-   "inspection_id": "35DB4FEF-3F29-46BA-8030-AD0300AC2002",
    "comment": "Lockbox Code 1960",
    "date": "2021-04-07 10:26:56",
-   "entered_by": "lwenzel"
+   "inspection_id": "35DB4FEF-3F29-46BA-8030-AD0300AC2002"
  },
  {
-   "time_id": "2021040710323457161",
+   "comment_id": "2021040710323457161",
    "title": "comment",
-   "inspection_id": "7D55118A-BA98-49E1-9F3E-AD0300AD7029",
    "comment": "Litter and debris behind dumpster and screen wall.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "7D55118A-BA98-49E1-9F3E-AD0300AD7029"
  },
  {
-   "time_id": "2021040710351250165",
+   "comment_id": "2021040710351250165",
    "title": "comment",
-   "inspection_id": "4185689E-24F4-453D-A9A8-AD0300AE461C",
    "comment": "Litter and debris behind dumpster and screen wall",
    "date": "2021-04-07 10:34:50",
-   "entered_by": "lwenzel"
+   "inspection_id": "4185689E-24F4-453D-A9A8-AD0300AE461C"
  },
  {
-   "time_id": "2021040711043181558",
+   "comment_id": "2021040711043181558",
    "title": "",
-   "inspection_id": "46D9547A-22B5-4B1D-BA2A-AD0200DB3788",
    "comment": "Spoke with Tony the builder and told him they needed to pour the garage heavy to insure they have at least 3 1/2 of concrete. fill 8\" block at front porch with concrete or dumproof",
    "date": "2021-04-07 11:01:34",
-   "entered_by": "NYACOUB"
+   "inspection_id": "46D9547A-22B5-4B1D-BA2A-AD0200DB3788"
  },
  {
-   "time_id": "2021040711234491667",
+   "comment_id": "2021040711234491667",
    "title": "Inspection Result",
-   "inspection_id": "BC077FAA-1548-42E8-A578-AD020093DD00",
    "comment": "1. Extend toe space ducts to registers",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "BC077FAA-1548-42E8-A578-AD020093DD00"
  },
  {
-   "time_id": "2021040809192385556",
+   "comment_id": "2021040809192385556",
    "title": "",
-   "inspection_id": "DE968478-4584-45A9-ABB9-AD040088D317",
    "comment": "1. Extend toe space ducts to registers",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "DE968478-4584-45A9-ABB9-AD040088D317"
  },
  {
-   "time_id": "2021041210483321157",
+   "comment_id": "2021041210483321157",
    "title": "Scheduling comment",
-   "inspection_id": "33A665EB-B5FA-466E-877E-AD0800B19C59",
    "comment": "12:00 pm - Post hole for deck posts",
    "date": "2021-04-12 10:48:32",
-   "entered_by": "DPratt"
+   "inspection_id": "33A665EB-B5FA-466E-877E-AD0800B19C59"
  },
  {
-   "time_id": "2021041309342737256",
+   "comment_id": "2021041309342737256",
    "title": "Inspection Result",
-   "inspection_id": "288E3C28-F415-41C0-9E54-AD0400D8E607",
    "comment": "1. Remove well system from city water system.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "288E3C28-F415-41C0-9E54-AD0400D8E607"
  },
  {
-   "time_id": "2021041914360450995",
+   "comment_id": "2021041914360450995",
    "title": "comment",
-   "inspection_id": "D38F2E57-C563-4C3B-972B-AD0F0088DD3C",
    "comment": "4/19/21 - Patrolman Frost reported work going on at this home and wondered if there was a permit.  There is. Close this enforcement.  DLP",
    "date": "2021-04-19 14:35:58",
-   "entered_by": "lwenzel"
+   "inspection_id": "D38F2E57-C563-4C3B-972B-AD0F0088DD3C"
  },
  {
-   "time_id": "2021042007575149274",
+   "comment_id": "2021042007575149274",
    "title": "Parking Lot Lights",
-   "inspection_id": "9FCD4B50-74F3-4205-8B61-AC9300A9BBD5",
    "comment": "",
    "date": "2021-04-20 7:51:19",
-   "entered_by": "DPratt"
+   "inspection_id": "9FCD4B50-74F3-4205-8B61-AC9300A9BBD5"
  },
  {
-   "time_id": "2021042308093030056",
+   "comment_id": "2021042308093030056",
    "title": "comment",
-   "inspection_id": "F0F59BC8-047E-4021-86D5-AD0F00BEA496",
    "comment": "Trim unfinished electrical not complete (missing plate covers) electrical not complete (missing plate covers)",
    "date": "2021-04-23 8:08:05",
-   "entered_by": "lwenzel"
+   "inspection_id": "F0F59BC8-047E-4021-86D5-AD0F00BEA496"
  },
  {
-   "time_id": "2021042314061750360",
+   "comment_id": "2021042314061750360",
    "title": "comment",
-   "inspection_id": "B1262951-355F-4753-80D9-AD1300E8247C",
    "comment": "4/23/21 Working on roof without permit.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "B1262951-355F-4753-80D9-AD1300E8247C"
  },
  {
-   "time_id": "2021042314184487562",
+   "comment_id": "2021042314184487562",
    "title": "comment",
-   "inspection_id": "145FC2C1-AC32-47B2-A262-AD100087DF7A",
    "comment": "Water shut off was sticking 6 inches out of the ground but has been lowered. Closing enforcement - DLP",
    "date": "2021-04-23 14:17:54",
-   "entered_by": "lwenzel"
+   "inspection_id": "145FC2C1-AC32-47B2-A262-AD100087DF7A"
  },
  {
-   "time_id": "2021042610570930061",
+   "comment_id": "2021042610570930061",
    "title": "Inspection Result",
-   "inspection_id": "F5BACF8B-8EC9-4C20-887D-AD0F00BDD51B",
    "comment": "1) Master bath not complete",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "F5BACF8B-8EC9-4C20-887D-AD0F00BDD51B"
  },
  {
-   "time_id": "2021042612511364265",
+   "comment_id": "2021042612511364265",
    "title": "comment",
-   "inspection_id": "80689B7F-4F8A-44EB-839C-AD1600D3B0D5",
    "comment": "For bonus room and second floor only",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "80689B7F-4F8A-44EB-839C-AD1600D3B0D5"
  },
  {
-   "time_id": "2021042708493033558",
+   "comment_id": "2021042708493033558",
    "title": "Inspection Result",
-   "inspection_id": "70F150F4-95EF-4EDB-94BC-AD0100AD6C00",
    "comment": "No work on this job has been completed",
    "date": "2021-04-27 8:49:21",
-   "entered_by": "lwenzel"
+   "inspection_id": "70F150F4-95EF-4EDB-94BC-AD0100AD6C00"
  },
  {
-   "time_id": "2021042709084287366",
+   "comment_id": "2021042709084287366",
    "title": "comment",
-   "inspection_id": "F44ED754-40B4-452C-AF31-AD160096958F",
    "comment": "Need to provide sealed truss drawings and truss layout",
    "date": "2021-04-27 9:08:22",
-   "entered_by": "lwenzel"
+   "inspection_id": "F44ED754-40B4-452C-AF31-AD160096958F"
  },
  {
-   "time_id": "2021042709094260168",
+   "comment_id": "2021042709094260168",
    "title": "Inspection Result",
-   "inspection_id": "779CE74E-E783-42B4-B497-AD1200F917BE",
    "comment": "Not approved. Need to remove vent and block up at fire separation wall on the north side of the tenant space",
    "date": "2021-04-27 9:08:59",
-   "entered_by": "lwenzel"
+   "inspection_id": "779CE74E-E783-42B4-B497-AD1200F917BE"
  },
  {
-   "time_id": "2021042709111672770",
+   "comment_id": "2021042709111672770",
    "title": "comment",
-   "inspection_id": "8B4D7463-E160-486A-AF50-AD1700894D5F",
    "comment": "Received a complaint that there was a dumpster in the driveway and there was work going in within the home. I spoke with the homeowner Marcus Evangelista who told me they were going to hire a contractor to renovate the home and were just removing the interior material to see what they had.  He said he will be applying for a permit within the next few weeks. Closing enforcement. DLP",
    "date": "2021-04-27 9:10:42",
-   "entered_by": "lwenzel"
+   "inspection_id": "8B4D7463-E160-486A-AF50-AD1700894D5F"
  },
  {
-   "time_id": "2021042911123028585",
+   "comment_id": "2021042911123028585",
    "title": "comment",
-   "inspection_id": "C41B9C69-01FF-45AD-983D-AD1900B87C99",
    "comment": "Leaving trash bins out at front of house",
    "date": "2021-04-29 11:12:25",
-   "entered_by": "lwenzel"
+   "inspection_id": "C41B9C69-01FF-45AD-983D-AD1900B87C99"
  },
  {
-   "time_id": "2021042911132365389",
+   "comment_id": "2021042911132365389",
    "title": "comment",
-   "inspection_id": "D3399805-314B-4621-BABB-AD1900B8D083",
    "comment": "Leaving trash bins out at front of house",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "D3399805-314B-4621-BABB-AD1900B8D083"
  },
  {
-   "time_id": "2021050314002422661",
+   "comment_id": "2021050314002422661",
    "title": "Lockbox",
-   "inspection_id": "53DDA605-29A3-4AC1-8D18-AD1D00E6C3E0",
    "comment": "Code: 1245",
    "date": "2021-05-03 14:00:16",
-   "entered_by": "lwenzel"
+   "inspection_id": "53DDA605-29A3-4AC1-8D18-AD1D00E6C3E0"
  },
  {
-   "time_id": "2021050410294915056",
+   "comment_id": "2021050410294915056",
    "title": "Inspection comment",
-   "inspection_id": "24FE4018-06F8-465D-9B06-AD1700939322",
    "comment": "John Sini's (plumber) business card and phone # was posted on the door to call for the lockbox code but he didn't answer. I tried the lockbox number nancy gave me and it didn't work. I had to leave. But don't charge a refee I should have been there on Friday.",
    "date": "2021-05-04 10:08:23",
-   "entered_by": " "
+   "inspection_id": "24FE4018-06F8-465D-9B06-AD1700939322"
  },
  {
-   "time_id": "2021050509571123562",
+   "comment_id": "2021050509571123562",
    "title": "",
-   "inspection_id": "1C193285-4B80-47BD-A1F2-AD1E00FD6710",
    "comment": "Master bath tub not done so I gave a temp final plumbing. When the home owner decides what he is doing with tub valve he will need a asse tempering valve for that valve. I will make complete final at that time.",
    "date": "2021-05-05 9:57:08",
-   "entered_by": "NYACOUB"
+   "inspection_id": "1C193285-4B80-47BD-A1F2-AD1E00FD6710"
  },
  {
-   "time_id": "2021050513435678859",
+   "comment_id": "2021050513435678859",
    "title": "Scheduling comment",
-   "inspection_id": "24A98B12-957E-46BE-88DA-AD1F00E239A8",
    "comment": "1) Dishwasher hose installed incorrectly",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "24A98B12-957E-46BE-88DA-AD1F00E239A8"
  },
  {
-   "time_id": "2021050712040334057",
+   "comment_id": "2021050712040334057",
    "title": "",
-   "inspection_id": "F27C807E-2357-4260-9CAF-AD2100C6AAA7",
    "comment": "248-469-5206 Mrs. Sullivan",
    "date": "2021-05-07 12:03:45",
-   "entered_by": "NYACOUB"
+   "inspection_id": "F27C807E-2357-4260-9CAF-AD2100C6AAA7"
  },
  {
-   "time_id": "2021050715011588782",
+   "comment_id": "2021050715011588782",
    "title": "comment",
-   "inspection_id": "0C230A08-B232-4466-BED1-AA5700DA39BB",
    "comment": "High grass.",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "0C230A08-B232-4466-BED1-AA5700DA39BB"
  },
  {
-   "time_id": "2021050715202582361",
+   "comment_id": "2021050715202582361",
    "title": "",
-   "inspection_id": "64843A37-88BC-4E55-9563-AD10008A4B46",
    "comment": "Received a complaint that there is stored material (gravel) placed on the west side of the adjoining lot. (gravel) placed on the west side of the adjoining lot.",
    "date": "2021-05-07 15:20:23",
-   "entered_by": "NYACOUB"
+   "inspection_id": "64843A37-88BC-4E55-9563-AD10008A4B46"
  },
  {
-   "time_id": "2021050715241580863",
+   "comment_id": "2021050715241580863",
    "title": "",
-   "inspection_id": "1984578C-AE83-46B8-ABA6-AD0800A41A2A",
    "comment": "Water in driveway and land between this home. Did inspection and found no water. Close",
    "date": "2021-05-07 15:23:20",
-   "entered_by": "NYACOUB"
+   "inspection_id": "1984578C-AE83-46B8-ABA6-AD0800A41A2A"
  },
  {
-   "time_id": "2021051009330242264",
+   "comment_id": "2021051009330242264",
    "title": "Lockbox",
-   "inspection_id": "A8AB7A96-F6D6-4396-877D-AD24009D43B5",
    "comment": "Code: 1245",
    "date": "2021-05-10 9:32:52",
-   "entered_by": "lwenzel"
+   "inspection_id": "A8AB7A96-F6D6-4396-877D-AD24009D43B5"
  },
  {
-   "time_id": "2021051014541337587",
+   "comment_id": "2021051014541337587",
    "title": "comment",
-   "inspection_id": "65D6B0EB-52FA-4896-93A6-AD180101F0CB",
    "comment": "Trash cans left out in front yard",
    "date": "2021-05-10 14:54:08",
-   "entered_by": "lwenzel"
+   "inspection_id": "65D6B0EB-52FA-4896-93A6-AD180101F0CB"
  },
  {
-   "time_id": "2021051014553659889",
+   "comment_id": "2021051014553659889",
    "title": "comment",
-   "inspection_id": "3BD6F8D3-27C0-48E3-85F6-AD1000836988",
    "comment": "4/18/21 - Received a complaint regarding the parking lot lights not being at a 9 degree angle to the pole and are shining onto the street and surrounding property.  I will check on 4/20/21.  DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "3BD6F8D3-27C0-48E3-85F6-AD1000836988"
  },
  {
-   "time_id": "2021051014560323291",
+   "comment_id": "2021051014560323291",
    "title": "comment",
-   "inspection_id": "C8FCBFA9-9823-4F13-A159-AD100093273B",
    "comment": "4/6/21 - Received a complaint regarding the posts of the fence along the north property line being over 4 feet in height.  I spoke with the homeowner on 4/20/21 who told me he will cut them within the next several weeks.  DLP",
    "date": "2021-05-10 14:55:59",
-   "entered_by": "lwenzel"
+   "inspection_id": "C8FCBFA9-9823-4F13-A159-AD100093273B"
  },
  {
-   "time_id": "2021051014570132093",
+   "comment_id": "2021051014570132093",
    "title": "comment",
-   "inspection_id": "4B7439F6-3D89-4597-BFDD-AD0300F6BAB8",
    "comment": "4/7/21 - Kirk Brunson reported two storage \"Pods\" sitting in the driveway of this home along with a trailer.  DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "4B7439F6-3D89-4597-BFDD-AD0300F6BAB8"
  },
  {
-   "time_id": "2021051014573976695",
+   "comment_id": "2021051014573976695",
    "title": "comment",
-   "inspection_id": "3BA6CA9B-ABB6-4E76-8F2A-AD0300F77E44",
    "comment": "4/7/21 -Neighbor reported that this owner is storing his trash cans in his yard unscreened.  DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "3BA6CA9B-ABB6-4E76-8F2A-AD0300F77E44"
  },
  {
-   "time_id": "2021051014582113897",
+   "comment_id": "2021051014582113897",
    "title": "comment",
-   "inspection_id": "4A1C1851-1AE4-43DF-B671-AD0300F833A0",
    "comment": "4/7/21 - Neighbor reported that this homeowner is storing his trash cans on view of the road and neighbors.  DLP",
    "date": "2021-05-10 14:58:04",
-   "entered_by": "lwenzel"
+   "inspection_id": "4A1C1851-1AE4-43DF-B671-AD0300F833A0"
  },
  {
-   "time_id": "2021051014590375158",
+   "comment_id": "2021051014590375158",
    "title": "comment",
-   "inspection_id": "F0F64142-A2DD-419C-B169-AD10008CAAC0",
    "comment": "4/19/21 - A neighbor is complaining about a tree that is leaning and could fall and cause damage.  I will check on 4/20/21.  DLP",
    "date": "2021-05-10 14:58:59",
-   "entered_by": "lwenzel"
+   "inspection_id": "F0F64142-A2DD-419C-B169-AD10008CAAC0"
  },
  {
-   "time_id": "2021051014593815160",
+   "comment_id": "2021051014593815160",
    "title": "comment",
-   "inspection_id": "D34CD459-5EF6-4521-B0EC-AD1300FCF2FF",
    "comment": "4/19/21 - Received a complaint regarding trash can and/or recycling bins left out in view of the street -DLP",
    "date": "2021-05-10 14:59:23",
-   "entered_by": "lwenzel"
+   "inspection_id": "D34CD459-5EF6-4521-B0EC-AD1300FCF2FF"
  },
  {
-   "time_id": "2021051015010542762",
+   "comment_id": "2021051015010542762",
    "title": "comment",
-   "inspection_id": "6385136E-E2DF-4ED4-8E45-AD0300DF2487",
    "comment": "Received a complaint regarding garbage cans left outside unscreened and debris left over from the construction of the home. Contacted the owners who said they will deal with the construction material soon and will provide screening for the trash cans.  DLP",
    "date": "2021-05-10 15:00:02",
-   "entered_by": "lwenzel"
+   "inspection_id": "6385136E-E2DF-4ED4-8E45-AD0300DF2487"
  },
  {
-   "time_id": "2021051015013940364",
+   "comment_id": "2021051015013940364",
    "title": "comment",
-   "inspection_id": "A9489233-31D3-48A9-81D7-AD0300F51A75",
    "comment": "Neighbor filed a complaint regarding trash cans left out in the open.  DLP",
    "date": "2021-05-10 15:01:25",
-   "entered_by": "lwenzel"
+   "inspection_id": "A9489233-31D3-48A9-81D7-AD0300F51A75"
  },
  {
-   "time_id": "2021051015025166668",
+   "comment_id": "2021051015025166668",
    "title": "comment",
-   "inspection_id": "87D4162C-9E7B-4060-AC32-AD0F008222EB",
    "comment": "Officer Frost reported that there was work going at this home.  I did an inspection on Tuesday 4/13/21 and found this work was under the building permit in existence.  DLP",
    "date": "2021-05-10 15:02:42",
-   "entered_by": "lwenzel"
+   "inspection_id": "87D4162C-9E7B-4060-AC32-AD0F008222EB"
  },
  {
-   "time_id": "2021051213162241577",
+   "comment_id": "2021051213162241577",
    "title": "Garage Code",
-   "inspection_id": "47E92A31-6B2B-4B39-85AC-AD2600DA9EF6",
    "comment": "8931",
    "date": "2021-05-12 13:16:06",
-   "entered_by": "lwenzel"
+   "inspection_id": "47E92A31-6B2B-4B39-85AC-AD2600DA9EF6"
  },
  {
-   "time_id": "2021051411560514970",
+   "comment_id": "2021051411560514970",
    "title": "Inspection comment",
-   "inspection_id": "300E5B5F-233F-45A0-8156-AD1A00F1414B",
    "comment": "Note: Make box behind micro accessible",
    "date": "2021-05-14 11:55:44",
-   "entered_by": "lwenzel"
+   "inspection_id": "300E5B5F-233F-45A0-8156-AD1A00F1414B"
  },
  {
-   "time_id": "2021051709211203456",
+   "comment_id": "2021051709211203456",
    "title": "Inspection Result",
-   "inspection_id": "4DC67C56-F0D6-45D6-A38B-AD2500E4B557",
    "comment": "1. Lav in both bathrooms not ADA accessible",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "4DC67C56-F0D6-45D6-A38B-AD2500E4B557"
  },
  {
-   "time_id": "2021051713442371886",
+   "comment_id": "2021051713442371886",
    "title": "Lockbox",
-   "inspection_id": "8DCAFABF-58E4-42D1-BA4E-AD2B00E226F5",
    "comment": "Code: 1245",
    "date": "2021-05-17 13:43:43",
-   "entered_by": "lwenzel"
+   "inspection_id": "8DCAFABF-58E4-42D1-BA4E-AD2B00E226F5"
  },
  {
-   "time_id": "2021051807550459058",
+   "comment_id": "2021051807550459058",
    "title": "",
-   "inspection_id": "3624FFD6-D7F3-4C39-B57E-AD2C0081FA31",
    "comment": "Possible Violation of Ordinance. Planning Trees close to water edge",
    "date": "2021-05-18 7:55:02",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3624FFD6-D7F3-4C39-B57E-AD2C0081FA31"
  },
  {
-   "time_id": "2021051808092977362",
+   "comment_id": "2021051808092977362",
    "title": "",
-   "inspection_id": "AA4A354E-CBEF-4656-A457-AD2C0086072C",
    "comment": "Possible encroachment of retaining wall",
    "date": "2021-05-18 8:09:21",
-   "entered_by": "NYACOUB"
+   "inspection_id": "AA4A354E-CBEF-4656-A457-AD2C0086072C"
  },
  {
-   "time_id": "2021051809451089979",
+   "comment_id": "2021051809451089979",
    "title": "",
-   "inspection_id": "0249CFD5-A536-460C-A138-AD2C00A06F35",
    "comment": "Filling the ditches on West Bloomfield Property",
    "date": "2021-05-18 9:44:56",
-   "entered_by": "NYACOUB"
+   "inspection_id": "0249CFD5-A536-460C-A138-AD2C00A06F35"
  },
  {
-   "time_id": "2021051810564749391",
+   "comment_id": "2021051810564749391",
    "title": "",
-   "inspection_id": "2A119055-8F09-478D-BFC0-AD2600EB3169",
    "comment": "Final building not approved",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "2A119055-8F09-478D-BFC0-AD2600EB3169"
  },
  {
-   "time_id": "2021051813103693197",
+   "comment_id": "2021051813103693197",
    "title": "",
-   "inspection_id": "8873B911-CD3B-4AAD-BC5C-AD2C00D8D0EE",
    "comment": "Garbage cans on the road- Cans has been removed",
    "date": "2021-05-18 13:10:28",
-   "entered_by": "NYACOUB"
+   "inspection_id": "8873B911-CD3B-4AAD-BC5C-AD2C00D8D0EE"
  },
  {
-   "time_id": "2021051813170492919",
+   "comment_id": "2021051813170492919",
    "title": "",
-   "inspection_id": "2AB3B6D7-460D-4D51-88C4-AD2C00DA566F",
    "comment": "high grass",
    "date": "2021-05-18 13:16:59",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2AB3B6D7-460D-4D51-88C4-AD2C00DA566F"
  },
  {
-   "time_id": "2021051814040808725",
+   "comment_id": "2021051814040808725",
    "title": "",
-   "inspection_id": "37DAD102-A640-4D6B-9CCB-AD2C00E7B24B",
    "comment": "High Grass",
    "date": "2021-05-18 14:04:02",
-   "entered_by": "NYACOUB"
+   "inspection_id": "37DAD102-A640-4D6B-9CCB-AD2C00E7B24B"
  },
  {
-   "time_id": "2021051814244415727",
+   "comment_id": "2021051814244415727",
    "title": "",
-   "inspection_id": "3F2A433C-CECD-44BA-A1FD-AD1E0081A3C9",
    "comment": "regarding his neighbor installing a new roof and adding on an enclosure on an existing structure at the swimming pool area.  He said it was approximately 5 feet from the wooden fence which is in poor condition.  DLP",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "3F2A433C-CECD-44BA-A1FD-AD1E0081A3C9"
  },
  {
-   "time_id": "2021051815233860333",
+   "comment_id": "2021051815233860333",
    "title": "",
-   "inspection_id": "3611BDA8-558C-44A8-BC26-AD2C00FD8B0A",
    "comment": "installing fence. 5/28/2021 No violation at t his time. Close",
    "date": "2021-05-18 15:23:33",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3611BDA8-558C-44A8-BC26-AD2C00FD8B0A"
  },
  {
-   "time_id": "2021051815352431038",
+   "comment_id": "2021051815352431038",
    "title": "Scheduling comment",
-   "inspection_id": "EA5104AF-8508-4242-B8BA-AD2C01003CFE",
    "comment": "pipe is installed and c.b. installed- swell is formed. needs landscaping to staiblized ground",
    "date": "2021-05-18 15:35:24",
-   "entered_by": "NYACOUB"
+   "inspection_id": "EA5104AF-8508-4242-B8BA-AD2C01003CFE"
  },
  {
-   "time_id": "2021051913010058659",
+   "comment_id": "2021051913010058659",
    "title": "Scheduling comment",
-   "inspection_id": "2D8EB203-71E5-4D27-9B48-AD2D00D56605",
    "comment": "Mid-day inspection if possible",
    "date": "2021-05-19 13:01:00",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2D8EB203-71E5-4D27-9B48-AD2D00D56605"
  },
  {
-   "time_id": "2021051913522289063",
+   "comment_id": "2021051913522289063",
    "title": "Inspection Result",
-   "inspection_id": "8DCAFABF-58E4-42D1-BA4E-AD2B00E226F5",
    "comment": "1. Secure gas lines at lower level furnace and water heater",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "8DCAFABF-58E4-42D1-BA4E-AD2B00E226F5"
  },
  {
-   "time_id": "2021052108365758564",
+   "comment_id": "2021052108365758564",
    "title": "",
-   "inspection_id": "CA6E3522-AF16-405F-A956-AD2F008D2784",
    "comment": "His contractors damaged the neighbor�s lawn at 4697 Dow Ridge. Mr. Ahmad repaired the damaged lawn. Close enforcement",
    "date": "2021-05-21 8:36:54",
-   "entered_by": "NYACOUB"
+   "inspection_id": "CA6E3522-AF16-405F-A956-AD2F008D2784"
  },
  {
-   "time_id": "2021052113075544272",
+   "comment_id": "2021052113075544272",
    "title": "",
-   "inspection_id": "3BC6E5C5-2A85-4F62-9FFE-AD2F00D84482",
    "comment": "Trash Can on the Road",
    "date": "2021-05-21 13:07:46",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3BC6E5C5-2A85-4F62-9FFE-AD2F00D84482"
  },
  {
-   "time_id": "2021052411023749565",
+   "comment_id": "2021052411023749565",
    "title": "Inspection Result",
-   "inspection_id": "DE25228D-63F9-4EFE-AAAC-AD2E00E8BB3D",
    "comment": "Need to add 2 lav 4 sinks and 15 stacks to this permit per Steve",
    "date": "2021-05-24 11:02:04",
-   "entered_by": "lwenzel"
+   "inspection_id": "DE25228D-63F9-4EFE-AAAC-AD2E00E8BB3D"
  },
  {
-   "time_id": "2021052412003242097",
+   "comment_id": "2021052412003242097",
    "title": "",
-   "inspection_id": "2A703A5D-AD21-44BF-B7AB-AD3200C5CD7E",
    "comment": "removing trees",
    "date": "2021-05-24 12:00:27",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2A703A5D-AD21-44BF-B7AB-AD3200C5CD7E"
  },
  {
-   "time_id": "2021052508533784157",
+   "comment_id": "2021052508533784157",
    "title": "Inspection Result",
-   "inspection_id": "2083E7C5-E248-49D4-8A5A-AD2F00E1336B",
    "comment": "Missing grab bars toilet paper holders handicap signs and mirrors",
    "date": "2021-05-25 8:51:40",
-   "entered_by": "lwenzel"
+   "inspection_id": "2083E7C5-E248-49D4-8A5A-AD2F00E1336B"
  },
  {
-   "time_id": "2021052509391174890",
+   "comment_id": "2021052509391174890",
    "title": "",
-   "inspection_id": "7D6E409B-4480-48A9-A15B-AD33009EE4B4",
    "comment": "High Grass",
    "date": "2021-05-25 9:39:07",
-   "entered_by": "NYACOUB"
+   "inspection_id": "7D6E409B-4480-48A9-A15B-AD33009EE4B4"
  },
  {
-   "time_id": "2021052514300481358",
+   "comment_id": "2021052514300481358",
    "title": "",
-   "inspection_id": "4D243B13-16A9-46C9-9090-AD2F00D226B7",
    "comment": "10:30 am shingles removed on back side of the house wood being replaced throughout no underlayment installed. Will reschedule again for tomorrow 5/26/2021 to verify underlayment",
    "date": "2021-05-25 14:30:02",
-   "entered_by": "NYACOUB"
+   "inspection_id": "4D243B13-16A9-46C9-9090-AD2F00D226B7"
  },
  {
-   "time_id": "2021052613302013363",
+   "comment_id": "2021052613302013363",
    "title": "",
-   "inspection_id": "C79247E4-BCA4-4B4E-BD42-AD3400DE5BAB",
    "comment": "High Grass",
    "date": "2021-05-26 13:30:05",
-   "entered_by": "NYACOUB"
+   "inspection_id": "C79247E4-BCA4-4B4E-BD42-AD3400DE5BAB"
  },
  {
-   "time_id": "2021052808402314862",
+   "comment_id": "2021052808402314862",
    "title": "",
-   "inspection_id": "370F6381-8803-430E-B847-AD3500F68573",
    "comment": "Open roof ok working on front home. Underlayment installed per code",
    "date": "2021-05-28 8:40:19",
-   "entered_by": "NYACOUB"
+   "inspection_id": "370F6381-8803-430E-B847-AD3500F68573"
  },
  {
-   "time_id": "2021052808421284664",
+   "comment_id": "2021052808421284664",
    "title": "",
-   "inspection_id": "2038DF1A-CC94-4693-99D6-AD3300D884C8",
    "comment": "Trench footing ok. Trench footing for garage and rear addition. Basement area to be excavated and poured at a later time",
    "date": "2021-05-28 8:42:09",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2038DF1A-CC94-4693-99D6-AD3300D884C8"
  },
  {
-   "time_id": "2021052809102475568",
+   "comment_id": "2021052809102475568",
    "title": "",
-   "inspection_id": "01791E87-7213-427A-9919-AD360096FE93",
    "comment": "Possible Boat Violation",
    "date": "2021-05-28 9:10:14",
-   "entered_by": "NYACOUB"
+   "inspection_id": "01791E87-7213-427A-9919-AD360096FE93"
  },
  {
-   "time_id": "2021052813254949179",
+   "comment_id": "2021052813254949179",
    "title": "Scheduling comment",
-   "inspection_id": "5032DA58-FC66-4992-AEDF-AD3600DD169E",
    "comment": "David Sullivan 248-497-9731",
    "date": "2021-05-28 13:25:49",
-   "entered_by": "NYACOUB"
+   "inspection_id": "5032DA58-FC66-4992-AEDF-AD3600DD169E"
  },
  {
-   "time_id": "2021052813591939482",
+   "comment_id": "2021052813591939482",
    "title": "",
-   "inspection_id": "EC03103D-3F2F-4538-923B-AD3200AD11C6",
    "comment": "insulation approved for 2nd and 3rd floor",
    "date": "2021-05-28 13:59:03",
-   "entered_by": "NYACOUB"
+   "inspection_id": "EC03103D-3F2F-4538-923B-AD3200AD11C6"
  },
  {
-   "time_id": "2021052814005726585",
+   "comment_id": "2021052814005726585",
    "title": "",
-   "inspection_id": "BC3ED62C-4009-4D8E-9634-AD3500A4D6CD",
    "comment": "needs locks on both side of the pool cover",
    "date": "2021-05-28 14:00:28",
-   "entered_by": "NYACOUB"
+   "inspection_id": "BC3ED62C-4009-4D8E-9634-AD3500A4D6CD"
  },
  {
-   "time_id": "2021052815121678174",
+   "comment_id": "2021052815121678174",
    "title": "",
-   "inspection_id": "D56168F5-E611-4B1E-924F-AD3600F9FC89",
    "comment": "Drainage issue",
    "date": "2021-05-28 15:12:13",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D56168F5-E611-4B1E-924F-AD3600F9FC89"
  },
  {
-   "time_id": "2021052815153432278",
+   "comment_id": "2021052815153432278",
    "title": "",
-   "inspection_id": "D9AC6582-1846-40D1-AC91-AD3600FB6168",
    "comment": "Drainage issue",
    "date": "2021-05-28 15:15:31",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D9AC6582-1846-40D1-AC91-AD3600FB6168"
  },
  {
-   "time_id": "201101171154420022012",
+   "comment_id": "201101171154420022012",
    "title": "",
-   "inspection_id": "00000000-0000-0000-0000-000000000000",
    "comment": "T2N R9E SEC 9 COUNTRY CLUB GARDENS SUB LOT 13",
    "date": "2011-01-17 0:00:00",
-   "entered_by": ""
+   "inspection_id": "00000000-0000-0000-0000-000000000000"
  },
  {
-   "time_id": "2021060109315357265",
+   "comment_id": "2021060109315357265",
    "title": "Scheduling comment",
-   "inspection_id": "B901E07A-EC30-401A-B080-AD3A009CFE18",
    "comment": "lockbox 1920 or 2019",
    "date": "2021-06-01 9:31:53",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B901E07A-EC30-401A-B080-AD3A009CFE18"
  },
  {
-   "time_id": "2021060110514472468",
+   "comment_id": "2021060110514472468",
    "title": "",
-   "inspection_id": "D60A5A7D-4A29-4B01-9A9B-AD2C00FE38F3",
    "comment": "Special Inspection to discuss Deck Work",
    "date": "2021-06-01 10:51:31",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D60A5A7D-4A29-4B01-9A9B-AD2C00FE38F3"
  },
  {
-   "time_id": "2021060110521097070",
+   "comment_id": "2021060110521097070",
    "title": "",
-   "inspection_id": "F6E51F96-F0D1-4CE3-B11E-AD1E010636F2",
    "comment": "Visible trash can",
    "date": "2021-06-01 10:52:01",
-   "entered_by": "NYACOUB"
+   "inspection_id": "F6E51F96-F0D1-4CE3-B11E-AD1E010636F2"
  },
  {
-   "time_id": "2021060110523890272",
+   "comment_id": "2021060110523890272",
    "title": "",
-   "inspection_id": "21EAD087-8497-432E-9C6F-AD1E01041851",
    "comment": "visible trash can",
    "date": "2021-06-01 10:52:32",
-   "entered_by": "NYACOUB"
+   "inspection_id": "21EAD087-8497-432E-9C6F-AD1E01041851"
  },
  {
-   "time_id": "2021060110532162174",
+   "comment_id": "2021060110532162174",
    "title": "",
-   "inspection_id": "F6777EF3-B4E2-4057-B938-AD2C00DB78B1",
    "comment": "High Grass and missing house address",
    "date": "2021-06-01 10:53:09",
-   "entered_by": "NYACOUB"
+   "inspection_id": "F6777EF3-B4E2-4057-B938-AD2C00DB78B1"
  },
  {
-   "time_id": "2021060111242981577",
+   "comment_id": "2021060111242981577",
    "title": "",
-   "inspection_id": "35B9C715-23A8-4BF9-B644-AD3A00BBBACA",
    "comment": "248-730-1800 Ralph",
    "date": "2021-06-01 11:24:14",
-   "entered_by": "NYACOUB"
+   "inspection_id": "35B9C715-23A8-4BF9-B644-AD3A00BBBACA"
  },
  {
-   "time_id": "2021060113213694984",
+   "comment_id": "2021060113213694984",
    "title": "",
-   "inspection_id": "7A71CD7E-04A1-46BD-B02D-AD350105E45E",
    "comment": "Final building inspection partially approved. Met with David and inspected the house. Exterior is completed except for handrail at the rear yard pool and decks. Landscaping appears to be completed. Interior is nearly complete with only few things left. Should be ready in two weeks to issue a TC ofO",
    "date": "2021-06-01 13:21:34",
-   "entered_by": "NYACOUB"
+   "inspection_id": "7A71CD7E-04A1-46BD-B02D-AD350105E45E"
  },
  {
-   "time_id": "2021060312461443876",
+   "comment_id": "2021060312461443876",
    "title": "Lockbox",
-   "inspection_id": "92851F77-EF1C-42C6-87BE-AD3C00D1E65E",
    "comment": "Lockbox Code: 2019",
    "date": "2021-06-03 12:45:59",
-   "entered_by": "lwenzel"
+   "inspection_id": "92851F77-EF1C-42C6-87BE-AD3C00D1E65E"
  },
  {
-   "time_id": "2021060409020547458",
+   "comment_id": "2021060409020547458",
    "title": "",
-   "inspection_id": "8CD57B7A-1E0D-481D-B82C-AD3D009480BB",
    "comment": "Possible ESA Work without City Approval",
    "date": "2021-06-04 9:02:02",
-   "entered_by": "NYACOUB"
+   "inspection_id": "8CD57B7A-1E0D-481D-B82C-AD3D009480BB"
  },
  {
-   "time_id": "2021060411293178458",
+   "comment_id": "2021060411293178458",
    "title": "comment",
-   "inspection_id": "1D704AB6-3EC1-4BA5-A84E-AD3D00BD223E",
    "comment": "Asphalt in front of the house on the street",
    "date": "2021-06-04 11:29:26",
-   "entered_by": "lwenzel"
+   "inspection_id": "1D704AB6-3EC1-4BA5-A84E-AD3D00BD223E"
  },
  {
-   "time_id": "2021060413432823260",
+   "comment_id": "2021060413432823260",
    "title": "comment",
-   "inspection_id": "92851F77-EF1C-42C6-87BE-AD3C00D1E65E",
    "comment": "Basement fire stop missing",
    "date": "2021-06-04 13:43:02",
-   "entered_by": "lwenzel"
+   "inspection_id": "92851F77-EF1C-42C6-87BE-AD3C00D1E65E"
  },
  {
-   "time_id": "2021060414000504887",
+   "comment_id": "2021060414000504887",
    "title": "",
-   "inspection_id": "2EB6F0AB-26DF-41EC-804E-AD3D00E69C08",
    "comment": "High Grass",
    "date": "2021-06-04 14:00:00",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2EB6F0AB-26DF-41EC-804E-AD3D00E69C08"
  },
  {
-   "time_id": "2021060709112005956",
+   "comment_id": "2021060709112005956",
    "title": "",
-   "inspection_id": "2E17BD0B-853C-4775-B571-A7580094AF5C",
    "comment": "Fallen Tree. 6/7/2021 the tree has been removed",
    "date": "2021-06-07 9:10:56",
-   "entered_by": "NYACOUB"
+   "inspection_id": "2E17BD0B-853C-4775-B571-A7580094AF5C"
  },
  {
-   "time_id": "2021060714384394970",
+   "comment_id": "2021060714384394970",
    "title": "comment",
-   "inspection_id": "EFCE66EB-01F3-4928-ACF4-AD4000F134D3",
    "comment": "High Grass",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "EFCE66EB-01F3-4928-ACF4-AD4000F134D3"
  },
  {
-   "time_id": "2021060714580252767",
+   "comment_id": "2021060714580252767",
    "title": "",
-   "inspection_id": "05D68456-43AD-4BE4-9358-AD4000F6763D",
    "comment": "Lockbox# 2019",
    "date": "2021-06-07 14:57:50",
-   "entered_by": "NYACOUB"
+   "inspection_id": "05D68456-43AD-4BE4-9358-AD4000F6763D"
  },
  {
-   "time_id": "2021060814444200258",
+   "comment_id": "2021060814444200258",
    "title": "Scheduling comment",
-   "inspection_id": "91E68362-BD31-4BD4-B436-AD4100F2EF9D",
    "comment": "Missing grab bars toilet paper holders handicap signs and mirrors",
    "date": "2021-06-08 14:44:42",
-   "entered_by": "NYACOUB"
+   "inspection_id": "91E68362-BD31-4BD4-B436-AD4100F2EF9D"
  },
  {
-   "time_id": "2021060908565861558",
+   "comment_id": "2021060908565861558",
    "title": "",
-   "inspection_id": "ADBE4DAD-5D1D-47BC-BCBB-AD42009351FA",
    "comment": "Mud coming from construction site",
    "date": "2021-06-09 8:56:55",
-   "entered_by": "NYACOUB"
+   "inspection_id": "ADBE4DAD-5D1D-47BC-BCBB-AD42009351FA"
  },
  {
-   "time_id": "2021060910112429761",
+   "comment_id": "2021060910112429761",
    "title": "",
-   "inspection_id": "3CF326C6-7592-49B7-A647-AD4200A7C96C",
    "comment": "Garage door pad  8931",
    "date": "2021-06-09 10:11:10",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3CF326C6-7592-49B7-A647-AD4200A7C96C"
  },
  {
-   "time_id": "2021060911041303464",
+   "comment_id": "2021060911041303464",
    "title": "Scheduling comment",
-   "inspection_id": "D87D11E8-7057-4085-927C-AD4200B652AB",
    "comment": "248-884-0590 John Balbes",
    "date": "2021-06-09 11:04:13",
-   "entered_by": "NYACOUB"
+   "inspection_id": "D87D11E8-7057-4085-927C-AD4200B652AB"
  },
  {
-   "time_id": "2021060911121598866",
+   "comment_id": "2021060911121598866",
    "title": "",
-   "inspection_id": "92851F77-EF1C-42C6-87BE-AD3C00D1E65E",
    "comment": "",
    "date": "2021-06-09 11:12:09",
-   "entered_by": "NYACOUB"
+   "inspection_id": "92851F77-EF1C-42C6-87BE-AD3C00D1E65E"
  },
  {
-   "time_id": "2021060913021842397",
+   "comment_id": "2021060913021842397",
    "title": "",
-   "inspection_id": "A2082922-F4A0-498D-9D34-AD4200D66AB6",
    "comment": "Garbage cans left outside",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "A2082922-F4A0-498D-9D34-AD4200D66AB6"
  },
  {
-   "time_id": "2021060913055413075",
+   "comment_id": "2021060913055413075",
    "title": "",
-   "inspection_id": "3C0A4545-5A08-40BF-8B88-AD4200D7B4BE",
    "comment": "Trash Can left outside",
    "date": "2021-06-09 13:05:46",
-   "entered_by": "NYACOUB"
+   "inspection_id": "3C0A4545-5A08-40BF-8B88-AD4200D7B4BE"
  },
  {
-   "time_id": "2021060913085100683",
+   "comment_id": "2021060913085100683",
    "title": "",
-   "inspection_id": "E3F17540-FA76-4493-ADAF-AD4200D86679",
    "comment": "Trash can visible from the road",
    "date": "2021-06-09 13:08:40",
-   "entered_by": "NYACOUB"
+   "inspection_id": "E3F17540-FA76-4493-ADAF-AD4200D86679"
  },
  {
-   "time_id": "2021061008595313870",
+   "comment_id": "2021061008595313870",
    "title": "",
-   "inspection_id": "05D68456-43AD-4BE4-9358-AD4000F6763D",
    "comment": "Need test on pvc and water pipe",
    "date": "",
-   "entered_by": ""
+   "inspection_id": "05D68456-43AD-4BE4-9358-AD4000F6763D"
  },
  {
-   "time_id": "2021061114192522084",
+   "comment_id": "2021061114192522084",
    "title": "",
-   "inspection_id": "B46E9056-F282-4FDC-A307-AD4200E19CD3",
    "comment": "footing inspection approved. Additional posts added per engineered drawings",
    "date": "2021-06-11 14:19:00",
-   "entered_by": "NYACOUB"
+   "inspection_id": "B46E9056-F282-4FDC-A307-AD4200E19CD3"
  }
 ]
