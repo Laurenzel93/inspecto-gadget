@@ -2,146 +2,140 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <title>Inspecto-Gadget</title>
-    <link rel="stylesheet" href="details.style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <title>Inspecto-Gadget</title>
+  <link rel="stylesheet" href="details.style.css">
 </head>
 
 <body>
- 
-    <!-- Nav Bar Buttons -->
-    <div class="container-fluid">
-      <nav class="navbar">
-        <h1 class="col-lg-4 col-sm-12 p-3 text-center">
-          Hello, Ms. Inspecto-Gadget!
-        </h1>
-        <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Dashboard</button>
-        <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Availability</button>
-        <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Past Inspections</button>
-        <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Logout</button>
-      </nav>
-    </div>
-    
-    <!-- Inspection Info Container -->
-    <div class="container-fluid border rounded border-primary p-4 justify-content-center">
-      <div class="col ml-auto p-3">
-    
-        <div class="col justify-content-md-center">
-          <table class="table table-bordered table-primary">
-            <tbody>
-              <tr>
-                <td id="date">Date</td>
-                <td id="address">Address</td>
-                <td id="inspectionType">Inspection Type</td>
-                <td id="permitNumber">Permit Number</td>
-              </tr>
-              <tr>
-                <td colspan="2" id="notes">Notes: </td>
-                <td colspan="2" id="timestamp">Timestamp</td>
-              </tr>
-            </tbody>
-          </table>
+  <!-- Nav Bar Buttons -->
+  <div class="container-fluid">
+    <nav class="navbar">
+      <h1 class="col-lg-4 col-sm-12 p-3 text-center">
+        Hello, Ms. Inspecto-Gadget!
+      </h1>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Dashboard</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Availability</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Past Inspections</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Logout</button>
+    </nav>
+  </div>
+
+  <!-- Inspection Info Container -->
+  <div class="container-fluid border rounded border-primary p-4 justify-content-center" id="inspectionInfoContainer">
+    <table class="table table-bordered table-primary">
+      <tbody>
+        <tr>
+          <td id="date">Date</td>
+          <td id="address">Address</td>
+          <td id="inspectionType">Inspection Type</td>
+          <td id="permitNumber">Permit Number</td>
+        </tr>
+        <tr>
+          <td colspan="2" id="notes">Notes: </td>
+          <td colspan="2" id="timestamp">Timestamp</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Inspection Results Container -->
+  <div class="container-fluid p-4 border rounded border-dark bg-secondary">
+    <div class="row ml-auto m-3 p-3 border rounded border-primary bg-light">
+
+      <h2>Inspection Results</h2>
+
+      <!-- Drop Down Button-->
+      <div class="container-fluid input-group form-check">
+        <select class="custom-select col-4">
+          <option selected>No result</option>
+          <option value="Approved">Approved</option>
+          <option value="Disapproved">Disapproved</option>
+          <option value="Partially Approved">Partially Approved</option>
+          <option value="Locked Out">Locked Out</option>
+          <option value="Not Ready">Not Ready</option>
+          <option value="Cancelled">Cancelled</option>
+        </select>
+      </div>
+
+      <!-- Input Notes Field -->
+      <div class="container-fluid form-control m-3">
+        <div class="form-control form-control-lg" type="text">
+          <h3>Custom Notes</h3>
+          <textarea class="form-control" placeholder="Type notes here..." rows="10"></textarea>
         </div>
       </div>
-    </div>
-    
-    <!-- Inspection Results Container -->
-    <div class="container-fluid p-4 border rounded border-dark bg-secondary">
-      <div class="row ml-auto m-3 p-3 border rounded border-primary bg-light">
-    
-        <h2>Inspection Results</h2>
-    
-        <!-- Drop Down Button-->
-        <div class="container-fluid input-group form-check">
-          <select class="custom-select col-4">
-            <option selected>No result</option>
-            <option value="Approved">Approved</option>
-            <option value="Disapproved">Disapproved</option>
-            <option value="Partially Approved">Partially Approved</option>
-            <option value="Locked Out">Locked Out</option>
-            <option value="Not Ready">Not Ready</option>
-            <option value="Cancelled">Cancelled</option>
-          </select>
-        </div>
-    
-        <!-- Input Notes Field -->
-        <div class="container-fluid form-control m-3">
-          <div class="form-control form-control-lg" type="text">
-            <h3>Custom Notes</h3>
-            <textarea class="form-control" placeholder="Type notes here..." rows="10"></textarea>
-          </div>
-        </div>
-    
-        <!-- Save Icon Button -->
-        <div class="ml-auto align-self-end">
-          <button class="btn btn-outline-success" style="font-size:25px">Save
-            <i style="font-size:50px;" class="fa fa-save"></i>
-          </button>
-        </div>
-    
+
+      <!-- Save Icon Button -->
+      <div class="ml-auto align-self-end">
+        <button class="btn btn-outline-success" style="font-size:25px">Save
+          <i style="font-size:50px;" class="fa fa-save"></i>
+        </button>
       </div>
+
     </div>
-    
-    <!-- Permit Info-->
-    <div class="container-fluid border rounded border-primary p-4">
-      <div class="row ml-auto p-3 m-3">
-        <h3>More Permit Information</h3>
-    
-        <!-- More Permit Info Table -->
-        <table class="table table-sm table-striped table-bordered">
-          <tbody>
-            <tr>
-              <th scope="row">Property Information</th>
-              <td colspan="2" id="address">Address</td>
-              <td colspan="2" id="parcelID">Parcel ID</td>
-            </tr>
-            <tr>
-              <th scope="row">Owner Information</th>
-              <td id="ownerName">Name</td>
-              <td id="homePhone">Home Phone</td>
-              <td id="cellPhone">Cell Phone</td>
-            </tr>
-            <tr>
-              <th scope="row">Contractor Information</th>
-              <td id="contractorName">Name</td>
-              <td id="contractorPhone">Phone</td>
-              <td id="contractorEmail">Email</td>
-            </tr>
-            <tr>
-              <th scope="row">More Permit Information</th>
-              <td id="permitNumber">Permit Number</td>
-              <td id="issuedDate">Issued Date</td>
-              <td id="expirationDate">Expiration Date</td>
-            </tr>
-            <tr>
-              <th id="workDescription">Work Description</th>
-            </tr>
-          </tbody>
-        </table>
-    
-        <!-- Fee Information Table -->
-        <h3>Fee Information</h3>
-        <table class="table table-sm table-bordered text-center">
-          <thead>
-            <th>Item Name</th>
-            <th>Quantity</th>
-            <th>Fee</th>
-          </thead>
-          <tbody>
-            <td id="item">Test</td>
-            <td id="quantity">Test</td>
-            <td id="fee">Test</td>
-          </tbody>
-        </table>
-    
-    
-      </div>
+  </div>
+
+  <!-- Permit Info-->
+  <div class="container-fluid border rounded border-primary p-4" id="permitInfoContainer">
+    <div class="row ml-auto p-3 m-3">
+      <h3>More Permit Information</h3>
+
+      <!-- More Permit Info Table -->
+      <table class="table table-sm table-striped table-bordered">
+        <tbody>
+          <tr>
+            <th scope="row">Property Information</th>
+            <td colspan="2" id="address">Address</td>
+            <td colspan="2" id="parcelID">Parcel ID</td>
+          </tr>
+          <tr>
+            <th scope="row">Owner Information</th>
+            <td id="ownerName">Name</td>
+            <td id="homePhone">Home Phone</td>
+            <td id="cellPhone">Cell Phone</td>
+          </tr>
+          <tr>
+            <th scope="row">Contractor Information</th>
+            <td id="contractorName">Name</td>
+            <td id="contractorPhone">Phone</td>
+            <td id="contractorEmail">Email</td>
+          </tr>
+          <tr>
+            <th scope="row">More Permit Information</th>
+            <td id="permitNumber">Permit Number</td>
+            <td id="issuedDate">Issued Date</td>
+            <td id="expirationDate">Expiration Date</td>
+          </tr>
+          <tr>
+            <th id="workDescription">Work Description</th>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- Fee Information Table -->
+      <h3>Fee Information</h3>
+      <table class="table table-sm table-bordered text-center">
+        <thead>
+          <th>Item Name</th>
+          <th>Quantity</th>
+          <th>Fee</th>
+        </thead>
+        <tbody>
+          <td id="item">Test</td>
+          <td id="quantity">Test</td>
+          <td id="fee">Test</td>
+        </tbody>
+      </table>
+
+
     </div>
+  </div>
 </body>
 
 </html>
