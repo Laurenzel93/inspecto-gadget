@@ -19,7 +19,8 @@
       <h1 class="col-lg-4 col-sm-12 p-3 text-center">
         Inspecto-Gadget
       </h1>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <!-- Hamburger icon button -->
+      <a href="javascript:void(0);" class="icon" onclick="openCloseHamburger()">
         <button class="menu" onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))" aria-label="Main Menu">
           <svg width="40" height="40" viewBox="0 0 100 100">
             <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
@@ -28,34 +29,34 @@
           </svg>
         </button>
       </a>
-      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Dashboard</button>
-      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Availability</button>
-      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Past Inspections</button>
-      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Logout</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" href="/dashboard">Dashboard</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" href="/availability">Availability</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" href="pastInspections">Past Inspections</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout">Logout</button>
     </nav>
   </div>
 
   <!-- Main content of page -->
   <main>
-    <div class="loginFormContainer">
-      <form class='loginForm'>
+    <div class="createFormContainer">
+      <form class='createForm'>
         <div id="createAccount" class="form-text">
           Create an account
         </div>
         <div class="mb-3">
-          <label for="exampleInputEmail1" class="form-label">Username</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          <label for="username" class="form-label">Username</label>
+          <input type="text" class="form-control" id="username" aria-describedby="usernameEntry">
         </div>
         <div class="mb-3">
-          <label for="exampleInputPassword1" class="form-label">Password</label>
-          <input type="password" class="form-control" id="exampleInputPassword1">
+          <label for="password" class="form-label">Password</label>
+          <input type="password" class="form-control" id="password">
         </div>
         <div class="checkboxContainer">
           <div id="accountTypeHeader" class="form-text">
             Account Type
           </div>
           <div class="formControlContainer">
-            <select class="form-control customFormControl" id="exampleFormControlSelect1">
+            <select class="form-control customFormControl" id="accountTypeSelector">
               <option>Select one</option>
               <option>Admin</option>
               <option>Inspector</option>
@@ -71,28 +72,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
     crossorigin="anonymous"></script>
-  <script>
-    const x = document.getElementById("myTopnav");
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log('loaded');
-      if (window.innerWidth <= 600) {
-        x.className = "bigNav"
-        console.log('that\'s a tiny screen you have there!');
-      }
-    });
-    function myFunction() {
-
-      // if #myTopnav just has the class .bigNav, add .responsive
-      if (x.className === "bigNav") {
-        // console.log('x.className === "bigNav"')
-        x.className += " responsive";
-      // if #myTopnav has both .bigNav and .responsive, take away .responsive and leave .bigNav
-      } else {
-        x.className = "bigNav";
-        // console.log('x.className !== "bigNav"')
-      }
-    }
-  </script>
+  <script src="index.js"></script>
 </body>
 
 </html>

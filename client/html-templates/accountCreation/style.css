@@ -26,14 +26,14 @@ body {
 }
 
 /* Main content of page */
-.loginFormContainer {
+.createFormContainer {
     display: flex;
     justify-content: center;
     margin-top: 5rem;
     margin-bottom: 5rem;
 }
 
-.loginForm {
+.createForm {
     justify-content: center;
     width: 22.5rem;
     padding: 1.5rem;
@@ -184,7 +184,7 @@ input {
         font-size: 1.5rem !important;
     }
 
-    .loginFormContainer {
+    .createFormContainer {
         max-width: 90%;
         margin-left: auto;
         margin-right: auto;
