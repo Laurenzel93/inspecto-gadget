@@ -1,0 +1,3512 @@
+[
+ {
+   "permit_id": "PM20-1218",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-02 11:33:31",
+   "date_expired": "2021-07-01 0:00:00",
+   "work_description": "Heated basement flooring",
+   "owner_name": "LUEDKE, CRAIG R",
+   "parcel_number": "56-18-10-176-004"
+ },
+ {
+   "permit_id": "PM20-1219",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-02 11:55:57",
+   "date_expired": "2022-01-06 0:00:00",
+   "work_description": "Replacement furnace",
+   "owner_name": "Forcier, Randy",
+   "parcel_number": "56-18-16-476-020"
+ },
+ {
+   "permit_id": "PE20-1123",
+   "permit_type": "Electrical",
+   "date_issued": "2020-01-06 10:24:46",
+   "date_expired": "2021-07-08 0:00:00",
+   "work_description": "Lower level bedroom and exercise room",
+   "owner_name": "BLOOM, JAMES D",
+   "parcel_number": "56-18-02-376-018"
+ },
+ {
+   "permit_id": "PB20-4010",
+   "permit_type": "Building",
+   "date_issued": "2020-01-09 12:12:35",
+   "date_expired": "2021-07-02 0:00:00",
+   "work_description": "Bathroom remodel",
+   "owner_name": "MORRIS, RICHARD",
+   "parcel_number": "56-18-16-183-067"
+ },
+ {
+   "permit_id": "PM20-1220",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-13 13:24:25",
+   "date_expired": "2021-09-24 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "DAVID, STEVEN",
+   "parcel_number": "56-18-16-104-002"
+ },
+ {
+   "permit_id": "PE20-1124",
+   "permit_type": "Electric-Fire Alarm",
+   "date_issued": "2020-01-13 15:52:44",
+   "date_expired": "",
+   "work_description": "Fire alarm communicator upgrade to cellular LTE communicator",
+   "owner_name": "ORCHARD LAKE SCHOOLS",
+   "parcel_number": "56-18-11-176-013"
+ },
+ {
+   "permit_id": "PP20-0585",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-01-14 8:43:51",
+   "date_expired": "2022-04-07 0:00:00",
+   "work_description": "Addition",
+   "owner_name": "CHADDA, MANISH",
+   "parcel_number": "56-18-11-376-009"
+ },
+ {
+   "permit_id": "PM20-1221",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-21 13:36:26",
+   "date_expired": "2022-02-08 0:00:00",
+   "work_description": "Installation of heating system for basement",
+   "owner_name": "QARANA, LAHEB",
+   "parcel_number": "56-18-02-326-040"
+ },
+ {
+   "permit_id": "PB20-4011",
+   "permit_type": "Building",
+   "date_issued": "2020-01-21 14:01:35",
+   "date_expired": "2021-07-14 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "FORMELLA, SCOTTE D",
+   "parcel_number": "56-18-11-401-004"
+ },
+ {
+   "permit_id": "PE20-1125",
+   "permit_type": "Electrical",
+   "date_issued": "2020-01-22 9:52:40",
+   "date_expired": "2021-08-14 0:00:00",
+   "work_description": "Minor Renovation",
+   "owner_name": "ORCHARD LAKE PROPERTY GROUP",
+   "parcel_number": "56-18-14-301-004"
+ },
+ {
+   "permit_id": "PM20-1222",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-23 13:09:16",
+   "date_expired": "2021-07-16 0:00:00",
+   "work_description": "Replacement boiler",
+   "owner_name": "FLYNN, MICHAEL",
+   "parcel_number": "56-18-16-178-047"
+ },
+ {
+   "permit_id": "PB20-4012",
+   "permit_type": "Building",
+   "date_issued": "2020-01-23 15:05:27",
+   "date_expired": "2021-07-16 0:00:00",
+   "work_description": "New construction",
+   "owner_name": "CROZIER, STEPHEN G",
+   "parcel_number": "56-18-15-426-019"
+ },
+ {
+   "permit_id": "PM20-1223",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-28 9:14:15",
+   "date_expired": "2021-07-24 0:00:00",
+   "work_description": "Gas Lines & Pool Heaters",
+   "owner_name": "KUNTZMAN, ALAN",
+   "parcel_number": "56-18-15-101-006"
+ },
+ {
+   "permit_id": "PE20-1126",
+   "permit_type": "Electrical",
+   "date_issued": "2020-01-30 11:15:39",
+   "date_expired": "2021-12-07 0:00:00",
+   "work_description": "Bathroom remodel",
+   "owner_name": "MORRIS, RICHARD",
+   "parcel_number": "56-18-16-183-067"
+ },
+ {
+   "permit_id": "PP20-0586",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-01-30 12:48:46",
+   "date_expired": "2022-06-07 0:00:00",
+   "work_description": "Plumbing for Addition/alteration",
+   "owner_name": "ISAAC, OLIVER",
+   "parcel_number": "56-18-16-151-003"
+ },
+ {
+   "permit_id": "PM20-1224",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-30 13:09:59",
+   "date_expired": "2021-08-31 0:00:00",
+   "work_description": "Replacing a section of gas line and pressurized",
+   "owner_name": "CHADDA, MANISH",
+   "parcel_number": "56-18-11-376-009"
+ },
+ {
+   "permit_id": "PE20-1127",
+   "permit_type": "Electrical",
+   "date_issued": "2020-01-30 13:21:23",
+   "date_expired": "2021-08-19 0:00:00",
+   "work_description": "Temp service only",
+   "owner_name": "DABISH, HENRY",
+   "parcel_number": "56-18-15-351-007"
+ },
+ {
+   "permit_id": "PP20-0587",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-01-30 13:44:34",
+   "date_expired": "2021-12-08 0:00:00",
+   "work_description": "Bathroom Remodel",
+   "owner_name": "MORRIS, RICHARD",
+   "parcel_number": "56-18-16-183-067"
+ },
+ {
+   "permit_id": "PM20-1225",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-01-31 10:21:16",
+   "date_expired": "2021-07-24 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-16-103-001"
+ },
+ {
+   "permit_id": "PE20-1128",
+   "permit_type": "Electrical",
+   "date_issued": "2020-01-31 10:23:22",
+   "date_expired": "2021-07-24 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-16-103-001"
+ },
+ {
+   "permit_id": "PZ20-375",
+   "permit_type": "Zoning",
+   "date_issued": "2020-01-31 10:25:26",
+   "date_expired": "2021-07-24 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-16-103-001"
+ },
+ {
+   "permit_id": "PM20-1226",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-02-04 8:46:05",
+   "date_expired": "2021-12-21 0:00:00",
+   "work_description": "furnace & AC replacements",
+   "owner_name": "Weinstein, Lee Brian",
+   "parcel_number": "56-18-02-376-018"
+ },
+ {
+   "permit_id": "PB20-4013",
+   "permit_type": "Building",
+   "date_issued": "2020-02-18 10:08:26",
+   "date_expired": "2021-08-11 0:00:00",
+   "work_description": "25 Ft Interior Waterproofing and Sump Pump",
+   "owner_name": "HELEN ROSS REVOCABLE TRUST",
+   "parcel_number": "56-18-10-351-006"
+ },
+ {
+   "permit_id": "PP20-0588",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-02-18 10:07:36",
+   "date_expired": "2021-08-11 0:00:00",
+   "work_description": "25 Ft Interior Waterproofing and Sump Pump",
+   "owner_name": "HELEN ROSS REVOCABLE TRUST",
+   "parcel_number": "56-18-10-351-006"
+ },
+ {
+   "permit_id": "PE20-1129",
+   "permit_type": "Electrical",
+   "date_issued": "2020-02-04 14:50:27",
+   "date_expired": "2022-05-03 0:00:00",
+   "work_description": "Installation of circuits",
+   "owner_name": "CHADDA, MANISH",
+   "parcel_number": "56-18-11-376-009"
+ },
+ {
+   "permit_id": "PM20-1227",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-02-05 14:27:40",
+   "date_expired": "2022-10-19 0:00:00",
+   "work_description": "Installation of furnace",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PZ20-376",
+   "permit_type": "Zoning",
+   "date_issued": "2020-02-06 11:02:45",
+   "date_expired": "2021-12-30 0:00:00",
+   "work_description": "Paver patio",
+   "owner_name": "BROWNSTEIN, DAVID",
+   "parcel_number": "56-18-15-426-020"
+ },
+ {
+   "permit_id": "PM20-1228",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-02-10 15:05:50",
+   "date_expired": "2021-08-03 0:00:00",
+   "work_description": "Water heater replacement",
+   "owner_name": "THE VENKAT C. RADRARAJU LIVING TRST",
+   "parcel_number": "56-18-10-102-012"
+ },
+ {
+   "permit_id": "PM20-1229",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-02-13 14:25:28",
+   "date_expired": "2021-08-31 0:00:00",
+   "work_description": "furnace replacement",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE20-1130",
+   "permit_type": "Electrical",
+   "date_issued": "2020-02-13 14:43:43",
+   "date_expired": "2022-05-03 0:00:00",
+   "work_description": "In-ground swimming pool",
+   "owner_name": "Dale Milton",
+   "parcel_number": "56-18-16-476-026"
+ },
+ {
+   "permit_id": "WS20-0257",
+   "permit_type": "Water Sewer",
+   "date_issued": "2020-02-19 9:14:11",
+   "date_expired": "2021-09-10 0:00:00",
+   "work_description": "Water & Sewer Connection for new home",
+   "owner_name": "CROZIER, STEPHEN G",
+   "parcel_number": "56-18-15-426-019"
+ },
+ {
+   "permit_id": "PP20-0589",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-02-27 13:07:28",
+   "date_expired": "2021-08-20 0:00:00",
+   "work_description": "2100' Crawlspace Encapsulation",
+   "owner_name": "INGRID RIGNEY LIVING TRUST",
+   "parcel_number": "56-18-15-402-008"
+ },
+ {
+   "permit_id": "PB20-4014",
+   "permit_type": "Building",
+   "date_issued": "2020-02-27 13:07:02",
+   "date_expired": "2021-08-20 0:00:00",
+   "work_description": "2100' Crawlspace Encapsulation",
+   "owner_name": "INGRID RIGNEY LIVING TRUST",
+   "parcel_number": "56-18-15-402-008"
+ },
+ {
+   "permit_id": "PZ20-377",
+   "permit_type": "Zoning",
+   "date_issued": "2020-03-02 13:51:10",
+   "date_expired": "2022-08-03 0:00:00",
+   "work_description": "Lakeside Patio Replacement & Installation of Retaining Wall",
+   "owner_name": "KESLER, RYAN",
+   "parcel_number": "56-18-16-351-038"
+ },
+ {
+   "permit_id": "ESA20-30",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "2020-03-02 13:48:54",
+   "date_expired": "",
+   "work_description": "ESA",
+   "owner_name": "KESLER, RYAN",
+   "parcel_number": "56-18-16-351-038"
+ },
+ {
+   "permit_id": "PB20-4015",
+   "permit_type": "Building",
+   "date_issued": "2020-02-27 11:20:22",
+   "date_expired": "2021-08-20 0:00:00",
+   "work_description": "Master bath remodel",
+   "owner_name": "MORRIS, RICHARD",
+   "parcel_number": "56-18-16-183-067"
+ },
+ {
+   "permit_id": "PB20-4016",
+   "permit_type": "Building",
+   "date_issued": "2020-02-21 15:12:00",
+   "date_expired": "2021-08-14 0:00:00",
+   "work_description": "Re-roof of house and garage",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE20-1131",
+   "permit_type": "Electrical",
+   "date_issued": "2020-02-24 12:01:55",
+   "date_expired": "2021-08-19 0:00:00",
+   "work_description": "Circuits and fixtures",
+   "owner_name": "PIERCE, DOUGLAS",
+   "parcel_number": "56-18-16-276-019"
+ },
+ {
+   "permit_id": "PP20-0590",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-02-24 13:23:54",
+   "date_expired": "2022-05-19 0:00:00",
+   "work_description": "Plumbing for new home",
+   "owner_name": "4950 ORCHARD LAKE LLC",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PM20-1230",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-02-24 14:49:00",
+   "date_expired": "2022-09-29 0:00:00",
+   "work_description": "Fire Damage Repair",
+   "owner_name": "AYAR, RAAD",
+   "parcel_number": "56-18-16-201-009"
+ },
+ {
+   "permit_id": "PM20-1231",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-02-28 9:34:58",
+   "date_expired": "2021-08-31 0:00:00",
+   "work_description": "Water Heater Replacement",
+   "owner_name": "KILLIAN, JOHN K",
+   "parcel_number": "56-18-02-377-010"
+ },
+ {
+   "permit_id": "PM20-1232",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-03-04 14:03:21",
+   "date_expired": "2021-09-11 0:00:00",
+   "work_description": "Mechanical for Addition",
+   "owner_name": "ISAAC, OLIVER",
+   "parcel_number": "56-18-16-151-003"
+ },
+ {
+   "permit_id": "PE20-1132",
+   "permit_type": "Electric-Fire Alarm",
+   "date_issued": "2020-03-12 8:01:40",
+   "date_expired": "",
+   "work_description": "Fire Alarm Communicator upgrade to cellular LTE Communicator",
+   "owner_name": "ORCHARD LAKE SCHOOLS",
+   "parcel_number": "56-18-11-176-013"
+ },
+ {
+   "permit_id": "PB20-4017",
+   "permit_type": "Building",
+   "date_issued": "2020-03-12 13:24:36",
+   "date_expired": "2021-09-03 0:00:00",
+   "work_description": "Construct a Trex Deck",
+   "owner_name": "BERMAN, SYMON",
+   "parcel_number": "56-18-02-376-015"
+ },
+ {
+   "permit_id": "PB20-4018",
+   "permit_type": "Building",
+   "date_issued": "2020-03-18 13:26:09",
+   "date_expired": "2021-09-09 0:00:00",
+   "work_description": "Decking",
+   "owner_name": "BORLACK, SCOTT",
+   "parcel_number": "56-18-15-451-011"
+ },
+ {
+   "permit_id": "PM20-1233",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-03-12 10:49:43",
+   "date_expired": "2021-12-28 0:00:00",
+   "work_description": "A/C Unit Replacement",
+   "owner_name": "Forcier, Randy",
+   "parcel_number": "56-18-10-101-048"
+ },
+ {
+   "permit_id": "PE20-1133",
+   "permit_type": "Electrical",
+   "date_issued": "2020-03-13 13:05:23",
+   "date_expired": "2022-07-14 0:00:00",
+   "work_description": "Electrical for a new home",
+   "owner_name": "Lee, Richard Alanj",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PP20-0591",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-03-18 8:13:55",
+   "date_expired": "2021-09-09 0:00:00",
+   "work_description": "Water Heater Replacement",
+   "owner_name": "BARTLEY, GLEN E",
+   "parcel_number": "56-18-16-476-038"
+ },
+ {
+   "permit_id": "PB20-4019",
+   "permit_type": "Building",
+   "date_issued": "2020-03-23 12:56:59",
+   "date_expired": "2021-09-14 0:00:00",
+   "work_description": "Demo of Porte Cochere",
+   "owner_name": "ORCHARD LAKE COUNTRY CLUB",
+   "parcel_number": "56-18-16-201-010"
+ },
+ {
+   "permit_id": "PP20-0592",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-05-15 10:10:25",
+   "date_expired": "2021-11-12 0:00:00",
+   "work_description": "",
+   "owner_name": "FARANSO, RALPH",
+   "parcel_number": "56-18-11-126-050"
+ },
+ {
+   "permit_id": "PB20-4020",
+   "permit_type": "Building",
+   "date_issued": "2020-05-08 10:27:48",
+   "date_expired": "2021-10-30 0:00:00",
+   "work_description": "",
+   "owner_name": "ORCHARD LAKE COUNTRY CLUB",
+   "parcel_number": "56-18-16-201-010"
+ },
+ {
+   "permit_id": "PP20-0593",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-05-08 15:55:16",
+   "date_expired": "2022-11-01 0:00:00",
+   "work_description": "updating plumbing fixtures",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4021",
+   "permit_type": "Building",
+   "date_issued": "2020-05-18 9:53:36",
+   "date_expired": "2021-11-09 0:00:00",
+   "work_description": "Drain Tile & Sump",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PP20-0594",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-05-18 9:56:08",
+   "date_expired": "2022-02-18 0:00:00",
+   "work_description": "Sump",
+   "owner_name": "NASTANSKI, KATHLEEN",
+   "parcel_number": "56-18-15-451-022"
+ },
+ {
+   "permit_id": "PE20-1134",
+   "permit_type": "Electrical",
+   "date_issued": "2020-05-18 9:55:10",
+   "date_expired": "2022-02-24 0:00:00",
+   "work_description": "",
+   "owner_name": "Frey, David",
+   "parcel_number": "56-18-15-451-022"
+ },
+ {
+   "permit_id": "PB20-4022",
+   "permit_type": "Building",
+   "date_issued": "",
+   "date_expired": "",
+   "work_description": "In-Ground Swimming Pool",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4023",
+   "permit_type": "Building",
+   "date_issued": "2020-07-13 14:59:38",
+   "date_expired": "2022-01-04 0:00:00",
+   "work_description": "Egress Window",
+   "owner_name": "SIEGEL, MICHAEL",
+   "parcel_number": "56-18-15-451-028"
+ },
+ {
+   "permit_id": "PB20-4024",
+   "permit_type": "Building",
+   "date_issued": "2020-05-21 10:52:56",
+   "date_expired": "2021-11-12 0:00:00",
+   "work_description": "Replacing Rubber Roofing",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PP20-0597",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-05-26 14:20:28",
+   "date_expired": "2022-01-07 0:00:00",
+   "work_description": "Secondary Water Meter",
+   "owner_name": "JANET D. GEKIERE TRUST",
+   "parcel_number": "56-18-09-403-006"
+ },
+ {
+   "permit_id": "PP20-0598",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-05-26 14:39:59",
+   "date_expired": "2022-01-27 0:00:00",
+   "work_description": "Secondary Water Meter",
+   "owner_name": "SRIDHARAN, NAGESH",
+   "parcel_number": "56-18-15-301-013"
+ },
+ {
+   "permit_id": "PB20-4026",
+   "permit_type": "Building",
+   "date_issued": "2020-06-04 12:55:30",
+   "date_expired": "2021-11-26 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "BRODIE, CHARLES E",
+   "parcel_number": "56-18-16-184-030"
+ },
+ {
+   "permit_id": "PE20-1138",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-01 9:14:25",
+   "date_expired": "2022-05-25 0:00:00",
+   "work_description": "Electrical for In-ground Swimming Pool",
+   "owner_name": "Dale Milton",
+   "parcel_number": "56-18-14-152-016"
+ },
+ {
+   "permit_id": "PB20-4027",
+   "permit_type": "Building",
+   "date_issued": "2020-06-04 9:15:46",
+   "date_expired": "2021-11-26 0:00:00",
+   "work_description": "re-roof",
+   "owner_name": "MYERS, CRAIG R.",
+   "parcel_number": "56-18-16-476-041"
+ },
+ {
+   "permit_id": "PM20-1235",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-04 9:50:26",
+   "date_expired": "2022-02-03 0:00:00",
+   "work_description": "addition",
+   "owner_name": "JILL D. MANN REVOCABLE TRUST",
+   "parcel_number": "56-18-09-276-024"
+ },
+ {
+   "permit_id": "PM20-1236",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-04 10:02:51",
+   "date_expired": "2022-03-15 0:00:00",
+   "work_description": "A/C Replacement",
+   "owner_name": "HAROLD BLUMENSTEIN REV INTER-VIVOS",
+   "parcel_number": "56-18-16-180-001"
+ },
+ {
+   "permit_id": "PM20-1237",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-04 10:18:33",
+   "date_expired": "2022-02-03 0:00:00",
+   "work_description": "HVAC Replacement",
+   "owner_name": "AINSWORTH, SEAN W",
+   "parcel_number": "56-18-15-302-002"
+ },
+ {
+   "permit_id": "PE20-1139",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-04 10:38:15",
+   "date_expired": "2022-03-18 0:00:00",
+   "work_description": "2 Furnace",
+   "owner_name": "FALZON, CHRISTOPHER",
+   "parcel_number": "56-18-16-101-008"
+ },
+ {
+   "permit_id": "PM20-1238",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-04 10:43:10",
+   "date_expired": "2022-03-18 0:00:00",
+   "work_description": "2 Furnaces",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1239",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-04 12:01:17",
+   "date_expired": "2022-04-21 0:00:00",
+   "work_description": "AC and furnace",
+   "owner_name": "KESLER, RYAN",
+   "parcel_number": "56-18-16-351-038"
+ },
+ {
+   "permit_id": "PM20-1240",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-04 13:21:44",
+   "date_expired": "2021-11-26 0:00:00",
+   "work_description": "replace furniture and AC",
+   "owner_name": "LALA, MONIK M",
+   "parcel_number": "56-18-11-376-010"
+ },
+ {
+   "permit_id": "PB20-4028",
+   "permit_type": "Building",
+   "date_issued": "2020-06-05 12:53:07",
+   "date_expired": "2021-11-27 0:00:00",
+   "work_description": "Temporary outside tents for summer event",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4029",
+   "permit_type": "Building",
+   "date_issued": "2020-06-05 14:38:29",
+   "date_expired": "2021-11-27 0:00:00",
+   "work_description": "Pool",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4030",
+   "permit_type": "Building",
+   "date_issued": "2020-06-05 14:53:32",
+   "date_expired": "2021-11-27 0:00:00",
+   "work_description": "Demo",
+   "owner_name": "BELANGER, MICHAEL",
+   "parcel_number": "56-18-16-376-010"
+ },
+ {
+   "permit_id": "PB20-4031",
+   "permit_type": "Building",
+   "date_issued": "2020-06-05 15:39:44",
+   "date_expired": "2021-11-27 0:00:00",
+   "work_description": "Demo",
+   "owner_name": "BELANGER, MICHAEL",
+   "parcel_number": "56-18-16-376-010"
+ },
+ {
+   "permit_id": "PB20-4032",
+   "permit_type": "Building",
+   "date_issued": "",
+   "date_expired": "",
+   "work_description": "New construction",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE20-1140",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-05 15:57:02",
+   "date_expired": "2022-09-03 0:00:00",
+   "work_description": "New build low voltage install",
+   "owner_name": "SCHNEIDER, STEVEN M",
+   "parcel_number": "56-18-15-151-008"
+ },
+ {
+   "permit_id": "PM20-1241",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-08 8:41:29",
+   "date_expired": "2022-06-09 0:00:00",
+   "work_description": "Mechanical for Addition",
+   "owner_name": "4950 ORCHARD LAKE LLC",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PF20-0002",
+   "permit_type": "Fireworks Permit",
+   "date_issued": "2020-06-08 0:00:00",
+   "date_expired": "2020-06-14 0:00:00",
+   "work_description": "Fireworks Display",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1242",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-08 9:54:50",
+   "date_expired": "2022-02-01 0:00:00",
+   "work_description": "A/C Unites & Furnace Replacement",
+   "owner_name": "SCHOONOVER",
+   "parcel_number": "56-18-11-126-032"
+ },
+ {
+   "permit_id": "WS20-0258",
+   "permit_type": "Water Sewer",
+   "date_issued": "2020-06-08 12:45:48",
+   "date_expired": "2022-02-03 0:00:00",
+   "work_description": "Water & Sewer Reconnect",
+   "owner_name": "SHAFFOU, YOUSIF MICHAEL",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "PZ20-378",
+   "permit_type": "Zoning",
+   "date_issued": "2020-06-16 11:17:39",
+   "date_expired": "2021-12-08 0:00:00",
+   "work_description": "Landscaping",
+   "owner_name": "PATTAH, SAM",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PE20-1141",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-11 14:54:09",
+   "date_expired": "2022-01-29 0:00:00",
+   "work_description": "",
+   "owner_name": "LEE, JEFFREY S",
+   "parcel_number": "56-18-16-130-049"
+ },
+ {
+   "permit_id": "PZ20-379",
+   "permit_type": "Zoning",
+   "date_issued": "2020-06-16 12:10:29",
+   "date_expired": "2021-12-08 0:00:00",
+   "work_description": "Fence",
+   "owner_name": "COLLINS, JOHN S",
+   "parcel_number": "56-18-16-127-016"
+ },
+ {
+   "permit_id": "PB20-4033",
+   "permit_type": "Building",
+   "date_issued": "2020-06-15 14:21:15",
+   "date_expired": "2021-12-07 0:00:00",
+   "work_description": "Alteration - Carriage house",
+   "owner_name": "4950 ORCHARD LAKE LLC",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PM20-1243",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-16 12:01:52",
+   "date_expired": "2022-01-13 0:00:00",
+   "work_description": "Prefab Fireplace",
+   "owner_name": "TORTORA, PATRICK",
+   "parcel_number": "56-18-10-276-005"
+ },
+ {
+   "permit_id": "PB20-4034",
+   "permit_type": "Building",
+   "date_issued": "2020-06-17 14:51:23",
+   "date_expired": "2021-12-09 0:00:00",
+   "work_description": "Siding",
+   "owner_name": "PIERZ, MICHAEL P",
+   "parcel_number": "56-18-11-201-003"
+ },
+ {
+   "permit_id": "PE20-1142",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-17 10:55:19",
+   "date_expired": "2022-07-28 0:00:00",
+   "work_description": "",
+   "owner_name": "Curioca, Derek John",
+   "parcel_number": "56-18-15-151-008"
+ },
+ {
+   "permit_id": "PZ20-380",
+   "permit_type": "Zoning",
+   "date_issued": "2020-06-29 12:02:48",
+   "date_expired": "2022-04-23 0:00:00",
+   "work_description": "Circular Driveway Expansion",
+   "owner_name": "KASSAB, HANI",
+   "parcel_number": "56-18-02-401-051"
+ },
+ {
+   "permit_id": "PM20-1244",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-19 14:17:14",
+   "date_expired": "2022-01-15 0:00:00",
+   "work_description": "AC replacement",
+   "owner_name": "HARNISH, BRUCE A",
+   "parcel_number": "56-18-16-102-007"
+ },
+ {
+   "permit_id": "PB20-4035",
+   "permit_type": "Building",
+   "date_issued": "2020-06-24 12:50:33",
+   "date_expired": "2021-12-16 0:00:00",
+   "work_description": "Alteration",
+   "owner_name": "SUKH & SANTOSH LIVING TRUST",
+   "parcel_number": "56-18-15-376-014"
+ },
+ {
+   "permit_id": "PP20-0599",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-06-24 12:50:09",
+   "date_expired": "2021-12-16 0:00:00",
+   "work_description": "",
+   "owner_name": "SUKH & SANTOSH LIVING TRUST",
+   "parcel_number": "56-18-15-376-014"
+ },
+ {
+   "permit_id": "PZ20-382",
+   "permit_type": "Zoning",
+   "date_issued": "2020-06-22 15:21:17",
+   "date_expired": "2021-12-14 0:00:00",
+   "work_description": "Driveway",
+   "owner_name": "NAJOR, EDSEL",
+   "parcel_number": "56-18-22-105-001"
+ },
+ {
+   "permit_id": "PB20-4036",
+   "permit_type": "Building",
+   "date_issued": "2020-06-29 8:40:48",
+   "date_expired": "2021-12-21 0:00:00",
+   "work_description": "Interior Renovation",
+   "owner_name": "VILLAVARAYAN, CHRIS",
+   "parcel_number": "56-18-15-302-003"
+ },
+ {
+   "permit_id": "PP20-0600",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-06-29 8:42:01",
+   "date_expired": "2022-03-25 0:00:00",
+   "work_description": "Plumbing for Interior Renovation",
+   "owner_name": "VILLAVARAYAN, CHRIS",
+   "parcel_number": "56-18-15-302-003"
+ },
+ {
+   "permit_id": "PM20-1245",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-17 11:58:02",
+   "date_expired": "2022-03-12 0:00:00",
+   "work_description": "Mechanical for Interior Renovation",
+   "owner_name": "VILLAVARAYAN, CHRIS",
+   "parcel_number": "56-18-15-302-003"
+ },
+ {
+   "permit_id": "PE20-1143",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-29 8:42:36",
+   "date_expired": "2022-03-03 0:00:00",
+   "work_description": "Electrical for Interior Renovation",
+   "owner_name": "VILLAVARAYAN, CHRIS",
+   "parcel_number": "56-18-15-302-003"
+ },
+ {
+   "permit_id": "PE20-1144",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-23 10:24:34",
+   "date_expired": "2021-12-28 0:00:00",
+   "work_description": "Electrical for Porte Cochere",
+   "owner_name": "ORCHARD LAKE COUNTRY CLUB",
+   "parcel_number": "56-18-16-201-010"
+ },
+ {
+   "permit_id": "PP20-0601",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-06-23 12:21:21",
+   "date_expired": "2022-01-26 0:00:00",
+   "work_description": "Secondary Water Meter",
+   "owner_name": "BROPHY, LARA",
+   "parcel_number": "56-18-16-328-010"
+ },
+ {
+   "permit_id": "PZ20-381",
+   "permit_type": "Zoning",
+   "date_issued": "2020-06-23 13:59:27",
+   "date_expired": "2020-07-26 0:00:00",
+   "work_description": "Grand Openning Sign",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4038",
+   "permit_type": "Building",
+   "date_issued": "2020-06-24 14:55:14",
+   "date_expired": "2021-12-16 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "DEOGUN, KULDIP SINGH",
+   "parcel_number": "56-18-09-276-023"
+ },
+ {
+   "permit_id": "PB20-4039",
+   "permit_type": "Building",
+   "date_issued": "2020-06-26 8:27:06",
+   "date_expired": "2021-12-18 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "ELDER, PHILLIP A",
+   "parcel_number": "56-18-09-426-001"
+ },
+ {
+   "permit_id": "PM20-1246",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-29 13:35:34",
+   "date_expired": "2022-10-20 0:00:00",
+   "work_description": "Fire Damage Repair (Duct Work Only)",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PP20-0602",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-06-29 15:08:35",
+   "date_expired": "2022-05-26 0:00:00",
+   "work_description": "",
+   "owner_name": "BRUNSSEN, KIRK A",
+   "parcel_number": "56-18-11-126-015"
+ },
+ {
+   "permit_id": "PM20-1247",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-09 15:26:28",
+   "date_expired": "2022-02-23 0:00:00",
+   "work_description": "furnace replacement",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE10-4610",
+   "permit_type": "Electrical",
+   "date_issued": "2011-02-10 0:00:00",
+   "date_expired": "2012-06-02 12:00:00",
+   "work_description": "Furnace",
+   "owner_name": "TOOTALIAN, MARK S",
+   "parcel_number": "56-18-15-452-016"
+ },
+ {
+   "permit_id": "PE20-1145",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-30 10:05:54",
+   "date_expired": "2021-12-30 0:00:00",
+   "work_description": "Service",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": "56-18-16-176-034"
+ },
+ {
+   "permit_id": "PB20-4040",
+   "permit_type": "Building",
+   "date_issued": "2020-07-28 12:20:11",
+   "date_expired": "2022-01-19 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "JOHNSON, JEREMY",
+   "parcel_number": "56-18-16-130-043"
+ },
+ {
+   "permit_id": "PB20-4041",
+   "permit_type": "Building",
+   "date_issued": "2020-06-30 13:31:15",
+   "date_expired": "2021-12-22 0:00:00",
+   "work_description": "Siding",
+   "owner_name": "MATELIC, KRISTOPHER M",
+   "parcel_number": "56-18-14-152-011"
+ },
+ {
+   "permit_id": "PZ20-383",
+   "permit_type": "Zoning",
+   "date_issued": "2020-06-30 14:25:16",
+   "date_expired": "2021-12-22 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-15-353-002"
+ },
+ {
+   "permit_id": "PE20-1146",
+   "permit_type": "Electrical",
+   "date_issued": "2020-06-30 14:25:34",
+   "date_expired": "2021-12-22 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1248",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-06-30 14:25:23",
+   "date_expired": "2022-11-29 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-15-353-002"
+ },
+ {
+   "permit_id": "PZ20-384",
+   "permit_type": "Zoning",
+   "date_issued": "2020-07-01 15:37:03",
+   "date_expired": "2022-10-29 0:00:00",
+   "work_description": "Front/Streetside Landscaping",
+   "owner_name": "",
+   "parcel_number": "56-18-15-101-006"
+ },
+ {
+   "permit_id": "PB20-4042",
+   "permit_type": "Building",
+   "date_issued": "2020-07-02 10:22:44",
+   "date_expired": "2021-12-24 0:00:00",
+   "work_description": "Replace existing stairs to lake",
+   "owner_name": "WILSON JR, WILLIAM",
+   "parcel_number": "56-18-15-301-030"
+ },
+ {
+   "permit_id": "PB20-4043",
+   "permit_type": "Building",
+   "date_issued": "2020-07-02 10:51:27",
+   "date_expired": "2021-12-24 0:00:00",
+   "work_description": "Bathroom remodel",
+   "owner_name": "ATIKIAN, SHANT",
+   "parcel_number": "56-18-10-101-033"
+ },
+ {
+   "permit_id": "PZ20-385",
+   "permit_type": "Zoning",
+   "date_issued": "2020-07-01 15:58:36",
+   "date_expired": "2022-02-08 0:00:00",
+   "work_description": "Fence",
+   "owner_name": "SANTOS, MICHELLE",
+   "parcel_number": "56-18-11-126-031"
+ },
+ {
+   "permit_id": "PP20-0603",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-07-07 12:08:52",
+   "date_expired": "2022-01-28 0:00:00",
+   "work_description": "Rear patio",
+   "owner_name": "Mark, Evans",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1249",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-07 13:32:26",
+   "date_expired": "2022-01-29 0:00:00",
+   "work_description": "Replacement AC",
+   "owner_name": "SHAH, GUNJAH P",
+   "parcel_number": "56-18-16-451-011"
+ },
+ {
+   "permit_id": "PB20-4044",
+   "permit_type": "Building",
+   "date_issued": "2020-07-09 14:12:49",
+   "date_expired": "2021-12-31 0:00:00",
+   "work_description": "Repair to canopy area at front entrance",
+   "owner_name": "ARCHDIOCESE OF DETROIT",
+   "parcel_number": "56-18-11-126-056"
+ },
+ {
+   "permit_id": "PM20-1250",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-10 14:16:50",
+   "date_expired": "2022-04-21 0:00:00",
+   "work_description": "Pool heater/3 fireplace (natural gas)",
+   "owner_name": "PATTAH, SAM",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PE20-1147",
+   "permit_type": "Electrical",
+   "date_issued": "2020-07-10 14:16:05",
+   "date_expired": "2022-03-10 0:00:00",
+   "work_description": "100 amp panel installed for pool equipment and outdoor lighting in pool",
+   "owner_name": "PATTAH, SAM",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PZ20-386",
+   "permit_type": "Zoning",
+   "date_issued": "2020-07-14 8:31:39",
+   "date_expired": "2022-01-05 0:00:00",
+   "work_description": "paver patio",
+   "owner_name": "BERMAN, SYMON",
+   "parcel_number": "56-18-02-376-015"
+ },
+ {
+   "permit_id": "PZ20-387",
+   "permit_type": "Zoning",
+   "date_issued": "2020-07-14 14:53:16",
+   "date_expired": "2022-01-05 0:00:00",
+   "work_description": "Platform at water",
+   "owner_name": "JILL D. MANN REVOCABLE TRUST",
+   "parcel_number": "56-18-09-276-024"
+ },
+ {
+   "permit_id": "PB20-4045",
+   "permit_type": "Building",
+   "date_issued": "2020-07-17 15:47:31",
+   "date_expired": "2022-01-08 0:00:00",
+   "work_description": "Post/ Beam Foundation / Sunroom",
+   "owner_name": "HASSAN, RIDHA",
+   "parcel_number": "56-18-15-376-027"
+ },
+ {
+   "permit_id": "PM20-1251",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-15 14:11:56",
+   "date_expired": "2022-03-25 0:00:00",
+   "work_description": "Furnace & AC replacement",
+   "owner_name": "Weinstein, Lee Brian",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PZ20-388",
+   "permit_type": "Zoning",
+   "date_issued": "2020-07-16 13:59:15",
+   "date_expired": "2022-01-07 0:00:00",
+   "work_description": "Fence",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE20-1148",
+   "permit_type": "Electrical",
+   "date_issued": "2020-07-17 12:43:36",
+   "date_expired": "2022-02-12 0:00:00",
+   "work_description": "Electrical for addition",
+   "owner_name": "PREZZATO, JOSEPH J",
+   "parcel_number": "56-18-11-126-015"
+ },
+ {
+   "permit_id": "PM20-1252",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-17 12:54:22",
+   "date_expired": "2022-01-08 0:00:00",
+   "work_description": "Gas openings",
+   "owner_name": "SCIGLIANO, SALVATORE",
+   "parcel_number": "56-18-15-451-031"
+ },
+ {
+   "permit_id": "PE20-1149",
+   "permit_type": "Electrical",
+   "date_issued": "2020-07-21 11:37:27",
+   "date_expired": "2022-09-17 0:00:00",
+   "work_description": "Electric for renovation",
+   "owner_name": "NEW HOPE HOMES LLC",
+   "parcel_number": "56-18-16-133-013"
+ },
+ {
+   "permit_id": "PM20-1253",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-22 11:37:05",
+   "date_expired": "2022-02-23 0:00:00",
+   "work_description": "Gas Pipe",
+   "owner_name": "YOUSIF,  ANTHONY",
+   "parcel_number": "56-18-10-101-012"
+ },
+ {
+   "permit_id": "PZ20-389",
+   "permit_type": "Zoning",
+   "date_issued": "2020-07-23 10:02:17",
+   "date_expired": "2022-02-08 0:00:00",
+   "work_description": "Concrete patio",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1254",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-22 12:13:21",
+   "date_expired": "2022-01-15 0:00:00",
+   "work_description": "Gas piping and pool heater",
+   "owner_name": "MODIANO, JONATHAN M",
+   "parcel_number": "56-18-14-152-016"
+ },
+ {
+   "permit_id": "PM20-1255",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-07-22 14:57:22",
+   "date_expired": "2022-01-13 0:00:00",
+   "work_description": "Furnace and AC reconnect",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "WS20-0259",
+   "permit_type": "Water Sewer",
+   "date_issued": "2020-07-28 8:11:57",
+   "date_expired": "2022-02-15 0:00:00",
+   "work_description": "secondary water meter",
+   "owner_name": "YALDO, MARK N",
+   "parcel_number": "56-18-15-452-011"
+ },
+ {
+   "permit_id": "PP20-0604",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-07-28 11:35:29",
+   "date_expired": "2022-01-19 0:00:00",
+   "work_description": "Sprinkler system",
+   "owner_name": "CALDERON FRANCISCO, MA AGUEDA RINCO",
+   "parcel_number": "56-18-16-102-003"
+ },
+ {
+   "permit_id": "PE20-1150",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-05 11:56:52",
+   "date_expired": "2022-03-05 0:00:00",
+   "work_description": "",
+   "owner_name": "CHESTER, DANIEL",
+   "parcel_number": "56-18-16-179-009"
+ },
+ {
+   "permit_id": "PE20-1151",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-03 10:33:38",
+   "date_expired": "2022-06-23 0:00:00",
+   "work_description": "",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": "56-18-10-176-004"
+ },
+ {
+   "permit_id": "PZ20-390",
+   "permit_type": "Zoning",
+   "date_issued": "2020-08-03 10:44:16",
+   "date_expired": "2022-01-25 0:00:00",
+   "work_description": "Shed",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": "56-18-16-476-033"
+ },
+ {
+   "permit_id": "PE20-1152",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-04 8:51:01",
+   "date_expired": "2022-02-05 0:00:00",
+   "work_description": "Temp service",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": "56-18-15-426-019"
+ },
+ {
+   "permit_id": "PZ20-391",
+   "permit_type": "Zoning",
+   "date_issued": "2020-08-04 10:09:07",
+   "date_expired": "2022-01-26 0:00:00",
+   "work_description": "Hot Tub",
+   "owner_name": "CHESTER, DANIEL",
+   "parcel_number": "56-18-16-179-009"
+ },
+ {
+   "permit_id": "PM20-1256",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-04 12:51:47",
+   "date_expired": "2022-04-09 0:00:00",
+   "work_description": "Contractor is only doing gas piping now. See letter in attachments. No status inspection necessary. Will refund boiler and hydronic duct system charges",
+   "owner_name": "4950 ORCHARD LAKE LLC",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PB20-4046",
+   "permit_type": "Building",
+   "date_issued": "2020-08-11 10:25:04",
+   "date_expired": "2022-02-02 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4047",
+   "permit_type": "Building",
+   "date_issued": "2020-08-06 10:50:27",
+   "date_expired": "2022-01-28 0:00:00",
+   "work_description": "Deck and Terrace Addition",
+   "owner_name": "SHAYA, FAWZI B",
+   "parcel_number": "56-18-09-426-022"
+ },
+ {
+   "permit_id": "PP20-0605",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-08-07 15:02:30",
+   "date_expired": "2022-03-31 0:00:00",
+   "work_description": "plumbing for bathroom",
+   "owner_name": "SUTSCHEK, JOE",
+   "parcel_number": "56-18-22-126-002"
+ },
+ {
+   "permit_id": "PM20-1257",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-07 15:06:17",
+   "date_expired": "2022-03-31 0:00:00",
+   "work_description": "Install 3 new heat runs",
+   "owner_name": "SUTSCHEK, JOE",
+   "parcel_number": "56-18-22-126-002"
+ },
+ {
+   "permit_id": "PM20-1258",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-10 14:47:11",
+   "date_expired": "2022-05-26 0:00:00",
+   "work_description": "Gas Piping",
+   "owner_name": "PREZZATO, JOSEPH",
+   "parcel_number": "56-18-11-126-015"
+ },
+ {
+   "permit_id": "PM20-1259",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-11 15:07:10",
+   "date_expired": "2022-02-19 0:00:00",
+   "work_description": "",
+   "owner_name": "PREZZATO, JOSEPH",
+   "parcel_number": "56-18-11-126-015"
+ },
+ {
+   "permit_id": "PP20-0606",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-08-11 15:38:05",
+   "date_expired": "2022-11-18 0:00:00",
+   "work_description": "plumbing for new home",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1260",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-11 15:38:22",
+   "date_expired": "2022-02-02 0:00:00",
+   "work_description": "mechanical for new home",
+   "owner_name": "LUEDKE, CRAIG R",
+   "parcel_number": "56-18-10-176-004"
+ },
+ {
+   "permit_id": "PB20-0607",
+   "permit_type": "Building",
+   "date_issued": "2020-08-20 8:35:34",
+   "date_expired": "2022-02-11 0:00:00",
+   "work_description": "Foundation Repair",
+   "owner_name": "RICHARD A MONASH LIVING TRUST",
+   "parcel_number": "56-18-02-401-055"
+ },
+ {
+   "permit_id": "PE20-1153",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-13 9:56:33",
+   "date_expired": "2022-04-12 0:00:00",
+   "work_description": "Bathroom Addition",
+   "owner_name": "SUTSCHEK, JOE",
+   "parcel_number": "56-18-22-126-002"
+ },
+ {
+   "permit_id": "PE20-1154",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-14 14:09:42",
+   "date_expired": "2022-02-05 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE20-1155",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-14 14:33:54",
+   "date_expired": "2022-02-05 0:00:00",
+   "work_description": "",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PM20-1261",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-17 14:06:11",
+   "date_expired": "2022-03-31 0:00:00",
+   "work_description": "Bathroom Fan",
+   "owner_name": "SUTSCHEK, JOE",
+   "parcel_number": "56-18-22-126-002"
+ },
+ {
+   "permit_id": "PM20-1262",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-17 14:59:48",
+   "date_expired": "2022-03-17 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "GITTLEMAN, ROBERT",
+   "parcel_number": "56-18-02-401-034"
+ },
+ {
+   "permit_id": "PP20-0608",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-08-18 10:10:20",
+   "date_expired": "2022-09-17 0:00:00",
+   "work_description": "Plumbing for new home",
+   "owner_name": "SHAFFOU",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "PE20-1156",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-18 11:40:53",
+   "date_expired": "2022-02-12 0:00:00",
+   "work_description": "Sunroom electrical",
+   "owner_name": "HASSAN",
+   "parcel_number": "56-18-15-376-027"
+ },
+ {
+   "permit_id": "PM20-1263",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-19 9:22:37",
+   "date_expired": "2022-02-10 0:00:00",
+   "work_description": "Rooftop replacement for Admin Building",
+   "owner_name": "ORCHARD LAKE SCHOOLS",
+   "parcel_number": "56-18-11-176-013"
+ },
+ {
+   "permit_id": "PM20-1264",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-20 13:36:23",
+   "date_expired": "2022-10-11 0:00:00",
+   "work_description": "Mechanical for New Home",
+   "owner_name": "Sawicki, Dennis James",
+   "parcel_number": "56-18-15-351-007"
+ },
+ {
+   "permit_id": "PP20-0609",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-08-20 13:35:56",
+   "date_expired": "2022-08-11 0:00:00",
+   "work_description": "plumbing for new home",
+   "owner_name": "DABISH, HENRY",
+   "parcel_number": "56-18-15-351-007"
+ },
+ {
+   "permit_id": "PM20-1265",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-08-21 12:53:27",
+   "date_expired": "2022-02-12 0:00:00",
+   "work_description": "A/C Unites Replacement",
+   "owner_name": "Winnie, Robert William",
+   "parcel_number": "56-18-10-351-003"
+ },
+ {
+   "permit_id": "PZ20-392",
+   "permit_type": "Zoning",
+   "date_issued": "2020-09-01 14:58:57",
+   "date_expired": "2022-03-23 0:00:00",
+   "work_description": "Driveway addition",
+   "owner_name": "MATHARU, JEETENDER S",
+   "parcel_number": "56-18-22-105-020"
+ },
+ {
+   "permit_id": "PB20-4050",
+   "permit_type": "Building",
+   "date_issued": "2020-08-27 15:37:27",
+   "date_expired": "2022-02-18 0:00:00",
+   "work_description": "Window Replacement",
+   "owner_name": "MAREK, ANTHONY J",
+   "parcel_number": "56-18-16-180-003"
+ },
+ {
+   "permit_id": "PB20-4048",
+   "permit_type": "Building",
+   "date_issued": "2020-08-28 11:49:21",
+   "date_expired": "2022-02-19 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "CAPSOCOLIS, JOHN",
+   "parcel_number": "56-18-15-451-027"
+ },
+ {
+   "permit_id": "PE20-1157",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-31 8:29:49",
+   "date_expired": "2022-05-25 0:00:00",
+   "work_description": "Swim pool w/ spa",
+   "owner_name": "JILL D. MANN REVOCABLE TRUST",
+   "parcel_number": "56-18-09-276-024"
+ },
+ {
+   "permit_id": "PZ20-393",
+   "permit_type": "Zoning",
+   "date_issued": "2020-08-31 9:41:46",
+   "date_expired": "2022-04-28 0:00:00",
+   "work_description": "",
+   "owner_name": "BLACKBIRD HOLDING COMPANY LLC",
+   "parcel_number": "56-18-02-451-010"
+ },
+ {
+   "permit_id": "PP20-0610",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-08-31 13:49:18",
+   "date_expired": "2022-02-22 0:00:00",
+   "work_description": "second water meter",
+   "owner_name": "YOUSIF, ANTHONY",
+   "parcel_number": "56-18-10-101-012"
+ },
+ {
+   "permit_id": "PE20-1158",
+   "permit_type": "Electrical",
+   "date_issued": "2020-08-31 15:23:59",
+   "date_expired": "2022-02-22 0:00:00",
+   "work_description": "Renovation",
+   "owner_name": "YOUSIF, ANTHONY",
+   "parcel_number": "56-18-10-101-012"
+ },
+ {
+   "permit_id": "PB20-4051",
+   "permit_type": "Building",
+   "date_issued": "2020-09-01 9:00:47",
+   "date_expired": "2022-02-23 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "KORKIS, MOWARAK",
+   "parcel_number": "56-18-15-376-016"
+ },
+ {
+   "permit_id": "PB20-4052",
+   "permit_type": "Building",
+   "date_issued": "2020-09-02 13:15:28",
+   "date_expired": "2022-02-24 0:00:00",
+   "work_description": "Siding Replacement",
+   "owner_name": "SWIGER, LONEY E",
+   "parcel_number": "56-18-15-376-028"
+ },
+ {
+   "permit_id": "PB20-4053",
+   "permit_type": "Building",
+   "date_issued": "2020-09-03 13:25:22",
+   "date_expired": "2022-02-25 0:00:00",
+   "work_description": "",
+   "owner_name": "",
+   "parcel_number": "56-99-01-989-014"
+ },
+ {
+   "permit_id": "PM20-1266",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-08 11:49:15",
+   "date_expired": "2022-03-03 0:00:00",
+   "work_description": "A/C Unit Replacement",
+   "owner_name": "HERPICH, RICHARD P",
+   "parcel_number": "56-18-09-426-003"
+ },
+ {
+   "permit_id": "PM20-1267",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-09 13:30:47",
+   "date_expired": "2022-05-07 0:00:00",
+   "work_description": "New construction",
+   "owner_name": "SCHNEIDER, STEVEN M",
+   "parcel_number": "56-18-15-151-008"
+ },
+ {
+   "permit_id": "PM20-1268",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-09 15:08:00",
+   "date_expired": "2022-04-12 0:00:00",
+   "work_description": "Replacement AC & Furnace",
+   "owner_name": "PATTERSON, RHONDA J",
+   "parcel_number": "56-18-16-189-011"
+ },
+ {
+   "permit_id": "PM20-1269",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-09 15:23:44",
+   "date_expired": "2022-05-19 0:00:00",
+   "work_description": "New construction",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PZ20-394",
+   "permit_type": "Zoning",
+   "date_issued": "2020-10-13 11:43:32",
+   "date_expired": "2022-04-06 0:00:00",
+   "work_description": "Entrance Gate",
+   "owner_name": "KESLER, RYAN",
+   "parcel_number": "56-18-16-351-038"
+ },
+ {
+   "permit_id": "PZ20-395",
+   "permit_type": "Zoning",
+   "date_issued": "2020-09-11 8:42:36",
+   "date_expired": "2022-03-05 0:00:00",
+   "work_description": "Shed",
+   "owner_name": "BARE, VINCENT",
+   "parcel_number": "56-18-16-134-031"
+ },
+ {
+   "permit_id": "PP20-0611",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-09-14 11:17:35",
+   "date_expired": "2022-03-16 0:00:00",
+   "work_description": "Secondary Water Meter",
+   "owner_name": "BLOOM, DAVID",
+   "parcel_number": "56-18-10-153-004"
+ },
+ {
+   "permit_id": "PB20-4055",
+   "permit_type": "Building",
+   "date_issued": "2020-09-21 13:19:32",
+   "date_expired": "2022-03-15 0:00:00",
+   "work_description": "201101171154190020345",
+   "owner_name": "",
+   "parcel_number": "56-18-16-201-010"
+ },
+ {
+   "permit_id": "PB20-4056",
+   "permit_type": "Building",
+   "date_issued": "2020-09-15 10:25:50",
+   "date_expired": "2022-03-09 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "Kearns, Michael",
+   "parcel_number": "56-18-15-429-004"
+ },
+ {
+   "permit_id": "PB20-4057",
+   "permit_type": "Building",
+   "date_issued": "2020-09-17 13:57:39",
+   "date_expired": "2022-03-11 0:00:00",
+   "work_description": "Master Suite & Garage Expansion",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4058",
+   "permit_type": "Building",
+   "date_issued": "2020-09-18 14:47:14",
+   "date_expired": "2022-03-12 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "TISHKOWSKI, MARGARET",
+   "parcel_number": "56-18-11-126-041"
+ },
+ {
+   "permit_id": "PZ20-396",
+   "permit_type": "Zoning",
+   "date_issued": "2020-10-22 10:54:48",
+   "date_expired": "2022-04-15 0:00:00",
+   "work_description": "Replacement Seawall",
+   "owner_name": "GOODMAN, ROBERT W",
+   "parcel_number": "56-18-10-101-032"
+ },
+ {
+   "permit_id": "PM20-1270",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-21 13:39:31",
+   "date_expired": "2022-04-12 0:00:00",
+   "work_description": "Furnace",
+   "owner_name": "GARCIA, AARON R",
+   "parcel_number": "56-18-15-451-026"
+ },
+ {
+   "permit_id": "PE20-1159",
+   "permit_type": "Electrical",
+   "date_issued": "2020-09-22 11:57:14",
+   "date_expired": "2022-03-25 0:00:00",
+   "work_description": "",
+   "owner_name": "AMMORI, ALBERT",
+   "parcel_number": "56-18-16-352-011"
+ },
+ {
+   "permit_id": "PB20-4059",
+   "permit_type": "Building",
+   "date_issued": "2020-09-22 15:57:14",
+   "date_expired": "2022-03-16 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "SEALEY, JOHN",
+   "parcel_number": "56-18-16-478-002"
+ },
+ {
+   "permit_id": "PM20-1271",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-23 11:31:41",
+   "date_expired": "2022-04-14 0:00:00",
+   "work_description": "5 Fireplaces",
+   "owner_name": "DABISH, HENRY",
+   "parcel_number": "56-18-15-351-007"
+ },
+ {
+   "permit_id": "PB20-4060",
+   "permit_type": "Building",
+   "date_issued": "2020-10-05 14:55:03",
+   "date_expired": "2022-03-29 0:00:00",
+   "work_description": "Bathroom Renovation",
+   "owner_name": "Lakes Development Group Inc",
+   "parcel_number": "56-18-16-151-009"
+ },
+ {
+   "permit_id": "PM20-1272",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-09-29 14:16:19",
+   "date_expired": "2022-04-14 0:00:00",
+   "work_description": "A/C Units Replacement",
+   "owner_name": "EDWARD L GREER & ALMA L GREER TRST",
+   "parcel_number": "56-18-15-151-010"
+ },
+ {
+   "permit_id": "ESA20-31",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "2020-09-30 8:53:57",
+   "date_expired": "",
+   "work_description": "ESA Work",
+   "owner_name": "KUUSISTO, NICHOLAS M",
+   "parcel_number": "56-18-11-376-007"
+ },
+ {
+   "permit_id": "PZ20-397",
+   "permit_type": "Zoning",
+   "date_issued": "2020-09-30 8:53:06",
+   "date_expired": "2022-03-24 0:00:00",
+   "work_description": "Seawall and Retaining Wall",
+   "owner_name": "KUUSISTO, NICHOLAS M",
+   "parcel_number": "56-18-11-376-007"
+ },
+ {
+   "permit_id": "P200001",
+   "permit_type": "Tree Removal",
+   "date_issued": "2020-09-30 10:13:59",
+   "date_expired": "",
+   "work_description": "18 dead trees",
+   "owner_name": "ST. ANDRE, STEPHEN ",
+   "parcel_number": "56-18-10-351-002"
+ },
+ {
+   "permit_id": "PZ20-398",
+   "permit_type": "Zoning",
+   "date_issued": "2020-10-01 11:49:59",
+   "date_expired": "2022-03-25 0:00:00",
+   "work_description": "Shed",
+   "owner_name": "",
+   "parcel_number": "56-18-16-177-050"
+ },
+ {
+   "permit_id": "PP20-0612",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-10-02 10:05:28",
+   "date_expired": "2022-04-05 0:00:00",
+   "work_description": "Installing proper back flow device",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PP20-0613",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-10-02 11:45:15",
+   "date_expired": "2022-06-07 0:00:00",
+   "work_description": "Master bath remodel and new water heater",
+   "owner_name": "MENDELSOHN, SCOTT",
+   "parcel_number": "56-18-16-151-009"
+ },
+ {
+   "permit_id": "PB20-4061",
+   "permit_type": "Building",
+   "date_issued": "2020-10-14 14:20:31",
+   "date_expired": "2022-04-07 0:00:00",
+   "work_description": "Minor Alteration (Turret)",
+   "owner_name": "GORAN, JAMES L",
+   "parcel_number": "56-18-09-402-007"
+ },
+ {
+   "permit_id": "PE20-1160",
+   "permit_type": "Electrical",
+   "date_issued": "2020-10-06 11:23:34",
+   "date_expired": "2022-06-07 0:00:00",
+   "work_description": "Bathroom Renovation",
+   "owner_name": "MENDELSOHN, SCOTT",
+   "parcel_number": "56-18-16-151-009"
+ },
+ {
+   "permit_id": "PM20-1273",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-10-06 14:01:27",
+   "date_expired": "2022-04-21 0:00:00",
+   "work_description": "Alteration",
+   "owner_name": "THOMAS, ADEL",
+   "parcel_number": "56-18-15-376-013"
+ },
+ {
+   "permit_id": "PP20-0614",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-10-06 15:34:19",
+   "date_expired": "2022-04-23 0:00:00",
+   "work_description": "Plumbing for Garage",
+   "owner_name": "KESLER, RYAN",
+   "parcel_number": "56-18-16-351-038"
+ },
+ {
+   "permit_id": "PM20-1274",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-10-09 13:09:51",
+   "date_expired": "2022-04-21 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "HUNTER, EMMALENE",
+   "parcel_number": "56-18-16-104-004"
+ },
+ {
+   "permit_id": "PE20-1161",
+   "permit_type": "Electrical",
+   "date_issued": "2020-10-14 15:00:53",
+   "date_expired": "2022-04-07 0:00:00",
+   "work_description": "New Home",
+   "owner_name": "DABISH, HENRY",
+   "parcel_number": "56-18-15-351-007"
+ },
+ {
+   "permit_id": "PE20-1162",
+   "permit_type": "Electrical",
+   "date_issued": "2020-10-14 15:08:56",
+   "date_expired": "2022-04-19 0:00:00",
+   "work_description": "2 Exterior Lamp Posts",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1275",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-10-14 15:23:58",
+   "date_expired": "2022-06-23 0:00:00",
+   "work_description": "2 Prefab Fireplaces",
+   "owner_name": "LUEDKE, CRAIG R",
+   "parcel_number": "56-18-10-176-004"
+ },
+ {
+   "permit_id": "PE20-1163",
+   "permit_type": "Electrical",
+   "date_issued": "2020-10-19 15:46:02",
+   "date_expired": "2022-11-05 0:00:00",
+   "work_description": "200 amp overhead to underground service",
+   "owner_name": "BLACKBIRD HOLDING COMPANY LLC",
+   "parcel_number": "56-18-02-451-010"
+ },
+ {
+   "permit_id": "PE20-1164",
+   "permit_type": "Electrical",
+   "date_issued": "2020-10-20 8:50:36",
+   "date_expired": "2022-05-25 0:00:00",
+   "work_description": "",
+   "owner_name": "Lee, Richard Alan",
+   "parcel_number": "56-18-15-426-019"
+ },
+ {
+   "permit_id": "PB20-4062",
+   "permit_type": "Building",
+   "date_issued": "2020-10-23 13:01:55",
+   "date_expired": "2022-04-16 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "OSTROWSKI, T",
+   "parcel_number": "56-18-14-152-019"
+ },
+ {
+   "permit_id": "PZ20-400",
+   "permit_type": "Zoning",
+   "date_issued": "2020-10-23 12:01:51",
+   "date_expired": "2022-11-23 0:00:00",
+   "work_description": "Replacement retaining wall",
+   "owner_name": "",
+   "parcel_number": "56-18-16-376-007"
+ },
+ {
+   "permit_id": "PM20-1276",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-10-21 10:42:00",
+   "date_expired": "2022-04-16 0:00:00",
+   "work_description": "Gas piping",
+   "owner_name": "JILL D. MANN REVOCABLE TRUST",
+   "parcel_number": "56-18-09-276-024"
+ },
+ {
+   "permit_id": "PZ20-401",
+   "permit_type": "Zoning",
+   "date_issued": "2020-10-21 15:38:04",
+   "date_expired": "2022-04-14 0:00:00",
+   "work_description": "Install Retaining Walls in Front Yard",
+   "owner_name": "MALOTA, MARTIN",
+   "parcel_number": "56-18-16-131-036"
+ },
+ {
+   "permit_id": "PB20-4063",
+   "permit_type": "Building",
+   "date_issued": "2020-10-23 9:37:26",
+   "date_expired": "2022-04-16 0:00:00",
+   "work_description": "Free standing monument & canopy sign",
+   "owner_name": "ORCHARD LAKE PROPERTY GROUP",
+   "parcel_number": "56-18-14-301-004"
+ },
+ {
+   "permit_id": "PE20-1165",
+   "permit_type": "Electrical",
+   "date_issued": "2020-10-23 9:37:06",
+   "date_expired": "2022-04-16 0:00:00",
+   "work_description": "Sign",
+   "owner_name": "ORCHARD LAKE PROPERTY GROUP",
+   "parcel_number": "56-18-14-301-004"
+ },
+ {
+   "permit_id": "PM20-1277",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-10-23 14:20:23",
+   "date_expired": "2022-04-16 0:00:00",
+   "work_description": "replacement boiler",
+   "owner_name": "ELDER, PHILLLIP A",
+   "parcel_number": "56-18-09-426-001"
+ },
+ {
+   "permit_id": "PZ20-399",
+   "permit_type": "Zoning",
+   "date_issued": "2020-10-26 11:01:30",
+   "date_expired": "2022-04-19 0:00:00",
+   "work_description": "1 Free Standing Sign",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1278",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-10-27 11:58:03",
+   "date_expired": "2022-04-26 0:00:00",
+   "work_description": "Prefab Fireplace",
+   "owner_name": "RADINSKI, ROLAND",
+   "parcel_number": "56-18-16-276-017"
+ },
+ {
+   "permit_id": "PB20-4064",
+   "permit_type": "Building",
+   "date_issued": "2020-11-06 13:20:30",
+   "date_expired": "2022-04-30 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "SMITH, TIMOTHY D",
+   "parcel_number": "56-18-16-186-022"
+ },
+ {
+   "permit_id": "PM20-1279",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-11-05 9:58:48",
+   "date_expired": "2022-10-05 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "GWIZDALA, R WAYNE",
+   "parcel_number": "56-18-09-276-016"
+ },
+ {
+   "permit_id": "PZ20-402",
+   "permit_type": "Zoning",
+   "date_issued": "2020-11-06 10:33:49",
+   "date_expired": "2022-04-30 0:00:00",
+   "work_description": "Replacement Seawall",
+   "owner_name": "4950 ORCHARD LAKE LLC",
+   "parcel_number": "56-18-15-101-008"
+ },
+ {
+   "permit_id": "PM20-1280",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-11-06 13:20:41",
+   "date_expired": "2022-06-30 0:00:00",
+   "work_description": "Furnace & AC replacement",
+   "owner_name": "PIERCE, JEFF S",
+   "parcel_number": "56-18-16-152-010"
+ },
+ {
+   "permit_id": "PB20-4065",
+   "permit_type": "Building",
+   "date_issued": "2020-11-10 12:33:12",
+   "date_expired": "2022-05-04 0:00:00",
+   "work_description": "",
+   "owner_name": "",
+   "parcel_number": "56-18-02-451-010"
+ },
+ {
+   "permit_id": "PM20-1281",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-11-12 10:37:07",
+   "date_expired": "2022-11-12 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "LIPSON, RONALD B",
+   "parcel_number": "56-18-10-101-004"
+ },
+ {
+   "permit_id": "PZ20-403",
+   "permit_type": "Zoning",
+   "date_issued": "2020-11-17 9:15:30",
+   "date_expired": "2022-06-01 0:00:00",
+   "work_description": "Seawall",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE20-1166",
+   "permit_type": "Electrical",
+   "date_issued": "2020-11-17 15:04:09",
+   "date_expired": "2022-07-14 0:00:00",
+   "work_description": "200 Amp Service Panel Change",
+   "owner_name": "JORDAN, BURT",
+   "parcel_number": "56-18-15-452-005"
+ },
+ {
+   "permit_id": "PP20-0615",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-11-20 13:17:43",
+   "date_expired": "2022-12-01 0:00:00",
+   "work_description": "New Interior Plumbing",
+   "owner_name": "BLACKBIRD HOLDING COMPANY",
+   "parcel_number": "56-18-02-451-010"
+ },
+ {
+   "permit_id": "PM20-1282",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-11-23 14:23:06",
+   "date_expired": "2022-05-17 0:00:00",
+   "work_description": "Furnace",
+   "owner_name": "SCHINELLA, JOHN R",
+   "parcel_number": "56-18-11-376-016"
+ },
+ {
+   "permit_id": "PM20-1283",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-11-30 12:35:19",
+   "date_expired": "2022-05-24 0:00:00",
+   "work_description": "Mechanical for Bathroom",
+   "owner_name": "YOUSIF, ANTHONY",
+   "parcel_number": "56-18-10-101-012"
+ },
+ {
+   "permit_id": "PE20-1167",
+   "permit_type": "Electrical",
+   "date_issued": "2020-11-30 12:45:11",
+   "date_expired": "2204-05-24 0:00:00",
+   "work_description": "Temp Service for Christmas Tree Sales",
+   "owner_name": "ORCHARD LAKE SCHOOLS",
+   "parcel_number": "56-18-11-176-013"
+ },
+ {
+   "permit_id": "PM20-1284",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-01 15:50:45",
+   "date_expired": "2022-06-02 0:00:00",
+   "work_description": "Unico Air Handler (Fan Coil) Central AC Replacement",
+   "owner_name": "Matheson Heating AC Plumbing",
+   "parcel_number": "56-18-16-180-003"
+ },
+ {
+   "permit_id": "PP20-0616",
+   "permit_type": "Plumbing",
+   "date_issued": "2020-12-01 15:49:31",
+   "date_expired": "2022-06-02 0:00:00",
+   "work_description": "Water Heater Replacement",
+   "owner_name": "Matheson Heating AC Plumbing",
+   "parcel_number": "56-18-16-180-003"
+ },
+ {
+   "permit_id": "PM20-1285",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-02 10:15:26",
+   "date_expired": "2022-10-25 0:00:00",
+   "work_description": "two A/C units and Furnace Replacement",
+   "owner_name": "RICHARD A MONASH LIVING TRUST",
+   "parcel_number": "56-18-02-401-055"
+ },
+ {
+   "permit_id": "ESA20-32",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "2021-04-06 15:46:19",
+   "date_expired": "",
+   "work_description": "ESA Landscaping",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB20-4066",
+   "permit_type": "Building",
+   "date_issued": "2020-12-03 13:41:34",
+   "date_expired": "2022-05-27 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "BOSART",
+   "parcel_number": "56-18-10-102-012"
+ },
+ {
+   "permit_id": "PB20-4067",
+   "permit_type": "Building",
+   "date_issued": "2020-12-07 11:21:43",
+   "date_expired": "2022-05-31 0:00:00",
+   "work_description": "New Single Family Home",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM20-1286",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-14 13:20:35",
+   "date_expired": "2022-07-16 0:00:00",
+   "work_description": "Furnace",
+   "owner_name": "LUEDKE, CRAIG R",
+   "parcel_number": "56-18-10-176-004"
+ },
+ {
+   "permit_id": "PM20-1287",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-17 11:10:46",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Replacement Furnace",
+   "owner_name": "SCHUMACHER, MICHAEL K",
+   "parcel_number": "56-18-10-101-048"
+ },
+ {
+   "permit_id": "PM20-1288",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-21 13:48:53",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Replacement AC and furnace",
+   "owner_name": "MITCHELL, MARK THOMAS",
+   "parcel_number": "56-18-15-426-021"
+ },
+ {
+   "permit_id": "PM20-1289",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-21 13:48:24",
+   "date_expired": "2022-06-14 0:00:00",
+   "work_description": "Replacement furnace",
+   "owner_name": "YONO, FAKHRI",
+   "parcel_number": "56-18-15-303-002"
+ },
+ {
+   "permit_id": "PE20-1168",
+   "permit_type": "Electrical",
+   "date_issued": "2020-12-21 14:57:26",
+   "date_expired": "2022-11-10 0:00:00",
+   "work_description": "Installation of 60kW Generator",
+   "owner_name": "FRIEDMAN, DAVID",
+   "parcel_number": "56-18-16-476-026"
+ },
+ {
+   "permit_id": "PM20-1290",
+   "permit_type": "Mechanical",
+   "date_issued": "2020-12-21 15:00:54",
+   "date_expired": "2022-11-05 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "FRIEDMAN, DAVID",
+   "parcel_number": "56-18-16-476-026"
+ },
+ {
+   "permit_id": "PB20-4068",
+   "permit_type": "Building",
+   "date_issued": "2021-01-21 12:58:20",
+   "date_expired": "2023-01-11 0:00:00",
+   "work_description": "First Floor Interior Renovation",
+   "owner_name": "Scott Patrick MacDonald",
+   "parcel_number": "56-18-16-329-005"
+ },
+ {
+   "permit_id": "PM21-1291",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-04 11:35:17",
+   "date_expired": "2022-06-28 0:00:00",
+   "work_description": "Replacement Furnace",
+   "owner_name": "ABO, JAMIL",
+   "parcel_number": "56-18-14-101-003"
+ },
+ {
+   "permit_id": "PZ21-404",
+   "permit_type": "Zoning",
+   "date_issued": "2021-01-04 12:09:24",
+   "date_expired": "2022-06-28 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "JACKSON CURREN, RIINA L",
+   "parcel_number": "56-18-15-354-001"
+ },
+ {
+   "permit_id": "PE21-1169",
+   "permit_type": "Electrical",
+   "date_issued": "2021-01-04 12:08:54",
+   "date_expired": "2022-06-28 0:00:00",
+   "work_description": "Generator & transfer switch",
+   "owner_name": "JACKSON CURREN, RIINA L",
+   "parcel_number": "56-18-15-354-001"
+ },
+ {
+   "permit_id": "PM21-1292",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-04 12:09:09",
+   "date_expired": "2022-06-28 0:00:00",
+   "work_description": "Generator & transfer switch",
+   "owner_name": "JACKSON CURREN, RIINA L",
+   "parcel_number": "56-18-15-354-001"
+ },
+ {
+   "permit_id": "PM21-1293",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-04 14:52:31",
+   "date_expired": "2022-08-12 0:00:00",
+   "work_description": "Furnace replacement in admin building (not classrooms)",
+   "owner_name": "ORCHARD LAKE SCHOOLS",
+   "parcel_number": "56-18-11-176-013"
+ },
+ {
+   "permit_id": "PM21-1294",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-04 14:59:05",
+   "date_expired": "2022-06-28 0:00:00",
+   "work_description": "Boiler replacement",
+   "owner_name": "Forcier, Randy",
+   "parcel_number": "56-18-10-102-010"
+ },
+ {
+   "permit_id": "PM21-1295",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-12 11:51:31",
+   "date_expired": "2022-07-06 0:00:00",
+   "work_description": "2nd Furnace Replacement",
+   "owner_name": "IRWIN, JOHN R",
+   "parcel_number": "56-18-16-276-037"
+ },
+ {
+   "permit_id": "PZ21-405",
+   "permit_type": "Zoning",
+   "date_issued": "2021-04-23 15:48:15",
+   "date_expired": "2022-10-15 0:00:00",
+   "work_description": "Fence",
+   "owner_name": "",
+   "parcel_number": "56-18-11-201-005"
+ },
+ {
+   "permit_id": "PM21-1296",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-08 12:03:12",
+   "date_expired": "2022-07-09 0:00:00",
+   "work_description": "Fireplace",
+   "owner_name": "PATTAH, SAM",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PB21-4069",
+   "permit_type": "Building",
+   "date_issued": "2021-02-25 15:39:26",
+   "date_expired": "2023-02-15 0:00:00",
+   "work_description": "Renovation",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE21-1170",
+   "permit_type": "Electrical",
+   "date_issued": "2021-01-13 12:57:45",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Sign",
+   "owner_name": "KARCHO, HANEY",
+   "parcel_number": "56-18-14-301-002"
+ },
+ {
+   "permit_id": "PZ21-406",
+   "permit_type": "Zoning",
+   "date_issued": "2021-01-13 12:57:30",
+   "date_expired": "2022-07-07 0:00:00",
+   "work_description": "Sign",
+   "owner_name": "KARCHO, HANEY",
+   "parcel_number": "56-18-14-301-002"
+ },
+ {
+   "permit_id": "PM21-1297",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-01-14 11:25:18",
+   "date_expired": "2022-11-05 0:00:00",
+   "work_description": "Furnace & Humidifier replacements",
+   "owner_name": "BALLARD, BRUCE",
+   "parcel_number": "56-18-15-426-018"
+ },
+ {
+   "permit_id": "PE21-1171",
+   "permit_type": "Electrical",
+   "date_issued": "2021-01-14 13:09:10",
+   "date_expired": "2022-07-28 0:00:00",
+   "work_description": "Wiring to addition",
+   "owner_name": "YOUSIF, ANTHONY",
+   "parcel_number": "56-18-10-101-012"
+ },
+ {
+   "permit_id": "ESA21-34",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "2021-01-21 13:37:19",
+   "date_expired": "",
+   "work_description": "Landscaping/ESA",
+   "owner_name": "LUEDKE, CRAIG R",
+   "parcel_number": "56-18-10-176-004"
+ },
+ {
+   "permit_id": "PB21-4070",
+   "permit_type": "Building",
+   "date_issued": "2021-01-27 10:20:40",
+   "date_expired": "2023-01-17 0:00:00",
+   "work_description": "Sunroom on existing deck",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PZ21-407",
+   "permit_type": "Zoning",
+   "date_issued": "2021-02-04 11:48:35",
+   "date_expired": "2022-07-29 0:00:00",
+   "work_description": "Fence",
+   "owner_name": "",
+   "parcel_number": "56-18-16-132-098"
+ },
+ {
+   "permit_id": "PP21-0617",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-02-02 13:46:45",
+   "date_expired": "2022-09-10 0:00:00",
+   "work_description": "Installation of steamer for shower",
+   "owner_name": "ATIKIAN, SHANT",
+   "parcel_number": "56-18-10-101-033"
+ },
+ {
+   "permit_id": "PM21-1298",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-02-02 13:46:24",
+   "date_expired": "2022-09-10 0:00:00",
+   "work_description": "2 Bath Fan Installations",
+   "owner_name": "ATIKIAN, SHANT",
+   "parcel_number": "56-18-10-101-033"
+ },
+ {
+   "permit_id": "PM21-1299",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-02-03 13:53:33",
+   "date_expired": "2022-07-28 0:00:00",
+   "work_description": "Furnace replacement",
+   "owner_name": "GINSBURG",
+   "parcel_number": "56-18-15-452-018"
+ },
+ {
+   "permit_id": "PM21-1300",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-02-09 11:33:34",
+   "date_expired": "2022-12-01 0:00:00",
+   "work_description": "Duct alterations",
+   "owner_name": "BLACKBIRD HOLDING COMPANY LLC",
+   "parcel_number": "56-18-02-451-010"
+ },
+ {
+   "permit_id": "PE21-1172",
+   "permit_type": "Electrical",
+   "date_issued": "2021-02-18 8:56:06",
+   "date_expired": "2022-09-06 0:00:00",
+   "work_description": "Steam room",
+   "owner_name": "ATIKIAN",
+   "parcel_number": "56-18-10-101-033"
+ },
+ {
+   "permit_id": "PM21-1301",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-02-18 10:08:42",
+   "date_expired": "2022-11-24 0:00:00",
+   "work_description": "Replacement furnace",
+   "owner_name": "MATELIC, KRISTOPHER",
+   "parcel_number": "56-18-14-152-011"
+ },
+ {
+   "permit_id": "PB21-4071",
+   "permit_type": "Building",
+   "date_issued": "2021-03-02 14:47:56",
+   "date_expired": "2023-02-20 0:00:00",
+   "work_description": "Replacement siding and windows",
+   "owner_name": "CHAMBERS, BRIAN",
+   "parcel_number": "56-18-16-129-040"
+ },
+ {
+   "permit_id": "PZ21-408",
+   "permit_type": "Zoning",
+   "date_issued": "2021-03-04 14:29:41",
+   "date_expired": "2022-08-26 0:00:00",
+   "work_description": "Seawall/Bio-log installation",
+   "owner_name": "ROUKE, GREG",
+   "parcel_number": "56-18-16-351-043"
+ },
+ {
+   "permit_id": "P210001",
+   "permit_type": "Tree Removal",
+   "date_issued": "2021-03-10 11:18:06",
+   "date_expired": "",
+   "work_description": "",
+   "owner_name": "SHANGO, MASOUD",
+   "parcel_number": "56-18-15-151-015"
+ },
+ {
+   "permit_id": "ESA21-35",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "2021-03-10 11:17:52",
+   "date_expired": "",
+   "work_description": "ESA work",
+   "owner_name": "SHANGO, MASOUD",
+   "parcel_number": "56-18-15-151-015"
+ },
+ {
+   "permit_id": "PZ21-4072",
+   "permit_type": "Building",
+   "date_issued": "2021-03-10 11:18:17",
+   "date_expired": "2023-02-28 0:00:00",
+   "work_description": "New Single-Family Home",
+   "owner_name": "SHANGO, MASOUD",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM21-1302",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-10 13:50:29",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "replacement furnace",
+   "owner_name": "IGNASIAK, ROBERT",
+   "parcel_number": "56-18-16-128-127"
+ },
+ {
+   "permit_id": "PB21-4073",
+   "permit_type": "Building",
+   "date_issued": "2021-03-11 10:25:24",
+   "date_expired": "2023-03-01 0:00:00",
+   "work_description": "Addition",
+   "owner_name": "KREUTZER, JAMES",
+   "parcel_number": "56-18-16-101-002"
+ },
+ {
+   "permit_id": "PZ21-409",
+   "permit_type": "Zoning",
+   "date_issued": "2021-03-11 15:37:25",
+   "date_expired": "2022-09-02 0:00:00",
+   "work_description": "Generator & tankless water heater",
+   "owner_name": "",
+   "parcel_number": "56-18-22-105-004"
+ },
+ {
+   "permit_id": "PM21-1303",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-11 15:38:22",
+   "date_expired": "2022-11-29 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-22-105-004"
+ },
+ {
+   "permit_id": "PE21-1173",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-11 15:38:41",
+   "date_expired": "2022-10-18 0:00:00",
+   "work_description": "Generator and tankless water heater",
+   "owner_name": "",
+   "parcel_number": "56-18-22-105-004"
+ },
+ {
+   "permit_id": "PP21-0618",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-03-11 15:37:06",
+   "date_expired": "2022-09-02 0:00:00",
+   "work_description": "Tankless water heater",
+   "owner_name": "",
+   "parcel_number": "56-18-22-105-004"
+ },
+ {
+   "permit_id": "PB21-4074",
+   "permit_type": "Building",
+   "date_issued": "2021-03-12 10:11:21",
+   "date_expired": "2023-03-02 0:00:00",
+   "work_description": "",
+   "owner_name": "",
+   "parcel_number": "56-18-14-301-003"
+ },
+ {
+   "permit_id": "PM21-1304",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-12 11:25:14",
+   "date_expired": "2022-09-28 0:00:00",
+   "work_description": "3 Fireplaces",
+   "owner_name": "Ross III, Albert William",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "PM21-1305",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-12 14:07:44",
+   "date_expired": "2022-11-26 0:00:00",
+   "work_description": "Installation of 2 furnaces",
+   "owner_name": "SNYDER",
+   "parcel_number": "56-18-09-402-019"
+ },
+ {
+   "permit_id": "PP21-0619",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-03-15 10:38:24",
+   "date_expired": "2022-10-05 0:00:00",
+   "work_description": "2nd Water Meter",
+   "owner_name": "FRANK, STEVEN",
+   "parcel_number": "56-18-16-104-005"
+ },
+ {
+   "permit_id": "PB21-4075",
+   "permit_type": "Building",
+   "date_issued": "2021-03-16 13:27:46",
+   "date_expired": "2023-03-06 0:00:00",
+   "work_description": "Addition/Alteration",
+   "owner_name": "MENDELSON, DAVID",
+   "parcel_number": "56-18-10-152-006"
+ },
+ {
+   "permit_id": "PB21-4076",
+   "permit_type": "Building",
+   "date_issued": "2021-03-16 9:27:22",
+   "date_expired": "2023-03-06 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PP21-0620",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-03-16 11:57:43",
+   "date_expired": "2022-11-09 0:00:00",
+   "work_description": "Interior Renovation",
+   "owner_name": "JTE RETAIL PROPERTIES LLC",
+   "parcel_number": "56-18-14-301-003"
+ },
+ {
+   "permit_id": "PB21-4077",
+   "permit_type": "Building",
+   "date_issued": "2021-03-16 12:22:32",
+   "date_expired": "2023-03-06 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "THE KARCHO FAMILY TRUST",
+   "parcel_number": "56-18-02-401-040"
+ },
+ {
+   "permit_id": "PM21-1306",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-16 13:08:06",
+   "date_expired": "2022-11-26 0:00:00",
+   "work_description": "Interior renovation after house fire",
+   "owner_name": "Araboo, George Hanna",
+   "parcel_number": "56-18-16-201-009"
+ },
+ {
+   "permit_id": "PP21-0621",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-03-16 13:07:51",
+   "date_expired": "2022-09-10 0:00:00",
+   "work_description": "Interior renovation after house fire",
+   "owner_name": "Araboo, George Hanna",
+   "parcel_number": "56-18-16-201-009"
+ },
+ {
+   "permit_id": "PZ21-410",
+   "permit_type": "Zoning",
+   "date_issued": "2021-03-18 11:36:39",
+   "date_expired": "2022-09-09 0:00:00",
+   "work_description": "Standby generator",
+   "owner_name": "Oak Electric/Oak Htg/Cooling/Plumbing",
+   "parcel_number": "56-18-16-152-010"
+ },
+ {
+   "permit_id": "PM21-1307",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-18 11:36:24",
+   "date_expired": "2022-09-09 0:00:00",
+   "work_description": "standby generator",
+   "owner_name": "Oak Electric/Oak Htg/Cooling/Plumbing",
+   "parcel_number": "56-18-16-152-010"
+ },
+ {
+   "permit_id": "PE21-1174",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-18 11:35:17",
+   "date_expired": "2022-09-09 0:00:00",
+   "work_description": "standby generator",
+   "owner_name": "Oak Electric/Oak Htg/Cooling/Plumbing",
+   "parcel_number": "56-18-16-152-010"
+ },
+ {
+   "permit_id": "PM21-1308",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-17 15:09:49",
+   "date_expired": "2022-11-03 0:00:00",
+   "work_description": "Interior Renovation",
+   "owner_name": "JTE RETAIL PROPERTIES LLC",
+   "parcel_number": "56-18-14-301-003"
+ },
+ {
+   "permit_id": "PE21-1175",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-18 13:06:39",
+   "date_expired": "2022-11-10 0:00:00",
+   "work_description": "Interior renovation",
+   "owner_name": "JTE RETAIL PROPERTIES LLC",
+   "parcel_number": "56-18-14-301-003"
+ },
+ {
+   "permit_id": "PZ21-411",
+   "permit_type": "Zoning",
+   "date_issued": "2021-03-25 15:35:57",
+   "date_expired": "2022-09-16 0:00:00",
+   "work_description": "Patio and spa",
+   "owner_name": "THOMPSON, MARK",
+   "parcel_number": "56-18-15-151-014"
+ },
+ {
+   "permit_id": "PB21-4078",
+   "permit_type": "Building",
+   "date_issued": "2021-03-24 12:01:26",
+   "date_expired": "2023-03-14 0:00:00",
+   "work_description": "Raised deck",
+   "owner_name": "Tobias, Josh",
+   "parcel_number": "56-18-11-126-022"
+ },
+ {
+   "permit_id": "PB21-4079",
+   "permit_type": "Building",
+   "date_issued": "2021-03-24 12:29:51",
+   "date_expired": "2023-03-14 0:00:00",
+   "work_description": "Replacement windows",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PE21-1176",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-25 8:21:32",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Replacement furnace & AC",
+   "owner_name": "RAMIREZ, CLAUDIA",
+   "parcel_number": "56-18-16-329-002"
+ },
+ {
+   "permit_id": "PM21-1309",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-25 8:21:14",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Replacement furnace & AC",
+   "owner_name": "RAMIREZ, CLAUDIA",
+   "parcel_number": "56-18-16-329-002"
+ },
+ {
+   "permit_id": "PP21-0622",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-03-25 12:39:04",
+   "date_expired": "2022-12-01 0:00:00",
+   "work_description": "Plumbing for major remodel",
+   "owner_name": "SNYDER, RANDY THOMAS",
+   "parcel_number": "56-18-09-402-019"
+ },
+ {
+   "permit_id": "PE21-1177",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-25 14:10:12",
+   "date_expired": "2022-10-18 0:00:00",
+   "work_description": "Replacement generator",
+   "owner_name": "",
+   "parcel_number": "56-18-11-376-007"
+ },
+ {
+   "permit_id": "PM21-1310",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-25 14:09:54",
+   "date_expired": "2022-10-20 0:00:00",
+   "work_description": "Replacement generator",
+   "owner_name": "",
+   "parcel_number": "56-18-11-376-007"
+ },
+ {
+   "permit_id": "PE21-1178",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-29 12:02:26",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Electric for new home",
+   "owner_name": "SHAFFOU",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "PM21-1311",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-30 12:15:38",
+   "date_expired": "2022-10-15 0:00:00",
+   "work_description": "A/C Unit Replacement",
+   "owner_name": "Johnson, Mark S.",
+   "parcel_number": "56-18-16-185-033"
+ },
+ {
+   "permit_id": "PE21-1179",
+   "permit_type": "Electrical",
+   "date_issued": "2021-03-30 12:26:33",
+   "date_expired": "2022-10-13 0:00:00",
+   "work_description": "Temp Service for New Home",
+   "owner_name": "BELANGER, MICHAEL",
+   "parcel_number": "56-18-16-376-009"
+ },
+ {
+   "permit_id": "PM21-1312",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-03-30 13:02:52",
+   "date_expired": "2022-09-22 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "NEW HOPE HOMES LLC",
+   "parcel_number": "56-18-16-133-013"
+ },
+ {
+   "permit_id": "PM21-4080",
+   "permit_type": "Building",
+   "date_issued": "2021-03-31 14:12:17",
+   "date_expired": "2023-03-21 0:00:00",
+   "work_description": "PB21-4080  Deck & Spa",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM21-1313",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-01 11:47:41",
+   "date_expired": "2022-10-20 0:00:00",
+   "work_description": "Mechanical for new home",
+   "owner_name": "SHAFFOU",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "PB21-4081",
+   "permit_type": "Building",
+   "date_issued": "2021-04-06 15:46:59",
+   "date_expired": "2023-03-27 0:00:00",
+   "work_description": "In-Ground Swimming Pool",
+   "owner_name": "SHAFFOU",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "WS21-0260",
+   "permit_type": "Water Sewer",
+   "date_issued": "2021-04-05 10:19:28",
+   "date_expired": "2022-09-27 0:00:00",
+   "work_description": "City Water Connection",
+   "owner_name": "THE KARCHO FAMILY TRUST",
+   "parcel_number": "56-18-02-401-040"
+ },
+ {
+   "permit_id": "PM21-1314",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-05 11:50:02",
+   "date_expired": "2022-09-27 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "Flame Heating/Cooling/Electric",
+   "parcel_number": "56-18-09-276-023"
+ },
+ {
+   "permit_id": "PZ21-412",
+   "permit_type": "Zoning",
+   "date_issued": "2021-04-08 11:20:35",
+   "date_expired": "2022-09-30 0:00:00",
+   "work_description": "Removing Deck and Installing Concrete Patio",
+   "owner_name": "IGNASIAK, ROBERT ",
+   "parcel_number": "56-18-16-128-127"
+ },
+ {
+   "permit_id": "PM21-1315",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-08 12:11:05",
+   "date_expired": "2022-10-06 0:00:00",
+   "work_description": "Furnace Replacement",
+   "owner_name": "BUSTOS, LUIS E",
+   "parcel_number": "56-18-10-154-005"
+ },
+ {
+   "permit_id": "PE21-0001",
+   "permit_type": "Electrical",
+   "date_issued": "2021-04-12 15:42:57",
+   "date_expired": "2022-10-04 0:00:00",
+   "work_description": "PE21-1180",
+   "owner_name": "SNYDER, RANDY THOMAS",
+   "parcel_number": "56-18-09-402-019"
+ },
+ {
+   "permit_id": "PM21-1316",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-13 13:27:16",
+   "date_expired": "2022-10-05 0:00:00",
+   "work_description": "Mechanical for new home",
+   "owner_name": "FARANSO, RALPH",
+   "parcel_number": "56-18-11-126-050"
+ },
+ {
+   "permit_id": "PP21-0623",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-04-14 15:03:01",
+   "date_expired": "2022-10-26 0:00:00",
+   "work_description": "Secondary water meter",
+   "owner_name": "",
+   "parcel_number": "56-18-16-102-003"
+ },
+ {
+   "permit_id": "PE21-1182",
+   "permit_type": "Electrical",
+   "date_issued": "2021-04-19 11:26:21",
+   "date_expired": "2022-10-18 0:00:00",
+   "work_description": "Electrical to hot tub",
+   "owner_name": "TERRY, HEATHER",
+   "parcel_number": "56-18-16-355-011"
+ },
+ {
+   "permit_id": "PE21-1181",
+   "permit_type": "Electrical",
+   "date_issued": "2021-04-19 13:18:18",
+   "date_expired": "2022-10-11 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "Oak Electric/Oak Htg",
+   "parcel_number": "56-18-15-452-006"
+ },
+ {
+   "permit_id": "PM21-1317",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-19 13:18:10",
+   "date_expired": "2022-10-11 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "Oak Electric/Oak Htg",
+   "parcel_number": "56-18-15-452-006"
+ },
+ {
+   "permit_id": "PZ21-413",
+   "permit_type": "Zoning",
+   "date_issued": "2021-04-19 13:17:56",
+   "date_expired": "2022-10-11 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "Oak Electric/Oak Htg",
+   "parcel_number": "56-18-15-452-006"
+ },
+ {
+   "permit_id": "PM21-0001",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-19 0:00:00",
+   "date_expired": "2022-10-13 0:00:00",
+   "work_description": "PM21-1318",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM21-1319",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-20 9:37:21",
+   "date_expired": "2022-11-26 0:00:00",
+   "work_description": "2 Furnace Replacements",
+   "owner_name": "KROGER, KEVIN",
+   "parcel_number": "56-18-15-427-022"
+ },
+ {
+   "permit_id": "PM21-1320",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-20 9:51:55",
+   "date_expired": "2022-10-13 0:00:00",
+   "work_description": "Snow melt system",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM21-1321",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-20 10:06:43",
+   "date_expired": "2022-10-25 0:00:00",
+   "work_description": "Replacement furnace",
+   "owner_name": "",
+   "parcel_number": "56-18-11-128-002"
+ },
+ {
+   "permit_id": "PE21-1183",
+   "permit_type": "Electrical",
+   "date_issued": "2021-04-23 9:34:54",
+   "date_expired": "2022-11-01 0:00:00",
+   "work_description": "Electrical for addition",
+   "owner_name": "",
+   "parcel_number": "56-18-16-101-002"
+ },
+ {
+   "permit_id": "PP21-0624",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-04-23 9:34:33",
+   "date_expired": "2022-11-02 0:00:00",
+   "work_description": "Plumbing for addition",
+   "owner_name": "",
+   "parcel_number": "56-18-16-101-002"
+ },
+ {
+   "permit_id": "PM21-1322",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-04-23 9:34:45",
+   "date_expired": "2022-10-15 0:00:00",
+   "work_description": "mechanical for addition",
+   "owner_name": "",
+   "parcel_number": "56-18-16-101-002"
+ },
+ {
+   "permit_id": "PB21-4082",
+   "permit_type": "Building",
+   "date_issued": "2021-04-23 14:50:58",
+   "date_expired": "2023-04-13 0:00:00",
+   "work_description": "Foundation repair",
+   "owner_name": "COMPTON JR, WILLIAM",
+   "parcel_number": "56-18-16-351-039"
+ },
+ {
+   "permit_id": "PE21-1184",
+   "permit_type": "Electrical",
+   "date_issued": "2021-04-23 15:07:03",
+   "date_expired": "2022-10-18 0:00:00",
+   "work_description": "complete rewire of interior after house fire",
+   "owner_name": "AYAR, RAAD",
+   "parcel_number": "56-18-16-201-009"
+ },
+ {
+   "permit_id": "PB21-4083",
+   "permit_type": "Building",
+   "date_issued": "2021-04-26 13:50:36",
+   "date_expired": "2023-04-16 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "DUSEK, RICHARD",
+   "parcel_number": "56-18-15-301-016"
+ },
+ {
+   "permit_id": "PB21-4084",
+   "permit_type": "Building",
+   "date_issued": "2021-04-27 10:15:51",
+   "date_expired": "2023-04-17 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "",
+   "parcel_number": "56-18-16-130-022"
+ },
+ {
+   "permit_id": "PB21-4085",
+   "permit_type": "Building",
+   "date_issued": "2021-04-23 15:34:43",
+   "date_expired": "2023-04-13 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "PIERZ, MICHAEL P",
+   "parcel_number": "56-18-11-201-003"
+ },
+ {
+   "permit_id": "PZ21-414",
+   "permit_type": "Zoning",
+   "date_issued": "2021-04-29 11:20:18",
+   "date_expired": "2022-10-21 0:00:00",
+   "work_description": "Retaining wall & seawall",
+   "owner_name": "ST. ANDRE, STEPHEN",
+   "parcel_number": "56-18-10-351-002"
+ },
+ {
+   "permit_id": "ESA21-36",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "2021-04-29 11:20:31",
+   "date_expired": "",
+   "work_description": "ESA Work",
+   "owner_name": "ST. ANDRE, STEPHEN",
+   "parcel_number": "56-18-10-351-002"
+ },
+ {
+   "permit_id": "PE21-1185",
+   "permit_type": "Electrical",
+   "date_issued": "2021-04-27 10:28:51",
+   "date_expired": "2022-10-29 0:00:00",
+   "work_description": "Service overhead to underground",
+   "owner_name": "HANCOCK, SAMUEL",
+   "parcel_number": "56-18-16-132-100"
+ },
+ {
+   "permit_id": "PP21-0625",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-04-28 12:24:00",
+   "date_expired": "2022-10-20 0:00:00",
+   "work_description": "1\" Water meter",
+   "owner_name": "NECTARS",
+   "parcel_number": "56-99-00-001-002"
+ },
+ {
+   "permit_id": "PB21-4086",
+   "permit_type": "Building",
+   "date_issued": "2021-05-03 13:57:01",
+   "date_expired": "2023-04-23 0:00:00",
+   "work_description": "Siding replacement (house",
+   "owner_name": "",
+   "parcel_number": "56-18-16-102-007"
+ },
+ {
+   "permit_id": "PB21-4087",
+   "permit_type": "Building",
+   "date_issued": "2021-05-03 13:45:08",
+   "date_expired": "2023-04-23 0:00:00",
+   "work_description": "Siding back of house and above garage door",
+   "owner_name": "PALNGOL, SUNIL",
+   "parcel_number": "56-18-15-401-004"
+ },
+ {
+   "permit_id": "PB21-4088",
+   "permit_type": "Building",
+   "date_issued": "2021-05-12 13:04:16",
+   "date_expired": "2023-05-02 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PB21-4089",
+   "permit_type": "Building",
+   "date_issued": "2021-04-30 13:58:05",
+   "date_expired": "2023-04-30 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "CHARLES M. BROADWATER REV LVNG TRST",
+   "parcel_number": "56-18-16-132-099"
+ },
+ {
+   "permit_id": "PB21-4090",
+   "permit_type": "Building",
+   "date_issued": "2021-05-07 13:28:51",
+   "date_expired": "2023-04-27 0:00:00",
+   "work_description": "Addition and Interior Alteration",
+   "owner_name": "JACK IN THE HOUSE INC.",
+   "parcel_number": "56-18-14-152-015"
+ },
+ {
+   "permit_id": "PZ21-415",
+   "permit_type": "Outdoor Dining",
+   "date_issued": "2021-05-04 10:12:45",
+   "date_expired": "",
+   "work_description": "0",
+   "owner_name": "",
+   "parcel_number": "56-99-01-960-001"
+ },
+ {
+   "permit_id": "PB21-4091",
+   "permit_type": "Building",
+   "date_issued": "2021-05-06 15:11:04",
+   "date_expired": "2023-04-26 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "WEINGARDEN, MATTHEW",
+   "parcel_number": "56-18-15-451-016"
+ },
+ {
+   "permit_id": "PE21-1186",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-07 11:16:06",
+   "date_expired": "2022-11-05 0:00:00",
+   "work_description": "200 amp underground service",
+   "owner_name": "SULLIVAN",
+   "parcel_number": "56-18-16-130-044"
+ },
+ {
+   "permit_id": "PE21-1187",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-10 10:12:29",
+   "date_expired": "2022-11-10 0:00:00",
+   "work_description": "Electric for pool",
+   "owner_name": "Dale Milton",
+   "parcel_number": "56-18-09-276-012"
+ },
+ {
+   "permit_id": "PM21-1323",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-10 12:59:50",
+   "date_expired": "2022-11-01 0:00:00",
+   "work_description": "Furnace replacement",
+   "owner_name": "SCHINELLA, JOHN R",
+   "parcel_number": "56-18-11-376-016"
+ },
+ {
+   "permit_id": "PE21-1188",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-11 11:50:36",
+   "date_expired": "2022-11-02 0:00:00",
+   "work_description": "Complete rewire of home",
+   "owner_name": "MENDELSON, DAVID",
+   "parcel_number": "56-18-10-152-006"
+ },
+ {
+   "permit_id": "PE21-1189",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-11 14:01:11",
+   "date_expired": "2022-11-02 0:00:00",
+   "work_description": "Replacement AC & furnace",
+   "owner_name": "BARBAT, JEHAN",
+   "parcel_number": "56-18-10-154-009"
+ },
+ {
+   "permit_id": "PM21-1324",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-11 14:01:30",
+   "date_expired": "2022-11-02 0:00:00",
+   "work_description": "Replacement AC & furnace",
+   "owner_name": "",
+   "parcel_number": "56-18-10-154-009"
+ },
+ {
+   "permit_id": "WS21-0261",
+   "permit_type": "Water Sewer",
+   "date_issued": "2021-05-12 10:18:15",
+   "date_expired": "2022-11-03 0:00:00",
+   "work_description": "6/9/2021 Received an email from Deidre Cynowa requesting to cancel the permit.",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PP21-0626",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-05-12 13:13:50",
+   "date_expired": "2022-11-08 0:00:00",
+   "work_description": "Complete new plumbing",
+   "owner_name": "MENDELSON, DAVID",
+   "parcel_number": "56-18-10-152-006"
+ },
+ {
+   "permit_id": "PB21-4092",
+   "permit_type": "Building",
+   "date_issued": "2021-05-14 8:19:52",
+   "date_expired": "2023-05-04 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "KOVACS, LAWRENCE ROSS",
+   "parcel_number": "56-18-16-132-084"
+ },
+ {
+   "permit_id": "PP21-0627",
+   "permit_type": "Plumbing",
+   "date_issued": "2021-05-13 11:06:03",
+   "date_expired": "2022-11-04 0:00:00",
+   "work_description": "Secondary water meter",
+   "owner_name": "",
+   "parcel_number": "56-18-16-131-040"
+ },
+ {
+   "permit_id": "PM21-1325",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-14 10:26:52",
+   "date_expired": "2022-11-12 0:00:00",
+   "work_description": "Prefab fireplace for sunroom",
+   "owner_name": "MENDELSON, DAVID",
+   "parcel_number": "56-18-10-152-006"
+ },
+ {
+   "permit_id": "PB21-4093",
+   "permit_type": "Building",
+   "date_issued": "2021-05-14 10:37:17",
+   "date_expired": "2023-05-04 0:00:00",
+   "work_description": "Re-roof",
+   "owner_name": "VALVONA, VINCENT A",
+   "parcel_number": "56-18-15-351-008"
+ },
+ {
+   "permit_id": "PM21-1326",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-17 11:57:06",
+   "date_expired": "2022-11-08 0:00:00",
+   "work_description": "replacement furnace & AC",
+   "owner_name": "CAFMEYER, JAMES W",
+   "parcel_number": "56-18-16-201-005"
+ },
+ {
+   "permit_id": "PZ21-416",
+   "permit_type": "Zoning",
+   "date_issued": "2021-05-17 13:17:00",
+   "date_expired": "2022-11-08 0:00:00",
+   "work_description": "Shed",
+   "owner_name": "",
+   "parcel_number": "56-18-16-132-100"
+ },
+ {
+   "permit_id": "PB21-4094",
+   "permit_type": "Building",
+   "date_issued": "2021-06-04 9:58:51",
+   "date_expired": "2023-05-25 0:00:00",
+   "work_description": "Minor Alteration for Elevator",
+   "owner_name": "SHAH, ARVIND",
+   "parcel_number": "56-18-14-101-002"
+ },
+ {
+   "permit_id": "PZ21-417",
+   "permit_type": "Zoning",
+   "date_issued": "",
+   "date_expired": "",
+   "work_description": "Replacement patio & retaining wall",
+   "owner_name": "BOSART, BRADLEY E.",
+   "parcel_number": "56-18-10-176-008"
+ },
+ {
+   "permit_id": "ESA21-37",
+   "permit_type": "Environmental Sensitive Area",
+   "date_issued": "",
+   "date_expired": "",
+   "work_description": "ESA Work",
+   "owner_name": "BOSART, BRADLEY E.",
+   "parcel_number": "56-18-10-176-008"
+ },
+ {
+   "permit_id": "PB21-4095",
+   "permit_type": "Building",
+   "date_issued": "2021-05-20 9:41:41",
+   "date_expired": "2023-05-10 0:00:00",
+   "work_description": "Roof Mounted Solar Panels",
+   "owner_name": "WALLIS, ERIC",
+   "parcel_number": "56-18-16-152-001"
+ },
+ {
+   "permit_id": "PB21-4096",
+   "permit_type": "Demolition",
+   "date_issued": "2021-05-21 9:35:39",
+   "date_expired": "2022-11-12 0:00:00",
+   "work_description": "Demolish Single Family Home",
+   "owner_name": "SOLOMON, ARTHUR",
+   "parcel_number": "56-18-10-276-011"
+ },
+ {
+   "permit_id": "WS21-0262",
+   "permit_type": "Water Sewer",
+   "date_issued": "2021-05-20 11:55:20",
+   "date_expired": "2022-11-11 0:00:00",
+   "work_description": "Connecting to tap water",
+   "owner_name": "NECTARS",
+   "parcel_number": "56-99-00-001-002"
+ },
+ {
+   "permit_id": "PB21-4097",
+   "permit_type": "Building",
+   "date_issued": "",
+   "date_expired": "",
+   "work_description": "Inground Swimming Pool",
+   "owner_name": "PURRINGTON, KEITH",
+   "parcel_number": "56-18-16-102-009"
+ },
+ {
+   "permit_id": "PZ21-418",
+   "permit_type": "Zoning",
+   "date_issued": "2021-05-21 11:49:52",
+   "date_expired": "2022-11-12 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "MANNOR, R",
+   "parcel_number": "56-18-16-182-023"
+ },
+ {
+   "permit_id": "PM21-1327",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-21 11:49:32",
+   "date_expired": "2022-11-24 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "Zilka, Wayne",
+   "parcel_number": "56-18-16-182-023"
+ },
+ {
+   "permit_id": "PE21-1190",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-21 11:49:08",
+   "date_expired": "2022-11-12 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "MANNOR, R",
+   "parcel_number": "56-18-16-182-023"
+ },
+ {
+   "permit_id": "PZ21-419",
+   "permit_type": "Zoning",
+   "date_issued": "2021-05-24 14:29:24",
+   "date_expired": "2022-11-15 0:00:00",
+   "work_description": "Sports court",
+   "owner_name": "",
+   "parcel_number": "56-18-15-226-017"
+ },
+ {
+   "permit_id": "P210002",
+   "permit_type": "Tree Removal",
+   "date_issued": "2021-05-21 14:07:09",
+   "date_expired": "",
+   "work_description": "Tree Removal for a pool",
+   "owner_name": "",
+   "parcel_number": "56-18-16-102-009"
+ },
+ {
+   "permit_id": "PZ21-420",
+   "permit_type": "Zoning",
+   "date_issued": "2021-05-24 10:05:38",
+   "date_expired": "2022-11-15 0:00:00",
+   "work_description": "Kids Play Structure",
+   "owner_name": "",
+   "parcel_number": "56-18-15-376-032"
+ },
+ {
+   "permit_id": "PB21-4098",
+   "permit_type": "Building",
+   "date_issued": "",
+   "date_expired": "",
+   "work_description": "In-ground swimming pool",
+   "owner_name": "",
+   "parcel_number": "56-18-10-101-032"
+ },
+ {
+   "permit_id": "PB21-4099",
+   "permit_type": "Building",
+   "date_issued": "2021-05-27 10:50:27",
+   "date_expired": "2023-05-17 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "FELLER, TODD J",
+   "parcel_number": "56-18-15-451-036"
+ },
+ {
+   "permit_id": "PM21-1328",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-25 8:29:13",
+   "date_expired": "2022-11-16 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-15-427-021"
+ },
+ {
+   "permit_id": "PE21-1191",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-25 8:32:12",
+   "date_expired": "2022-11-16 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-15-427-021"
+ },
+ {
+   "permit_id": "PZ21-421",
+   "permit_type": "Zoning",
+   "date_issued": "2021-05-25 8:34:04",
+   "date_expired": "2022-11-16 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-15-427-021"
+ },
+ {
+   "permit_id": "PM21-1329",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-25 14:06:48",
+   "date_expired": "2022-11-16 0:00:00",
+   "work_description": "2 AC replacement",
+   "owner_name": "BORDES, DAVID R",
+   "parcel_number": "56-18-15-427-016"
+ },
+ {
+   "permit_id": "PE21-1192",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-25 14:40:18",
+   "date_expired": "2022-11-16 0:00:00",
+   "work_description": "Wiring new AC unit",
+   "owner_name": "",
+   "parcel_number": "56-18-16-132-100"
+ },
+ {
+   "permit_id": "PB21-4100",
+   "permit_type": "Building",
+   "date_issued": "2021-06-03 14:33:18",
+   "date_expired": "2023-05-24 0:00:00",
+   "work_description": "Deck",
+   "owner_name": "BETH S. BAVER-NEFF TRUST",
+   "parcel_number": "56-18-16-101-017"
+ },
+ {
+   "permit_id": "PM21-1330",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-27 11:26:26",
+   "date_expired": "2022-11-18 0:00:00",
+   "work_description": "Replacement AC",
+   "owner_name": "FILIPS, BRAD A",
+   "parcel_number": "56-18-16-132-100"
+ },
+ {
+   "permit_id": "P210003",
+   "permit_type": "Tree Removal",
+   "date_issued": "2021-05-28 8:38:52",
+   "date_expired": "",
+   "work_description": "Tree Removal Permit",
+   "owner_name": "",
+   "parcel_number": "56-18-10-276-011"
+ },
+ {
+   "permit_id": "WS21-0263",
+   "permit_type": "Water Sewer",
+   "date_issued": "2021-05-28 11:54:39",
+   "date_expired": "2022-11-19 0:00:00",
+   "work_description": "Water/Sewer for new home",
+   "owner_name": "",
+   "parcel_number": "56-18-15-151-008"
+ },
+ {
+   "permit_id": "PE21-1193",
+   "permit_type": "Electrical",
+   "date_issued": "2021-05-28 14:57:33",
+   "date_expired": "2022-11-19 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PM21-1331",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-05-28 14:58:54",
+   "date_expired": "2022-11-19 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PZ21-422",
+   "permit_type": "Zoning",
+   "date_issued": "2021-05-28 15:00:52",
+   "date_expired": "2022-11-19 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-11-126-053"
+ },
+ {
+   "permit_id": "PE21-1194",
+   "permit_type": "Electrical",
+   "date_issued": "2021-06-03 12:08:14",
+   "date_expired": "2022-11-25 0:00:00",
+   "work_description": "Micro inverter system with panel upgrade",
+   "owner_name": "WALLIS, ERIC",
+   "parcel_number": "56-18-16-152-001"
+ },
+ {
+   "permit_id": "PB21-4101",
+   "permit_type": "Building",
+   "date_issued": "2021-06-04 10:42:22",
+   "date_expired": "2023-05-25 0:00:00",
+   "work_description": "New staircase (13 Steps)",
+   "owner_name": "",
+   "parcel_number": ""
+ },
+ {
+   "permit_id": "PM21-1332",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-06-07 13:39:26",
+   "date_expired": "2022-11-29 0:00:00",
+   "work_description": "A/C unit replacement",
+   "owner_name": "Winnie, Robert William",
+   "parcel_number": "56-18-16-329-006"
+ },
+ {
+   "permit_id": "PB21-4103",
+   "permit_type": "Building",
+   "date_issued": "2021-06-08 15:35:57",
+   "date_expired": "2023-05-29 0:00:00",
+   "work_description": "Re-Roof",
+   "owner_name": "VALENTE, JOYCE",
+   "parcel_number": "56-18-16-189-012"
+ },
+ {
+   "permit_id": "PM21-1333",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-06-09 12:23:00",
+   "date_expired": "2022-12-01 0:00:00",
+   "work_description": "Mechanical for Addition",
+   "owner_name": "MENDELSON, DAVID SCOTT",
+   "parcel_number": "56-18-10-152-006"
+ },
+ {
+   "permit_id": "PE21-1195",
+   "permit_type": "Electrical",
+   "date_issued": "2021-06-09 15:06:30",
+   "date_expired": "2022-12-01 0:00:00",
+   "work_description": "",
+   "owner_name": "KOVACS, LAWRENCE ROSS",
+   "parcel_number": "56-18-16-132-084"
+ },
+ {
+   "permit_id": "PM21-1334",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-06-10 11:32:17",
+   "date_expired": "2022-12-02 0:00:00",
+   "work_description": "",
+   "owner_name": "GITTLEMAN, ROBERT",
+   "parcel_number": "56-18-02-401-034"
+ },
+ {
+   "permit_id": "WS21-0264",
+   "permit_type": "Water Sewer",
+   "date_issued": "2021-06-10 11:25:59",
+   "date_expired": "2022-12-02 0:00:00",
+   "work_description": "Connect to City Water",
+   "owner_name": "",
+   "parcel_number": "56-18-11-126-020"
+ },
+ {
+   "permit_id": "PZ21-423",
+   "permit_type": "Zoning",
+   "date_issued": "2021-06-11 13:11:05",
+   "date_expired": "2022-12-03 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-16-276-042"
+ },
+ {
+   "permit_id": "PM21-1335",
+   "permit_type": "Mechanical",
+   "date_issued": "2021-06-11 13:12:22",
+   "date_expired": "2022-12-03 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-16-276-042"
+ },
+ {
+   "permit_id": "PE21-1196",
+   "permit_type": "Electrical",
+   "date_issued": "2021-06-11 13:13:48",
+   "date_expired": "2022-12-03 0:00:00",
+   "work_description": "Generator",
+   "owner_name": "",
+   "parcel_number": "56-18-16-276-042"
+ },
+ {
+   "permit_id": "PP10-1010",
+   "permit_type": "Plumbing",
+   "date_issued": "2010-05-07 0:00:00",
+   "date_expired": "2014-10-13 0:00:00",
+   "work_description": "Water Heater Installation",
+   "owner_name": "RUSS, PETER",
+   "parcel_number": "56-18-10-154-011"
+ },
+ {
+   "permit_id": "PP11-0314",
+   "permit_type": "Plumbing",
+   "date_issued": "2011-03-25 0:00:00",
+   "date_expired": "2015-08-31 0:00:00",
+   "work_description": "1 inch water service",
+   "owner_name": "BALBES, STEPHEN",
+   "parcel_number": "56-18-16-352-008"
+ }
+]
