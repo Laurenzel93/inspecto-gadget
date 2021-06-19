@@ -15,10 +15,15 @@ body {
     color: white;
     /* padding: 10px; */
 }
-/* 
-.navbar {
-    display: inline !important;
-} */
+
+.bigNav {
+    overflow: hidden;
+}
+
+.bigNav .icon {
+    display: none;
+    color: var(--blue-background);
+}
 
 /* Main content of page */
 .loginFormContainer {
@@ -104,6 +109,77 @@ input {
 }
 
 @media screen and (max-width: 600px) {
+    /* Animated hamburger menu stuff */ 
+    .menu {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        display: flex;
+        padding: 0;
+        /* max-height: 25px;
+        max-width: 25; */
+    }
+    .line {
+    fill: none;
+    stroke: var(--blue-background);
+    stroke-width: 6;
+    transition: stroke-dasharray 600ms cubic-bezier(0.4, 0, 0.2, 1),
+        stroke-dashoffset 600ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .line1 {
+    stroke-dasharray: 60 207;
+    stroke-width: 6;
+    }
+    .line2 {
+    stroke-dasharray: 60 60;
+    stroke-width: 6;
+    }
+    .line3 {
+    stroke-dasharray: 60 207;
+    stroke-width: 6;
+    }
+    .opened .line1 {
+    stroke-dasharray: 90 207;
+    stroke-dashoffset: -134;
+    stroke-width: 6;
+    }
+    .opened .line2 {
+    stroke-dasharray: 1 60;
+    stroke-dashoffset: -30;
+    stroke-width: 6;
+    }
+    .opened .line3 {
+    stroke-dasharray: 90 207;
+    stroke-dashoffset: -134;
+    stroke-width: 6;
+    }
+      
+
+    /* Hamburger menu styling */
+    .bigNav .navBtn {display: none;}
+    .bigNav a.icon {
+        float: right !important;
+        display: block !important;
+        padding-bottom: 10px;
+    }
+
+    .bigNav.responsive {position: relative;}
+    .bigNav.responsive a.icon {
+        
+        
+    }
+    
+    .bigNav.responsive .navBtn {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+    .bigNav.responsive {
+        padding-bottom: 1.5rem;
+    }
+
+
     h2 {
         font-size: 1.5rem !important;
     }
