@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <title>Create Account</title>
+</head>
+
+<body>
+  <!-- Nav Bar Buttons -->
+  <div class="container-fluid headerContainer vw-100">
+    <nav class="navbar bigNav" id="myTopnav">
+      <h1 class="col-lg-4 col-sm-12 p-3 text-center">
+        Inspecto-Gadget
+      </h1>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <button class="menu" onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))" aria-label="Main Menu">
+          <svg width="40" height="40" viewBox="0 0 100 100">
+            <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
+            <path class="line line2" d="M 20,50 H 80" />
+            <path class="line line3" d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
+          </svg>
+        </button>
+      </a>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Dashboard</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Availability</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Past Inspections</button>
+      <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn">Logout</button>
+    </nav>
+  </div>
+
+  <!-- Main content of page -->
+  <main>
+    <div class="loginFormContainer">
+      <form class='loginForm'>
+        <div id="createAccount" class="form-text">
+          Create an account
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Username</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1">
+        </div>
+        <div class="checkboxContainer">
+          <div id="accountTypeHeader" class="form-text">
+            Account Type
+          </div>
+          <div class="formControlContainer">
+            <select class="form-control customFormControl" id="exampleFormControlSelect1">
+              <option>Select one</option>
+              <option>Admin</option>
+              <option>Inspector</option>
+            </select>
+          </div>
+        </div>
+        <div class="btnContainer">
+          <button type="submit" class="btn customBtn">Submit</button>
+        </div>
+      </form>
+    </div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+    crossorigin="anonymous"></script>
+  <script>
+    const x = document.getElementById("myTopnav");
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('loaded');
+      if (window.innerWidth <= 600) {
+        x.className = "bigNav"
+        console.log('that\'s a tiny screen you have there!');
+      }
+    });
+    function myFunction() {
+
+      // if #myTopnav just has the class .bigNav, add .responsive
+      if (x.className === "bigNav") {
+        // console.log('x.className === "bigNav"')
+        x.className += " responsive";
+      // if #myTopnav has both .bigNav and .responsive, take away .responsive and leave .bigNav
+      } else {
+        x.className = "bigNav";
+        // console.log('x.className !== "bigNav"')
+      }
+    }
+  </script>
+</body>
+
+</html>
