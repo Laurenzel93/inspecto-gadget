@@ -41,51 +41,71 @@
     </div>
   </div>
 
-  <!--Todays Inspections-->
+  <!--Today's Inspections-->
   <div class="container-fluid">
+    <div class="col-lg-12 col-sm-12">
+      <h2 class="text-center">Today's Inspections</h2>
+      <div class="border border-3 spacers p-3 bg-dark rounded">
+        <h4 class="text-white">Should display the current date HERE</h4>
+        <div class="card">
+          <div class="card-body bg-light">
+            <div class="card">
+              <h2>Date and number of inspections on that day</h2>
+              <table class="table table-border table-striped">
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>One of todays inspections. Date. Address. Type. Code. Notes. Scheduled date and time by Admin.
+                    </td>
+                    <td><button class="btn btn-secondary border border-dark">Results</button></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Upcoming Inspections-->
+    <div class="col-lg-12 col-sm-12">
+      <h2 class="text-center">Upcoming Inspections</h2>
+      <div class="border border-3 spacers p-3 bg-dark rounded">
+        <div class="card">
+          <div class="card-body bg-light">
+            <div class="card">
+              <h2>Date and number of inspections on that day</h2>
+              <table class="table table-border table-striped">
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>One of the upcoming inspections. Date. Address. Type. Code. Notes. Scheduled date and time by
+                      Admin.</td>
+                    <td><button class="btn btn-secondary border border-dark">Results</button></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Calendar-->
     <div class="row">
-      <div class="col-lg-6 col-sm-12">
-        <h2>Today's Inspections</h2>
+      <div class="col-lg-12 col-sm-12">
+        <h2 class="text-center">Calendar</h2>
         <div class="border border-3 spacers p-3 bg-dark rounded">
-          <h4 class="text-white">Should display the current date HERE</h4>
           <div class="card">
             <div class="card-body bg-light">
-              <p>One of todays inspections. Date. Address. Type. Code. Notes. Scheduled date and time by Admin.
+              <p>Insert Calendar HERE
               </p>
-              <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Results</button>
             </div>
           </div>
         </div>
       </div>
-
-      <!--Upcoming Inspections-->
-      <div class="col-lg-6 col-sm-12">
-        <h2>Upcoming Inspections</h2>
-        <div class="border border-3 spacers p-3 bg-dark rounded">
-          <div class="card">
-            <div class="card-body bg-light">
-              <p>One of the upcoming inspections. Date. Address. Type. Code. Notes. Scheduled date and time by Admin.
-              </p>
-              <button class="btn btn-secondary border border-dark col-lg-2 col-sm-12">Results</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!--Calendar-->
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-12 col-sm-12">
-            <h2 class="text-center">Calendar</h2>
-            <div class="border border-3 spacers p-3 bg-dark rounded">
-              <div class="card">
-                <div class="card-body bg-light">
-                  <p>Insert Calendar HERE
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
+    </div>
+  </div>
 </body>
 
 </html>
