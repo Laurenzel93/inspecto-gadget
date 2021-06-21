@@ -67,10 +67,6 @@ input {
 
 .checkboxContainer {
     margin-bottom: 10px;
-    /* background-color: white; */
-    padding-left: 10px;
-    border-radius: 8px;
-    border: 1px solid #ced4da;
 }
 
 #accountTypeHeader {
@@ -80,13 +76,12 @@ input {
 }
 
 .formControlContainer {
-    padding: 10px;
-    padding-bottom: 20px;
-    padding-left: 0;
+    padding: 3px 0 20px 0;
 }
 
 .customFormControl {
     padding-left: 0 !important;
+    border-radius: 8px !important;
 }
 
 .btnContainer {
