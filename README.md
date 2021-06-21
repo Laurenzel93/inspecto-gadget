@@ -74,7 +74,7 @@ React.js, SQL, Sass,
 **Ian Everitt**
 - [Github](https://github.com/rflctvEQ)
 - [Email](Link)
-- [Portfolio](Link)
+- [Portfolio](https://rflctveq.github.io/ian-everitt-portfolio/)
 
 ## Questions
 Have questions or comments about this application?
