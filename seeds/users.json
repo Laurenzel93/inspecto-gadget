@@ -1,0 +1,14 @@
+[
+  {
+    "username": "Administrator",
+    "password": "pass12345",
+    "role": "admin",
+    "name": "Addy Minn"
+  },
+  {
+    "username": "Electrical",
+    "password": "pass12345",
+    "role": "inspector",
+    "name": "Ron Shelton"
+  }
+] 
