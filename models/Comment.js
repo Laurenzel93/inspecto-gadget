@@ -16,9 +16,6 @@ Comment.init(
     comment: {
       type: DataTypes.TEXT, 
     },
-    date: {
-      type: DataTypes.DATE,
-    },
     inspection_id: {
       type: DataTypes.STRING,
       references: {

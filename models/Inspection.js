@@ -10,30 +10,20 @@ Inspection.init(
       allowNull: false,
       primaryKey: true,
     },
+    inspection_date: {
+      type: DataTypes.DATE,
+    },
     date_scheduled: {
       type: DataTypes.DATE, 
+    },
+    scheduled_by: {
+      type: DataTypes.STRING,
     },
     inspection_type: {
       type: DataTypes.STRING,
     },
-    result: {
-      type: DataTypes.INTEGER,
-    },
-    status: {
-      type: DataTypes.INTEGER,
-    },
     address: {
       type: DataTypes.STRING,
-    },
-    property_id: {
-      type: DataTypes.STRING,
-    },
-    contractor_id: {
-      type: DataTypes.STRING, 
-      references: {
-        model: "contractor",
-        key: "contractor_id",
-      },
     },
     permit_id: {
       type: DataTypes.STRING,
@@ -42,15 +32,6 @@ Inspection.init(
         key: "permit_id",
       },
     },
-    inspector_id: {
-      type: DataTypes.STRING,
-      references: {
-        model: "inspector",
-        key: "inspector_id",
-      },
-    },
-   
-   
   },
   {
     sequelize,
