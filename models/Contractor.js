@@ -10,12 +10,15 @@ Contractor.init(
       allowNull: false,
       primaryKey: true,
     },
-    name: {
-      type: DataTypes.STRING,
-    },
     phone: {
       type: DataTypes.STRING, 
     },
+    mobile: {
+      type: DataTypes.STRING,
+    },
+    email: {
+      type: DataTypes.EMAIL, 
+    }
   },
   {
     sequelize,
