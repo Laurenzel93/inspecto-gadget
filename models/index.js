@@ -1,17 +1,23 @@
 const Comment = require("./Comment");
 const Contractor = require("./Contractor");
-const Human = require("./Human")
+const User = require("./User")
 const Inspection = require("./Inspection");
-const Inspector = require("./Inspector");
 const Permit = require("./Permit");
 const Result = require("./Result");
+const Invoice = require("./Invoice");
+const Owner = require("./Owner");
+
+Contractor.hasMany(Permit);
+Owner.hasMany(Permit);
+Permit.belongsTo(Owner);
+Permit.belongsTo(Contractor);
+Permit.hasMany(Invoice);
+Permit.hasOne(Inspection);
+Inspection.hasMany(Comment);
 
 
 
-Inspection.hasOne(Permit);
-Permit.belongsTo(Inspection);
 
-Comment.hasOne(Inspection);
-Inspection.belongsTo(Comment);
 
-module.exports = { Comment, Inspection, Permit, Result, Inspector, Contractor, Human };
+
+module.exports = { Comment, Inspection, Permit, Result, Owner, Contractor, User, Invoice };
