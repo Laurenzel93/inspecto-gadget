@@ -5,7 +5,7 @@ class Inspection extends Model {}
 
 Inspection.init(
   {
-    inspection_id: {
+    id: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,
@@ -29,7 +29,7 @@ Inspection.init(
       type: DataTypes.STRING,
       references: {
         model: "permit",
-        key: "permit_id",
+        key: "id",
       },
     },
   },

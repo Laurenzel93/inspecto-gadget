@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { Switch, Route, HashRouter } from 'react-router-dom';
-import PrivateRoute from './PrivateRoute';
+import React from 'react';
+import { Switch, Route, HashRouter as Router} from 'react-router-dom';
+import PrivateRoute from './components/PrivateRoute';
 import { AccountCreation, Dashboard, Details, Login, PastInspections, NoMatch } from './pages';
 import './App.css';
 
@@ -8,18 +8,28 @@ import './App.css';
 
 function App() {
   return (
-    <HashRouter basename='/'>
+    <Router basename='/'>
         <Switch>
-          <Route exact path={['/', '/login']} component={Login} />
-          <PrivateRoute exact path='/dashboard' component={ Dashboard } />
-          <PrivateRoute exact path='/create-account' component={ AccountCreation } />
-          <PrivateRoute path='/details:id' component={ Details } />
-          <PrivateRoute exact path='/past-inspections' component={ PastInspections } />
+          <Route exact path={['/', '/login']}>
+            <Login />
+          </Route> 
+          <PrivateRoute exact path='/dashboard'> 
+            <Dashboard />
+          </PrivateRoute>
+          <PrivateRoute exact path='/create-account'>
+            <AccountCreation />
+          </PrivateRoute>
+          <PrivateRoute exact path='/details:id'>
+            <Details />
+          </PrivateRoute>
+          <PrivateRoute exact path='/past-inspections'>
+            <PastInspections/>
+          </PrivateRoute> 
           <Route path='*'>
             <NoMatch />
           </Route>
         </Switch>
-    </HashRouter>
+    </Router>
   );
 }
 
