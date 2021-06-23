@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { setUserSession } from './utils/auth';
-import API from './utils/API';
-
+import API from '../../utils/API'
 import './style.css';
 import { ProgressPlugin } from 'webpack';
 
@@ -37,7 +36,7 @@ function LoginForm(props) {
                         <input type="password" className="form-control" id="password" />
                     </div>
                     <div className="btnContainer">
-                        <button type="submit" className="btn customBtn" id="submitBtn" onClick={loginFormHandler}>Submit</button>
+                        <button type="submit" className="btn customBtn" id="submitBtn" onClick={loginHandler}>Submit</button>
                     </div>
                 </form>
             </div>

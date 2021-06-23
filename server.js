@@ -28,7 +28,7 @@ const sess = {
 };
 
 // Add routes, both API and view
-// app.use(routes);
+ app.use(routes);
 
 // Use cookies
 app.use(session(sess));

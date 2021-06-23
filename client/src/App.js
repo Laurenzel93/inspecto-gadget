@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Switch, Route, HashRouter } from 'react-router-dom';
-import PrivateRoute from './PrivateRoute';
+import PrivateRoute from './components/PrivateRoute';
 import { AccountCreation, Dashboard, Details, Login, PastInspections, NoMatch } from './pages';
 import './App.css';
 
