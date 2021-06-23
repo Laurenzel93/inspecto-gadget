@@ -17,7 +17,7 @@ Contractor.init(
       type: DataTypes.STRING,
     },
     email: {
-      type: DataTypes.EMAIL, 
+      type: DataTypes.STRING, 
     }
   },
   {

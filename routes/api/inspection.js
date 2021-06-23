@@ -4,8 +4,7 @@ const inspectionController = require("../../controllers/inspectionController");
 // Matches with "/api/inspection"
 router.route("/")
   .get(inspectionController.findAll)
-  .post(inspectionController.create);
-
+  
 // Matches with "/api/inspection/:id"
 // router
 //   .route("/:id")

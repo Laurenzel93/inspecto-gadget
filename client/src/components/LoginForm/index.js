@@ -1,22 +1,30 @@
-import React, { useState } from 'react';
-import { setUserSession } from './utils/auth';
-import API from '../../utils/API'
+import { useState } from 'react';
+//import { setUserSession } from './utils/auth';
+import  { login } from '../../utils/API'
 import './style.css';
-import { ProgressPlugin } from 'webpack';
 
+
+    
 function LoginForm(props) {
+
+    const useFormInput = (initialValue) =>{
+        const [value, setValue] = useState(initialValue) 
+    }
+
     const [loading, setLoading] = useState(false);
     const username = useFormInput('');
     const password = useFormInput('');
     const [error, setError] = useState(null);
 
+    
+   
     const loginHandler = () => {
         setError(null);
         setLoading(true);
-        API.login( { username: username.value, password: password.value }).then(res => {
+        login( { username: username.value, password: password.value }).then(res => {
             setLoading(false);
-            setUserSession(res.data.token, res.data.user);
-            props.history.push('')
+            //setUserSession(res.data.token, res.data.user);
+            props.history.push('/dashboard')
         })
     }
 

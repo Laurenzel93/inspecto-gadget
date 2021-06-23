@@ -1,18 +1,19 @@
 const sequelize = require('../config/connection');
-const { Comment, Inspection, Permit, Result, Inspector, Contractor, Human } = require('../models');
+const { Comment, Inspection, Permit, Contractor, User, Invoice, Owner } = require('../models');
 
 const commentData = require('./comments.json');
 const contractorData = require('./contractors.json');
 const inspectionData = require("./inspections.json");
-const inspectorData = require("./inspectors.json");
-const invoiceData = require("./invoice.json");
-const nameData = require("./name.json");
+const invoiceData = require("./invoice_items.json");
+const ownerData = require("./owners.json");
 const permitData = require("./permits.json");
+const userData = require("./users.json");
+
 
 const seedDatabase = async () => {
   await sequelize.sync({ force: true });
 
-  const inspectors = await Inspector.bulkCreate(inspectorData, {
+  const users = await User.bulkCreate(userData, {
     individualHooks: true,
     returning: true,
   });
@@ -32,12 +33,12 @@ const seedDatabase = async () => {
     returning: true,
   });
 
-  const invoice = await Invoice.bulkCreate(invoiceData, {
+  const invoice_item = await Invoice.bulkCreate(invoiceData, {
     individualHooks: true,
     returning: true,
   });
 
-  const name = await Name.bulkCreate(nameData, {
+  const owner = await Owner.bulkCreate(ownerData, {
     individualHooks: true,
     returning: true,
   });
