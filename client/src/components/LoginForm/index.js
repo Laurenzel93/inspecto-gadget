@@ -1,16 +1,26 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { setUserSession } from './utils/auth';
+import API from './utils/API';
+
 import './style.css';
+import { ProgressPlugin } from 'webpack';
 
-// useState stuff 
+function LoginForm(props) {
+    const [loading, setLoading] = useState(false);
+    const username = useFormInput('');
+    const password = useFormInput('');
+    const [error, setError] = useState(null);
 
-// function that will be called when user clicks 'submit'
-const loginFormHandler = async (event) => {
-    event.preventDefault();
+    const loginHandler = () => {
+        setError(null);
+        setLoading(true);
+        API.login( { username: username.value, password: password.value }).then(res => {
+            setLoading(false);
+            setUserSession(res.data.token, res.data.user);
+            props.history.push('')
+        })
+    }
 
-
-};
-
-function LoginForm() {
     return (
         <main>
             <div className="loginFormContainer">

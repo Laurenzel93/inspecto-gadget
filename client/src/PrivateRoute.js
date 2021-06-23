@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Redirect, Route } from 'react-router-dom';
 
 //* this is used to ensure users are logged in before they can access certain pages
-export const PrivateRoute = ({ component: Component, ...rest }) => (
+export default PrivateRoute = ({ component: Component, ...rest }) => (
     <Route
         {...rest}
         render={props => 
