@@ -65,16 +65,13 @@
     /* Hamburger menu styling */
     .bigNav .navBtn {display: none;}
     .bigNav a.icon {
-        float: right !important;
+        position: relative;
+        left: 90%;
         display: block !important;
         padding-bottom: 10px;
     }
 
     .bigNav.responsive {position: relative;}
-    .bigNav.responsive a.icon {
-        
-        
-    }
     
     .bigNav.responsive .navBtn {
         float: none;
