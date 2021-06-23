@@ -5,7 +5,7 @@ class Permit extends Model {}
 
 Permit.init(
   {
-    permit_id: {
+    id: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,

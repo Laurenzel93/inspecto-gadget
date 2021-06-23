@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: var(--blue-background);
+    background-color: var(--blue-background) !important;
 }
 
 /* Header styling */
@@ -68,8 +68,8 @@ input {
 }
 
 .customBtn {
-    background-color: #827ECC;
-    color: white;
+    background-color: #827ECC !important;
+    color: white !important;
     /* border: 2px solid #b5b5b5; */
     border-radius: 8px;
     margin-right: auto;
@@ -77,7 +77,7 @@ input {
 }
 
 .customBtn:hover {
-    background-color: #363199;
+    background-color: #363199 !important;
     color: white;
     
 }

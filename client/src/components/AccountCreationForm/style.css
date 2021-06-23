@@ -1,0 +1,98 @@
+:root {
+    /* --gray-background: #dedede; */
+    --blue-background: #b8daff;
+}
+
+body {
+    background-color: var(--blue-background);
+}
+
+/* Main content of page */
+.createFormContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.createForm {
+    justify-content: center;
+    width: 22.5rem;
+    padding: 1.5rem;
+    background-color: white;
+    border: 2px solid #555c63;
+    border-radius: 15px;
+}
+
+#createAccount {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #827ECC;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #827ECC;
+}
+
+label {
+    font-weight: 500;
+}
+
+input {
+    border-radius: 8px !important;
+}
+
+.checkboxContainer {
+    margin-bottom: 10px;
+}
+
+#accountTypeHeader {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.formControlContainer {
+    padding: 3px 0 20px 0;
+}
+
+.customFormControl {
+    padding-left: 0 !important;
+    border-radius: 8px !important;
+}
+
+.btnContainer {
+    display: flex;
+}
+
+.customBtn {
+    background-color: #827ECC;
+    color: white;
+    /* border: 2px solid #b5b5b5; */
+    border-radius: 8px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.customBtn:hover {
+    background-color: #363199;
+    color: white;
+    
+}
+
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 1.5rem !important;
+    }
+
+    .createFormContainer {
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
