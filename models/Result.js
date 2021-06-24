@@ -5,7 +5,7 @@ class Result extends Model {}
 
 Result.init(
   {
-    result_id: {
+    id: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,

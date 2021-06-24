@@ -1,11 +1,9 @@
 const sequelize = require('../config/connection');
-const { Comment, Inspection, Permit, Contractor, User, Invoice, Owner } = require('../models');
+const { Note, Inspection, Permit, User, Invoice } = require('../models');
 
-const commentData = require('./comments.json');
-const contractorData = require('./contractors.json');
+const noteData = require('./notes.json');
 const inspectionData = require("./inspections.json");
 const invoiceData = require("./invoice_items.json");
-const ownerData = require("./owners.json");
 const permitData = require("./permits.json");
 const userData = require("./users.json");
 
@@ -17,40 +15,30 @@ const seedDatabase = async () => {
     individualHooks: true,
     returning: true,
   });
-
-  const inspections = await Inspection.bulkCreate(inspectionData, {
-    individualHooks: true,
-    returning: true,
-  });
-
-  const comments = await Comment.bulkCreate(commentData, {
-    individualHooks: true,
-    returning: true,
-  });
-
-  const contractor = await Contractor.bulkCreate(contractorData, {
-    individualHooks: true,
-    returning: true,
-  });
-
-  const invoice_item = await Invoice.bulkCreate(invoiceData, {
-    individualHooks: true,
-    returning: true,
-  });
-
-  const owner = await Owner.bulkCreate(ownerData, {
-    individualHooks: true,
-    returning: true,
-  });
-
   const permit = await Permit.bulkCreate(permitData, {
     individualHooks: true,
     returning: true,
   });
-
-
-
-  process.exit(0);
+  const inspections = await Inspection.bulkCreate(inspectionData, {
+    individualHooks: true,
+    returning: true,  
+  });
+  const invoice_item = await Invoice.bulkCreate(invoiceData, {
+    individualHooks: true,
+    returning: true,
+  }); 
+  const notes = await Note.bulkCreate(noteData, {
+    individualHooks: true,
+    returning: true,
+  }) 
+  .then(data => {
+    console.log(" records inserted!");
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
 };
 
 seedDatabase();

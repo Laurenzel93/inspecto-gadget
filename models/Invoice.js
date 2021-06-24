@@ -5,7 +5,7 @@ class Invoice extends Model {}
 
 Invoice.init(
   {
-    invoice_id: {
+    id: {
       type: DataTypes.STRING,
       allowNull: false,
       primaryKey: true,
@@ -23,7 +23,7 @@ Invoice.init(
       type: DataTypes.STRING,
       references: {
         model: "permit",
-        key: "permit_id",
+        key: "id",
       },
     },
   },
