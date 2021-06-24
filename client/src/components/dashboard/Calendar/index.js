@@ -2,11 +2,6 @@ import React from "react";
 
 function Calendar() {
     return (
-        <div className="col-lg-6 col-sm-12">
-            <h2 className="text-center">Calendar</h2>
-            <div className="border border-3 spacers p-3 bg-dark rounded">
-                <div className="card">
-                    <div className="card-body bg-light">
                         <p>......INSERT CALENDAR HERE......
                             Cloud strategy going forward, but granularity, yet bells and whistles, nor quantity. High touch client
                             cannibalize ladder up / ladder back to the strategy no scraps hit the floor. Who's responsible for the
@@ -27,10 +22,6 @@ function Calendar() {
                             table if you were hired for this position corporate synergy nor first-order optimal strategies we need
                             to build it so that it scales.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
     )
 }
 

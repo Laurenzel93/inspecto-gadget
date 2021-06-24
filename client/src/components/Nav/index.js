@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useHistory } from "react-router-dom";
 import './style.css';
 
 function Nav() {
@@ -31,6 +32,27 @@ function Nav() {
         }
     }
 
+    // used for redirecting users
+    const history = useHistory();
+
+    // redirect user to dashboard
+    const dashboardRoute = () => {
+        let dashboardPath = '/dashboard';
+        history.push(dashboardPath);
+    }
+
+    // redirect user to Past Inspections
+    const pastInspectionsRoute = () => {
+        let pastInspectionsPath = '/past-inspections';
+        history.push(pastInspectionsPath);
+    }
+
+    // redirect user to Create Account
+    const createAccountRoute = () => {
+        let createAccountPath = '/create-account';
+        history.push(createAccountPath);
+    }
+
 
 
     return (
@@ -48,9 +70,9 @@ function Nav() {
                         </svg>
                     </button>
                 </a>
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" href="/dashboard">Dashboard</button>
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" href="/availability">Availability</button>
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" href="/past-inspections">Past Inspections</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" onClick={dashboardRoute}>Dashboard</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" onClick={pastInspectionsRoute}>Past Inspections</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" onClick={createAccountRoute}>Create Account</button>
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout">Logout</button>
             </nav>
         </div>
