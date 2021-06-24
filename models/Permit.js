@@ -17,23 +17,39 @@ Permit.init(
       type: DataTypes.STRING,
     },
     date_expired: {
-      type: DataTypes.DATE,
+      type: DataTypes.STRING,
     },
     work_description: {
       type: DataTypes.STRING, 
     },
-    owner_name: {
+    owner: {
+      type: DataTypes.STRING,
+    },
+    owner_phone: {
+      type: DataTypes.STRING,
+    },
+    owner_mobile: {
+      type: DataTypes.STRING,
+    },
+    contractor: {
+      type: DataTypes.STRING,
+    },  
+    contractor_phone: {
+      type: DataTypes.STRING,
+    },
+    contractor_phone: {
       type: DataTypes.STRING,
     },
     parcel_number: {
       type: DataTypes.STRING,
     },
-  },
+    
+  },  
   {
     sequelize,
     freezeTableName: true,
     underscored: true,
-    modelName: 'permit'
+    modelName: 'Permit'
   }
 );
 

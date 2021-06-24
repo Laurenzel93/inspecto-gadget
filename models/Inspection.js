@@ -27,8 +27,9 @@ Inspection.init(
     },
     permit_id: {
       type: DataTypes.STRING,
+      allowNull: true,
       references: {
-        model: "permit",
+        model: "Permit",
         key: "id",
       },
     },
