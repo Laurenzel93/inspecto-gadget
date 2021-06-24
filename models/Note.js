@@ -6,7 +6,7 @@ class Note extends Model {}
 Note.init(
   {
     id: {
-      type: DataTypes.INT,
+      type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
       autoIncrement: true,
