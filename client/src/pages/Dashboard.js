@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
-import Calendar from "../components/dashboard/Calendar";
+import Calendar from "../components/dashboard/Calendar/Calender";
 import Upcoming from "../components/dashboard/UpcomingInspections";
 
 function Dashboard() {
