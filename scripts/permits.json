@@ -10,7 +10,7 @@
    "owner_mobile": "(586) 405 4994",
    "contractor": "Professional Htg and Clg",
    "contractor_phone": "(866) 308 0505",
-   "email": "benanov@msn.com",
+   "contractor_email": "benanov@msn.com",
    "address": "4685 Commerce Rd",
    "parcel_number": "56-18-10-176-004"
  },
@@ -25,7 +25,7 @@
    "owner_mobile": "(586) 405 6505",
    "contractor": "Forcier Randy",
    "contractor_phone": "(810) 845 1279",
-   "email": "presoff@verizon.net",
+   "contractor_email": "presoff@verizon.net",
    "address": "5220 Deer Run Cir",
    "parcel_number": "56-18-16-476-020"
  },
@@ -40,7 +40,7 @@
    "owner_mobile": "(586) 405 9305",
    "contractor": "Combs Electric Inc",
    "contractor_phone": "(810) 845 1279",
-   "email": "hoangle@outlook.com",
+   "contractor_email": "hoangle@outlook.com",
    "address": "3328 Erie Dr",
    "parcel_number": "56-18-02-376-018"
  },
@@ -55,7 +55,7 @@
    "owner_mobile": "(586) 413 7519",
    "contractor": "Z and G Renovations Llc",
    "contractor_phone": "(810) 796 3313",
-   "email": "josem@verizon.net",
+   "contractor_email": "josem@verizon.net",
    "address": "5570 Bluebird Ave",
    "parcel_number": "56-18-16-183-067"
  },
@@ -70,7 +70,7 @@
    "owner_mobile": "(586) 413 7519",
    "contractor": "Otto A Trzos Co",
    "contractor_phone": "(810) 796 3313",
-   "email": "aegreene@gmail.com",
+   "contractor_email": "aegreene@gmail.com",
    "address": "3595 Laplaya Ln",
    "parcel_number": "56-18-16-104-002"
  },
@@ -85,7 +85,7 @@
    "owner_mobile": "(586) 416 1900",
    "contractor": "Guardian Alarm Company",
    "contractor_phone": "(810) 667 3778",
-   "email": "psichel@yahoo.ca",
+   "contractor_email": "psichel@yahoo.ca",
    "address": "3535 Indian Trl Bldg F",
    "parcel_number": "56-18-11-176-013"
  },
@@ -100,7 +100,7 @@
    "owner_mobile": "(586) 416 6800",
    "contractor": "Darrell Jackson",
    "contractor_phone": "(810) 624 2343",
-   "email": "speeves@mac.com",
+   "contractor_email": "speeves@mac.com",
    "address": "3777 Indian Trl",
    "parcel_number": "56-18-11-376-009"
  },
@@ -115,7 +115,7 @@
    "owner_mobile": "(586) 419 0747",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(810) 621 9441",
-   "email": "webteam@att.net",
+   "contractor_email": "webteam@att.net",
    "address": "3649 Wards Pointe Dr",
    "parcel_number": "56-18-02-326-040"
  },
@@ -130,7 +130,7 @@
    "owner_mobile": "(586) 419 3449",
    "contractor": "Erie Construction",
    "contractor_phone": "(810) 488 1676",
-   "email": "steve@msn.com",
+   "contractor_email": "steve@msn.com",
    "address": "3500 Seminary Dr",
    "parcel_number": "56-18-11-401-004"
  },
@@ -145,7 +145,7 @@
    "owner_mobile": "(586) 427 9933",
    "contractor": "Milestone Development and Construction",
    "contractor_phone": "(810) 407 7205",
-   "email": "houle@optonline.net",
+   "contractor_email": "houle@optonline.net",
    "address": "4093 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-004"
  },
@@ -160,7 +160,7 @@
    "owner_mobile": "(586) 447 0611",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(810) 240 2753",
-   "email": "ovprit@verizon.net",
+   "contractor_email": "ovprit@verizon.net",
    "address": "3892 Shady Beach Blvd",
    "parcel_number": "56-18-16-178-047"
  },
@@ -175,7 +175,7 @@
    "owner_mobile": "(586) 465 5600",
    "contractor": "Bosco Building",
    "contractor_phone": "(810) 234 4831",
-   "email": "fmtbebuck@sbcglobal.net",
+   "contractor_email": "fmtbebuck@sbcglobal.net",
    "address": "4050 Oak Bank Ct",
    "parcel_number": "56-18-15-426-019"
  },
@@ -190,7 +190,7 @@
    "owner_mobile": "(586) 468 3624",
    "contractor": "Douglas M Stewart",
    "contractor_phone": "(734) 727 0420",
-   "email": "attwood@att.net",
+   "contractor_email": "attwood@att.net",
    "address": "4960 Birchway Dr",
    "parcel_number": "56-18-15-101-006"
  },
@@ -205,7 +205,7 @@
    "owner_mobile": "(586) 468 4484",
    "contractor": "Sean Fisher",
    "contractor_phone": "(734) 641 4328",
-   "email": "bartak@comcast.net",
+   "contractor_email": "bartak@comcast.net",
    "address": "5570 Bluebird Ave",
    "parcel_number": "56-18-16-183-067"
  },
@@ -220,7 +220,7 @@
    "owner_mobile": "(586) 469 2726",
    "contractor": "J and P Plumbing",
    "contractor_phone": "(734) 641 4328",
-   "email": "ganter@comcast.net",
+   "contractor_email": "ganter@comcast.net",
    "address": "5961 Carmen W Ct",
    "parcel_number": "56-18-16-151-003"
  },
@@ -235,7 +235,7 @@
    "owner_mobile": "(586) 469 2726",
    "contractor": "Autumn Air Mechanical",
    "contractor_phone": "(734) 525 3488",
-   "email": "demmel@hotmail.com",
+   "contractor_email": "demmel@hotmail.com",
    "address": "3777 Indian Trl",
    "parcel_number": "56-18-11-376-009"
  },
@@ -250,7 +250,7 @@
    "owner_mobile": "(586) 469 2969",
    "contractor": "J Simon and Sons Electrical Contractors",
    "contractor_phone": "(734) 507 1200",
-   "email": "gmcgath@gmail.com",
+   "contractor_email": "gmcgath@gmail.com",
    "address": "4415 S Bay Dr",
    "parcel_number": "56-18-15-351-007"
  },
@@ -265,7 +265,7 @@
    "owner_mobile": "(586) 480 0072",
    "contractor": "Alva Taylor",
    "contractor_phone": "(734) 485 2159",
-   "email": "morain@icloud.com",
+   "contractor_email": "morain@icloud.com",
    "address": "5570 Bluebird Ave",
    "parcel_number": "56-18-16-183-067"
  },
@@ -280,7 +280,7 @@
    "owner_mobile": "(586) 484 0523",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(734) 451 6800",
-   "email": "noodles@yahoo.ca",
+   "contractor_email": "noodles@yahoo.ca",
    "address": "5952 Seville Cir",
    "parcel_number": "56-18-16-103-001"
  },
@@ -295,7 +295,7 @@
    "owner_mobile": "(586) 484 0852",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(734) 449 5200",
-   "email": "bulletin@att.net",
+   "contractor_email": "bulletin@att.net",
    "address": "5952 Seville Cir",
    "parcel_number": "56-18-16-103-001"
  },
@@ -310,7 +310,7 @@
    "owner_mobile": "(586) 489 8650",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(734) 326 5914",
-   "email": "ryanvm@verizon.net",
+   "contractor_email": "ryanvm@verizon.net",
    "address": "5952 Seville Cir",
    "parcel_number": "56-18-16-103-001"
  },
@@ -325,7 +325,7 @@
    "owner_mobile": "(586) 493 0502",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(734) 323 8501",
-   "email": "north@yahoo.ca",
+   "contractor_email": "north@yahoo.ca",
    "address": "3328 Erie Dr",
    "parcel_number": "56-18-02-376-018"
  },
@@ -340,7 +340,7 @@
    "owner_mobile": "(586) 493 0502",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(734) 261 6311",
-   "email": "bhima@msn.com",
+   "contractor_email": "bhima@msn.com",
    "address": "3411 W Shore Dr",
    "parcel_number": "56-18-10-351-006"
  },
@@ -355,7 +355,7 @@
    "owner_mobile": "(586) 493 0502",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(651) 291 7755",
-   "email": "boftx@live.com",
+   "contractor_email": "boftx@live.com",
    "address": "3411 W Shore Dr",
    "parcel_number": "56-18-10-351-006"
  },
@@ -370,7 +370,7 @@
    "owner_mobile": "(586) 524 1615",
    "contractor": "Streamline Electric",
    "contractor_phone": "(616) 610 4430",
-   "email": "redingtn@optonline.net",
+   "contractor_email": "redingtn@optonline.net",
    "address": "3777 Indian Trl",
    "parcel_number": "56-18-11-376-009"
  },
@@ -385,7 +385,7 @@
    "owner_mobile": "(586) 524 4156",
    "contractor": "",
    "contractor_phone": "(586) 979 1396",
-   "email": "daveed@mac.com",
+   "contractor_email": "daveed@mac.com",
    "address": "",
    "parcel_number": ""
  },
@@ -400,7 +400,7 @@
    "owner_mobile": "(586) 524 8071",
    "contractor": "Da Alexander",
    "contractor_phone": "(586) 943 4134",
-   "email": "timtroyr@yahoo.com",
+   "contractor_email": "timtroyr@yahoo.com",
    "address": "4054 Oak Bank Ct",
    "parcel_number": "56-18-15-426-020"
  },
@@ -415,7 +415,7 @@
    "owner_mobile": "(586) 531 0734",
    "contractor": "Michigan Consolidated Gas",
    "contractor_phone": "(586) 932 8127",
-   "email": "pizza@mac.com",
+   "contractor_email": "pizza@mac.com",
    "address": "4601 Dow Ridge Rd",
    "parcel_number": "56-18-10-102-012"
  },
@@ -430,7 +430,7 @@
    "owner_mobile": "(586) 531 2005",
    "contractor": "",
    "contractor_phone": "(586) 822 9093",
-   "email": "houle@optonline.net",
+   "contractor_email": "houle@optonline.net",
    "address": "",
    "parcel_number": ""
  },
@@ -445,7 +445,7 @@
    "owner_mobile": "(586) 531 6911",
    "contractor": "Forestar Electric",
    "contractor_phone": "(586) 822 9093",
-   "email": "kourai@gmail.com",
+   "contractor_email": "kourai@gmail.com",
    "address": "5164 Deer Run Cir",
    "parcel_number": "56-18-16-476-026"
  },
@@ -460,7 +460,7 @@
    "owner_mobile": "(586) 531 7705",
    "contractor": "Bosco Building",
    "contractor_phone": "(586) 791 7171",
-   "email": "baveja@outlook.com",
+   "contractor_email": "baveja@outlook.com",
    "address": "4050 Oak Bank Ct",
    "parcel_number": "56-18-15-426-019"
  },
@@ -475,7 +475,7 @@
    "owner_mobile": "(586) 531 7705",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(586) 783 5308",
-   "email": "gommix@aol.com",
+   "contractor_email": "gommix@aol.com",
    "address": "4360 Pontiac Trl",
    "parcel_number": "56-18-15-402-008"
  },
@@ -490,7 +490,7 @@
    "owner_mobile": "(586) 536 0100",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(586) 741 6400",
-   "email": "grdschl@verizon.net",
+   "contractor_email": "grdschl@verizon.net",
    "address": "4360 Pontiac Trl",
    "parcel_number": "56-18-15-402-008"
  },
@@ -505,7 +505,7 @@
    "owner_mobile": "(586) 557 0137",
    "contractor": "Creative Outdoors",
    "contractor_phone": "(586) 739 5021",
-   "email": "hermes@verizon.net",
+   "contractor_email": "hermes@verizon.net",
    "address": "5982 Pontiac Trl",
    "parcel_number": "56-18-16-351-038"
  },
@@ -520,7 +520,7 @@
    "owner_mobile": "(586) 566 0710",
    "contractor": "Creative Outdoors",
    "contractor_phone": "(586) 739 5021",
-   "email": "kjetilk@sbcglobal.net",
+   "contractor_email": "kjetilk@sbcglobal.net",
    "address": "5982 Pontiac Trl",
    "parcel_number": "56-18-16-351-038"
  },
@@ -535,7 +535,7 @@
    "owner_mobile": "(586) 580 3457",
    "contractor": "Z and G Renovations Llc",
    "contractor_phone": "(586) 731 2291",
-   "email": "petersen@sbcglobal.net",
+   "contractor_email": "petersen@sbcglobal.net",
    "address": "5570 Bluebird Ave",
    "parcel_number": "56-18-16-183-067"
  },
@@ -550,7 +550,7 @@
    "owner_mobile": "(586) 582 1700",
    "contractor": "",
    "contractor_phone": "(586) 726 9444",
-   "email": "lydia@aol.com",
+   "contractor_email": "lydia@aol.com",
    "address": "",
    "parcel_number": ""
  },
@@ -565,7 +565,7 @@
    "owner_mobile": "(586) 596 4232",
    "contractor": "Universal Electric",
    "contractor_phone": "(586) 726 6390",
-   "email": "fviegas@msn.com",
+   "contractor_email": "fviegas@msn.com",
    "address": "4931 Elmgate Dr",
    "parcel_number": "56-18-16-276-019"
  },
@@ -580,7 +580,7 @@
    "owner_mobile": "(586) 601 8665",
    "contractor": "David Coleman",
    "contractor_phone": "(586) 703 6400",
-   "email": "kspiteri@hotmail.com",
+   "contractor_email": "kspiteri@hotmail.com",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -595,7 +595,7 @@
    "owner_mobile": "(586) 612 9094",
    "contractor": "Dynamic Hvac Inc",
    "contractor_phone": "(586) 697 3457",
-   "email": "tbeck@aol.com",
+   "contractor_email": "tbeck@aol.com",
    "address": "5305 Elmgate Bay Dr",
    "parcel_number": "56-18-16-201-009"
  },
@@ -610,7 +610,7 @@
    "owner_mobile": "(586) 612 9094",
    "contractor": "Discovery Mechanical Services",
    "contractor_phone": "(586) 635 4386",
-   "email": "mcraigw@live.com",
+   "contractor_email": "mcraigw@live.com",
    "address": "3301 Erie Dr",
    "parcel_number": "56-18-02-377-010"
  },
@@ -625,7 +625,7 @@
    "owner_mobile": "(586) 615 2509",
    "contractor": "Bernard Talushi",
    "contractor_phone": "(586) 635 4386",
-   "email": "papathan@yahoo.com",
+   "contractor_email": "papathan@yahoo.com",
    "address": "5961 Carmen W Ct",
    "parcel_number": "56-18-16-151-003"
  },
@@ -640,7 +640,7 @@
    "owner_mobile": "(586) 615 2836",
    "contractor": "Guardian Alarm Company",
    "contractor_phone": "(586) 630 0334",
-   "email": "wikinerd@msn.com",
+   "contractor_email": "wikinerd@msn.com",
    "address": "3535 Indian Trl Bldg F",
    "parcel_number": "56-18-11-176-013"
  },
@@ -655,7 +655,7 @@
    "owner_mobile": "(586) 615 2901",
    "contractor": "Down Home Construction",
    "contractor_phone": "(586) 630 0334",
-   "email": "lydia@optonline.net",
+   "contractor_email": "lydia@optonline.net",
    "address": "3238 Erie Dr",
    "parcel_number": "56-18-02-376-015"
  },
@@ -670,7 +670,7 @@
    "owner_mobile": "(586) 615 4709",
    "contractor": "Lars David Inc",
    "contractor_phone": "(586) 610 6231",
-   "email": "marnanel@optonline.net",
+   "contractor_email": "marnanel@optonline.net",
    "address": "4394 Cherry Hill Dr",
    "parcel_number": "56-18-15-451-011"
  },
@@ -685,7 +685,7 @@
    "owner_mobile": "(586) 634 1152",
    "contractor": "Randy",
    "contractor_phone": "(586) 466 4166",
-   "email": "drhyde@optonline.net",
+   "contractor_email": "drhyde@optonline.net",
    "address": "4640 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-048"
  },
@@ -700,7 +700,7 @@
    "owner_mobile": "(586) 634 1160",
    "contractor": "Richard Alan",
    "contractor_phone": "(586) 323 3399",
-   "email": "dieman@yahoo.com",
+   "contractor_email": "dieman@yahoo.com",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -715,7 +715,7 @@
    "owner_mobile": "(586) 634 1160",
    "contractor": "A   Ok Plumbing",
    "contractor_phone": "(586) 292 2209",
-   "email": "brainless@icloud.com",
+   "contractor_email": "brainless@icloud.com",
    "address": "5080 Hickory Pointe Dr",
    "parcel_number": "56-18-16-476-038"
  },
@@ -730,7 +730,7 @@
    "owner_mobile": "(586) 634 1338",
    "contractor": "Blue Star Inc",
    "contractor_phone": "(586) 247 3564",
-   "email": "crowl@me.com",
+   "contractor_email": "crowl@me.com",
    "address": "5000 W Shore Dr",
    "parcel_number": "56-18-16-201-010"
  },
@@ -745,7 +745,7 @@
    "owner_mobile": "(586) 634 2799",
    "contractor": "Ralph",
    "contractor_phone": "(586) 232 3559",
-   "email": "gospodin@aol.com",
+   "contractor_email": "gospodin@aol.com",
    "address": "3988 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-050"
  },
@@ -760,7 +760,7 @@
    "owner_mobile": "(586) 634 3163",
    "contractor": "The Dailey Company",
    "contractor_phone": "(586) 223 9100",
-   "email": "tattooman@verizon.net",
+   "contractor_email": "tattooman@verizon.net",
    "address": "5000 W Shore Dr",
    "parcel_number": "56-18-16-201-010"
  },
@@ -775,7 +775,7 @@
    "owner_mobile": "(586) 634 4555",
    "contractor": "",
    "contractor_phone": "(586) 202 9683",
-   "email": "ryanvm@outlook.com",
+   "contractor_email": "ryanvm@outlook.com",
    "address": "",
    "parcel_number": ""
  },
@@ -790,7 +790,7 @@
    "owner_mobile": "(586) 634 6408",
    "contractor": "",
    "contractor_phone": "(517) 625 6133",
-   "email": "xnormal@verizon.net",
+   "contractor_email": "xnormal@verizon.net",
    "address": "",
    "parcel_number": ""
  },
@@ -805,7 +805,7 @@
    "owner_mobile": "(586) 634 7082",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(517) 468 3902",
-   "email": "andersbr@aol.com",
+   "contractor_email": "andersbr@aol.com",
    "address": "4249 Woodlands Ln",
    "parcel_number": "56-18-15-451-022"
  },
@@ -820,7 +820,7 @@
    "owner_mobile": "(586) 634 9268",
    "contractor": "David",
    "contractor_phone": "(517) 404 4214",
-   "email": "esasaki@aol.com",
+   "contractor_email": "esasaki@aol.com",
    "address": "4249 Woodlands Ln",
    "parcel_number": "56-18-15-451-022"
  },
@@ -835,7 +835,7 @@
    "owner_mobile": "(586) 677 4081",
    "contractor": "",
    "contractor_phone": "(313) 942 7289",
-   "email": "dmbkiwi@icloud.com",
+   "contractor_email": "dmbkiwi@icloud.com",
    "address": "",
    "parcel_number": ""
  },
@@ -850,7 +850,7 @@
    "owner_mobile": "(586) 709 0666",
    "contractor": "Diamond Creek Homes Inc",
    "contractor_phone": "(313) 893 3400",
-   "email": "steve@icloud.com",
+   "contractor_email": "steve@icloud.com",
    "address": "4251 Pine Ln",
    "parcel_number": "56-18-15-451-028"
  },
@@ -865,7 +865,7 @@
    "owner_mobile": "(586) 709 8671",
    "contractor": "",
    "contractor_phone": "(313) 871 3775",
-   "email": "dkrishna@live.com",
+   "contractor_email": "dkrishna@live.com",
    "address": "",
    "parcel_number": ""
  },
@@ -880,7 +880,7 @@
    "owner_mobile": "(586) 718 8741",
    "contractor": "",
    "contractor_phone": "(313) 808 4159",
-   "email": "jfinke@sbcglobal.net",
+   "contractor_email": "jfinke@sbcglobal.net",
    "address": "3216 Bay Shore Dr",
    "parcel_number": "56-18-09-403-006"
  },
@@ -895,7 +895,7 @@
    "owner_mobile": "(586) 722 4382",
    "contractor": "Sridharan Nagesh",
    "contractor_phone": "(313) 794 2609",
-   "email": "fmtbebuck@optonline.net",
+   "contractor_email": "fmtbebuck@optonline.net",
    "address": "4595 Old Orchard Trl",
    "parcel_number": "56-18-15-301-013"
  },
@@ -910,7 +910,7 @@
    "owner_mobile": "(586) 725 5002",
    "contractor": "Brodie Charles E",
    "contractor_phone": "(313) 605 3167",
-   "email": "dinther@gmail.com",
+   "contractor_email": "dinther@gmail.com",
    "address": "5530 Ideal Pl",
    "parcel_number": "56-18-16-184-030"
  },
@@ -925,7 +925,7 @@
    "owner_mobile": "(586) 725 6190",
    "contractor": "Dale Milton",
    "contractor_phone": "(313) 515 7646",
-   "email": "ahmad@msn.com",
+   "contractor_email": "ahmad@msn.com",
    "address": "4045 Harbor Vista Dr",
    "parcel_number": "56-18-14-152-016"
  },
@@ -940,7 +940,7 @@
    "owner_mobile": "(586) 726 2300",
    "contractor": "Home Pro Roofing",
    "contractor_phone": "(313) 365 2500",
-   "email": "jimmichie@me.com",
+   "contractor_email": "jimmichie@me.com",
    "address": "4334 S Bay Dr",
    "parcel_number": "56-18-16-476-041"
  },
@@ -955,7 +955,7 @@
    "owner_mobile": "(586) 726 6040",
    "contractor": "Emmett's Energy",
    "contractor_phone": "(313) 326 6182",
-   "email": "gamma@yahoo.ca",
+   "contractor_email": "gamma@yahoo.ca",
    "address": "5281 N Bay Dr",
    "parcel_number": "56-18-09-276-024"
  },
@@ -970,7 +970,7 @@
    "owner_mobile": "(586) 727 4426",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(313) 299 4484",
-   "email": "frederic@sbcglobal.net",
+   "contractor_email": "frederic@sbcglobal.net",
    "address": "5751 Shore Dr",
    "parcel_number": "56-18-16-180-001"
  },
@@ -985,7 +985,7 @@
    "owner_mobile": "(586) 727 6691",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(313) 299 4484",
-   "email": "nachbaur@aol.com",
+   "contractor_email": "nachbaur@aol.com",
    "address": "4536 Orchard Trail Ct",
    "parcel_number": "56-18-15-302-002"
  },
@@ -1000,7 +1000,7 @@
    "owner_mobile": "(586) 727 7753",
    "contractor": "Randazzo Mechanical Heating and Cooli",
    "contractor_phone": "(313) 277 8400",
-   "email": "bmcmahon@outlook.com",
+   "contractor_email": "bmcmahon@outlook.com",
    "address": "5880 Seville Cir",
    "parcel_number": "56-18-16-101-008"
  },
@@ -1015,7 +1015,7 @@
    "owner_mobile": "(586) 731 0028",
    "contractor": "",
    "contractor_phone": "(313) 274 3588",
-   "email": "sumdumass@mac.com",
+   "contractor_email": "sumdumass@mac.com",
    "address": "",
    "parcel_number": ""
  },
@@ -1030,7 +1030,7 @@
    "owner_mobile": "(586) 731 2291",
    "contractor": "Jonathan Petrusha",
    "contractor_phone": "(313) 274 3588",
-   "email": "storerm@me.com",
+   "contractor_email": "storerm@me.com",
    "address": "5982 Pontiac Trl",
    "parcel_number": "56-18-16-351-038"
  },
@@ -1045,7 +1045,7 @@
    "owner_mobile": "(586) 731 7450",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 977 5041",
-   "email": "richard@comcast.net",
+   "contractor_email": "richard@comcast.net",
    "address": "3781 Indian Trl",
    "parcel_number": "56-18-11-376-010"
  },
@@ -1060,7 +1060,7 @@
    "owner_mobile": "(586) 739 0020",
    "contractor": "",
    "contractor_phone": "(248) 977 3632",
-   "email": "joehall@verizon.net",
+   "contractor_email": "joehall@verizon.net",
    "address": "",
    "parcel_number": ""
  },
@@ -1075,7 +1075,7 @@
    "owner_mobile": "(586) 739 0020",
    "contractor": "",
    "contractor_phone": "(248) 960 0060",
-   "email": "hachi@yahoo.ca",
+   "contractor_email": "hachi@yahoo.ca",
    "address": "",
    "parcel_number": ""
  },
@@ -1090,7 +1090,7 @@
    "owner_mobile": "(586) 739 4942",
    "contractor": "Rj Hoffman Management Inc",
    "contractor_phone": "(248) 939 1400",
-   "email": "damian@me.com",
+   "contractor_email": "damian@me.com",
    "address": "5652 Pontiac Trl",
    "parcel_number": "56-18-16-376-010"
  },
@@ -1105,7 +1105,7 @@
    "owner_mobile": "(586) 739 7780",
    "contractor": "Rj Hoffman Management Inc",
    "contractor_phone": "(248) 917 2243",
-   "email": "dunstan@hotmail.com",
+   "contractor_email": "dunstan@hotmail.com",
    "address": "5652 Pontiac Trl",
    "parcel_number": "56-18-16-376-010"
  },
@@ -1120,7 +1120,7 @@
    "owner_mobile": "(586) 739 9630",
    "contractor": "",
    "contractor_phone": "(248) 917 2243",
-   "email": "privcan@hotmail.com",
+   "contractor_email": "privcan@hotmail.com",
    "address": "",
    "parcel_number": ""
  },
@@ -1135,7 +1135,7 @@
    "owner_mobile": "(586) 752 2056",
    "contractor": "Tpm Communications Llc",
    "contractor_phone": "(248) 895 6190",
-   "email": "mxiao@mac.com",
+   "contractor_email": "mxiao@mac.com",
    "address": "4725 Old Orchard Trl",
    "parcel_number": "56-18-15-151-008"
  },
@@ -1150,7 +1150,7 @@
    "owner_mobile": "(586) 755 3636",
    "contractor": "Air Works Heating and Cooling",
    "contractor_phone": "(248) 884 1704",
-   "email": "osrin@optonline.net",
+   "contractor_email": "osrin@optonline.net",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -1165,7 +1165,7 @@
    "owner_mobile": "(586) 757 0404",
    "contractor": "",
    "contractor_phone": "(248) 865 7388",
-   "email": "mnemonic@live.com",
+   "contractor_email": "mnemonic@live.com",
    "address": "",
    "parcel_number": ""
  },
@@ -1180,7 +1180,7 @@
    "owner_mobile": "(586) 757 0404",
    "contractor": "Air Conditioning Engineers Inc",
    "contractor_phone": "(248) 840 1590",
-   "email": "burns@att.net",
+   "contractor_email": "burns@att.net",
    "address": "3445 Erie Dr",
    "parcel_number": "56-18-11-126-032"
  },
@@ -1195,7 +1195,7 @@
    "owner_mobile": "(586) 757 0404",
    "contractor": "F C L Excavcating",
    "contractor_phone": "(248) 779 7469",
-   "email": "isorashi@comcast.net",
+   "contractor_email": "isorashi@comcast.net",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -1210,7 +1210,7 @@
    "owner_mobile": "(586) 758 5900",
    "contractor": "Trim Cut Landscaping",
    "contractor_phone": "(248) 779 7469",
-   "email": "mcnihil@msn.com",
+   "contractor_email": "mcnihil@msn.com",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -1225,7 +1225,7 @@
    "owner_mobile": "(586) 759 2700",
    "contractor": "Voltron Power",
    "contractor_phone": "(248) 772 3315",
-   "email": "shazow@aol.com",
+   "contractor_email": "shazow@aol.com",
    "address": "5520 Garden Ter",
    "parcel_number": "56-18-16-130-049"
  },
@@ -1240,7 +1240,7 @@
    "owner_mobile": "(586) 770 0238",
    "contractor": "Superior Fence And Rail",
    "contractor_phone": "(248) 738 5377",
-   "email": "william@optonline.net",
+   "contractor_email": "william@optonline.net",
    "address": "5532 Evergreen Ave",
    "parcel_number": "56-18-16-127-016"
  },
@@ -1255,7 +1255,7 @@
    "owner_mobile": "(586) 770 0238",
    "contractor": "Mosher Dolan Inc",
    "contractor_phone": "(248) 738 5377",
-   "email": "chunzi@outlook.com",
+   "contractor_email": "chunzi@outlook.com",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -1270,7 +1270,7 @@
    "owner_mobile": "(586) 770 5122",
    "contractor": "Burning Inspirations Llc",
    "contractor_phone": "(248) 738 4634",
-   "email": "mrobshaw@icloud.com",
+   "contractor_email": "mrobshaw@icloud.com",
    "address": "4000 Commerce Rd",
    "parcel_number": "56-18-10-276-005"
  },
@@ -1285,7 +1285,7 @@
    "owner_mobile": "(586) 770 7903",
    "contractor": "Rock Solid Exterior",
    "contractor_phone": "(248) 737 5451",
-   "email": "syncnine@hotmail.com",
+   "contractor_email": "syncnine@hotmail.com",
    "address": "3367 Indiandale Dr",
    "parcel_number": "56-18-11-201-003"
  },
@@ -1300,7 +1300,7 @@
    "owner_mobile": "(586) 772 5680",
    "contractor": "Dc Illuminations Inc",
    "contractor_phone": "(248) 737 2377",
-   "email": "dcoppit@sbcglobal.net",
+   "contractor_email": "dcoppit@sbcglobal.net",
    "address": "4725 Old Orchard Trl",
    "parcel_number": "56-18-15-151-008"
  },
@@ -1315,7 +1315,7 @@
    "owner_mobile": "(586) 774 1252",
    "contractor": "Hani",
    "contractor_phone": "(248) 737 2377",
-   "email": "fmtbebuck@hotmail.com",
+   "contractor_email": "fmtbebuck@hotmail.com",
    "address": "3452 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-051"
  },
@@ -1330,7 +1330,7 @@
    "owner_mobile": "(586) 776 3377",
    "contractor": "Otto A Trzos Co",
    "contractor_phone": "(248) 706 9080",
-   "email": "qrczak@aol.com",
+   "contractor_email": "qrczak@aol.com",
    "address": "5959 Seville Cir",
    "parcel_number": "56-18-16-102-007"
  },
@@ -1345,7 +1345,7 @@
    "owner_mobile": "(586) 779 4700",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(248) 706 7808",
-   "email": "wsnyder@icloud.com",
+   "contractor_email": "wsnyder@icloud.com",
    "address": "4461 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-014"
  },
@@ -1360,7 +1360,7 @@
    "owner_mobile": "(586) 779 4700",
    "contractor": "Foundation System Of Michigan",
    "contractor_phone": "(248) 706 1710",
-   "email": "bader@yahoo.com",
+   "contractor_email": "bader@yahoo.com",
    "address": "4461 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-014"
  },
@@ -1375,7 +1375,7 @@
    "owner_mobile": "(586) 779 8018",
    "contractor": "Michigan Asphalt Inc",
    "contractor_phone": "(248) 698 3259",
-   "email": "cgarcia@verizon.net",
+   "contractor_email": "cgarcia@verizon.net",
    "address": "4996 Browning Dr",
    "parcel_number": "56-18-22-105-001"
  },
@@ -1390,7 +1390,7 @@
    "owner_mobile": "(586) 781 7900",
    "contractor": "Villavarayan Chris",
    "contractor_phone": "(248) 683 9892",
-   "email": "paina@aol.com",
+   "contractor_email": "paina@aol.com",
    "address": "4524 Orchard Trail Ct",
    "parcel_number": "56-18-15-302-003"
  },
@@ -1405,7 +1405,7 @@
    "owner_mobile": "(586) 783 4885",
    "contractor": "Villavarayan Chris",
    "contractor_phone": "(248) 683 9330",
-   "email": "cgcra@att.net",
+   "contractor_email": "cgcra@att.net",
    "address": "4524 Orchard Trail Ct",
    "parcel_number": "56-18-15-302-003"
  },
@@ -1420,7 +1420,7 @@
    "owner_mobile": "(586) 784 5144",
    "contractor": "Villavarayan Chris",
    "contractor_phone": "(248) 683 8666",
-   "email": "bbirth@mac.com",
+   "contractor_email": "bbirth@mac.com",
    "address": "4524 Orchard Trail Ct",
    "parcel_number": "56-18-15-302-003"
  },
@@ -1435,7 +1435,7 @@
    "owner_mobile": "(586) 790 2604",
    "contractor": "Villavarayan Chris",
    "contractor_phone": "(248) 683 6370",
-   "email": "murdocj@gmail.com",
+   "contractor_email": "murdocj@gmail.com",
    "address": "4524 Orchard Trail Ct",
    "parcel_number": "56-18-15-302-003"
  },
@@ -1450,7 +1450,7 @@
    "owner_mobile": "(586) 790 3838",
    "contractor": "E L Electrical Contracting Inc",
    "contractor_phone": "(248) 683 5596",
-   "email": "wildfire@me.com",
+   "contractor_email": "wildfire@me.com",
    "address": "5000 W Shore Dr",
    "parcel_number": "56-18-16-201-010"
  },
@@ -1465,7 +1465,7 @@
    "owner_mobile": "(586) 791 3900",
    "contractor": "Plumbing Technology",
    "contractor_phone": "(248) 683 4999",
-   "email": "ajlitt@sbcglobal.net",
+   "contractor_email": "ajlitt@sbcglobal.net",
    "address": "4032 Beach Dr",
    "parcel_number": "56-18-16-328-010"
  },
@@ -1480,7 +1480,7 @@
    "owner_mobile": "(586) 791 7900",
    "contractor": "",
    "contractor_phone": "(248) 683 2878",
-   "email": "samavati@icloud.com",
+   "contractor_email": "samavati@icloud.com",
    "address": "",
    "parcel_number": ""
  },
@@ -1495,7 +1495,7 @@
    "owner_mobile": "(586) 795 5000",
    "contractor": "American Standard Roofing",
    "contractor_phone": "(248) 683 2268",
-   "email": "hakim@yahoo.ca",
+   "contractor_email": "hakim@yahoo.ca",
    "address": "5201 N Bay Dr",
    "parcel_number": "56-18-09-276-023"
  },
@@ -1510,7 +1510,7 @@
    "owner_mobile": "(586) 795 5000",
    "contractor": "Ingram Roofing",
    "contractor_phone": "(248) 683 0760",
-   "email": "dmath@msn.com",
+   "contractor_email": "dmath@msn.com",
    "address": "3115 W Shore Dr",
    "parcel_number": "56-18-09-426-001"
  },
@@ -1525,7 +1525,7 @@
    "owner_mobile": "(586) 801 6595",
    "contractor": "",
    "contractor_phone": "(248) 682 9224",
-   "email": "juerd@outlook.com",
+   "contractor_email": "juerd@outlook.com",
    "address": "",
    "parcel_number": ""
  },
@@ -1540,7 +1540,7 @@
    "owner_mobile": "(586) 803 3626",
    "contractor": "King Plumbing Inc",
    "contractor_phone": "(248) 682 7728",
-   "email": "jramio@aol.com",
+   "contractor_email": "jramio@aol.com",
    "address": "3652 Erie Dr",
    "parcel_number": "56-18-11-126-015"
  },
@@ -1555,7 +1555,7 @@
    "owner_mobile": "(586) 805 4959",
    "contractor": "",
    "contractor_phone": "(248) 682 6916",
-   "email": "blixem@yahoo.com",
+   "contractor_email": "blixem@yahoo.com",
    "address": "5994 Pontiac Trl",
    "parcel_number": ""
  },
@@ -1570,7 +1570,7 @@
    "owner_mobile": "(586) 805 5888",
    "contractor": "",
    "contractor_phone": "(248) 682 5353",
-   "email": "policies@icloud.com",
+   "contractor_email": "policies@icloud.com",
    "address": "4341 Hickory Ct",
    "parcel_number": "56-18-15-452-016"
  },
@@ -1585,7 +1585,7 @@
    "owner_mobile": "(586) 805 5888",
    "contractor": "Richard Alan",
    "contractor_phone": "(248) 682 3832",
-   "email": "miami@yahoo.ca",
+   "contractor_email": "miami@yahoo.ca",
    "address": "3740 Arcadia Dr",
    "parcel_number": "56-18-16-176-034"
  },
@@ -1600,7 +1600,7 @@
    "owner_mobile": "(586) 805 7540",
    "contractor": "Miles Bradley Building and Remodeling",
    "contractor_phone": "(248) 682 1461",
-   "email": "miami@outlook.com",
+   "contractor_email": "miami@outlook.com",
    "address": "5587 Evergreen Ave",
    "parcel_number": "56-18-16-130-043"
  },
@@ -1615,7 +1615,7 @@
    "owner_mobile": "(586) 805 9123",
    "contractor": "Matelic Kristopher M",
    "contractor_phone": "(248) 682 1413",
-   "email": "horrocks@aol.com",
+   "contractor_email": "horrocks@aol.com",
    "address": "4009 Harbor Vista Dr",
    "parcel_number": "56-18-14-152-011"
  },
@@ -1630,7 +1630,7 @@
    "owner_mobile": "(586) 808 0333",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 682 1210",
-   "email": "tattooman@sbcglobal.net",
+   "contractor_email": "tattooman@sbcglobal.net",
    "address": "4455 S Bay Dr",
    "parcel_number": "56-18-15-353-002"
  },
@@ -1645,7 +1645,7 @@
    "owner_mobile": "(586) 822 2149",
    "contractor": "",
    "contractor_phone": "(248) 682 1210",
-   "email": "devphil@verizon.net",
+   "contractor_email": "devphil@verizon.net",
    "address": "4455 S Bay Dr",
    "parcel_number": ""
  },
@@ -1660,7 +1660,7 @@
    "owner_mobile": "(586) 835 8984",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 682 1073",
-   "email": "lydia@yahoo.com",
+   "contractor_email": "lydia@yahoo.com",
    "address": "4455 S Bay Dr",
    "parcel_number": "56-18-15-353-002"
  },
@@ -1675,7 +1675,7 @@
    "owner_mobile": "(586) 854 4881",
    "contractor": "",
    "contractor_phone": "(248) 682 1029",
-   "email": "tkrotchko@yahoo.com",
+   "contractor_email": "tkrotchko@yahoo.com",
    "address": "",
    "parcel_number": "56-18-15-101-006"
  },
@@ -1690,7 +1690,7 @@
    "owner_mobile": "(586) 855 0842",
    "contractor": "Wilson Jr William",
    "contractor_phone": "(248) 682 0908",
-   "email": "psharpe@live.com",
+   "contractor_email": "psharpe@live.com",
    "address": "4669 Old Orchard Trl",
    "parcel_number": "56-18-15-301-030"
  },
@@ -1705,7 +1705,7 @@
    "owner_mobile": "(586) 855 0842",
    "contractor": "Custom Homes By Derocher",
    "contractor_phone": "(248) 682 0730",
-   "email": "seurat@live.com",
+   "contractor_email": "seurat@live.com",
    "address": "4560 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-033"
  },
@@ -1720,7 +1720,7 @@
    "owner_mobile": "(586) 855 2275",
    "contractor": "Paramount Fence Co",
    "contractor_phone": "(248) 682 0676",
-   "email": "druschel@msn.",
+   "contractor_email": "druschel@msn.",
    "address": "3535 Erie Dr",
    "parcel_number": "56-18-11-126-031"
  },
@@ -1735,7 +1735,7 @@
    "owner_mobile": "(586) 855 7753",
    "contractor": "",
    "contractor_phone": "(248) 682 0584",
-   "email": "stevelim@hotmail.com",
+   "contractor_email": "stevelim@hotmail.com",
    "address": "4700 Dow Ridge Rd",
    "parcel_number": ""
  },
@@ -1750,7 +1750,7 @@
    "owner_mobile": "(586) 863 3561",
    "contractor": "Family Heating Co Inc",
    "contractor_phone": "(248) 682 0570",
-   "email": "pavel@optonline.net",
+   "contractor_email": "pavel@optonline.net",
    "address": "5357 Trillium Ct",
    "parcel_number": "56-18-16-451-011"
  },
@@ -1765,7 +1765,7 @@
    "owner_mobile": "(586) 872 0255",
    "contractor": "Dki",
    "contractor_phone": "(248) 682 0422",
-   "email": "dbrobins@aol.com",
+   "contractor_email": "dbrobins@aol.com",
    "address": "3750 Commerce Rd",
    "parcel_number": "56-18-11-126-056"
  },
@@ -1780,7 +1780,7 @@
    "owner_mobile": "(586) 872 0255",
    "contractor": "Sam",
    "contractor_phone": "(248) 682 0332",
-   "email": "cameron@live.com",
+   "contractor_email": "cameron@live.com",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -1795,7 +1795,7 @@
    "owner_mobile": "(586) 873 0420",
    "contractor": "Sam",
    "contractor_phone": "(248) 682 0255",
-   "email": "attwood@sbcglobal.net",
+   "contractor_email": "attwood@sbcglobal.net",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -1810,7 +1810,7 @@
    "owner_mobile": "(586) 879 3913",
    "contractor": "Symon",
    "contractor_phone": "(248) 681 9799",
-   "email": "hmbrand@live.com",
+   "contractor_email": "hmbrand@live.com",
    "address": "3238 Erie Dr",
    "parcel_number": "56-18-02-376-015"
  },
@@ -1825,7 +1825,7 @@
    "owner_mobile": "(586) 886 1111",
    "contractor": "Hughes Building Llc",
    "contractor_phone": "(248) 681 9793",
-   "email": "adhere@outlook.com",
+   "contractor_email": "adhere@outlook.com",
    "address": "5281 N Bay Dr",
    "parcel_number": "56-18-09-276-024"
  },
@@ -1840,7 +1840,7 @@
    "owner_mobile": "(586) 899 8502",
    "contractor": "D and W Windows",
    "contractor_phone": "(248) 681 9599",
-   "email": "dhwon@live.com",
+   "contractor_email": "dhwon@live.com",
    "address": "4513 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-027"
  },
@@ -1855,7 +1855,7 @@
    "owner_mobile": "(586) 904 6523",
    "contractor": "",
    "contractor_phone": "(248) 681 9599",
-   "email": "munson@me.com",
+   "contractor_email": "munson@me.com",
    "address": "4048 Oak Bank Ct",
    "parcel_number": ""
  },
@@ -1870,7 +1870,7 @@
    "owner_mobile": "(586) 915 4906",
    "contractor": "Creative Outdoors",
    "contractor_phone": "(248) 681 9477",
-   "email": "nicktrig@me.com",
+   "contractor_email": "nicktrig@me.com",
    "address": "5982 Pontiac Trl",
    "parcel_number": ""
  },
@@ -1885,7 +1885,7 @@
    "owner_mobile": "(586) 915 4906",
    "contractor": "Hoffman Electric Llc",
    "contractor_phone": "(248) 681 9311",
-   "email": "josem@sbcglobal.net",
+   "contractor_email": "josem@sbcglobal.net",
    "address": "3652 Erie Dr",
    "parcel_number": "56-18-11-126-015"
  },
@@ -1900,7 +1900,7 @@
    "owner_mobile": "(586) 915 4906",
    "contractor": "Mulligan Heating",
    "contractor_phone": "(248) 681 9303",
-   "email": "dwheeler@hotmail.com",
+   "contractor_email": "dwheeler@hotmail.com",
    "address": "4316 Cherry Hill Dr",
    "parcel_number": "56-18-15-451-031"
  },
@@ -1915,7 +1915,7 @@
    "owner_mobile": "(586) 942 1935",
    "contractor": "Wm Electrical Inc",
    "contractor_phone": "(248) 681 9200",
-   "email": "tfinniga@mac.com",
+   "contractor_email": "tfinniga@mac.com",
    "address": "3706 Lakeview Blvd",
    "parcel_number": "56-18-16-133-013"
  },
@@ -1930,7 +1930,7 @@
    "owner_mobile": "(586) 944 6844",
    "contractor": "Petoskey Plumbing",
    "contractor_phone": "(248) 681 9200",
-   "email": "stevelim@outlook.com",
+   "contractor_email": "stevelim@outlook.com",
    "address": "4700 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-012"
  },
@@ -1945,7 +1945,7 @@
    "owner_mobile": "(586) 983 2514",
    "contractor": "",
    "contractor_phone": "(248) 681 9200",
-   "email": "moonlapse@hotmail.com",
+   "contractor_email": "moonlapse@hotmail.com",
    "address": "3571 Arrowvale Dr",
    "parcel_number": ""
  },
@@ -1960,7 +1960,7 @@
    "owner_mobile": "(586) 991 6232",
    "contractor": "Geoffrey Ross",
    "contractor_phone": "(248) 681 9122",
-   "email": "brbarret@att.net",
+   "contractor_email": "brbarret@att.net",
    "address": "4045 Harbor Vista Dr",
    "parcel_number": "56-18-14-152-016"
  },
@@ -1975,7 +1975,7 @@
    "owner_mobile": "(586) 992 3030",
    "contractor": "",
    "contractor_phone": "(248) 681 8951",
-   "email": "citadel@mac.com",
+   "contractor_email": "citadel@mac.com",
    "address": "4001 Park Dr",
    "parcel_number": ""
  },
@@ -1990,7 +1990,7 @@
    "owner_mobile": "(586) 992 3030",
    "contractor": "Mark N",
    "contractor_phone": "(248) 681 8949",
-   "email": "earmstro@live.com",
+   "contractor_email": "earmstro@live.com",
    "address": "4315 Cherry Hill Dr",
    "parcel_number": "56-18-15-452-011"
  },
@@ -2005,7 +2005,7 @@
    "owner_mobile": "(588) 777 6400",
    "contractor": "Calderon Francisco Ma Agueda Rinco",
    "contractor_phone": "(248) 681 8741",
-   "email": "munjal@yahoo.com",
+   "contractor_email": "munjal@yahoo.com",
    "address": "5871 Seville Cir",
    "parcel_number": "56-18-16-102-003"
  },
@@ -2020,7 +2020,7 @@
    "owner_mobile": "(616) 453 2200",
    "contractor": "Jon Jackson Electrical Contracting",
    "contractor_phone": "(248) 681 8688",
-   "email": "carroll@yahoo.com",
+   "contractor_email": "carroll@yahoo.com",
    "address": "5696 Woodlawn Ave",
    "parcel_number": "56-18-16-179-009"
  },
@@ -2035,7 +2035,7 @@
    "owner_mobile": "(616) 453 2200",
    "contractor": "Richard Alan",
    "contractor_phone": "(248) 681 8684",
-   "email": "barlow@aol.com",
+   "contractor_email": "barlow@aol.com",
    "address": "4685 Commerce Rd",
    "parcel_number": "56-18-10-176-004"
  },
@@ -2050,7 +2050,7 @@
    "owner_mobile": "(616) 531 9999",
    "contractor": "Holub Frank",
    "contractor_phone": "(248) 681 8561",
-   "email": "henkp@outlook.com",
+   "contractor_email": "henkp@outlook.com",
    "address": "5112 Deer Run Cir",
    "parcel_number": "56-18-16-476-033"
  },
@@ -2065,7 +2065,7 @@
    "owner_mobile": "(616) 696 9026",
    "contractor": "Lee Richard Alan",
    "contractor_phone": "(248) 681 8519",
-   "email": "marcs@aol.com",
+   "contractor_email": "marcs@aol.com",
    "address": "4050 Oak Bank Ct",
    "parcel_number": "56-18-15-426-019"
  },
@@ -2080,7 +2080,7 @@
    "owner_mobile": "(616) 771 0422",
    "contractor": "Chester Daniel",
    "contractor_phone": "(248) 681 8488",
-   "email": "quantaman@mac.com",
+   "contractor_email": "quantaman@mac.com",
    "address": "5696 Woodlawn Ave",
    "parcel_number": "56-18-16-179-009"
  },
@@ -2095,7 +2095,7 @@
    "owner_mobile": "(616) 916 3062",
    "contractor": "Coleman Mechanical",
    "contractor_phone": "(248) 681 8447",
-   "email": "kludge@yahoo.com",
+   "contractor_email": "kludge@yahoo.com",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -2110,7 +2110,7 @@
    "owner_mobile": "(619) 889 1215",
    "contractor": "",
    "contractor_phone": "(248) 681 8231",
-   "email": "mcsporran@me.com",
+   "contractor_email": "mcsporran@me.com",
    "address": "",
    "parcel_number": ""
  },
@@ -2125,7 +2125,7 @@
    "owner_mobile": "(646) 208 6252",
    "contractor": "Orchard Development and Construction Inc",
    "contractor_phone": "(248) 681 8222",
-   "email": "jcholewa@sbcglobal.net",
+   "contractor_email": "jcholewa@sbcglobal.net",
    "address": "3309 W Shore Dr",
    "parcel_number": "56-18-09-426-022"
  },
@@ -2140,7 +2140,7 @@
    "owner_mobile": "(651) 724 5493",
    "contractor": "Darrell Jackson",
    "contractor_phone": "(248) 681 8201",
-   "email": "gavinls@icloud.com",
+   "contractor_email": "gavinls@icloud.com",
    "address": "4540 Arline Dr",
    "parcel_number": "56-18-22-126-002"
  },
@@ -2155,7 +2155,7 @@
    "owner_mobile": "(702) 533 4155",
    "contractor": "March Mechanical",
    "contractor_phone": "(248) 681 8170",
-   "email": "larry@outlook.com",
+   "contractor_email": "larry@outlook.com",
    "address": "4540 Arline Dr",
    "parcel_number": "56-18-22-126-002"
  },
@@ -2170,7 +2170,7 @@
    "owner_mobile": "(732) 493 2516",
    "contractor": "King Plumbing Inc",
    "contractor_phone": "(248) 681 8134",
-   "email": "dartlife@comcast.net",
+   "contractor_email": "dartlife@comcast.net",
    "address": "3652 Erie Dr",
    "parcel_number": "56-18-11-126-015"
  },
@@ -2185,7 +2185,7 @@
    "owner_mobile": "(734) 216 3028",
    "contractor": "Thomas Brian Lindberg",
    "contractor_phone": "(248) 681 7981",
-   "email": "uncled@yahoo.com",
+   "contractor_email": "uncled@yahoo.com",
    "address": "3652 Erie Dr",
    "parcel_number": "56-18-11-126-015"
  },
@@ -2200,7 +2200,7 @@
    "owner_mobile": "(734) 223 3951",
    "contractor": "Paradigm Plumbing and Mech Inc",
    "contractor_phone": "(248) 681 7964",
-   "email": "stellaau@verizon.net",
+   "contractor_email": "stellaau@verizon.net",
    "address": "4685 Commerce Rd",
    "parcel_number": ""
  },
@@ -2215,7 +2215,7 @@
    "owner_mobile": "(734) 231 2977",
    "contractor": "Paradigm Plumbing and Mech Inc",
    "contractor_phone": "(248) 681 7924",
-   "email": "telbij@yahoo.ca",
+   "contractor_email": "telbij@yahoo.ca",
    "address": "4685 Commerce Rd",
    "parcel_number": "56-18-10-176-004"
  },
@@ -2230,7 +2230,7 @@
    "owner_mobile": "(734) 231 3111",
    "contractor": "Foundation Solutions 360",
    "contractor_phone": "(248) 681 7849",
-   "email": "uncled@me.com",
+   "contractor_email": "uncled@me.com",
    "address": "3386 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-055"
  },
@@ -2245,7 +2245,7 @@
    "owner_mobile": "(734) 237 1064",
    "contractor": "Corby Energy Services Inc",
    "contractor_phone": "(248) 681 7786",
-   "email": "dalamb@hotmail.com",
+   "contractor_email": "dalamb@hotmail.com",
    "address": "4540 Arline Dr",
    "parcel_number": "56-18-22-126-002"
  },
@@ -2260,7 +2260,7 @@
    "owner_mobile": "(734) 237 1065",
    "contractor": "Lee Richard Alan",
    "contractor_phone": "(248) 681 7349",
-   "email": "euice@yahoo.ca",
+   "contractor_email": "euice@yahoo.ca",
    "address": "4950 Birchway Dr",
    "parcel_number": ""
  },
@@ -2275,7 +2275,7 @@
    "owner_mobile": "(734) 246 3955",
    "contractor": "Lee Richard Alan",
    "contractor_phone": "(248) 681 6863",
-   "email": "juliano@aol.com",
+   "contractor_email": "juliano@aol.com",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -2290,7 +2290,7 @@
    "owner_mobile": "(734) 246 3955",
    "contractor": "Mgd Heating and Cooling",
    "contractor_phone": "(248) 681 6837",
-   "email": "ngedmond@optonline.net",
+   "contractor_email": "ngedmond@optonline.net",
    "address": "4540 Arline Dr",
    "parcel_number": "56-18-22-126-002"
  },
@@ -2305,7 +2305,7 @@
    "owner_mobile": "(734) 254 9900",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 681 6601",
-   "email": "pthomsen@comcast.net",
+   "contractor_email": "pthomsen@comcast.net",
    "address": "3500 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-034"
  },
@@ -2320,7 +2320,7 @@
    "owner_mobile": "(734) 259 8732",
    "contractor": "Bob Johnson and Sons Plumbing",
    "contractor_phone": "(248) 681 6270",
-   "email": "keutzer@yahoo.com",
+   "contractor_email": "keutzer@yahoo.com",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -2335,7 +2335,7 @@
    "owner_mobile": "(734) 259 8732",
    "contractor": "Tmc Electric Llc",
    "contractor_phone": "(248) 681 6115",
-   "email": "parrt@comcast.net",
+   "contractor_email": "parrt@comcast.net",
    "address": "4513 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-027"
  },
@@ -2350,7 +2350,7 @@
    "owner_mobile": "(734) 261 6655",
    "contractor": "Lizut Mechanical",
    "contractor_phone": "(248) 681 6033",
-   "email": "jrifkin@sbcglobal.net",
+   "contractor_email": "jrifkin@sbcglobal.net",
    "address": "3535 Indian Trl Bldg F",
    "parcel_number": "56-18-11-176-013"
  },
@@ -2365,7 +2365,7 @@
    "owner_mobile": "(734) 261 6655",
    "contractor": "Sawicki Dennis James",
    "contractor_phone": "(248) 681 5985",
-   "email": "slaff@mac.com",
+   "contractor_email": "slaff@mac.com",
    "address": "4415 S Bay Dr",
    "parcel_number": "56-18-15-351-007"
  },
@@ -2380,7 +2380,7 @@
    "owner_mobile": "(734) 262 6053",
    "contractor": "Michigan Mechanical Ventures Llc",
    "contractor_phone": "(248) 681 5737",
-   "email": "rfisher@comcast.net",
+   "contractor_email": "rfisher@comcast.net",
    "address": "4415 S Bay Dr",
    "parcel_number": "56-18-15-351-007"
  },
@@ -2395,7 +2395,7 @@
    "owner_mobile": "(734) 306 7253",
    "contractor": "Winnie Robert William",
    "contractor_phone": "(248) 681 5721",
-   "email": "crypt@mac.com",
+   "contractor_email": "crypt@mac.com",
    "address": "3463 W Shore Dr",
    "parcel_number": "56-18-10-351-003"
  },
@@ -2410,7 +2410,7 @@
    "owner_mobile": "(734) 326 1210",
    "contractor": "Michigan Asphalt Inc",
    "contractor_phone": "(248) 681 5716",
-   "email": "syncnine@aol.com",
+   "contractor_email": "syncnine@aol.com",
    "address": "4953 W Strong Ct",
    "parcel_number": "56-18-22-105-020"
  },
@@ -2425,7 +2425,7 @@
    "owner_mobile": "(734) 326 1210",
    "contractor": "Caswell Modernization Co",
    "contractor_phone": "(248) 681 5650",
-   "email": "formis@gmail.com",
+   "contractor_email": "formis@gmail.com",
    "address": "5725 Shore Dr",
    "parcel_number": "56-18-16-180-003"
  },
@@ -2440,7 +2440,7 @@
    "owner_mobile": "(734) 335 1794",
    "contractor": "Ridgecon Construction",
    "contractor_phone": "(248) 681 5500",
-   "email": "koudas@optonline.net",
+   "contractor_email": "koudas@optonline.net",
    "address": "4250 Pine Ln",
    "parcel_number": "56-18-15-451-027"
  },
@@ -2455,7 +2455,7 @@
    "owner_mobile": "(734) 341 7890",
    "contractor": "John Lyall",
    "contractor_phone": "(248) 681 5432",
-   "email": "animats@me.com",
+   "contractor_email": "animats@me.com",
    "address": "5281 N Bay Dr",
    "parcel_number": "56-18-09-276-024"
  },
@@ -2470,7 +2470,7 @@
    "owner_mobile": "(734) 347 4457",
    "contractor": "Creative Brick Paving and Landscape",
    "contractor_phone": "(248) 681 5233",
-   "email": "debest@icloud.com",
+   "contractor_email": "debest@icloud.com",
    "address": "3206 Orchard Lake Rd",
    "parcel_number": "56-18-02-451-010"
  },
@@ -2485,7 +2485,7 @@
    "owner_mobile": "(734) 347 5169",
    "contractor": "Yousif Anthony",
    "contractor_phone": "(248) 681 5177",
-   "email": "credmond@hotmail.com",
+   "contractor_email": "credmond@hotmail.com",
    "address": "4700 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-012"
  },
@@ -2500,7 +2500,7 @@
    "owner_mobile": "(734) 354 9270",
    "contractor": "Noonan Electric",
    "contractor_phone": "(248) 681 5174",
-   "email": "matloff@att.net",
+   "contractor_email": "matloff@att.net",
    "address": "4700 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-012"
  },
@@ -2515,7 +2515,7 @@
    "owner_mobile": "(734) 354 9270",
    "contractor": "Anthony White",
    "contractor_phone": "(248) 681 5074",
-   "email": "gator@yahoo.com",
+   "contractor_email": "gator@yahoo.com",
    "address": "4570 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-016"
  },
@@ -2530,7 +2530,7 @@
    "owner_mobile": "(734) 354 9988",
    "contractor": "Majic Window Co",
    "contractor_phone": "(248) 681 5025",
-   "email": "ournews@yahoo.ca",
+   "contractor_email": "ournews@yahoo.ca",
    "address": "4505 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-028"
  },
@@ -2545,7 +2545,7 @@
    "owner_mobile": "(734) 377 4546",
    "contractor": "Smj International",
    "contractor_phone": "(248) 681 4798",
-   "email": "chaffar@icloud.com",
+   "contractor_email": "chaffar@icloud.com",
    "address": "3525 Seminary Dr",
    "parcel_number": "56-99-01-989-014"
  },
@@ -2560,7 +2560,7 @@
    "owner_mobile": "(734) 395 5759",
    "contractor": "Alens Service",
    "contractor_phone": "(248) 681 4679",
-   "email": "jmgomez@optonline.net",
+   "contractor_email": "jmgomez@optonline.net",
    "address": "3141 W Shore Dr",
    "parcel_number": "56-18-09-426-003"
  },
@@ -2575,7 +2575,7 @@
    "owner_mobile": "(734) 397 4611",
    "contractor": "Sandp Heating and Cooling",
    "contractor_phone": "(248) 681 4675",
-   "email": "donev@optonline.net",
+   "contractor_email": "donev@optonline.net",
    "address": "4725 Old Orchard Trl",
    "parcel_number": "56-18-15-151-008"
  },
@@ -2590,7 +2590,7 @@
    "owner_mobile": "(734) 404 6172",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(248) 681 4574",
-   "email": "damian@sbcglobal.net",
+   "contractor_email": "damian@sbcglobal.net",
    "address": "4015 Shady Beach Blvd",
    "parcel_number": "56-18-16-189-011"
  },
@@ -2605,7 +2605,7 @@
    "owner_mobile": "(734) 420 0610",
    "contractor": "Cappy Heating and Air Conditioning Inc",
    "contractor_phone": "(248) 681 4352",
-   "email": "nacho@sbcglobal.net",
+   "contractor_email": "nacho@sbcglobal.net",
    "address": "4050 Oak Bank Ct",
    "parcel_number": ""
  },
@@ -2620,7 +2620,7 @@
    "owner_mobile": "(734) 421 0545",
    "contractor": "Kesler Ryan",
    "contractor_phone": "(248) 681 4135",
-   "email": "kodeman@sbcglobal.net",
+   "contractor_email": "kodeman@sbcglobal.net",
    "address": "5982 Pontiac Trl",
    "parcel_number": "56-18-16-351-038"
  },
@@ -2635,7 +2635,7 @@
    "owner_mobile": "(734) 422 4840",
    "contractor": "Bare Vincent",
    "contractor_phone": "(248) 681 3981",
-   "email": "pkilab@gmail.com",
+   "contractor_email": "pkilab@gmail.com",
    "address": "5518 Birdview Hts",
    "parcel_number": "56-18-16-134-031"
  },
@@ -2650,7 +2650,7 @@
    "owner_mobile": "(734) 425 1415",
    "contractor": "Joab Shevach",
    "contractor_phone": "(248) 681 3886",
-   "email": "iapetus@optonline.net",
+   "contractor_email": "iapetus@optonline.net",
    "address": "2910 Orchard Pl",
    "parcel_number": "56-18-10-153-004"
  },
@@ -2665,7 +2665,7 @@
    "owner_mobile": "(734) 425 1415",
    "contractor": "Tri star Roofing",
    "contractor_phone": "(248) 681 3680",
-   "email": "kalpol@hotmail.com",
+   "contractor_email": "kalpol@hotmail.com",
    "address": "5000 W Shore Dr",
    "parcel_number": "56-18-16-201-010"
  },
@@ -2680,7 +2680,7 @@
    "owner_mobile": "(734) 427 0030",
    "contractor": "Kearns Brothers Inc",
    "contractor_phone": "(248) 681 3527",
-   "email": "draper@gmail.com",
+   "contractor_email": "draper@gmail.com",
    "address": "4294 Cherry Hill Dr",
    "parcel_number": "56-18-15-429-004"
  },
@@ -2695,7 +2695,7 @@
    "owner_mobile": "(734) 427 3242",
    "contractor": "Bellaire Fine Homes",
    "contractor_phone": "(248) 681 3523",
-   "email": "mrsam@icloud.com",
+   "contractor_email": "mrsam@icloud.com",
    "address": "3061 Bay Shore Dr",
    "parcel_number": ""
  },
@@ -2710,7 +2710,7 @@
    "owner_mobile": "(734) 449 7302",
    "contractor": "American Standard Roofing",
    "contractor_phone": "(248) 681 3276",
-   "email": "sokol@gmail.com",
+   "contractor_email": "sokol@gmail.com",
    "address": "3464 Arrowvale Dr",
    "parcel_number": "56-18-11-126-041"
  },
@@ -2725,7 +2725,7 @@
    "owner_mobile": "(734) 449 7302",
    "contractor": "Advanced Lakefront Services",
    "contractor_phone": "(248) 681 3249",
-   "email": "tangsh@yahoo.ca",
+   "contractor_email": "tangsh@yahoo.ca",
    "address": "4610 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-032"
  },
@@ -2740,7 +2740,7 @@
    "owner_mobile": "(734) 449 7302",
    "contractor": "Toasty's Heating and Cooling Llc",
    "contractor_phone": "(248) 681 3249",
-   "email": "studyabr@optonline.net",
+   "contractor_email": "studyabr@optonline.net",
    "address": "4274 Pine Ln",
    "parcel_number": "56-18-15-451-026"
  },
@@ -2755,7 +2755,7 @@
    "owner_mobile": "(734) 452 8125",
    "contractor": "Full Circuit Electric Llc",
    "contractor_phone": "(248) 681 3160",
-   "email": "oechslin@icloud.com",
+   "contractor_email": "oechslin@icloud.com",
    "address": "5780 Lakeview Ave",
    "parcel_number": "56-18-16-352-011"
  },
@@ -2770,7 +2770,7 @@
    "owner_mobile": "(734) 452 8125",
    "contractor": "All Time Home Improvements",
    "contractor_phone": "(248) 681 2828",
-   "email": "paley@live.com",
+   "contractor_email": "paley@live.com",
    "address": "5207 Deer Run Cir",
    "parcel_number": "56-18-16-478-002"
  },
@@ -2785,7 +2785,7 @@
    "owner_mobile": "(734) 453 4622",
    "contractor": "Fireclass Llc",
    "contractor_phone": "(248) 681 2828",
-   "email": "crobles@sbcglobal.net",
+   "contractor_email": "crobles@sbcglobal.net",
    "address": "4415 S Bay Dr",
    "parcel_number": "56-18-15-351-007"
  },
@@ -2800,7 +2800,7 @@
    "owner_mobile": "(734) 455 2001",
    "contractor": "Lakes Development Group Inc",
    "contractor_phone": "(248) 681 2800",
-   "email": "dwsauder@icloud.com",
+   "contractor_email": "dwsauder@icloud.com",
    "address": "3908 Laplaya Ln",
    "parcel_number": "56-18-16-151-009"
  },
@@ -2815,7 +2815,7 @@
    "owner_mobile": "(734) 455 6500",
    "contractor": "Dominion Service Company",
    "contractor_phone": "(248) 681 2685",
-   "email": "russotto@optonline.net",
+   "contractor_email": "russotto@optonline.net",
    "address": "4685 Old Orchard Trl",
    "parcel_number": "56-18-15-151-010"
  },
@@ -2830,7 +2830,7 @@
    "owner_mobile": "(734) 459 6968",
    "contractor": "Juett Associates Inc",
    "contractor_phone": "(248) 681 2543",
-   "email": "garland@att.net",
+   "contractor_email": "garland@att.net",
    "address": "3765 Indian Trl",
    "parcel_number": "56-18-11-376-007"
  },
@@ -2845,7 +2845,7 @@
    "owner_mobile": "(734) 459 6968",
    "contractor": "Juett Associates Inc",
    "contractor_phone": "(248) 681 2532",
-   "email": "rohitm@sbcglobal.net",
+   "contractor_email": "rohitm@sbcglobal.net",
    "address": "3765 Indian Trl",
    "parcel_number": "56-18-11-376-007"
  },
@@ -2860,7 +2860,7 @@
    "owner_mobile": "(734) 462 6266",
    "contractor": "St Andre Stephen ",
    "contractor_phone": "(248) 681 2359",
-   "email": "mlewan@outlook.com",
+   "contractor_email": "mlewan@outlook.com",
    "address": "3421 W Shore Dr",
    "parcel_number": "56-18-10-351-002"
  },
@@ -2875,7 +2875,7 @@
    "owner_mobile": "(734) 502 2933",
    "contractor": "Katz Dana",
    "contractor_phone": "(248) 681 2035",
-   "email": "ivoibs@msn.com",
+   "contractor_email": "ivoibs@msn.com",
    "address": "3845 Arcadia Dr",
    "parcel_number": "56-18-16-177-050"
  },
@@ -2890,7 +2890,7 @@
    "owner_mobile": "(734) 512 7508",
    "contractor": "Levine James M",
    "contractor_phone": "(248) 681 1994",
-   "email": "willg@aol.com",
+   "contractor_email": "willg@aol.com",
    "address": "3850 Shady Beach Blvd",
    "parcel_number": ""
  },
@@ -2905,7 +2905,7 @@
    "owner_mobile": "(734) 516 4192",
    "contractor": "Premier Plumbing Inc",
    "contractor_phone": "(248) 681 1809",
-   "email": "burniske@aol.com",
+   "contractor_email": "burniske@aol.com",
    "address": "3908 Laplaya Ln",
    "parcel_number": "56-18-16-151-009"
  },
@@ -2920,7 +2920,7 @@
    "owner_mobile": "(734) 516 9141",
    "contractor": "Balbes Custom Builders Inc",
    "contractor_phone": "(248) 681 1694",
-   "email": "catalog@mac.com",
+   "contractor_email": "catalog@mac.com",
    "address": "3131 Bay Shore Dr",
    "parcel_number": "56-18-09-402-007"
  },
@@ -2935,7 +2935,7 @@
    "owner_mobile": "(734) 522 1601",
    "contractor": "All American Electric",
    "contractor_phone": "(248) 681 1473",
-   "email": "shawnce@mac.com",
+   "contractor_email": "shawnce@mac.com",
    "address": "3908 Laplaya Ln",
    "parcel_number": "56-18-16-151-009"
  },
@@ -2950,7 +2950,7 @@
    "owner_mobile": "(734) 522 6190",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(248) 681 1438",
-   "email": "bogjobber@msn.com",
+   "contractor_email": "bogjobber@msn.com",
    "address": "4569 Cherry Hill Dr",
    "parcel_number": "56-18-15-376-013"
  },
@@ -2965,7 +2965,7 @@
    "owner_mobile": "(734) 525 7437",
    "contractor": "A and M Plumbing",
    "contractor_phone": "(248) 681 1367",
-   "email": "drezet@gmail.com",
+   "contractor_email": "drezet@gmail.com",
    "address": "5982 Pontiac Trl",
    "parcel_number": "56-18-16-351-038"
  },
@@ -2980,7 +2980,7 @@
    "owner_mobile": "(734) 525 7437",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(248) 681 1314",
-   "email": "leslie@yahoo.com",
+   "contractor_email": "leslie@yahoo.com",
    "address": "5846 Prado Ct",
    "parcel_number": "56-18-16-104-004"
  },
@@ -2995,7 +2995,7 @@
    "owner_mobile": "(734) 536 1945",
    "contractor": "J Simon and Sons Electrical Contractors",
    "contractor_phone": "(248) 681 1298",
-   "email": "kuparine@aol.com",
+   "contractor_email": "kuparine@aol.com",
    "address": "4415 S Bay Dr",
    "parcel_number": "56-18-15-351-007"
  },
@@ -3010,7 +3010,7 @@
    "owner_mobile": "(734) 536 6030",
    "contractor": "Bayne Electric",
    "contractor_phone": "(248) 681 1237",
-   "email": "tedrlord@msn.com",
+   "contractor_email": "tedrlord@msn.com",
    "address": "4960 Birchway Dr",
    "parcel_number": ""
  },
@@ -3025,7 +3025,7 @@
    "owner_mobile": "(734) 564 0647",
    "contractor": "American Fireplace Dist Inc",
    "contractor_phone": "(248) 681 1182",
-   "email": "knorr@me.com",
+   "contractor_email": "knorr@me.com",
    "address": "4685 Commerce Rd",
    "parcel_number": "56-18-10-176-004"
  },
@@ -3040,7 +3040,7 @@
    "owner_mobile": "(734) 564 8824",
    "contractor": "Caliber Electric Llc",
    "contractor_phone": "(248) 681 1144",
-   "email": "dialworld@live.com",
+   "contractor_email": "dialworld@live.com",
    "address": "3206 Orchard Lake Rd",
    "parcel_number": "56-18-02-451-010"
  },
@@ -3055,7 +3055,7 @@
    "owner_mobile": "(734) 564 8824",
    "contractor": "Lee Richard Alan",
    "contractor_phone": "(248) 681 1112",
-   "email": "snunez@gmail.com",
+   "contractor_email": "snunez@gmail.com",
    "address": "4050 Oak Bank Ct",
    "parcel_number": "56-18-15-426-019"
  },
@@ -3070,7 +3070,7 @@
    "owner_mobile": "(734) 585 6210",
    "contractor": "Quality Over Quantity Everytime",
    "contractor_phone": "(248) 681 0858",
-   "email": "lstein@outlook.com",
+   "contractor_email": "lstein@outlook.com",
    "address": "4069 Harbor Vista Dr",
    "parcel_number": "56-18-14-152-019"
  },
@@ -3085,7 +3085,7 @@
    "owner_mobile": "(734) 591 3310",
    "contractor": "",
    "contractor_phone": "(248) 681 0675",
-   "email": "liedra@yahoo.ca",
+   "contractor_email": "liedra@yahoo.ca",
    "address": "165 Pontiac Trl",
    "parcel_number": "56-18-16-376-007"
  },
@@ -3100,7 +3100,7 @@
    "owner_mobile": "(734) 612 9291",
    "contractor": "Fuerst Plumbing Co",
    "contractor_phone": "(248) 681 0538",
-   "email": "nichoj@aol.com",
+   "contractor_email": "nichoj@aol.com",
    "address": "5281 N Bay Dr",
    "parcel_number": "56-18-09-276-024"
  },
@@ -3115,7 +3115,7 @@
    "owner_mobile": "(734) 621 3749",
    "contractor": "Malota Martin",
    "contractor_phone": "(248) 681 0412",
-   "email": "stinson@outlook.com",
+   "contractor_email": "stinson@outlook.com",
    "address": "3700 Sunset Blvd",
    "parcel_number": "56-18-16-131-036"
  },
@@ -3130,7 +3130,7 @@
    "owner_mobile": "(734) 626 8516",
    "contractor": "Aver Sign Company",
    "contractor_phone": "(248) 681 0345",
-   "email": "mkearl@verizon.net",
+   "contractor_email": "mkearl@verizon.net",
    "address": "4093 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-004"
  },
@@ -3145,7 +3145,7 @@
    "owner_mobile": "(734) 634 1776",
    "contractor": "Aver Sign Company",
    "contractor_phone": "(248) 681 0233",
-   "email": "ivoibs@optonline.net",
+   "contractor_email": "ivoibs@optonline.net",
    "address": "4093 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-004"
  },
@@ -3160,7 +3160,7 @@
    "owner_mobile": "(734) 636 4739",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 681 0044",
-   "email": "budinger@live.com",
+   "contractor_email": "budinger@live.com",
    "address": "3115 W Shore Dr",
    "parcel_number": "56-18-09-426-001"
  },
@@ -3175,7 +3175,7 @@
    "owner_mobile": "(734) 641 2700",
    "contractor": "Tryban Tree And Landscaping",
    "contractor_phone": "(248) 680 8970",
-   "email": "hillct@comcast.net",
+   "contractor_email": "hillct@comcast.net",
    "address": "3535 Indian Trl Bldg F",
    "parcel_number": ""
  },
@@ -3190,7 +3190,7 @@
    "owner_mobile": "(734) 655 1360",
    "contractor": "Fireclass Llc",
    "contractor_phone": "(248) 680 8970",
-   "email": "arebenti@live.com",
+   "contractor_email": "arebenti@live.com",
    "address": "4951 Elmgate Dr",
    "parcel_number": "56-18-16-276-017"
  },
@@ -3205,7 +3205,7 @@
    "owner_mobile": "(734) 655 1360",
    "contractor": "Miles Bradley Building and Remodeling",
    "contractor_phone": "(248) 679 6573",
-   "email": "jhardin@msn.com",
+   "contractor_email": "jhardin@msn.com",
    "address": "3863 Lakeview Blvd",
    "parcel_number": "56-18-16-186-022"
  },
@@ -3220,7 +3220,7 @@
    "owner_mobile": "(734) 655 1360",
    "contractor": "Family Heating Co Inc",
    "contractor_phone": "(248) 678 5051",
-   "email": "kourai@hotmail.com",
+   "contractor_email": "kourai@hotmail.com",
    "address": "4945 Pelletier Blvd",
    "parcel_number": "56-18-09-276-016"
  },
@@ -3235,7 +3235,7 @@
    "owner_mobile": "(734) 660 3457",
    "contractor": "Mosher and Associates",
    "contractor_phone": "(248) 678 3046",
-   "email": "chronos@live.com",
+   "contractor_email": "chronos@live.com",
    "address": "4950 Birchway Dr",
    "parcel_number": "56-18-15-101-008"
  },
@@ -3250,7 +3250,7 @@
    "owner_mobile": "(734) 660 5640",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 677 1017",
-   "email": "druschel@mac.com",
+   "contractor_email": "druschel@mac.com",
    "address": "3969 Laplaya Ln",
    "parcel_number": "56-18-16-152-010"
  },
@@ -3265,7 +3265,7 @@
    "owner_mobile": "(734) 664 8307",
    "contractor": "Blackbird Holding Company Llc",
    "contractor_phone": "(248) 676 8035",
-   "email": "rohitm@verizon.net",
+   "contractor_email": "rohitm@verizon.net",
    "address": "3206 Orchard Lake Rd",
    "parcel_number": "56-18-02-451-010"
  },
@@ -3280,7 +3280,7 @@
    "owner_mobile": "(734) 664 8449",
    "contractor": "Family Heating Co Inc",
    "contractor_phone": "(248) 676 8035",
-   "email": "jtorkbob@msn.com",
+   "contractor_email": "jtorkbob@msn.com",
    "address": "4790 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-004"
  },
@@ -3295,7 +3295,7 @@
    "owner_mobile": "(734) 665 7168",
    "contractor": "The Pond Place Of Michigan",
    "contractor_phone": "(248) 674 7450",
-   "email": "claypool@msn.com",
+   "contractor_email": "claypool@msn.com",
    "address": "3294 Wards Pointe Dr",
    "parcel_number": ""
  },
@@ -3310,7 +3310,7 @@
    "owner_mobile": "(734) 673 7247",
    "contractor": "Diversified Wireless Electrical Services",
    "contractor_phone": "(248) 674 5000",
-   "email": "lridener@mac.com",
+   "contractor_email": "lridener@mac.com",
    "address": "4387 Cherry Hill Dr",
    "parcel_number": "56-18-15-452-005"
  },
@@ -3325,7 +3325,7 @@
    "owner_mobile": "(734) 674 5817",
    "contractor": "Randall Varcoe",
    "contractor_phone": "(248) 674 1127",
-   "email": "jipsen@me.com",
+   "contractor_email": "jipsen@me.com",
    "address": "3206 Orchard Lake Rd",
    "parcel_number": "56-18-02-451-010"
  },
@@ -3340,7 +3340,7 @@
    "owner_mobile": "(734) 676 3074",
    "contractor": "Aj Danboise",
    "contractor_phone": "(248) 673 7555",
-   "email": "dexter@yahoo.ca",
+   "contractor_email": "dexter@yahoo.ca",
    "address": "3815 Indian Trl",
    "parcel_number": "56-18-11-376-016"
  },
@@ -3355,7 +3355,7 @@
    "owner_mobile": "(734) 676 4488",
    "contractor": "Quality Heating and Cooling Inc",
    "contractor_phone": "(248) 673 2121",
-   "email": "moonlapse@mac.com",
+   "contractor_email": "moonlapse@mac.com",
    "address": "4700 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-012"
  },
@@ -3370,7 +3370,7 @@
    "owner_mobile": "(734) 709 1687",
    "contractor": "",
    "contractor_phone": "(248) 672 0631",
-   "email": "syncnine@outlook.com",
+   "contractor_email": "syncnine@outlook.com",
    "address": "3535 Indian Trl Bldg F",
    "parcel_number": "56-18-11-176-013"
  },
@@ -3385,7 +3385,7 @@
    "owner_mobile": "(734) 716 2942",
    "contractor": "Matheson Heating Ac Plumbing",
    "contractor_phone": "(248) 670 3780",
-   "email": "studyabr@mac.com",
+   "contractor_email": "studyabr@mac.com",
    "address": "5725 Shore Dr",
    "parcel_number": "56-18-16-180-003"
  },
@@ -3400,7 +3400,7 @@
    "owner_mobile": "(734) 721 0290",
    "contractor": "Matheson Heating Ac Plumbing",
    "contractor_phone": "(248) 670 2045",
-   "email": "gemmell@verizon.net",
+   "contractor_email": "gemmell@verizon.net",
    "address": "5725 Shore Dr",
    "parcel_number": "56-18-16-180-003"
  },
@@ -3415,7 +3415,7 @@
    "owner_mobile": "(734) 721 0290",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 669 9730",
-   "email": "dowdy@me.com",
+   "contractor_email": "dowdy@me.com",
    "address": "3386 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-055"
  },
@@ -3430,7 +3430,7 @@
    "owner_mobile": "(734) 722 0037",
    "contractor": "Orchard Development and Construction Inc",
    "contractor_phone": "(248) 669 9007",
-   "email": "wiseb@att.net",
+   "contractor_email": "wiseb@att.net",
    "address": "5081 Commerce Rd",
    "parcel_number": ""
  },
@@ -3445,7 +3445,7 @@
    "owner_mobile": "(734) 729 5172",
    "contractor": "Da Contracting Llc",
    "contractor_phone": "(248) 669 6640",
-   "email": "bflong@optonline.net",
+   "contractor_email": "bflong@optonline.net",
    "address": "4601 Dow Ridge Rd",
    "parcel_number": "56-18-10-102-012"
  },
@@ -3460,7 +3460,7 @@
    "owner_mobile": "(734) 730 9733",
    "contractor": "Michael",
    "contractor_phone": "(248) 669 3032",
-   "email": "chaki@icloud.com",
+   "contractor_email": "chaki@icloud.com",
    "address": "5656 Pontiac Trl",
    "parcel_number": ""
  },
@@ -3475,7 +3475,7 @@
    "owner_mobile": "(734) 740 1541",
    "contractor": "Professional Htg and Clg",
    "contractor_phone": "(248) 669 0660",
-   "email": "chinthaka@outlook.com",
+   "contractor_email": "chinthaka@outlook.com",
    "address": "4685 Commerce Rd",
    "parcel_number": "56-18-10-176-004"
  },
@@ -3490,7 +3490,7 @@
    "owner_mobile": "(734) 740 1541",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 668 9151",
-   "email": "natepuri@verizon.net",
+   "contractor_email": "natepuri@verizon.net",
    "address": "4640 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-048"
  },
@@ -3505,7 +3505,7 @@
    "owner_mobile": "(734) 748 0676",
    "contractor": "Templin Heating And Cooling",
    "contractor_phone": "(248) 668 9090",
-   "email": "mfburgo@optonline.net",
+   "contractor_email": "mfburgo@optonline.net",
    "address": "4150 Pontiac Trl",
    "parcel_number": "56-18-15-426-021"
  },
@@ -3520,7 +3520,7 @@
    "owner_mobile": "(734) 751 2627",
    "contractor": "Templin Heating And Cooling",
    "contractor_phone": "(248) 668 1800",
-   "email": "yruan@mac.com",
+   "contractor_email": "yruan@mac.com",
    "address": "4504 Old Orchard Trl",
    "parcel_number": "56-18-15-303-002"
  },
@@ -3535,7 +3535,7 @@
    "owner_mobile": "(734) 751 3280",
    "contractor": "American Generator Sales and Services",
    "contractor_phone": "(248) 666 2900",
-   "email": "msusa@sbcglobal.net",
+   "contractor_email": "msusa@sbcglobal.net",
    "address": "5164 Deer Run Cir",
    "parcel_number": "56-18-16-476-026"
  },
@@ -3550,7 +3550,7 @@
    "owner_mobile": "(734) 752 0784",
    "contractor": "Macson Electric Llc",
    "contractor_phone": "(248) 664 5702",
-   "email": "boein@msn.com",
+   "contractor_email": "boein@msn.com",
    "address": "5164 Deer Run Cir",
    "parcel_number": "56-18-16-476-026"
  },
@@ -3565,7 +3565,7 @@
    "owner_mobile": "(734) 752 2171",
    "contractor": "Scott Patrick Macdonald",
    "contractor_phone": "(248) 663 3510",
-   "email": "padme@comcast.net",
+   "contractor_email": "padme@comcast.net",
    "address": "4033 Beach Dr",
    "parcel_number": "56-18-16-329-005"
  },
@@ -3580,7 +3580,7 @@
    "owner_mobile": "(734) 757 4308",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(248) 661 9052",
-   "email": "fhirsch@verizon.net",
+   "contractor_email": "fhirsch@verizon.net",
    "address": "3860 Vista Ln",
    "parcel_number": "56-18-14-101-003"
  },
@@ -3595,7 +3595,7 @@
    "owner_mobile": "(734) 757 4308",
    "contractor": "Macson Electric Llc",
    "contractor_phone": "(248) 660 4749",
-   "email": "kspiteri@mac.com",
+   "contractor_email": "kspiteri@mac.com",
    "address": "4495 Hidden Valley Dr",
    "parcel_number": "56-18-15-354-001"
  },
@@ -3610,7 +3610,7 @@
    "owner_mobile": "(734) 771 4688",
    "contractor": "Macson Electric Llc",
    "contractor_phone": "(248) 660 3749",
-   "email": "marnanel@hotmail.com",
+   "contractor_email": "marnanel@hotmail.com",
    "address": "4495 Hidden Valley Dr",
    "parcel_number": "56-18-15-354-001"
  },
@@ -3625,7 +3625,7 @@
    "owner_mobile": "(734) 777 8999",
    "contractor": "Macson Electric Llc",
    "contractor_phone": "(248) 658 0780",
-   "email": "corrada@live.com",
+   "contractor_email": "corrada@live.com",
    "address": "4495 Hidden Valley Dr",
    "parcel_number": "56-18-15-354-001"
  },
@@ -3640,7 +3640,7 @@
    "owner_mobile": "(734) 778 0262",
    "contractor": "Otto A Trzos Co",
    "contractor_phone": "(248) 656 6059",
-   "email": "skajan@gmail.com",
+   "contractor_email": "skajan@gmail.com",
    "address": "3535 Indian Trl Bldg F",
    "parcel_number": "56-18-11-176-013"
  },
@@ -3655,7 +3655,7 @@
    "owner_mobile": "(734) 812 7570",
    "contractor": "Randy",
    "contractor_phone": "(248) 654 9964",
-   "email": "wenzlaff@comcast.net",
+   "contractor_email": "wenzlaff@comcast.net",
    "address": "4525 Dow Ridge Rd",
    "parcel_number": "56-18-10-102-010"
  },
@@ -3670,7 +3670,7 @@
    "owner_mobile": "(734) 837 4200",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 652 0990",
-   "email": "yfreund@aol.com",
+   "contractor_email": "yfreund@aol.com",
    "address": "4875 Old Orchard Trl",
    "parcel_number": "56-18-16-276-037"
  },
@@ -3685,7 +3685,7 @@
    "owner_mobile": "(734) 878 2306",
    "contractor": "Collette",
    "contractor_phone": "(248) 651 1655",
-   "email": "stecoop@att.net",
+   "contractor_email": "stecoop@att.net",
    "address": "3397 Indiandale Dr",
    "parcel_number": "56-18-11-201-005"
  },
@@ -3700,7 +3700,7 @@
    "owner_mobile": "(734) 878 9759",
    "contractor": "Fireclass Llc",
    "contractor_phone": "(248) 650 3517",
-   "email": "nelson@aol.com",
+   "contractor_email": "nelson@aol.com",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -3715,7 +3715,7 @@
    "owner_mobile": "(734) 883 0944",
    "contractor": "Bongero Construction",
    "contractor_phone": "(248) 650 3517",
-   "email": "stewwy@msn.com",
+   "contractor_email": "stewwy@msn.com",
    "address": "3599 Wards Pointe Dr",
    "parcel_number": ""
  },
@@ -3730,7 +3730,7 @@
    "owner_mobile": "(734) 995 9995",
    "contractor": "Ib Electric Inc",
    "contractor_phone": "(248) 650 1990",
-   "email": "bjornk@yahoo.ca",
+   "contractor_email": "bjornk@yahoo.ca",
    "address": "4127 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-002"
  },
@@ -3745,7 +3745,7 @@
    "owner_mobile": "(800) 350 2494",
    "contractor": "Fadi",
    "contractor_phone": "(248) 649 1975",
-   "email": "louise@comcast.net",
+   "contractor_email": "louise@comcast.net",
    "address": "4127 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-002"
  },
@@ -3760,7 +3760,7 @@
    "owner_mobile": "(800) 364 2642",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 646 8277",
-   "email": "wenzlaff@optonline.net",
+   "contractor_email": "wenzlaff@optonline.net",
    "address": "4048 Oak Bank Ct",
    "parcel_number": "56-18-15-426-018"
  },
@@ -3775,7 +3775,7 @@
    "owner_mobile": "(800) 574 2000",
    "contractor": "Vlad Electric",
    "contractor_phone": "(248) 646 6564",
-   "email": "tamas@outlook.com",
+   "contractor_email": "tamas@outlook.com",
    "address": "4700 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-012"
  },
@@ -3790,7 +3790,7 @@
    "owner_mobile": "(800) 574 2000",
    "contractor": "Inc",
    "contractor_phone": "(248) 645 5900",
-   "email": "pemungkah@verizon.net",
+   "contractor_email": "pemungkah@verizon.net",
    "address": "4685 Commerce Rd",
    "parcel_number": "56-18-10-176-004"
  },
@@ -3805,7 +3805,7 @@
    "owner_mobile": "(800) 654 1300",
    "contractor": "Funspace Direct Llc",
    "contractor_phone": "(248) 645 2986",
-   "email": "tbmaddux@yahoo.com",
+   "contractor_email": "tbmaddux@yahoo.com",
    "address": "3080 Bay Shore Dr",
    "parcel_number": ""
  },
@@ -3820,7 +3820,7 @@
    "owner_mobile": "(800) 790 2149",
    "contractor": "Douglas",
    "contractor_phone": "(248) 644 8910",
-   "email": "rfisher@msn.com",
+   "contractor_email": "rfisher@msn.com",
    "address": "3685 Sunset Blvd",
    "parcel_number": "56-18-16-132-098"
  },
@@ -3835,7 +3835,7 @@
    "owner_mobile": "(800) 949 0009",
    "contractor": "Mechanical Plumbing",
    "contractor_phone": "(248) 644 7810",
-   "email": "inico@comcast.net",
+   "contractor_email": "inico@comcast.net",
    "address": "4560 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-033"
  },
@@ -3850,7 +3850,7 @@
    "owner_mobile": "(801) 391 3258",
    "contractor": "Mechanical Plumbing",
    "contractor_phone": "(248) 644 7810",
-   "email": "kosact@mac.com",
+   "contractor_email": "kosact@mac.com",
    "address": "4560 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-033"
  },
@@ -3865,7 +3865,7 @@
    "owner_mobile": "(804) 382 9548",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(248) 644 7810",
-   "email": "nasarius@me.com",
+   "contractor_email": "nasarius@me.com",
    "address": "4395 Hickory Ct",
    "parcel_number": "56-18-15-452-018"
  },
@@ -3880,7 +3880,7 @@
    "owner_mobile": "(810) 217 6524",
    "contractor": "Rc Lomasney and Sons",
    "contractor_phone": "(248) 644 6330",
-   "email": "moonlapse@comcast.net",
+   "contractor_email": "moonlapse@comcast.net",
    "address": "3206 Orchard Lake Rd",
    "parcel_number": "56-18-02-451-010"
  },
@@ -3895,7 +3895,7 @@
    "owner_mobile": "(810) 225 0539",
    "contractor": "Combs Electric Inc",
    "contractor_phone": "(248) 644 3410",
-   "email": "jmmuller@yahoo.ca",
+   "contractor_email": "jmmuller@yahoo.ca",
    "address": "4560 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-033"
  },
@@ -3910,7 +3910,7 @@
    "owner_mobile": "(810) 225 3192",
    "contractor": "Family Heating Co Inc",
    "contractor_phone": "(248) 644 3410",
-   "email": "lstaf@att.net",
+   "contractor_email": "lstaf@att.net",
    "address": "4009 Harbor Vista Dr",
    "parcel_number": "56-18-14-152-011"
  },
@@ -3925,7 +3925,7 @@
    "owner_mobile": "(810) 229 9646",
    "contractor": "Majic Window Co",
    "contractor_phone": "(248) 643 4466",
-   "email": "hyper@verizon.net",
+   "contractor_email": "hyper@verizon.net",
    "address": "3655 Arcadia Dr",
    "parcel_number": "56-18-16-129-040"
  },
@@ -3940,7 +3940,7 @@
    "owner_mobile": "(810) 229 9646",
    "contractor": "Rouke Greg",
    "contractor_phone": "(248) 642 7711",
-   "email": "dkrishna@yahoo.ca",
+   "contractor_email": "dkrishna@yahoo.ca",
    "address": "5954 Pontiac Trl",
    "parcel_number": "56-18-16-351-043"
  },
@@ -3955,7 +3955,7 @@
    "owner_mobile": "(810) 230 6445",
    "contractor": "Shango Masoud",
    "contractor_phone": "(248) 642 7711",
-   "email": "scarolan@aol.com",
+   "contractor_email": "scarolan@aol.com",
    "address": "4825 Old Orchard Trl",
    "parcel_number": "56-18-15-151-015"
  },
@@ -3970,7 +3970,7 @@
    "owner_mobile": "(810) 231 2778",
    "contractor": "Shango Masoud",
    "contractor_phone": "(248) 642 7711",
-   "email": "hermes@mac.com",
+   "contractor_email": "hermes@mac.com",
    "address": "4825 Old Orchard Trl",
    "parcel_number": "56-18-15-151-015"
  },
@@ -3985,7 +3985,7 @@
    "owner_mobile": "(810) 231 3330",
    "contractor": "Shango Masoud",
    "contractor_phone": "(248) 642 5330",
-   "email": "fraser@mac.com",
+   "contractor_email": "fraser@mac.com",
    "address": "4825 Old Orchard Trl",
    "parcel_number": ""
  },
@@ -4000,7 +4000,7 @@
    "owner_mobile": "(810) 233 0233",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 642 3522",
-   "email": "nacho@icloud.com",
+   "contractor_email": "nacho@icloud.com",
    "address": "3650 Sunset Blvd",
    "parcel_number": "56-18-16-128-127"
  },
@@ -4015,7 +4015,7 @@
    "owner_mobile": "(810) 233 0233",
    "contractor": "Kreutzer James",
    "contractor_phone": "(248) 640 7448",
-   "email": "tromey@gmail.com",
+   "contractor_email": "tromey@gmail.com",
    "address": "5821 Old Orchard Trl",
    "parcel_number": "56-18-16-101-002"
  },
@@ -4030,7 +4030,7 @@
    "owner_mobile": "(810) 247 5616",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 640 5253",
-   "email": "dmiller@outlook.com",
+   "contractor_email": "dmiller@outlook.com",
    "address": "4948 Browning Dr",
    "parcel_number": "56-18-22-105-004"
  },
@@ -4045,7 +4045,7 @@
    "owner_mobile": "(810) 252 9931",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 640 5009",
-   "email": "fudrucker@aol.com",
+   "contractor_email": "fudrucker@aol.com",
    "address": "4948 Browning Dr",
    "parcel_number": "56-18-22-105-004"
  },
@@ -4060,7 +4060,7 @@
    "owner_mobile": "(810) 252 9931",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 640 3719",
-   "email": "morain@hotmail.com",
+   "contractor_email": "morain@hotmail.com",
    "address": "4948 Browning Dr",
    "parcel_number": "56-18-22-105-004"
  },
@@ -4075,7 +4075,7 @@
    "owner_mobile": "(810) 263 0121",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 640 3545",
-   "email": "jespley@live.com",
+   "contractor_email": "jespley@live.com",
    "address": "4948 Browning Dr",
    "parcel_number": "56-18-22-105-004"
  },
@@ -4090,7 +4090,7 @@
    "owner_mobile": "(810) 275 2282",
    "contractor": "",
    "contractor_phone": "(248) 640 3212",
-   "email": "jpflip@aol.com",
+   "contractor_email": "jpflip@aol.com",
    "address": "4143 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-003"
  },
@@ -4105,7 +4105,7 @@
    "owner_mobile": "(810) 278 7175",
    "contractor": "Albert William",
    "contractor_phone": "(248) 640 2614",
-   "email": "jonadab@me.com",
+   "contractor_email": "jonadab@me.com",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -4120,7 +4120,7 @@
    "owner_mobile": "(810) 278 7175",
    "contractor": "Superior Heating and Cooling Inc",
    "contractor_phone": "(248) 640 0006",
-   "email": "kimvette@aol.com",
+   "contractor_email": "kimvette@aol.com",
    "address": "3061 Bay Shore Dr",
    "parcel_number": "56-18-09-402-019"
  },
@@ -4135,7 +4135,7 @@
    "owner_mobile": "(810) 294 9820",
    "contractor": "Evelux",
    "contractor_phone": "(248) 635 9747",
-   "email": "dmbkiwi@yahoo.ca",
+   "contractor_email": "dmbkiwi@yahoo.ca",
    "address": "5822 Prado Ct",
    "parcel_number": "56-18-16-104-005"
  },
@@ -4150,7 +4150,7 @@
    "owner_mobile": "(810) 334 3999",
    "contractor": "Metamora Building and Development",
    "contractor_phone": "(248) 635 9556",
-   "email": "cmdrgravy@live.com",
+   "contractor_email": "cmdrgravy@live.com",
    "address": "2824 Orchard Pl",
    "parcel_number": "56-18-10-152-006"
  },
@@ -4165,7 +4165,7 @@
    "owner_mobile": "(810) 338 1999",
    "contractor": "Lake Orion Roofing",
    "contractor_phone": "(248) 635 7412",
-   "email": "ahuillet@mac.com",
+   "contractor_email": "ahuillet@mac.com",
    "address": "5518 Sunshine Pl",
    "parcel_number": ""
  },
@@ -4180,7 +4180,7 @@
    "owner_mobile": "(810) 338 1999",
    "contractor": "A 1 Professional Plumbing Inc",
    "contractor_phone": "(248) 634 4368",
-   "email": "mastinfo@outlook.com",
+   "contractor_email": "mastinfo@outlook.com",
    "address": "4143 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-003"
  },
@@ -4195,7 +4195,7 @@
    "owner_mobile": "(810) 343 5568",
    "contractor": "Built By Bryan Llc",
    "contractor_phone": "(248) 633 3765",
-   "email": "parents@yahoo.ca",
+   "contractor_email": "parents@yahoo.ca",
    "address": "3402 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-040"
  },
@@ -4210,7 +4210,7 @@
    "owner_mobile": "(810) 358 7498",
    "contractor": "Araboo George Hanna",
    "contractor_phone": "(248) 629 9260",
-   "email": "sacraver@gmail.com",
+   "contractor_email": "sacraver@gmail.com",
    "address": "5305 Elmgate Bay Dr",
    "parcel_number": "56-18-16-201-009"
  },
@@ -4225,7 +4225,7 @@
    "owner_mobile": "(810) 397 5166",
    "contractor": "Araboo George Hanna",
    "contractor_phone": "(248) 629 9260",
-   "email": "richard@mac.com",
+   "contractor_email": "richard@mac.com",
    "address": "5305 Elmgate Bay Dr",
    "parcel_number": "56-18-16-201-009"
  },
@@ -4240,7 +4240,7 @@
    "owner_mobile": "(810) 397 6216",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 629 7075",
-   "email": "qmacro@icloud.com",
+   "contractor_email": "qmacro@icloud.com",
    "address": "3969 Laplaya Ln",
    "parcel_number": "56-18-16-152-010"
  },
@@ -4255,7 +4255,7 @@
    "owner_mobile": "(810) 411 4338",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 629 7075",
-   "email": "jmorris@mac.com",
+   "contractor_email": "jmorris@mac.com",
    "address": "3969 Laplaya Ln",
    "parcel_number": "56-18-16-152-010"
  },
@@ -4270,7 +4270,7 @@
    "owner_mobile": "(810) 441 1874",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 629 5337",
-   "email": "nanop@att.net",
+   "contractor_email": "nanop@att.net",
    "address": "3969 Laplaya Ln",
    "parcel_number": "56-18-16-152-010"
  },
@@ -4285,7 +4285,7 @@
    "owner_mobile": "(810) 441 3558",
    "contractor": "Ristic Sheet Metal",
    "contractor_phone": "(248) 628 7714",
-   "email": "teverett@comcast.net",
+   "contractor_email": "teverett@comcast.net",
    "address": "4143 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-003"
  },
@@ -4300,7 +4300,7 @@
    "owner_mobile": "(810) 459 0130",
    "contractor": "Gamma Electric",
    "contractor_phone": "(248) 628 7714",
-   "email": "josephw@hotmail.com",
+   "contractor_email": "josephw@hotmail.com",
    "address": "4143 Orchard Lake Rd",
    "parcel_number": "56-18-14-301-003"
  },
@@ -4315,7 +4315,7 @@
    "owner_mobile": "(810) 499 4443",
    "contractor": "Three C's Landscaping",
    "contractor_phone": "(248) 628 7550",
-   "email": "forsberg@comcast.net",
+   "contractor_email": "forsberg@comcast.net",
    "address": "4831 Old Orchard Trl",
    "parcel_number": "56-18-15-151-014"
  },
@@ -4330,7 +4330,7 @@
    "owner_mobile": "(810) 499 5290",
    "contractor": "Tobias Construction Inc",
    "contractor_phone": "(248) 627 5429",
-   "email": "cameron@comcast.net",
+   "contractor_email": "cameron@comcast.net",
    "address": "3752 Erie Dr",
    "parcel_number": "56-18-11-126-022"
  },
@@ -4345,7 +4345,7 @@
    "owner_mobile": "(810) 499 9897",
    "contractor": "",
    "contractor_phone": "(248) 627 5429",
-   "email": "cyrus@live.com",
+   "contractor_email": "cyrus@live.com",
    "address": "",
    "parcel_number": ""
  },
@@ -4360,7 +4360,7 @@
    "owner_mobile": "(810) 503 1161",
    "contractor": "Thornton and Grooms Inc",
    "contractor_phone": "(248) 627 3865",
-   "email": "chrisj@msn.com",
+   "contractor_email": "chrisj@msn.com",
    "address": "4009 Park Dr",
    "parcel_number": "56-18-16-329-002"
  },
@@ -4375,7 +4375,7 @@
    "owner_mobile": "(810) 513 1274",
    "contractor": "Thornton and Grooms Inc",
    "contractor_phone": "(248) 626 6900",
-   "email": "atmarks@sbcglobal.net",
+   "contractor_email": "atmarks@sbcglobal.net",
    "address": "4009 Park Dr",
    "parcel_number": "56-18-16-329-002"
  },
@@ -4390,7 +4390,7 @@
    "owner_mobile": "(810) 513 2115",
    "contractor": "Northeast Plumbing Inc",
    "contractor_phone": "(248) 626 6900",
-   "email": "rogerspl@verizon.net",
+   "contractor_email": "rogerspl@verizon.net",
    "address": "3061 Bay Shore Dr",
    "parcel_number": "56-18-09-402-019"
  },
@@ -4405,7 +4405,7 @@
    "owner_mobile": "(810) 523 0307",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 626 4553",
-   "email": "rfoley@gmail.com",
+   "contractor_email": "rfoley@gmail.com",
    "address": "3765 Indian Trl",
    "parcel_number": "56-18-11-376-007"
  },
@@ -4420,7 +4420,7 @@
    "owner_mobile": "(810) 523 3941",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 626 4553",
-   "email": "arathi@yahoo.com",
+   "contractor_email": "arathi@yahoo.com",
    "address": "3765 Indian Trl",
    "parcel_number": "56-18-11-376-007"
  },
@@ -4435,7 +4435,7 @@
    "owner_mobile": "(810) 523 4539",
    "contractor": "Wolverine Electric Company Llc",
    "contractor_phone": "(248) 626 2998",
-   "email": "tellis@optonline.net",
+   "contractor_email": "tellis@optonline.net",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -4450,7 +4450,7 @@
    "owner_mobile": "(810) 531 1232",
    "contractor": "Andy's Statewide Htg and Clg",
    "contractor_phone": "(248) 626 2188",
-   "email": "zeller@outlook.com",
+   "contractor_email": "zeller@outlook.com",
    "address": "5518 Sunshine Pl",
    "parcel_number": "56-18-16-185-033"
  },
@@ -4465,7 +4465,7 @@
    "owner_mobile": "(810) 531 1232",
    "contractor": "Ra Lee Electric",
    "contractor_phone": "(248) 626 1590",
-   "email": "delpino@mac.com",
+   "contractor_email": "delpino@mac.com",
    "address": "5654 Pontiac Trl",
    "parcel_number": "56-18-16-376-009"
  },
@@ -4480,7 +4480,7 @@
    "owner_mobile": "(810) 531 2257",
    "contractor": "Young Hvac Llc",
    "contractor_phone": "(248) 625 9647",
-   "email": "curly@verizon.net",
+   "contractor_email": "curly@verizon.net",
    "address": "3706 Lakeview Blvd",
    "parcel_number": "56-18-16-133-013"
  },
@@ -4495,7 +4495,7 @@
    "owner_mobile": "(810) 531 2257",
    "contractor": "",
    "contractor_phone": "(248) 625 9501",
-   "email": "crandall@mac.com",
+   "contractor_email": "crandall@mac.com",
    "address": "",
    "parcel_number": ""
  },
@@ -4510,7 +4510,7 @@
    "owner_mobile": "(810) 531 3543",
    "contractor": "Teeples Heating and Cooling",
    "contractor_phone": "(248) 625 1420",
-   "email": "jamuir@att.net",
+   "contractor_email": "jamuir@att.net",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -4525,7 +4525,7 @@
    "owner_mobile": "(810) 533 9285",
    "contractor": "Orchard Development and Construction Inc",
    "contractor_phone": "(248) 625 1420",
-   "email": "jespley@comcast.net",
+   "contractor_email": "jespley@comcast.net",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -4540,7 +4540,7 @@
    "owner_mobile": "(810) 534 0542",
    "contractor": "",
    "contractor_phone": "(248) 625 0731",
-   "email": "esokullu@yahoo.com",
+   "contractor_email": "esokullu@yahoo.com",
    "address": "3402 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-040"
  },
@@ -4555,7 +4555,7 @@
    "owner_mobile": "(810) 534 5042",
    "contractor": "Flame Heating cooling electric",
    "contractor_phone": "(248) 624 9153",
-   "email": "matsn@verizon.net",
+   "contractor_email": "matsn@verizon.net",
    "address": "5201 N Bay Dr",
    "parcel_number": "56-18-09-276-023"
  },
@@ -4570,7 +4570,7 @@
    "owner_mobile": "(810) 560 0426",
    "contractor": "Todd's Services Inc",
    "contractor_phone": "(248) 624 5612",
-   "email": "bescoto@msn.com",
+   "contractor_email": "bescoto@msn.com",
    "address": "3650 Sunset Blvd",
    "parcel_number": "56-18-16-128-127"
  },
@@ -4585,7 +4585,7 @@
    "owner_mobile": "(810) 560 0492",
    "contractor": "Hoover Electric Inc",
    "contractor_phone": "(248) 623 8480",
-   "email": "noodles@outlook.com",
+   "contractor_email": "noodles@outlook.com",
    "address": "2877 Orchard Pl",
    "parcel_number": "56-18-10-154-005"
  },
@@ -4600,7 +4600,7 @@
    "owner_mobile": "(810) 560 3763",
    "contractor": "Rjm Services",
    "contractor_phone": "(248) 623 8480",
-   "email": "panolex@yahoo.ca",
+   "contractor_email": "panolex@yahoo.ca",
    "address": "3061 Bay Shore Dr",
    "parcel_number": "56-18-09-402-019"
  },
@@ -4615,7 +4615,7 @@
    "owner_mobile": "(810) 560 5751",
    "contractor": "Mcshane Mechanical",
    "contractor_phone": "(248) 622 5148",
-   "email": "bader@att.net",
+   "contractor_email": "bader@att.net",
    "address": "3988 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-050"
  },
@@ -4630,7 +4630,7 @@
    "owner_mobile": "(810) 560 5751",
    "contractor": "Ma Agueda Rinco",
    "contractor_phone": "(248) 622 4052",
-   "email": "reziac@yahoo.ca",
+   "contractor_email": "reziac@yahoo.ca",
    "address": "5871 Seville Cir",
    "parcel_number": "56-18-16-102-003"
  },
@@ -4645,7 +4645,7 @@
    "owner_mobile": "(810) 560 9976",
    "contractor": "Heather",
    "contractor_phone": "(248) 620 9845",
-   "email": "oster@hotmail.com",
+   "contractor_email": "oster@hotmail.com",
    "address": "5812 Pontiac Trl",
    "parcel_number": "56-18-16-355-011"
  },
@@ -4660,7 +4660,7 @@
    "owner_mobile": "(810) 577 4504",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 620 8930",
-   "email": "stefano@yahoo.com",
+   "contractor_email": "stefano@yahoo.com",
    "address": "4375 Cherry Hill Dr",
    "parcel_number": "56-18-15-452-006"
  },
@@ -4675,7 +4675,7 @@
    "owner_mobile": "(810) 579 4790",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 620 8930",
-   "email": "mdielmann@live.com",
+   "contractor_email": "mdielmann@live.com",
    "address": "4375 Cherry Hill Dr",
    "parcel_number": "56-18-15-452-006"
  },
@@ -4690,7 +4690,7 @@
    "owner_mobile": "(810) 588 0291",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 620 7088",
-   "email": "chrwin@icloud.com",
+   "contractor_email": "chrwin@icloud.com",
    "address": "4375 Cherry Hill Dr",
    "parcel_number": "56-18-15-452-006"
  },
@@ -4705,7 +4705,7 @@
    "owner_mobile": "(810) 599 1070",
    "contractor": "",
    "contractor_phone": "(248) 620 7087",
-   "email": "hllam@sbcglobal.net",
+   "contractor_email": "hllam@sbcglobal.net",
    "address": "",
    "parcel_number": ""
  },
@@ -4720,7 +4720,7 @@
    "owner_mobile": "(810) 602 5548",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 620 7087",
-   "email": "chaffar@me.com",
+   "contractor_email": "chaffar@me.com",
    "address": "4305 Cherry Hill Dr",
    "parcel_number": "56-18-15-427-022"
  },
@@ -4735,7 +4735,7 @@
    "owner_mobile": "(810) 602 9690",
    "contractor": "",
    "contractor_phone": "(248) 620 0777",
-   "email": "jgmyers@yahoo.com",
+   "contractor_email": "jgmyers@yahoo.com",
    "address": "",
    "parcel_number": ""
  },
@@ -4750,7 +4750,7 @@
    "owner_mobile": "(810) 614 0313",
    "contractor": "Family Heating Co Inc",
    "contractor_phone": "(248) 620 0001",
-   "email": "jginspace@optonline.net",
+   "contractor_email": "jginspace@optonline.net",
    "address": "3497 Arrowvale Dr",
    "parcel_number": "56-18-11-128-002"
  },
@@ -4765,7 +4765,7 @@
    "owner_mobile": "(810) 614 4108",
    "contractor": "James",
    "contractor_phone": "(248) 618 9768",
-   "email": "chlim@yahoo.com",
+   "contractor_email": "chlim@yahoo.com",
    "address": "5821 Old Orchard Trl",
    "parcel_number": "56-18-16-101-002"
  },
@@ -4780,7 +4780,7 @@
    "owner_mobile": "(810) 614 4499",
    "contractor": "James",
    "contractor_phone": "(248) 618 7164",
-   "email": "petersen@hotmail.com",
+   "contractor_email": "petersen@hotmail.com",
    "address": "5821 Old Orchard Trl",
    "parcel_number": "56-18-16-101-002"
  },
@@ -4795,7 +4795,7 @@
    "owner_mobile": "(810) 614 6523",
    "contractor": "James",
    "contractor_phone": "(248) 618 4221",
-   "email": "hamilton@aol.com",
+   "contractor_email": "hamilton@aol.com",
    "address": "5821 Old Orchard Trl",
    "parcel_number": "56-18-16-101-002"
  },
@@ -4810,7 +4810,7 @@
    "owner_mobile": "(810) 614 6523",
    "contractor": "Home Inspection Plus",
    "contractor_phone": "(248) 615 1262",
-   "email": "jyoliver@sbcglobal.net",
+   "contractor_email": "jyoliver@sbcglobal.net",
    "address": "4402 Pine Tree Ln",
    "parcel_number": "56-18-16-351-039"
  },
@@ -4825,7 +4825,7 @@
    "owner_mobile": "(810) 614 8437",
    "contractor": "Woodward Electric Inc",
    "contractor_phone": "(248) 613 4311",
-   "email": "vmalik@optonline.net",
+   "contractor_email": "vmalik@optonline.net",
    "address": "5305 Elmgate Bay Dr",
    "parcel_number": "56-18-16-201-009"
  },
@@ -4840,7 +4840,7 @@
    "owner_mobile": "(810) 623 9655",
    "contractor": "Rashid Construction",
    "contractor_phone": "(248) 613 2570",
-   "email": "kidehen@live.com",
+   "contractor_email": "kidehen@live.com",
    "address": "4505 Old Orchard Trl",
    "parcel_number": "56-18-15-301-016"
  },
@@ -4855,7 +4855,7 @@
    "owner_mobile": "(810) 625 7665",
    "contractor": "Scott D",
    "contractor_phone": "(248) 599 9358",
-   "email": "yfreund@yahoo.ca",
+   "contractor_email": "yfreund@yahoo.ca",
    "address": "5509 Evergreen Ave",
    "parcel_number": "56-18-16-130-022"
  },
@@ -4870,7 +4870,7 @@
    "owner_mobile": "(810) 625 8658",
    "contractor": "R Y Construction",
    "contractor_phone": "(248) 593 6200",
-   "email": "andale@yahoo.com",
+   "contractor_email": "andale@yahoo.com",
    "address": "3367 Indiandale Dr",
    "parcel_number": "56-18-11-201-003"
  },
@@ -4885,7 +4885,7 @@
    "owner_mobile": "(810) 650 0799",
    "contractor": "Twin Pines Landscaping",
    "contractor_phone": "(248) 593 2560",
-   "email": "kassiesa@comcast.net",
+   "contractor_email": "kassiesa@comcast.net",
    "address": "3421 W Shore Dr",
    "parcel_number": "56-18-10-351-002"
  },
@@ -4900,7 +4900,7 @@
    "owner_mobile": "(810) 650 2534",
    "contractor": "Twin Pines Landscaping",
    "contractor_phone": "(248) 593 2560",
-   "email": "webdragon@live.com",
+   "contractor_email": "webdragon@live.com",
    "address": "3421 W Shore Dr",
    "parcel_number": "56-18-10-351-002"
  },
@@ -4915,7 +4915,7 @@
    "owner_mobile": "(810) 650 2815",
    "contractor": "Samuel",
    "contractor_phone": "(248) 593 1442",
-   "email": "gmcgath@msn.com",
+   "contractor_email": "gmcgath@msn.com",
    "address": "3725 Sunset Blvd",
    "parcel_number": "56-18-16-132-100"
  },
@@ -4930,7 +4930,7 @@
    "owner_mobile": "(810) 650 9234",
    "contractor": "A 1 Professional Plumbing Inc",
    "contractor_phone": "(248) 581 3030",
-   "email": "bruck@verizon.net",
+   "contractor_email": "bruck@verizon.net",
    "address": "4135 Orchard Lake Rd",
    "parcel_number": "56-99-00-001-002"
  },
@@ -4945,7 +4945,7 @@
    "owner_mobile": "(810) 652 6622",
    "contractor": "American Standard Roofing",
    "contractor_phone": "(248) 572 6464",
-   "email": "oster@msn.com",
+   "contractor_email": "oster@msn.com",
    "address": "5959 Seville Cir",
    "parcel_number": "56-18-16-102-007"
  },
@@ -4960,7 +4960,7 @@
    "owner_mobile": "(810) 655 7665",
    "contractor": "American Standard Roofing",
    "contractor_phone": "(248) 569 7474",
-   "email": "sagal@icloud.com",
+   "contractor_email": "sagal@icloud.com",
    "address": "4501 Orchard Trail Ct",
    "parcel_number": "56-18-15-401-004"
  },
@@ -4975,7 +4975,7 @@
    "owner_mobile": "(810) 656 1099",
    "contractor": "",
    "contractor_phone": "(248) 568 9113",
-   "email": "rgarton@hotmail.com",
+   "contractor_email": "rgarton@hotmail.com",
    "address": "",
    "parcel_number": ""
  },
@@ -4990,7 +4990,7 @@
    "owner_mobile": "(810) 656 1099",
    "contractor": "Citi Roofing",
    "contractor_phone": "(248) 568 8889",
-   "email": "philen@me.com",
+   "contractor_email": "philen@me.com",
    "address": "3705 Sunset Blvd",
    "parcel_number": "56-18-16-132-099"
  },
@@ -5005,7 +5005,7 @@
    "owner_mobile": "(810) 656 9449",
    "contractor": "Jack's Jobs Inc",
    "contractor_phone": "(248) 568 6235",
-   "email": "msroth@icloud.com",
+   "contractor_email": "msroth@icloud.com",
    "address": "4033 Harbor Vista Dr",
    "parcel_number": "56-18-14-152-015"
  },
@@ -5020,7 +5020,7 @@
    "owner_mobile": "(810) 658 8777",
    "contractor": "Orchard Mezza",
    "contractor_phone": "(248) 568 4809",
-   "email": "gilmoure@optonline.net",
+   "contractor_email": "gilmoure@optonline.net",
    "address": "4189 Orchard Lake Rd",
    "parcel_number": "56-99-01-960-001"
  },
@@ -5035,7 +5035,7 @@
    "owner_mobile": "(810) 667 3610",
    "contractor": "Ohana Family Construction Llc",
    "contractor_phone": "(248) 563 9387",
-   "email": "guialbu@att.net",
+   "contractor_email": "guialbu@att.net",
    "address": "4206 Woodlands Ln",
    "parcel_number": "56-18-15-451-016"
  },
@@ -5050,7 +5050,7 @@
    "owner_mobile": "(810) 678 2335",
    "contractor": "Dr Electric",
    "contractor_phone": "(248) 563 7932",
-   "email": "nanop@comcast.net",
+   "contractor_email": "nanop@comcast.net",
    "address": "5545 Evergreen Ave",
    "parcel_number": "56-18-16-130-044"
  },
@@ -5065,7 +5065,7 @@
    "owner_mobile": "(810) 706 0523",
    "contractor": "Dale Milton",
    "contractor_phone": "(248) 563 1639",
-   "email": "dgriffith@live.com",
+   "contractor_email": "dgriffith@live.com",
    "address": "5081 Commerce Rd",
    "parcel_number": "56-18-09-276-012"
  },
@@ -5080,7 +5080,7 @@
    "owner_mobile": "(810) 724 3800",
    "contractor": "Aj Danboise",
    "contractor_phone": "(248) 563 0041",
-   "email": "meinkej@outlook.com",
+   "contractor_email": "meinkej@outlook.com",
    "address": "3815 Indian Trl",
    "parcel_number": "56-18-11-376-016"
  },
@@ -5095,7 +5095,7 @@
    "owner_mobile": "(810) 724 6861",
    "contractor": "Rhb Electric Inc",
    "contractor_phone": "(248) 563 0041",
-   "email": "privcan@comcast.net",
+   "contractor_email": "privcan@comcast.net",
    "address": "2824 Orchard Pl",
    "parcel_number": "56-18-10-152-006"
  },
@@ -5110,7 +5110,7 @@
    "owner_mobile": "(810) 730 0385",
    "contractor": "Thornton and Grooms Inc",
    "contractor_phone": "(248) 562 7090",
-   "email": "stakasa@me.com",
+   "contractor_email": "stakasa@me.com",
    "address": "2969 Orchard Pl",
    "parcel_number": "56-18-10-154-009"
  },
@@ -5125,7 +5125,7 @@
    "owner_mobile": "(810) 730 1803",
    "contractor": "Thornton and Grooms Inc",
    "contractor_phone": "(248) 561 9900",
-   "email": "parsimony@yahoo.com",
+   "contractor_email": "parsimony@yahoo.com",
    "address": "2969 Orchard Pl",
    "parcel_number": "56-18-10-154-009"
  },
@@ -5134,13 +5134,13 @@
    "permit_type": "Water Sewer",
    "date_issued": "2021-05-12 10:18:15",
    "date_expired": "2022-11-03 0:00:00",
-   "work_description": "6/9/2021 Received an email from Deidre Cynowa requesting to cancel the permit.",
+   "work_description": "6/9/2021 Received an contractor_email from Deidre Cynowa requesting to cancel the permit.",
    "owner": "",
    "owner_phone": "(248) 681 2685",
    "owner_mobile": "(810) 730 1803",
    "contractor": "",
    "contractor_phone": "(248) 561 0523",
-   "email": "dprice@mac.com",
+   "contractor_email": "dprice@mac.com",
    "address": "",
    "parcel_number": ""
  },
@@ -5155,7 +5155,7 @@
    "owner_mobile": "(810) 730 6469",
    "contractor": "Harrell Mechanical Inc",
    "contractor_phone": "(248) 559 5555",
-   "email": "roesch@hotmail.com",
+   "contractor_email": "roesch@hotmail.com",
    "address": "2824 Orchard Pl",
    "parcel_number": "56-18-10-152-006"
  },
@@ -5170,7 +5170,7 @@
    "owner_mobile": "(810) 742 1400",
    "contractor": "Matt Trosien",
    "contractor_phone": "(248) 559 0095",
-   "email": "jimmichie@hotmail.com",
+   "contractor_email": "jimmichie@hotmail.com",
    "address": "3815 Sunset Blvd",
    "parcel_number": "56-18-16-132-084"
  },
@@ -5185,7 +5185,7 @@
    "owner_mobile": "(810) 765 7936",
    "contractor": "John A",
    "contractor_phone": "(248) 556 4749",
-   "email": "arathi@me.com",
+   "contractor_email": "arathi@me.com",
    "address": "3766 Sunset Blvd",
    "parcel_number": "56-18-16-131-040"
  },
@@ -5200,7 +5200,7 @@
    "owner_mobile": "(810) 772 9221",
    "contractor": "American Fireplace Dist Inc",
    "contractor_phone": "(248) 549 8500",
-   "email": "jaarnial@comcast.net",
+   "contractor_email": "jaarnial@comcast.net",
    "address": "2824 Orchard Pl",
    "parcel_number": "56-18-10-152-006"
  },
@@ -5215,7 +5215,7 @@
    "owner_mobile": "(810) 797 3001",
    "contractor": "Lake Orion Roofing",
    "contractor_phone": "(248) 549 1895",
-   "email": "rohitm@msn.com",
+   "contractor_email": "rohitm@msn.com",
    "address": "4405 Cranbrook Trl",
    "parcel_number": "56-18-15-351-008"
  },
@@ -5230,7 +5230,7 @@
    "owner_mobile": "(810) 797 3001",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 549 1800",
-   "email": "fluffy@hotmail.com",
+   "contractor_email": "fluffy@hotmail.com",
    "address": "5150 Elmgate Dr",
    "parcel_number": "56-18-16-201-005"
  },
@@ -5245,7 +5245,7 @@
    "owner_mobile": "(810) 813 7666",
    "contractor": "Brad A",
    "contractor_phone": "(248) 548 4134",
-   "email": "wsnyder@gmail.com",
+   "contractor_email": "wsnyder@gmail.com",
    "address": "3725 Sunset Blvd",
    "parcel_number": "56-18-16-132-100"
  },
@@ -5260,7 +5260,7 @@
    "owner_mobile": "(810) 824 0651",
    "contractor": "Home Repair Construction Corp",
    "contractor_phone": "(248) 548 4134",
-   "email": "catalog@icloud.com",
+   "contractor_email": "catalog@icloud.com",
    "address": "3856 Vista Ln",
    "parcel_number": "56-18-14-101-002"
  },
@@ -5275,7 +5275,7 @@
    "owner_mobile": "(810) 834 0356",
    "contractor": "Creative Brick Paving and Landscape",
    "contractor_phone": "(248) 547 6777",
-   "email": "nullchar@live.com",
+   "contractor_email": "nullchar@live.com",
    "address": "4603 Commerce Rd",
    "parcel_number": "56-18-10-176-008"
  },
@@ -5290,7 +5290,7 @@
    "owner_mobile": "(810) 844 4178",
    "contractor": "Creative Brick Paving and Landscape",
    "contractor_phone": "(248) 547 6777",
-   "email": "errxn@yahoo.ca",
+   "contractor_email": "errxn@yahoo.ca",
    "address": "4603 Commerce Rd",
    "parcel_number": "56-18-10-176-008"
  },
@@ -5305,7 +5305,7 @@
    "owner_mobile": "(810) 877 2388",
    "contractor": "Sumpter Solar Services",
    "contractor_phone": "(248) 547 6777",
-   "email": "roesch@gmail.com",
+   "contractor_email": "roesch@gmail.com",
    "address": "5818 Carmen E Ct",
    "parcel_number": "56-18-16-152-001"
  },
@@ -5320,7 +5320,7 @@
    "owner_mobile": "(810) 908 2231",
    "contractor": "Lmb Properties Llc",
    "contractor_phone": "(248) 547 5441",
-   "email": "johndo@outlook.com",
+   "contractor_email": "johndo@outlook.com",
    "address": "4350 Commerce Rd",
    "parcel_number": "56-18-10-276-011"
  },
@@ -5335,7 +5335,7 @@
    "owner_mobile": "(810) 923 2050",
    "contractor": "Rob D'angelo",
    "contractor_phone": "(248) 547 1890",
-   "email": "geeber@yahoo.ca",
+   "contractor_email": "geeber@yahoo.ca",
    "address": "4135 Orchard Lake Rd",
    "parcel_number": "56-99-00-001-002"
  },
@@ -5350,7 +5350,7 @@
    "owner_mobile": "(810) 923 3531",
    "contractor": "James Garris",
    "contractor_phone": "(248) 545 3137",
-   "email": "muzzy@outlook.com",
+   "contractor_email": "muzzy@outlook.com",
    "address": "5975 Seville Cir",
    "parcel_number": "56-18-16-102-009"
  },
@@ -5365,7 +5365,7 @@
    "owner_mobile": "(810) 923 3531",
    "contractor": "Hutchinson's Electric",
    "contractor_phone": "(248) 543 9609",
-   "email": "trygstad@comcast.net",
+   "contractor_email": "trygstad@comcast.net",
    "address": "3725 Shady Beach Blvd",
    "parcel_number": "56-18-16-182-023"
  },
@@ -5380,7 +5380,7 @@
    "owner_mobile": "(810) 937 2756",
    "contractor": "Wayne",
    "contractor_phone": "(248) 543 8387",
-   "email": "raines@mac.com",
+   "contractor_email": "raines@mac.com",
    "address": "3725 Shady Beach Blvd",
    "parcel_number": "56-18-16-182-023"
  },
@@ -5395,7 +5395,7 @@
    "owner_mobile": "(810) 955 9244",
    "contractor": "Hutchinson Electric Inc",
    "contractor_phone": "(248) 543 7891",
-   "email": "frikazoyd@comcast.net",
+   "contractor_email": "frikazoyd@comcast.net",
    "address": "3725 Shady Beach Blvd",
    "parcel_number": "56-18-16-182-023"
  },
@@ -5410,7 +5410,7 @@
    "owner_mobile": "(810) 955 9244",
    "contractor": "Rewaq",
    "contractor_phone": "(248) 543 5532",
-   "email": "jdhedden@aol.com",
+   "contractor_email": "jdhedden@aol.com",
    "address": "4032 Pontiac Trl",
    "parcel_number": "56-18-15-226-017"
  },
@@ -5425,7 +5425,7 @@
    "owner_mobile": "(810) 955 9244",
    "contractor": "Purrington Keith",
    "contractor_phone": "(248) 543 5532",
-   "email": "smcnabb@optonline.net",
+   "contractor_email": "smcnabb@optonline.net",
    "address": "5975 Seville Cir",
    "parcel_number": "56-18-16-102-009"
  },
@@ -5440,7 +5440,7 @@
    "owner_mobile": "(810) 955 9717",
    "contractor": "Jabri Mohammad Amir",
    "contractor_phone": "(248) 543 0441",
-   "email": "hling@mac.com",
+   "contractor_email": "hling@mac.com",
    "address": "4312 Hickory Ct",
    "parcel_number": "56-18-15-376-032"
  },
@@ -5455,7 +5455,7 @@
    "owner_mobile": "(810) 962 9249",
    "contractor": "Evolution Pools",
    "contractor_phone": "(248) 543 0441",
-   "email": "esasaki@live.com",
+   "contractor_email": "esasaki@live.com",
    "address": "4610 Dow Ridge Rd",
    "parcel_number": "56-18-10-101-032"
  },
@@ -5470,7 +5470,7 @@
    "owner_mobile": "(810) 976 3608",
    "contractor": "Jan Binkowski",
    "contractor_phone": "(248) 542 0678",
-   "email": "heroine@aol.com",
+   "contractor_email": "heroine@aol.com",
    "address": "4209 Cherry Hill Dr",
    "parcel_number": "56-18-15-451-036"
  },
@@ -5485,7 +5485,7 @@
    "owner_mobile": "(810) 990 5347",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 541 0819",
-   "email": "ajlitt@yahoo.com",
+   "contractor_email": "ajlitt@yahoo.com",
    "address": "4297 Cherry Hill Dr",
    "parcel_number": "56-18-15-427-021"
  },
@@ -5500,7 +5500,7 @@
    "owner_mobile": "(812) 345 0952",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 540 8607",
-   "email": "arathi@aol.com",
+   "contractor_email": "arathi@aol.com",
    "address": "4297 Cherry Hill Dr",
    "parcel_number": "56-18-15-427-021"
  },
@@ -5515,7 +5515,7 @@
    "owner_mobile": "(818) 390 2263",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 538 9915",
-   "email": "msroth@hotmail.com",
+   "contractor_email": "msroth@hotmail.com",
    "address": "4297 Cherry Hill Dr",
    "parcel_number": "56-18-15-427-021"
  },
@@ -5530,7 +5530,7 @@
    "owner_mobile": "(828) 545 3688",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 538 9910",
-   "email": "peterhoeg@mac.com",
+   "contractor_email": "peterhoeg@mac.com",
    "address": "4257 Cherry Hill Dr",
    "parcel_number": "56-18-15-427-016"
  },
@@ -5545,7 +5545,7 @@
    "owner_mobile": "(844) 757 6543",
    "contractor": "Rick's Electric Inc",
    "contractor_phone": "(248) 538 9800",
-   "email": "mbswan@verizon.net",
+   "contractor_email": "mbswan@verizon.net",
    "address": "3725 Sunset Blvd",
    "parcel_number": "56-18-16-132-100"
  },
@@ -5560,7 +5560,7 @@
    "owner_mobile": "(855) 532 5360",
    "contractor": "Coy Construction",
    "contractor_phone": "(248) 538 5400",
-   "email": "report@optonline.net",
+   "contractor_email": "report@optonline.net",
    "address": "5944 Seville Cir",
    "parcel_number": "56-18-16-101-017"
  },
@@ -5575,7 +5575,7 @@
    "owner_mobile": "(859) 314 3114",
    "contractor": "Zilka Heating and Cooling",
    "contractor_phone": "(248) 535 7028",
-   "email": "mddallara@hotmail.com",
+   "contractor_email": "mddallara@hotmail.com",
    "address": "3725 Sunset Blvd",
    "parcel_number": "56-18-16-132-100"
  },
@@ -5590,7 +5590,7 @@
    "owner_mobile": "(864) 364 3532",
    "contractor": "Arthur",
    "contractor_phone": "(248) 535 3262",
-   "email": "crusader@outlook.com",
+   "contractor_email": "crusader@outlook.com",
    "address": "4350 Commerce Rd",
    "parcel_number": "56-18-10-276-011"
  },
@@ -5605,7 +5605,7 @@
    "owner_mobile": "(888) 355 6700",
    "contractor": "Inc",
    "contractor_phone": "(248) 535 2115",
-   "email": "gmcgath@yahoo.com",
+   "contractor_email": "gmcgath@yahoo.com",
    "address": "4725 Old Orchard Trl",
    "parcel_number": "56-18-15-151-008"
  },
@@ -5620,7 +5620,7 @@
    "owner_mobile": "(888) 355 6700",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 535 2115",
-   "email": "madanm@gmail.com",
+   "contractor_email": "madanm@gmail.com",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -5635,7 +5635,7 @@
    "owner_mobile": "(888) 363 1212",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 528 2880",
-   "email": "errxn@mac.com",
+   "contractor_email": "errxn@mac.com",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -5650,7 +5650,7 @@
    "owner_mobile": "(888) 520 5252",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 528 1940",
-   "email": "novanet@optonline.net",
+   "contractor_email": "novanet@optonline.net",
    "address": "3850 Summers Ridge Dr",
    "parcel_number": "56-18-11-126-053"
  },
@@ -5665,7 +5665,7 @@
    "owner_mobile": "(888) 520 5252",
    "contractor": "Tommaso Vitale Electrical Contractors Llc",
    "contractor_phone": "(248) 528 1446",
-   "email": "ilyaz@sbcglobal.net",
+   "contractor_email": "ilyaz@sbcglobal.net",
    "address": "5818 Carmen E Ct",
    "parcel_number": "56-18-16-152-001"
  },
@@ -5680,7 +5680,7 @@
    "owner_mobile": "(970) 309 1419",
    "contractor": "",
    "contractor_phone": "(248) 524 3244",
-   "email": "jeteve@comcast.net",
+   "contractor_email": "jeteve@comcast.net",
    "address": "",
    "parcel_number": ""
  },
@@ -5695,7 +5695,7 @@
    "owner_mobile": "(972) 247 4552",
    "contractor": "Robert William",
    "contractor_phone": "(248) 524 3244",
-   "email": "crypt@gmail.com",
+   "contractor_email": "crypt@gmail.com",
    "address": "4049 Beach Dr",
    "parcel_number": "56-18-16-329-006"
  },
@@ -5710,7 +5710,7 @@
    "owner_mobile": "(989) 293 9003",
    "contractor": "Roofadvisor",
    "contractor_phone": "(248) 521 8533",
-   "email": "bmorrow@gmail.com",
+   "contractor_email": "bmorrow@gmail.com",
    "address": "5581 Park Dr",
    "parcel_number": "56-18-16-189-012"
  },
@@ -5725,7 +5725,7 @@
    "owner_mobile": "(989) 539 1720",
    "contractor": "Hill Mechanical",
    "contractor_phone": "(248) 521 7639",
-   "email": "dunstan@yahoo.ca",
+   "contractor_email": "dunstan@yahoo.ca",
    "address": "2824 Orchard Pl",
    "parcel_number": "56-18-10-152-006"
  },
@@ -5740,7 +5740,7 @@
    "owner_mobile": "(989) 770 4444",
    "contractor": "Russell Electric Inc",
    "contractor_phone": "(248) 521 6720",
-   "email": "stinson@icloud.com",
+   "contractor_email": "stinson@icloud.com",
    "address": "3815 Sunset Blvd",
    "parcel_number": "56-18-16-132-084"
  },
@@ -5755,7 +5755,7 @@
    "owner_mobile": "(989) 941 2504",
    "contractor": "Ha Sun Heating cooling",
    "contractor_phone": "(248) 521 4000",
-   "email": "mcmillan@sbcglobal.net",
+   "contractor_email": "mcmillan@sbcglobal.net",
    "address": "3500 Wards Pointe Dr",
    "parcel_number": "56-18-02-401-034"
  },
@@ -5770,7 +5770,7 @@
    "owner_mobile": "(989) 996 0676",
    "contractor": "Georges Ray",
    "contractor_phone": "(248) 521 2339",
-   "email": "sonnen@hotmail.com",
+   "contractor_email": "sonnen@hotmail.com",
    "address": "3732 Erie Dr",
    "parcel_number": "56-18-11-126-020"
  },
@@ -5785,7 +5785,7 @@
    "owner_mobile": "(810) 937 2756",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 521 1990",
-   "email": "kjetilk@gmail.com",
+   "contractor_email": "kjetilk@gmail.com",
    "address": "4900 Elmgate Dr",
    "parcel_number": "56-18-16-276-042"
  },
@@ -5800,7 +5800,7 @@
    "owner_mobile": "(810) 955 9244",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 521 1367",
-   "email": "sbmrjbr@mac.com",
+   "contractor_email": "sbmrjbr@mac.com",
    "address": "4900 Elmgate Dr",
    "parcel_number": "56-18-16-276-042"
  },
@@ -5815,7 +5815,7 @@
    "owner_mobile": "(810) 955 9244",
    "contractor": "Oak Electric oak Htg Cooling and Plumbing",
    "contractor_phone": "(248) 521 1201",
-   "email": "janneh@verizon.net",
+   "contractor_email": "janneh@verizon.net",
    "address": "4900 Elmgate Dr",
    "parcel_number": "56-18-16-276-042"
  },
@@ -5830,7 +5830,7 @@
    "owner_mobile": "(810) 955 9244",
    "contractor": "Rmj Mechanical",
    "contractor_phone": "(248) 521 1090",
-   "email": "koudas@yahoo.com",
+   "contractor_email": "koudas@yahoo.com",
    "address": "2976 Orchard Pl",
    "parcel_number": "56-18-10-154-011"
  },
@@ -5845,7 +5845,7 @@
    "owner_mobile": "(810) 955 9717",
    "contractor": "A ok Plumbing and Heating",
    "contractor_phone": "(248) 512 4225",
-   "email": "crobles@mac.com",
+   "contractor_email": "crobles@mac.com",
    "address": "5790 Lakeview Ave",
    "parcel_number": "56-18-16-352-008"
  }

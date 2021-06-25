@@ -2,6 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import PastComponent from "../components/PastComponent";
 import Nav from "../components/Nav";
+import SearchBar from "../components/SearchBar";
 
 function PastInspections() {
     return (
@@ -10,6 +11,7 @@ function PastInspections() {
                 <title>Past Inspections</title>
             </Helmet>
             <Nav />
+            <SearchBar />
             <div className="container-fluid">
                 <div className="row mt-4">
                     <div className="col-lg-12 col-sm-12">
