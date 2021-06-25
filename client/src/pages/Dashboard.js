@@ -14,8 +14,8 @@ function Dashboard() {
             </Helmet>
             <Nav />
             <ActionRequiredBanner />
-            <div class="container-fluid">
-                <div class="row">
+            <div className="container-fluid">
+                <div className="row">
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
                         <div className="border border-3 spacers p-3 bg-dark rounded">
