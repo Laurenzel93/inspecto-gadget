@@ -14,8 +14,8 @@ function InspectionInfo() {
                             <td id="permitNumber">Permit Number</td>
                         </tr>
                         <tr>
-                            <td colspan="2" id="notes">Notes: </td>
-                            <td colspan="2" id="timestamp">Timestamp</td>
+                            <td colSpan="2" id="notes">Notes: </td>
+                            <td colSpan="2" id="timestamp">Timestamp</td>
                         </tr>
                     </tbody>
                 </table>

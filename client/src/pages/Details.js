@@ -14,9 +14,10 @@ function Details() {
             </Helmet>
             <Nav />
             <InspectionInfo />
+            <ResultsHistory />
             <InspectionResults />
             <PermitInfo />
-            <ResultsHistory />
+
         </div>
     )
 };
