@@ -23,17 +23,12 @@ function InspectionResults() {
                 </div>
 
                 {/* <!-- Input Notes Field --> */}
-                <div className="container-fluid form-control m-3">
-                    <div className="form-control form-control-lg" type="text">
-                        <h3 className="d-flex justify-content-center">Custom Notes</h3>
-                        <textarea className="form-control" placeholder="Type notes here..." rows="10"></textarea>
-                    </div>
-                </div>
+                <textarea className="form-control m-3" placeholder="Type notes here..." rows="10"></textarea>
 
                 {/* <!-- Save Icon Button --> */}
                 <div className="ml-auto align-self-end">
-                    <button className="btn btn-outline-success" style="font-size:25px">Save
-                     <i style="font-size:50px;" className="fa fa-save"></i>
+                    <button className="btn btn-outline-success" style={{ fontSize: "25px" }}>Save
+                     <i style={{ fontSize: "50px" }} className="fa fa-save"></i>
                     </button>
                 </div>
 

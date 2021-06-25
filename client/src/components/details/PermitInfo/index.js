@@ -12,8 +12,8 @@ function PermitInfo() {
                     <tbody>
                         <tr>
                             <th scope="row">Property Information</th>
-                            <td colspan="2" id="address">Address</td>
-                            <td colspan="2" id="parcelID">Parcel ID</td>
+                            <td colSpan="2" id="address">Address</td>
+                            <td colSpan="2" id="parcelID">Parcel ID</td>
                         </tr>
                         <tr>
                             <th scope="row">Owner Information</th>

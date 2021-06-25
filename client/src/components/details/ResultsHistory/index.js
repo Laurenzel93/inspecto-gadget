@@ -5,8 +5,8 @@ function ResultsHistory() {
     return (
 
         <div className="container-fluid ml-auto m-3 p-3 border rounded border-primary bg-light" id="previousNotesContainer">
-            <div className="form-control">
-                <h3 className="d-flex justify-content-center">Saved Results</h3>
+
+            <h3 className="d-flex justify-content-center">Results History</h3>
                 <table className="table table-bordered">
                     <tbody>
                         <tr>
@@ -15,7 +15,7 @@ function ResultsHistory() {
                         </tr>
                     </tbody>
                 </table>
-            </div>
+
         </div>
 
     )
