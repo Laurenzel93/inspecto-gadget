@@ -59,7 +59,6 @@ function LoginForm(props) {
             </div>
         </main>
     )
-
 }
 
 const useFormInput = initialValue => {

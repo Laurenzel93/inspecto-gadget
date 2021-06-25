@@ -1,3 +1,8 @@
+:root {
+    --gray-background: #343a40;
+    --blue-background: #b8daff;
+}
+
 .headerContainer {
     border-top: 3px solid black;
     border-bottom: 3px solid black;
@@ -13,6 +18,16 @@
 .bigNav .icon {
     display: none;
     color: var(--blue-background);
+}
+
+/* styling for nav button associated with current route */
+#activeDash, #activePast, #activeCreate {
+    border-bottom: 5px solid var(--blue-background) !important;
+    background-color: #9ca9b6;
+}
+
+#activeDash:hover, #activePast:hover, #activeCreate:hover {
+    background-color: #9ca9b6;
 }
 
 @media screen and (max-width: 600px) {
@@ -81,5 +96,10 @@
 
     .bigNav.responsive {
         padding-bottom: 1.5rem;
+    }
+
+    #activeDash, #activePast, #activeCreate {
+        border-bottom: none !important;
+        border-left: 5px solid var(--blue-background) !important;
     }
 }

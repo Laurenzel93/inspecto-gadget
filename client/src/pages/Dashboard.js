@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
-import Calendar from "../components/dashboard/Calendar";
+import Calendar from "../components/dashboard/Calendar/Calender";
 import Upcoming from "../components/dashboard/UpcomingInspections";
 
 function Dashboard() {
@@ -14,8 +14,8 @@ function Dashboard() {
             </Helmet>
             <Nav />
             <ActionRequiredBanner />
-            <div class="container-fluid">
-                <div class="row">
+            <div className="container-fluid">
+                <div className="row">
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
                         <div className="border border-3 spacers p-3 bg-dark rounded">
