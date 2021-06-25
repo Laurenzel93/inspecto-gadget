@@ -1,13 +1,13 @@
-import React, { useState } from "react";
-import { useHistory } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import { useHistory, useLocation } from "react-router-dom";
 import './style.css';
 
 function Nav() {
-    
+
     // state associated with hamburger icon animation
     const [opened, setOpened] = useState("menu ");
     const [ariaExpanded, setAriaExpanded] = useState("");
-    
+
     // handles hamburger icon animation
     function animationHandler() {
         if (opened === "menu ") {
@@ -53,7 +53,25 @@ function Nav() {
         history.push(createAccountPath);
     }
 
+    /*
+        Button styling specific to user's current route
+    */
+    const location = useLocation().pathname;
+    const [activeDash, setActiveDash] = useState('');
+    const [activePast, setActivePast] = useState('');
+    const [activeCreate, setActiveCreate] = useState('');
 
+    const locationStyle = () => {
+        // console.log(location);
+        if (location === "/dashboard") {
+            setActiveDash('activeDash');
+        } else if (location === "/past-inspections") {
+            setActivePast('activePast');
+        } else if (location === "/create-account") {
+            setActiveCreate('activeCreate');
+        }
+    }
+    useEffect(locationStyle);
 
     return (
         <div className="container-fluid headerContainer vw-100">
@@ -62,7 +80,7 @@ function Nav() {
                     Inspecto-Gadget
                 </h1>
                 <a href="javascript:void(0);" className="icon" onClick={responsiveMenuHandler}>
-                    <button className={opened} onClick={animationHandler} aria-expanded={ariaExpanded}  aria-label="Main Menu">
+                    <button className={opened} onClick={animationHandler} aria-expanded={ariaExpanded} aria-label="Main Menu">
                         <svg width="40" height="40" viewBox="0 0 100 100">
                             <path className="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
                             <path className="line line2" d="M 20,50 H 80" />
@@ -70,9 +88,9 @@ function Nav() {
                         </svg>
                     </button>
                 </a>
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" onClick={dashboardRoute}>Dashboard</button>
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" onClick={pastInspectionsRoute}>Past Inspections</button>
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" onClick={createAccountRoute}>Create Account</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeDash} onClick={dashboardRoute}>Dashboard</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activePast} onClick={pastInspectionsRoute}>Past Inspections</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Create Account</button>
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout">Logout</button>
             </nav>
         </div>
