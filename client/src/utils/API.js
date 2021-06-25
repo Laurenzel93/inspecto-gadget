@@ -1,16 +1,24 @@
+import axios from 'axios';
+
 const TOKEN_KEY = 'jwt';
 
-export const login = () => {
-    localStorage.setItem(TOKEN_KEY, 'TestLogin');
-}
+export default {
+    login: function() {
+        localStorage.setItem(TOKEN_KEY, 'TestLogin');
+    },
 
-export const logout = () => {
-    localStorage.removeItem(TOKEN_KEY);
-}
+    logout: function() {
+        localStorage.removeItem(TOKEN_KEY);
+    },
 
-export const isLogin = () => {
-    if (localStorage.getItem(TOKEN_KEY)) {
-        return true;
+    isLogin: function() {
+        if (localStorage.getItem(TOKEN_KEY)) {
+            return true;
+        }
+        return false;
+    },
+
+    getTodayInspections: function() {
+        return axios.get('/api/inspection');
     }
-    return false;
-}
+};
