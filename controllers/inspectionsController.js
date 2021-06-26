@@ -2,12 +2,12 @@
 const { Inspection } = require('../models');
 
 module.exports = {
-  findOne: async (req, res) => {
-    await Inspection.findOne({
-      //  where: {
-      //     inspector: "Ron Shelton",
-      //     date: "2021-06-24 12:00:00",
-      //   }
+  findAll: async (req, res) => {
+    await Inspection.findAll({
+       where: {
+          inspector: "Ron Shelton",
+      
+        }
      })
   },
   findByAddress: async (req, res) => {

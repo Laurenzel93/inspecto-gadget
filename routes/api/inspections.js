@@ -1,14 +1,18 @@
 const router = require("express").Router();
-const inspectionsController = require("../../controllers/inspectionsController");
+const { Inspection } = require('../../models');
 
-router.route("/")
-  .get(inspectionsController.findOne)
-
-router.route("/:address")
-  .get(inspectionsController.findByAddress)
-    
-  
-  
+router.get("/", async (req, res) => {
+try {
+    const inspectionData = await Inspection.findAll({
+       where: {
+          inspector: "Ron Shelton",
+      
+        }
+     })
+     console.log(inspectionData)
+    }catch(error)
+    {console.log(error)}
+})
 
 
 
