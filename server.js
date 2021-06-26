@@ -30,7 +30,7 @@ const sess = {
 app.use(session(sess));
 
 // Add routes, both API and view
- app.use(routes);
+app.use(routes);
 
 // Connect to server
 sequelize.sync({ force: false }).then(() => {
