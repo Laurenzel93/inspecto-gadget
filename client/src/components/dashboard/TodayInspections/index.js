@@ -3,11 +3,11 @@ import API from '../../../utils/API'
 
 function TodaysInspections(props) {
 
-    useEffect(() => {
-        console.log('useEffect has been hit');
-        // console.log(API);
-        API.getTodayInspections().then(res => console.log(res));
-    });
+    // useEffect(() => {
+    //     console.log('useEffect has been hit');
+    //     // console.log(API);
+    //     API.getTodayInspections().then(res => console.log(res));
+    // });
 
     return (
                         <div className="card">
