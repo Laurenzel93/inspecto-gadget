@@ -1,6 +1,7 @@
 import React from 'react';
 import { Switch, Route, BrowserRouter, Link } from 'react-router-dom';
-import PrivateRoute from './components/PrivateRoute';
+//import PrivateRoute from './components/PrivateRoute';
+// eslint-disable-next-line no-unused-vars
 import { AccountCreation, Dashboard, Details, Login, PastInspections, NoMatch } from './pages';
 import './App.css';
 

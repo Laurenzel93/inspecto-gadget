@@ -16,7 +16,7 @@ Invoice.init(
     quantity: {
       type: DataTypes.INTEGER,
     },
-    amount_total: {
+    total: {
       type: DataTypes.INTEGER, 
     }, 
     permit_id: {

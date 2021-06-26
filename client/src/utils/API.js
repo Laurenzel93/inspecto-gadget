@@ -1,16 +1,15 @@
-const TOKEN_KEY = 'jwt';
+import axios from "axios";
 
-export const login = () => {
-    localStorage.setItem(TOKEN_KEY, 'TestLogin');
-}
 
-export const logout = () => {
-    localStorage.removeItem(TOKEN_KEY);
-}
+// eslint-disable-next-line import/no-anonymous-default-export
+export default  {
 
-export const isLogin = () => {
-    if (localStorage.getItem(TOKEN_KEY)) {
-        return true;
-    }
-    return false;
+  getInspections: function() {
+    return axios.get("/api/inspections");
+  },
+  getAddress: function(address) {
+    return axios.get("/api/insections/" + address);
+  },
+  
+
 }

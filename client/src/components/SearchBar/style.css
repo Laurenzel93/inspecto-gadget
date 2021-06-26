@@ -1,19 +1,19 @@
 .Search {
   padding-top: 10px;
-  width: 400px;
+  width: 80%;
   margin: 0 auto;
   position: relative;
   display: flex;
 }
 .SearchSpan {
   width: 15%;
-  border: 3px solid #343a40;
-  background: #6c757d;
-  border-radius: 0 5px 5px 0;
+  border: 3px solid #343a40 !important;
+  background: #6c757d !important;
+  border-radius: 0 5px 5px 0 !important;
 
   text-align: center;
-  color: #fff;
-  font-size: 20px;
+  color: #fff !important;
+  font-size: 20px !important;
 }
 .SearchInput {
   width: 85%;

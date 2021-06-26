@@ -10,16 +10,16 @@ Permit.init(
       allowNull: false,
       primaryKey: true,
     },
-    permit_type: {
+    type: {
       type: DataTypes.STRING,
     },
-    date_issued: {
+    issued: {
       type: DataTypes.STRING,
     },
-    date_expired: {
+    expired: {
       type: DataTypes.STRING,
     },
-    work_description: {
+    description: {
       type: DataTypes.STRING, 
     },
     owner: {

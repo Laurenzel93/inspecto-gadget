@@ -1,6 +1,13 @@
 import React from "react";
 
-function PastComponent(props) {
+export function InspectionsTable({children}) {
+    return (
+    <table className="table table-border table-striped">
+    <tbody></tbody>
+    </table>
+    )}
+
+export function PastComponent(props) {
     return (
         <tr>
             <th scope="row">1</th>
@@ -11,4 +18,3 @@ function PastComponent(props) {
     );
 }
 
-export default PastComponent;
