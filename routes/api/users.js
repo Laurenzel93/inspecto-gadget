@@ -1,5 +1,6 @@
 const router = require("express").Router();
 const { User } = require("../../models");
+const withAuth = require("../../scripts/auth");
 
 router.post("/login", async (req, res) => {
   try {
@@ -31,11 +32,30 @@ router.post("/login", async (req, res) => {
 
       res.json({ user: userData, message: "You are now logged in!" });
     });
-
   } catch (err) {
     res.status(400).json(err);
-    console.log(err)
+    console.log(err);
   }
+});
+
+router.post("/sessions", withAuth, async (req, res) => {
+  if (req.session.role === "admin") {
+    try {
+      const sessions = await req.sessionStore.sessionModel.findAll();
+      sessions.forEach((element) => {
+        let parsedData = JSON.parse(element.dataValues.data).name;
+        console.log("============================");
+        console.log(element.dataValues.updatedAt);
+        if (parsedData) {
+          console.log(parsedData);
+        }
+      });
+    } catch (err) {
+      console.log(err);
+    }
+  }
+
+  return;
 });
 
 module.exports = router;
