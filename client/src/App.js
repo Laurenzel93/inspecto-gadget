@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route, HashRouter, Link } from 'react-router-dom';
+import { Switch, Route, BrowserRouter, Link } from 'react-router-dom';
 import PrivateRoute from './components/PrivateRoute';
 import { AccountCreation, Dashboard, Details, Login, PastInspections, NoMatch } from './pages';
 import './App.css';
@@ -32,9 +32,9 @@ function App() {
   //   </Router>
   // );
 
-  //* used only for dev purposes
+  // used only for dev purposes
   return (
-    <HashRouter basename='/'>
+    <BrowserRouter>
       <Switch>
         <Route exact path={['/', '/login']}>
           <Login />
@@ -52,11 +52,11 @@ function App() {
         <Route exact path='/past-inspections'>
           <PastInspections />
         </Route>
-        <Route path='*'>
+        {/* <Route path='*'>
           <NoMatch />
-        </Route>
+        </Route> */}
       </Switch>
-    </HashRouter>
+    </BrowserRouter>
   )
 }
 

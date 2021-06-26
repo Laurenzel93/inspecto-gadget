@@ -1,16 +1,10 @@
-const TOKEN_KEY = 'jwt';
+const withAuth = (req, res, next) => {
+  // If the user is not logged in, redirect the request to the login route
+  if (!req.session.logged_in) {
+    res.redirect('/login');
+  } else {
+    next();
+  }
+};
 
-export const login = (username, password) => {
-    localStorage.setItem(TOKEN_KEY, 'TestLogin');
-}
-
-export const logout = () => {
-    localStorage.removeItem(TOKEN_KEY);
-}
-
-export const isLogin = () => {
-    if (localStorage.getItem(TOKEN_KEY)) {
-        return true;
-    }
-    return false;
-}
+module.exports = withAuth;

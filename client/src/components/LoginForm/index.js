@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { setUserSession } from '../../utils/Session';
 import  { login } from '../../utils/API'
 import './style.css';
-
+import axios from 'axios';
+import { useHistory } from 'react-router-dom';
 
     
 function LoginForm(props) {
@@ -12,24 +13,26 @@ function LoginForm(props) {
     const password = useFormInput('');
     const [error, setError] = useState(null);
    
-    const loginHandler = () => {
-        console.log('hello')
+    const loginHandler = (e) => {
+        e.preventDefault();
 
-        // setError(null);
-        // setLoading(true);
-        // API.login( { username: username.value, password: password.value }).then(res => {
-        //     setLoading(false);
-        //     setUserSession(res.data.token, res.data.user);
-        //     props.history.push('/dashboard')
-        // }).catch(error => {
-        //     setLoading(false);
-        //     if (error.response.status === 401) {
-        //         setError(error.response.data.message);
-        //     } else {
-        //         setError("Something went wrong. Please try again later");
-        //     };
-        // });
-    }
+        console.log(username, password)
+        setError(null);
+        setLoading(true);
+        axios.post('/api/users/login', { username: username.value, password: password.value })
+        .then(res => {
+            setLoading(false);
+            setUserSession(res.data.token, res.data.user);
+            props.history.push('/dashboard')
+        }).catch(error => {
+            setLoading(false);
+            if (error.response.status === 401) {
+                setError(error.response.data.message);
+            } else {
+                setError("Something went wrong. Please try again later");
+            };
+        });
+    };
 
     return (
         <main>
@@ -43,17 +46,16 @@ function LoginForm(props) {
                         <input type="text" {...username} className="form-control" id="username" aria-describedby="usernameEntry" />
                     </div>
                     <div className="mb-3">
-                        <label htmlFor="password" {...password}className="form-label">Password</label>
-                        <input type="password" className="form-control" id="password" />
+                        <label htmlFor="password" className="form-label">Password</label>
+                        <input type="password" {...password}className="form-control" id="password" />
                     </div>
                     <div className="btnContainer">
-                        <button type="submit" className="btn customBtn" id="submitBtn" onClick={loginHandler}>{loading ? 'Loading...' : 'Login'}</button>
+                        <button type="submit" className="btn customBtn" id="submitBtn">Login</button>
                     </div>
                 </form>
             </div>
         </main>
     )
-
 }
 
 const useFormInput = initialValue => {

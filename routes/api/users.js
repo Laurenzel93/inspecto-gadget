@@ -1,12 +1,10 @@
-const path = require("path");
 const router = require("express").Router();
+const { User } = require("../../models");
 
-const { User } = require("../models");
+router.post("/login", async (req, res) => {
 
-router.post("/api/users/login", async (req, res) => {
-  debugger;
-  console.trace("start");
-  console.log("start but log");
+  console.trace('start');
+  console.log('start but log')
 
   try {
     const userData = await User.findOne({
@@ -15,7 +13,7 @@ router.post("/api/users/login", async (req, res) => {
       },
     });
 
-    console.log(userData);
+    console.log(userData)
 
     if (!userData) {
       res.status.json({
@@ -38,24 +36,11 @@ router.post("/api/users/login", async (req, res) => {
       res.json({ user: userData, message: "You are now logged in!" });
     });
 
-    console.log(req.session.logged_in);
-    console.log("YOURE LOGGED IN HARRY");
+    console.log(req.session.logged_in)
+    console.log("YOURE LOGGED IN HARRY")
   } catch (err) {
     res.status(400).json(err);
   }
 });
 
-router.get("/success", (req, res) => {
-  debugger
-  console.log("route hit");
-  res.send("It works!!!!!")
-});
-
-router.get("/api/success", (req, res) => {
-  debugger
-  console.log("route hit");
-  res.json({ message: "success" });
-});
-
-// If no API routes are hit, send the React app
 module.exports = router;
