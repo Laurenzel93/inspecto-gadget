@@ -34,6 +34,13 @@
     background-color: #9ca9b6;
 }
 
+@media screen and (max-width: 992px) {
+    #activeDash, #activePast, #activeCreate {
+        border-bottom: none !important;
+        border-left: 5px solid var(--blue-background) !important;
+    }
+}
+
 @media screen and (max-width: 600px) {
     /* Animated hamburger menu stuff */ 
     .menu {
@@ -105,10 +112,5 @@
 
     .bigNav.responsive {
         padding-bottom: 1.5rem;
-    }
-
-    #activeDash, #activePast, #activeCreate {
-        border-bottom: none !important;
-        border-left: 5px solid var(--blue-background) !important;
     }
 }

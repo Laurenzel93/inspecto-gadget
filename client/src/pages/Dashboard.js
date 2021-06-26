@@ -1,12 +1,27 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar/Calender";
 import Upcoming from "../components/dashboard/UpcomingInspections";
+import API from '../utils/API';
 
-function Dashboard() {
+function Dashboard(props) {
+    const [todayInspections, setTodayInspections] = useState()
+
+    const getInspectionData = () => {
+        API.getInspections()
+            .then(res => {
+                console.log('===========')
+                console.log(res)
+                console.log('===========')
+            })
+            .then (res => setTodayInspections(res))
+    }
+
+    useEffect(getInspectionData)
+
     return (
         <div>
             <Helmet>

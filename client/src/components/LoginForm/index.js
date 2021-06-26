@@ -11,6 +11,13 @@ function LoginForm(props) {
   const password = useFormInput("");
   const [error, setError] = useState(null);
 
+  // const dashboardRoute = () => {
+  //   const dashboardPath = '/dashboard';
+  //   useHistory().push(dashboardPath);
+  // }
+
+  const redirect = useHistory();
+
   const loginHandler = (e) => {
     e.preventDefault();
 
@@ -26,6 +33,8 @@ function LoginForm(props) {
         setLoading(false);
         setUserSession(res.data.token, res.data.user);
         props.history.push("/dashboard");
+        redirect.push('/dashboard')
+        // dashboardRoute();
       })
       .catch((error) => {
         setLoading(false);
