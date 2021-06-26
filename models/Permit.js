@@ -37,7 +37,7 @@ Permit.init(
     contractor_phone: {
       type: DataTypes.STRING,
     },
-    contractor_phone: {
+    contractor_email: {
       type: DataTypes.STRING,
     },
     parcel_number: {

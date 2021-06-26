@@ -1,0 +1,26 @@
+.Search {
+  padding-top: 10px;
+  width: 400px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+}
+.SearchSpan {
+  width: 15%;
+  border: 3px solid #343a40;
+  background: #6c757d;
+  border-radius: 0 5px 5px 0;
+
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+.SearchInput {
+  width: 85%;
+  border: 3px solid #343a40;
+  border-right: none;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important ;
+  padding: 5px;
+  outline: none;
+}
