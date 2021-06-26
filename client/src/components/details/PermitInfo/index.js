@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css';
 
-function PermitInfo() {
+function PermitInfo(props) {
     return (
 
         <div className="container-fluid border rounded border-primary p-4" id="permitInfoContainer">
@@ -12,29 +12,30 @@ function PermitInfo() {
                     <tbody>
                         <tr>
                             <th scope="row">Property Information</th>
-                            <td colSpan="2" id="address">Address</td>
-                            <td colSpan="2" id="parcelID">Parcel ID</td>
+                            <td colSpan="2" id="address">props.address</td>
+                            <td colSpan="2" id="parcelID">props.parcel_number</td>
                         </tr>
                         <tr>
                             <th scope="row">Owner Information</th>
-                            <td id="ownerName">Name</td>
-                            <td id="homePhone">Home Phone</td>
-                            <td id="cellPhone">Cell Phone</td>
+                            <td id="ownerName">props.owner</td>
+                            <td id="homePhone">props.owner_phone</td>
+                            <td id="cellPhone">props.owner_mobile</td>
                         </tr>
                         <tr>
                             <th scope="row">Contractor Information</th>
-                            <td id="contractorName">Name</td>
-                            <td id="contractorPhone">Phone</td>
-                            <td id="contractorEmail">Email</td>
+                            <td id="contractorName">props.contractor</td>
+                            <td id="contractorPhone">props.contractor_phone</td>
+                            <td id="contractorEmail">props.contractor_email</td>
                         </tr>
                         <tr>
                             <th scope="row">More Permit Information</th>
-                            <td id="permitNumber">Permit Number</td>
-                            <td id="issuedDate">Issued Date</td>
-                            <td id="expirationDate">Expiration Date</td>
+                            <td id="permitNumber">props.permit_id</td>
+                            <td id="issuedDate">props.date_issued</td>
+                            <td id="expirationDate">props.date_expired</td>
                         </tr>
                         <tr>
-                            <th id="workDescription">Work Description</th>
+                            <th>Work Description </th>
+                            <td colSpan="4" id="workDescription">props.work_description</td>
                         </tr>
                     </tbody>
                 </table>
@@ -47,9 +48,9 @@ function PermitInfo() {
                         <th>Fee</th>
                     </thead>
                     <tbody>
-                        <td id="item">Test</td>
-                        <td id="quantity">Test</td>
-                        <td id="fee">Test</td>
+                        <td id="item">props.item</td>
+                        <td id="quantity">props.quantity</td>
+                        <td id="fee">props.amount_total</td>
                     </tbody>
                 </table>
 

@@ -1,21 +1,21 @@
 import React from "react";
 import './style.css';
 
-function InspectionInfo() {
+function InspectionInfo(props) {
     return (
         <div className="container-fluid border rounded border-primary p-4 justify-content-center" id="inspectionInfoContainer">
             <div className="col justify-content-md-center">
                 <table className="table table-bordered table-primary">
                     <tbody>
                         <tr>
-                            <td id="date">Date</td>
-                            <td id="address">Address</td>
-                            <td id="inspectionType">Inspection Type</td>
-                            <td id="permitNumber">Permit Number</td>
+                            <td id="date">props.inspection_date</td>
+                            <td id="address">props.address</td>
+                            <td id="inspectionType">props.inspection_type</td>
+                            <td id="permitNumber">props.permit_id</td>
                         </tr>
                         <tr>
                             <td colSpan="2" id="notes">Notes: </td>
-                            <td colSpan="2" id="timestamp">Timestamp</td>
+                            <td colSpan="2" id="timestamp">props.date_scheduled</td>
                         </tr>
                     </tbody>
                 </table>
