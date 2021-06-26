@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
-import Calendar from "../components/dashboard/Calendar/Calender";
+import Calendar from "../components/dashboard/Calendar";
 import Upcoming from "../components/dashboard/UpcomingInspections";
 
 function Dashboard() {
@@ -18,10 +18,10 @@ function Dashboard() {
                 <div className="row">
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
-                        <div className="border border-3 spacers p-3 bg-dark rounded">
+                        <div className="border border-3 p-3 bg-dark rounded">
                             <h4 className="text-white">Should display the current date HERE</h4>
                             <div className="card">
-                                <div className="card-body bg-light">
+                                <div className="bg-light">
                                     <Today></Today>
                                 </div>
                             </div>
@@ -29,7 +29,7 @@ function Dashboard() {
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
-                        <div className="border border-3 spacers p-3 bg-dark rounded">
+                        <div className="border border-3 p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
                                     <Calendar></Calendar>
@@ -37,11 +37,11 @@ function Dashboard() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-6 col-sm-12">
+                    <div className="col-lg-12 col-sm-12">
                         <h2 className="text-center mt-4">Upcoming Inspections</h2>
-                        <div className="border border-3 spacers p-3 bg-dark rounded">
+                        <div className="border border-3 p-3 bg-dark rounded">
                             <div className="card">
-                                <div className="card-body bg-light"></div>
+                                <div className="bg-light"></div>
                                 <Upcoming></Upcoming>
                             </div>
                         </div>
