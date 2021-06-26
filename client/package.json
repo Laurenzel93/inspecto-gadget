@@ -1,6 +1,7 @@
 {
   "name": "inspecto-gadget",
   "version": "0.1.0",
+  "proxy": "http://localhost:3001",
   "private": true,
   "dependencies": {
     "proxy": "http://localhost:3000/",
