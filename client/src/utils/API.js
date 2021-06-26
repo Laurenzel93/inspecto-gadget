@@ -1,24 +1,15 @@
-import axios from 'axios';
+import axios from "axios";
 
-const TOKEN_KEY = 'jwt';
 
-export default {
-    login: function() {
-        localStorage.setItem(TOKEN_KEY, 'TestLogin');
-    },
+// eslint-disable-next-line import/no-anonymous-default-export
+export default  {
 
-    logout: function() {
-        localStorage.removeItem(TOKEN_KEY);
-    },
+  getInspections: function() {
+    return axios.get("/api/inspections");
+  },
+  getAddress: function(address) {
+    return axios.get("/api/insections/" + address);
+  },
+  
 
-    isLogin: function() {
-        if (localStorage.getItem(TOKEN_KEY)) {
-            return true;
-        }
-        return false;
-    },
-
-    getTodayInspections: function() {
-        return axios.get('/api/inspection');
-    }
 }
