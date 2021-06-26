@@ -1,75 +1,90 @@
-/* eslint-disable no-unused-vars */
-import React, { useState } from 'react';
-import { setUserSession } from '../../utils/Session';
-import  { login } from '../../utils/API'
-import './style.css';
-import axios from 'axios';
-import { useHistory } from 'react-router-dom';
+import React, { useState } from "react";
+import { setUserSession } from "../../utils/Session";
+import { login } from "../../utils/API";
+import "./style.css";
+import axios from "axios";
+import { useHistory } from "react-router-dom";
 
-    
 function LoginForm(props) {
+  const [loading, setLoading] = useState(false);
+  const username = useFormInput("");
+  const password = useFormInput("");
+  const [error, setError] = useState(null);
 
-    const [loading, setLoading] = useState(false);
-    const username = useFormInput('');
-    const password = useFormInput('');
-    const [error, setError] = useState(null);
-   
-    const loginHandler = (e) => {
-        e.preventDefault();
+  const loginHandler = (e) => {
+    e.preventDefault();
 
-        console.log(username, password)
-        setError(null);
-        setLoading(true);
-        axios.post('/api/users/login', { username: username.value, password: password.value })
-        .then(res => {
-            setLoading(false);
-            setUserSession(res.data.token, res.data.user);
-            props.history.push('/dashboard')
-        }).catch(error => {
-            setLoading(false);
-            if (error.response.status === 401) {
-                setError(error.response.data.message);
-            } else {
-                setError("Something went wrong. Please try again later");
-            };
-        });
-    };
+    console.log(username, password);
+    setError(null);
+    setLoading(true);
+    axios
+      .post("/api/users/login", {
+        username: username.value,
+        password: password.value,
+      })
+      .then((res) => {
+        setLoading(false);
+        setUserSession(res.data.token, res.data.user);
+        props.history.push("/dashboard");
+      })
+      .catch((error) => {
+        setLoading(false);
+        console.log(error);
+      });
+  };
 
-    return (
-        <main>
-            <div className="loginFormContainer">
-                <form className='loginForm' onSubmit={loginHandler}>
-                    <div id="loginHeader" className="form-text">
-                        Please enter your account information
-                    </div>
-                    <div className="mb-3">
-                        <label htmlFor="username" className="form-label">Username</label>
-                        <input type="text" {...username} className="form-control" id="username" aria-describedby="usernameEntry" />
-                    </div>
-                    <div className="mb-3">
-                        <label htmlFor="password" className="form-label">Password</label>
-                        <input type="password" {...password}className="form-control" id="password" />
-                    </div>
-                    <div className="btnContainer">
-                        <button type="submit" className="btn customBtn" id="submitBtn">Login</button>
-                    </div>
-                </form>
-            </div>
-        </main>
-    )
+  return (
+    <main>
+      <div className="loginFormContainer">
+        <form className="loginForm" onSubmit={loginHandler}>
+          <div id="loginHeader" className="form-text">
+            Please enter your account information
+          </div>
+          <div className="mb-3">
+            <label htmlFor="username" className="form-label">
+              Username
+            </label>
+            <input
+              type="text"
+              {...username}
+              className="form-control"
+              id="username"
+              aria-describedby="usernameEntry"
+            />
+          </div>
+          <div className="mb-3">
+            <label htmlFor="password" className="form-label">
+              Password
+            </label>
+            <input
+              type="password"
+              {...password}
+              className="form-control"
+              id="password"
+            />
+          </div>
+          <div className="btnContainer">
+            <button type="submit" className="btn customBtn" id="submitBtn">
+              Login
+            </button>
+          </div>
+        </form>
+      </div>
+    </main>
+  );
 }
 
-const useFormInput = initialValue => {
-    const [value, setValue] = useState(initialValue);
+const useFormInput = (initialValue) => {
+  const [value, setValue] = useState(initialValue);
 
-    const handleChange = e => {
-        setValue(e.target.value);
-    }
+  const handleChange = (e) => {
+    setValue(e.target.value);
+  };
 
-    return {
-        value,
-        onChange: handleChange
-    }
-}
+  return {
+    value,
+    onChange: handleChange,
+  };
+};
 
 export default LoginForm;

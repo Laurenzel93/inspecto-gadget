@@ -1,4 +1,3 @@
-const path = require("path");
 const router = require("express").Router();
 const apiRoutes = require("./api");
 
@@ -6,8 +5,6 @@ const { User } = require("../models");
 
 router.post("/api/users/login", async (req, res) => {
   debugger;
-  console.trace("start");
-  console.log("start but log");
 
   try {
     const userData = await User.findOne({
@@ -15,8 +12,6 @@ router.post("/api/users/login", async (req, res) => {
         username: req.body.username,
       },
     });
-
-    console.log(userData);
 
     if (!userData) {
       res.status.json({
@@ -32,6 +27,7 @@ router.post("/api/users/login", async (req, res) => {
       });
     }
 
+    console.log(req.session)
     req.session.save(() => {
       req.session.user_id = userData.id;
       req.session.logged_in = true;
@@ -39,10 +35,9 @@ router.post("/api/users/login", async (req, res) => {
       res.json({ user: userData, message: "You are now logged in!" });
     });
 
-    console.log(req.session.logged_in);
-    console.log("YOURE LOGGED IN HARRY");
   } catch (err) {
     res.status(400).json(err);
+    console.log(err)
   }
 });
 
