@@ -10,16 +10,16 @@ Inspection.init(
       allowNull: false,
       primaryKey: true,
     },
-    inspection_date: {
+    date: {
       type: DataTypes.DATE,
     },
     date_scheduled: {
       type: DataTypes.DATE, 
     },
-    scheduled_by: {
+    admin: {
       type: DataTypes.STRING,
     },
-    inspection_type: {
+    type: {
       type: DataTypes.STRING,
     },
     address: {
@@ -33,6 +33,9 @@ Inspection.init(
         key: "id",
       },
     },
+    inspector: {
+      type: DataTypes.STRING,
+    }
   },
   {
     sequelize,

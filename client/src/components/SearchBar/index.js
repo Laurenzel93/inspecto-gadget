@@ -3,23 +3,18 @@ import './style.css';
 
 function SearchBar (props) {
 
-  const [searchTerm, setSearchTerm] = useState("");
-  const handleChange = event => {
-    setSearchTerm(event.target.value);
-  };
-
 
   return (
         <div className="Search">
           <input
             className="SearchInput"
             type="text"
-            placeholder="Search"
-           
-            value={searchTerm}
-            onChange={handleChange}
+              placeholder="Search For an Address"
+            name="AddressSearch"
+            value={props.value}
+            onChange={props.handleChange}
           />
-          <span className="SearchSpan">
+          <span onClick={props.handleFormSubmit} className="SearchSpan">
             <i className="fa fa-search"></i> 
           </span>
         </div>
