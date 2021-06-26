@@ -58,7 +58,7 @@ function PastInspections() {
                                             <InspectionsTable>
                                                 {inspections.map(inspection => {
                                                   return (
-                                                    <PastComponent key={inspection.id}
+                                                    <PastComponent key={inspection.permit_id}
                                                         date = {inspection.date}
                                                         address = {inspection.address}
                                                         type = {inspection.type}
