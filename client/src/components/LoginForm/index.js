@@ -40,6 +40,13 @@ function LoginForm(props) {
         setLoading(false);
         console.log(error);
       });
+      axios.post("/api/users/sessions")
+        .then((res) => {
+            console.log(res)
+        })
+        .catch((err) => {
+            console.log(err)
+        })
   };
 
   return (
