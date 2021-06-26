@@ -5,10 +5,11 @@ import axios from "axios";
 export default  {
 
   getInspections: function() {
-    return axios.get("/api/inspections");
+    return axios.get("/api/inspection");
   },
-  getAddress: function() {
-    return axios.get("/api/address");
+  getAddress: function(address) {
+    return axios.get("/api/insection/" + address);
   },
+  
 
 }

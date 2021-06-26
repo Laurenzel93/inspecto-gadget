@@ -10,13 +10,11 @@ function SearchBar (props) {
             className="SearchInput"
             type="text"
               placeholder="Search For an Address"
-            name="AddressSearch"
-            value={props.value}
-            onChange={props.handleChange}
+              {...props}
           />
-          <span onClick={props.handleFormSubmit} className="SearchSpan">
+          <button onClick={props.handleFormSubmit} className="SearchSpan btn">
             <i className="fa fa-search"></i> 
-          </span>
+          </button>
         </div>
   );
 };

@@ -1,5 +1,6 @@
 const path = require("path");
 const router = require("express").Router();
+const apiRoutes = require("./api");
 
 const { User } = require("../models");
 
@@ -56,6 +57,8 @@ router.get("/api/success", (req, res) => {
   console.log("route hit");
   res.json({ message: "success" });
 });
+
+router.use("/api", apiRoutes);
 
 // If no API routes are hit, send the React app
 module.exports = router;

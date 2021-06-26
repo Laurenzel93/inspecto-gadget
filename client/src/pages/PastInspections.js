@@ -29,6 +29,7 @@ function PastInspections() {
         // When the form is submitted, prevent its default behavior, get recipes update the recipes state
         event.preventDefault();
         API.getAddress(addressSearch)
+            
           .then(res => setInspections(res.data))
           .catch(err => console.log(err));
       };
