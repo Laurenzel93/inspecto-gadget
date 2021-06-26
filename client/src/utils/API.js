@@ -21,4 +21,4 @@ export default {
     getTodayInspections: function() {
         return axios.get('/api/inspection');
     }
-};
+}

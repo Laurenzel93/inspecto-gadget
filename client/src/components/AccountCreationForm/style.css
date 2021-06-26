@@ -18,7 +18,7 @@ body {
 .createForm {
     justify-content: center;
     width: 22.5rem;
-    padding: 1.5rem;
+    padding: .5rem 1.5rem 1.5rem 1.5rem;
     background-color: white;
     border: 2px solid #555c63;
     border-radius: 15px;
@@ -27,7 +27,7 @@ body {
 #createAccount {
     font-size: 1.25rem;
     font-weight: 500;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 a {
