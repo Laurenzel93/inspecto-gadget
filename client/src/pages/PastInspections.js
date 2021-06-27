@@ -52,7 +52,7 @@ function PastInspections() {
                         <h2 className="text-center">Past Inspections</h2>
                         <div className="border border-3 spacers p-3 bg-dark rounded">
                             <div className="card">
-                                <div className="card-body bg-light">
+                                <div className="bg-light">
                                     <div className="card">
                                         <h2>Date and number of inspections on that day</h2>
                                             <InspectionsTable>
