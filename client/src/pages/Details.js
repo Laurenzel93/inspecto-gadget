@@ -8,11 +8,17 @@ import ResultsHistory from "../components/details/ResultsHistory";
 import axios from "axios";
 import { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
+import { useState } from "react";
+
 
 function Details() {
     const [inspectionDetails, setInspectionDetails] = useState(false);
-    const inspectionID = useParams();
+    const InspectionInfo = useParams();
+    const [loading, setLoading] = useState(false);
+    const [error, setError] = useState(null);
     // inspectionID will also need to change
+
+    console.log(InspectionInfo.id);
 
     useEffect(() => {
 
@@ -20,9 +26,7 @@ function Details() {
         setLoading(true);
         axios
             // need actual existing route here v
-            .get("/api/inspections/details", {
-                inspectionID: inspectionID
-            })
+            .get(`/api/inspections/details/${InspectionInfo.id}`)
             .then((res) => {
                 setLoading(false);
                 setInspectionDetails(res.InspectionDetails);
