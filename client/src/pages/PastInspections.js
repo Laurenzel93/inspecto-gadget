@@ -13,12 +13,16 @@ function PastInspections() {
         loadInspections()
     }, [])
 
-    function loadInspections() {
-        API.getInspections()
-          .then(res => 
-            setInspections(res.data)
-          )
-          .catch(err => console.log(err));
+  async  function loadInspections() {
+        
+       await API.getInspections()
+       .then(res => {
+         setInspections(res.data)
+         console.log(inspections)
+        })
+
+       .catch(err => console.log(err));
+
     };
     
     const handleInputChange = event => {
@@ -55,9 +59,9 @@ function PastInspections() {
                                 <div className="bg-light">
                                     <div className="card">
                                         <h2>Date and number of inspections on that day</h2>
+                                        {inspections.length ? (
                                             <InspectionsTable>
-                                                {inspections.map(inspection => {
-                                                  return (
+                                                {inspections.map(inspection => (
                                                     <PastComponent key={inspection.permit_id}
                                                         date = {inspection.date}
                                                         address = {inspection.address}
@@ -65,9 +69,11 @@ function PastInspections() {
                                                         code = {inspection.permit_id}
                                                         admin = {inspection.admin}
                                                         on = {inspection.date_scheduled}/>
-                                                     )
-                                                })}
+                                                ))}
                                             </InspectionsTable>
+                                        ) : (
+                                            <h3> No Result to Display</h3>
+                                        )}
                                     </div>
                                 </div>
                             </div>

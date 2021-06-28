@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const inspectionRoutes = require("./inspections");
+const inspectionRoutes = require("./inspections.js");
 const userRoutes = require("./users");
 
 // Inspector routes

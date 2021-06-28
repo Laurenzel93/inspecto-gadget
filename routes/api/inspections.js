@@ -2,7 +2,7 @@ const router = require("express").Router();
 const { Inspection } = require("../../models");
 const withAuth = require('../../scripts/auth');
 
-router.post("/", withAuth, async (req, res) => {
+router.get("/", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
     const inspectionData = await Inspection.findAll();
     return inspectionData;
@@ -14,14 +14,14 @@ router.post("/", withAuth, async (req, res) => {
           inspector: req.session.name,
         },
       });
-      return inspectionData;
+      res.json(inspectionData)
     } catch (error) {
       console.log(error);
     }
   }
 });
 
-router.post('/address', withAuth, async (req, res) => {
+router.get('/address', withAuth, async (req, res) => {
    if (req.session.role === "admin") {
      const inspectionData = await Inspection.findAll({
         where: {
