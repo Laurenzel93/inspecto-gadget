@@ -4,6 +4,7 @@ import { PastComponent, InspectionsTable } from "../components/PastComponent";
 import Nav from "../components/Nav";
 import SearchBar from "../components/SearchBar";
 import API from "../utils/API"
+import Moment from 'moment';
 
 function PastInspections() {
     const [inspections, setInspections] = useState([]);
@@ -63,12 +64,13 @@ function PastInspections() {
                                             <InspectionsTable>
                                                 {inspections.map(inspection => (
                                                     <PastComponent key={inspection.permit_id}
-                                                        date = {inspection.date}
+                                                        date = {Moment(inspection.date).format('YYYY-MM-DD')}
                                                         address = {inspection.address}
                                                         type = {inspection.type}
-                                                        code = {inspection.permit_id}
+                                                        permit_id = {inspection.permit_id}
                                                         admin = {inspection.admin}
-                                                        on = {inspection.date_scheduled}/>
+                                                        date_scheduled = {Moment(inspection.date_scheduled).format('YYYY-MM-DD')}
+                                                        />
                                                 ))}
                                             </InspectionsTable>
                                         ) : (
