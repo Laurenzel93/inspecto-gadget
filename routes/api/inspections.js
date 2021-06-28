@@ -1,27 +1,32 @@
 const router = require("express").Router();
-const { Inspection } = require("../../models");
+const { Inspection, Note } = require("../../models");
 const withAuth = require('../../scripts/auth');
 
-router.post("/", withAuth, async (req, res) => {
+
+
+router.get("/", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
-    const inspectionData = await Inspection.findAll();
-    return inspectionData;
+    const inspectionData = await Inspection.findAll({order: '"date" DESC'});
+    res.json(inspectionData)
   }
   if (req.session.role === "inspector") {
     try {
       const inspectionData = await Inspection.findAll({
+        order: [['date',  'ASC']],
+        include: [{model: Note }],
         where: {
           inspector: req.session.name,
         },
       });
-      return inspectionData;
+      console.log(inspectionData)
+      res.json(inspectionData)
     } catch (error) {
       console.log(error);
     }
   }
 });
 
-router.post('/address', withAuth, async (req, res) => {
+router.get('/address', withAuth, async (req, res) => {
    if (req.session.role === "admin") {
      const inspectionData = await Inspection.findAll({
         where: {

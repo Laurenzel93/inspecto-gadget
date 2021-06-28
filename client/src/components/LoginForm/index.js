@@ -14,7 +14,7 @@ function LoginForm(props) {
   const loginHandler = (e) => {
     e.preventDefault();
 
-    console.log(username, password);
+    console.log(username.value, password.value);
     setError(null);
     setLoading(true);
     axios
