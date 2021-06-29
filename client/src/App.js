@@ -47,7 +47,7 @@ function App() {
         <Route exact path='/create-account'>
           <AccountCreation />
         </Route>
-        <Route exact path='/details:id'>
+        <Route exact path='/inspections/:id'>
           <Details />
         </Route>
         <Route exact path='/past-inspections'>

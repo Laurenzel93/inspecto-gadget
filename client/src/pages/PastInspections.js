@@ -2,9 +2,13 @@ import React, { useEffect, useState } from "react";
 import { Helmet } from "react-helmet";
 import { PastComponent, InspectionsTable } from "../components/PastComponent";
 import Nav from "../components/Nav";
-import SearchBar from "../components/SearchBar";
+import {SearchInput, SearchBtn} from "../components/SearchBar";
 import API from "../utils/API"
 import Moment from 'moment';
+
+
+let present = [];
+let past = [];
 
 function PastInspections() {
     const [inspections, setInspections] = useState([]);
@@ -14,25 +18,30 @@ function PastInspections() {
         loadInspections()
     }, [])
 
-  async  function loadInspections() {
-        
+    async  function loadInspections() {  
        await API.getInspections()
        .then(res => {
          setInspections(res.data)
-         console.log(inspections)
-        })
-
-       .catch(err => console.log(err));
-
+        }).catch(err => console.log(err));
     };
+
+       inspections.forEach(inspection => {
+           console.log(inspection.notes)
+          if((Moment(inspection.date).isBefore(Moment(), 'day'))){
+              past.push(inspection)
+          } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
+              present.push(inspection)
+          }    
+          })
+         
     
     const handleInputChange = event => {
       setAddressSearch(event.target.value);
     };
 
     const handleFormSubmit = event => {
-        // When the form is submitted, prevent its default behavior, get recipes update the recipes state
         event.preventDefault();
+        console.log(addressSearch)
         API.getAddress(addressSearch)
             
           .then(res => setInspections(res.data))
@@ -47,43 +56,74 @@ function PastInspections() {
             </Helmet>
             <Nav />
             <div className="container-fluid">
-                <SearchBar 
-                value={addressSearch}
-                onChange={handleInputChange}
-                onClick={handleFormSubmit}
-                />
+                <div className="Search">
+                    <SearchInput 
+                        value={addressSearch}
+                        onChange={handleInputChange}
+                    />
+                    <SearchBtn
+                        onClick={handleFormSubmit}
+                    />
+                </div>
                 <div className="row mt-4">
                     <div className="col-lg-12 col-sm-12">
                         <h2 className="text-center">Past Inspections</h2>
                         <div className="border border-3 spacers p-3 bg-dark rounded">
                             <div className="card">
-                                <div className="bg-light">
-                                    <div className="card">
-                                        <h2>Date and number of inspections on that day</h2>
-                                        {inspections.length ? (
-                                            <InspectionsTable>
-                                                {inspections.map(inspection => (
-                                                    <PastComponent key={inspection.permit_id}
-                                                        date = {Moment(inspection.date).format('YYYY-MM-DD')}
-                                                        address = {inspection.address}
-                                                        type = {inspection.type}
-                                                        permit_id = {inspection.permit_id}
-                                                        admin = {inspection.admin}
-                                                        date_scheduled = {Moment(inspection.date_scheduled).format('YYYY-MM-DD')}
-                                                        />
-                                                ))}
-                                            </InspectionsTable>
-                                        ) : (
-                                            <h3> No Result to Display</h3>
-                                        )}
-                                    </div>
-                                </div>
+                                {present.length ? (
+                                    <div className="bg-light">
+                                         {present.map(inspection => (
+                                            <div className="card">
+                                                 <h2>{Moment(inspection.date).format("dddd, MMMM Do YYYY")}</h2>
+                                                    <InspectionsTable>
+                                                        <PastComponent key={inspection.permit_id}
+                                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
+                                                            address = {inspection.address}
+                                                            type = {inspection.type}
+                                                            permit_id = {inspection.permit_id}
+                                                            admin = {inspection.admin}
+                                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
+                                                            />
+                                                        </InspectionsTable>
+                                                    </div> 
+                                                 ))}   
+                                             </div>        
+                                         ) : (
+                                        <h3> No Result to Display</h3>
+                                     )}        
+                            </div>
+                        </div>
+                        <div className="border border-3 spacers p-3 bg-dark rounded">
+                            <div className="card">
+                                {past.length ? (
+                                    <div className="bg-light">
+                                         {past.map(inspection => (
+                                            <div className="card">
+                                                 <h2>{Moment(inspection.date).format("dddd, MMMM Do YYYY")}</h2>
+                                                    <InspectionsTable>
+                                                        <PastComponent key={inspection.permit_id}
+                                                            index = {inspection.findIndex}
+                                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
+                                                            address = {inspection.address}
+                                                            type = {inspection.type}
+                                                            permit_id = {inspection.permit_id}
+                                                            admin = {inspection.admin}
+                                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
+                                                            />
+                                                        </InspectionsTable>
+                                                    </div> 
+                                                 ))}   
+                                             </div>        
+                                         ) : (
+                                        <h3> No Result to Display</h3>
+                                     )}        
                             </div>
                         </div>
                     </div>
                 </div>
+                </div>
             </div>
-        </div>
+       
     )
 };
 

@@ -5,7 +5,7 @@
   position: relative;
   display: flex;
 }
-.SearchSpan {
+.SearchBtn {
   width: 15%;
   border: 3px solid #343a40 !important;
   background: #6c757d !important;

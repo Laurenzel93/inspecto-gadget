@@ -9,6 +9,7 @@ router.get("/", withAuth, async (req, res) => {
     try {
       const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
+        limit: 20,
         include: [{model: Note }],
       });
       inspectionData.forEach(element => {
@@ -29,7 +30,7 @@ router.get("/", withAuth, async (req, res) => {
     try {
       const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
-        include: [{model: Note }],
+        limit:30,
         where: {
           inspector: req.session.name,
         },
