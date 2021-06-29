@@ -10,5 +10,8 @@ export default {
   }, 
   getInspectionByID: function(id) {
     return axios.get(`/api/inspections/id/${id}`)
+  },
+  getPermitByID: function(id) {
+    return axios.get(`/api/permits/id/${id}`)
   }
 };
