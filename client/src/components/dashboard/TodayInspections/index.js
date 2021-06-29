@@ -6,7 +6,7 @@ function TodaysInspections(props) {
     // useEffect(() => {
     //     console.log('useEffect has been hit');
     //     // console.log(API);
-    //     API.getTodayInspections().then(res => console.log(res));
+    //     API.getInspections().then(res => console.log(res));
     // });
 
     return (

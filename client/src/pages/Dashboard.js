@@ -17,7 +17,8 @@ function Dashboard(props) {
                 console.log(res)
                 console.log('===========')
             })
-            .then (res => setTodayInspections(res))
+            .then(res => setTodayInspections(res))
+            .catch(error => console.log(error))
     }
 
     useEffect(getInspectionData)
@@ -37,7 +38,7 @@ function Dashboard(props) {
                             <h4 className="text-white">Should display the current date HERE</h4>
                             <div className="card">
                                 <div className="bg-light">
-                                    <Today></Today>
+                                    <Today />
                                 </div>
                             </div>
                         </div>
