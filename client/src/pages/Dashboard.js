@@ -5,23 +5,10 @@ import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
 import Upcoming from "../components/dashboard/UpcomingInspections";
-import API from '../utils/API';
+import Moment from 'moment';
 
-function Dashboard(props) {
-    const [todayInspections, setTodayInspections] = useState()
-
-    const getInspectionData = () => {
-        API.getInspections()
-            .then(res => {
-                console.log('===========')
-                console.log(res)
-                console.log('===========')
-            })
-            .then(res => setTodayInspections(res))
-            .catch(error => console.log(error))
-    }
-
-    useEffect(getInspectionData)
+function Dashboard() {
+    let today = Moment().format("dddd, MMMM Do YYYY").toString()
 
     return (
         <div>
@@ -35,7 +22,7 @@ function Dashboard(props) {
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
                         <div className="border border-3 p-3 bg-dark rounded">
-                            <h4 className="text-white">Should display the current date HERE</h4>
+                            <h4 className="text-white">{today}</h4>
                             <div className="card">
                                 <div className="bg-light">
                                     <Today />
