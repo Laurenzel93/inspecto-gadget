@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
@@ -6,9 +6,26 @@ import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
 import Upcoming from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
+import API from '../utils/API';
+
 
 function Dashboard() {
     let today = Moment().format("dddd, MMMM Do YYYY").toString()
+
+    const [todayInspections, setTodayInspections] = useState()
+
+    const getInspectionData = () => {
+        API.getInspections()
+            .then(res => {
+                console.log('===========')
+                console.log(res)
+                console.log('===========')
+            })
+            .then(res => setTodayInspections(res))
+            .catch(error => console.log(error))
+    }
+
+    useEffect(getInspectionData)
 
     return (
         <div>
@@ -25,7 +42,7 @@ function Dashboard() {
                             <h4 className="text-white">{today}</h4>
                             <div className="card">
                                 <div className="bg-light">
-                                    <Today></Today>
+                                    <Today />
                                 </div>
                             </div>
                         </div>

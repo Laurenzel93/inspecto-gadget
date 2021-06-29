@@ -4,7 +4,9 @@ import './style.css';
 
 function Nav() {
 
-    // state associated with hamburger icon animation
+    /*
+        Hamburger icon animation
+    */
     const [opened, setOpened] = useState("menu ");
     const [ariaExpanded, setAriaExpanded] = useState("");
 
@@ -19,7 +21,9 @@ function Nav() {
         }
     }
 
-    // state associated with opening/closing hamburger menu
+    /*
+        Opening/closing hamburger menu
+    */
     const [responsive, setResponsive] = useState("navbar bigNav");
 
     // called whenever hamburger icon clicked
@@ -32,7 +36,9 @@ function Nav() {
         }
     }
 
-    // used for redirecting users
+    /* 
+        Buttons that redirect user to new route
+    */
     const history = useHistory();
 
     // redirect user to dashboard
@@ -71,11 +77,22 @@ function Nav() {
             setActiveCreate('activeCreate');
         }
     }
-    useEffect(locationStyle);
+    useEffect(() => {
+        locationStyle();
+        if (isAdmin === false) {
+            setGenUserStyle('myTopnav');
+        }
+    });
+
+    /*
+        Render Create Account button if Admin
+    */
+    const [isAdmin, setIsAdmin] = useState(true);
+    const [genUserStyle, setGenUserStyle] = useState('');
 
     return (
         <div className="container-fluid headerContainer vw-100">
-            <nav className={responsive} id="myTopnav">
+            <nav className={responsive} id={genUserStyle}>
                 <h1 className="col-lg-4 col-sm-12 p-3 text-center">
                     Inspecto-Gadget
                 </h1>
@@ -90,7 +107,12 @@ function Nav() {
                 </a>
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeDash} onClick={dashboardRoute}>Dashboard</button>
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activePast} onClick={pastInspectionsRoute}>Past Inspections</button>
+                { !isAdmin ?
+                null
+                :
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Create Account</button>
+            
+                }
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout">Logout</button>
             </nav>
         </div>
