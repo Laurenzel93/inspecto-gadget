@@ -6,9 +6,26 @@ import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
 import Upcoming from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
+import API from '../utils/API';
+
 
 function Dashboard() {
     let today = Moment().format("dddd, MMMM Do YYYY").toString()
+
+    const [todayInspections, setTodayInspections] = useState()
+
+    const getInspectionData = () => {
+        API.getInspections()
+            .then(res => {
+                console.log('===========')
+                console.log(res)
+                console.log('===========')
+            })
+            .then(res => setTodayInspections(res))
+            .catch(error => console.log(error))
+    }
+
+    useEffect(getInspectionData)
 
     return (
         <div>

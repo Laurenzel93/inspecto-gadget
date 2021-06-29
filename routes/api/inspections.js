@@ -6,8 +6,17 @@ const withAuth = require('../../scripts/auth');
 
 router.get("/", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
-    const inspectionData = await Inspection.findAll({order: '"date" DESC'});
-    res.json(inspectionData)
+    // console.log('=============');
+    // console.log(res);
+    // console.log('=============');
+
+    const inspectionData = await Inspection.findAll({order: ['date', 'DESC']});
+    try {
+      console.log(res.json(inspectionData));
+      res.json(inspectionData);
+    } catch (err) {
+      console.log(err);
+    }
   }
   if (req.session.role === "inspector") {
     try {

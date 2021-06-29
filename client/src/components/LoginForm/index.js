@@ -16,7 +16,7 @@ function LoginForm(props) {
   //   useHistory().push(dashboardPath);
   // }
 
-  const redirect = useHistory();
+  const hist = useHistory();
 
   const loginHandler = (e) => {
     e.preventDefault();
@@ -32,9 +32,10 @@ function LoginForm(props) {
       .then((res) => {
         setLoading(false);
         setUserSession(res.data.token, res.data.user);
-        props.history.push("/dashboard");
-        redirect.push('/dashboard')
-        // dashboardRoute();
+        console.log('==========');
+        console.log('hit login router!');
+        console.log('==========');
+        hist.push('/dashboard');
       })
       .catch((error) => {
         setLoading(false);
@@ -42,7 +43,12 @@ function LoginForm(props) {
       });
       axios.post("/api/users/sessions")
         .then((res) => {
-            console.log(res)
+            console.log(res);
+            console.log('==========')
+            console.log('hit sessions router!')
+            console.log('==========')
+
+
         })
         .catch((err) => {
             console.log(err)
