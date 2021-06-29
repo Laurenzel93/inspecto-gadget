@@ -1,6 +1,14 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import API from '../../../utils/API'
 
 function TodaysInspections(props) {
+
+    // useEffect(() => {
+    //     console.log('useEffect has been hit');
+    //     // console.log(API);
+    //     API.getInspections().then(res => console.log(res));
+    // });
+
     return (
                         <div className="card">
                             <h2>Date and number of inspections on that day</h2>

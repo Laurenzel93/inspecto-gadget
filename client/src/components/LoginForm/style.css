@@ -12,9 +12,12 @@ body {
     padding: 2rem;
     text-align: center;
     background-color: var(--gray-background);
-    color: white;
     border-bottom: 3px solid black;
     border-top: 3px solid black;
+}
+
+.jumboHeading {
+    color: white;
 }
 
 /* Main content of page */

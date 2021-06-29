@@ -34,7 +34,7 @@ router.post("/login", async (req, res) => {
     });
   } catch (err) {
     res.status(400).json(err);
-    console.log(err);
+    console.log('Login error! ' + err);
   }
 });
 
@@ -61,7 +61,7 @@ router.post("/sessions", withAuth, async (req, res) => {
         }
       });
     } catch (err) {
-      console.log(err);
+      console.log('Sessions error! ' + err);
     }
   }
 
