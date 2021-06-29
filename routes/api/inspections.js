@@ -9,6 +9,7 @@ router.get("/", withAuth, async (req, res) => {
     try {
       const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
+        limit: 20,
         include: [{model: Note }],
       });
       inspectionData.forEach(element => {

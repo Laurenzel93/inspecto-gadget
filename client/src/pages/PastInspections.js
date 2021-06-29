@@ -26,7 +26,7 @@ function PastInspections() {
     };
 
        inspections.forEach(inspection => {
-           console.log(inspection)
+           console.log(inspection.notes)
           if((Moment(inspection.date).isBefore(Moment(), 'day'))){
               past.push(inspection)
           } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
@@ -74,15 +74,15 @@ function PastInspections() {
                                     <div className="bg-light">
                                          {present.map(inspection => (
                                             <div className="card">
-                                                 <h2>{Moment(inspection.date).format("dddd, MMMM Do YYYY")}{present.length}</h2>
+                                                 <h2>{Moment(inspection.date).format("dddd, MMMM Do YYYY")}</h2>
                                                     <InspectionsTable>
                                                         <PastComponent key={inspection.permit_id}
-                                                            date = {Moment(inspection.date).format('YYYY-MM-DD')} 
+                                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
                                                             address = {inspection.address}
                                                             type = {inspection.type}
                                                             permit_id = {inspection.permit_id}
                                                             admin = {inspection.admin}
-                                                            date_scheduled = {Moment(inspection.date_scheduled).format('YYYY-MM-DD')}
+                                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
                                                             />
                                                         </InspectionsTable>
                                                     </div> 
@@ -108,7 +108,7 @@ function PastInspections() {
                                                             type = {inspection.type}
                                                             permit_id = {inspection.permit_id}
                                                             admin = {inspection.admin}
-                                                            date_scheduled = {Moment(inspection.date_scheduled).format('YYYY-MM-DD')}
+                                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
                                                             />
                                                         </InspectionsTable>
                                                     </div> 
