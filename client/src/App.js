@@ -39,7 +39,7 @@ function App() {
       <Switch>
         <Route exact path={['/', '/login']}>
           <Login />
-          <Link to="/create-account" >Click to create account</Link>
+          <Link to="/dashboard" >Click to go to Dashboard</Link>
         </Route>
         <Route exact path='/dashboard'>
           <Dashboard />

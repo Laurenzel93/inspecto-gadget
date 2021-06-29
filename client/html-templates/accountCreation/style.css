@@ -18,6 +18,9 @@ body {
 
 .bigNav {
     overflow: hidden;
+
+    /** this is what i need for navbar when user is not admin */
+    justify-content: center !important;
 }
 
 .bigNav .icon {
