@@ -2,10 +2,13 @@ import axios from "axios";
 
 
 export default {
-  getInspections: function() {
+  getInspection: function() {
     return axios.get("/api/inspections");
   }, 
-  getAddress: function(address) {
-    return axios.get("/api/address");
+  getInspectionByAddress: function(address) {
+    return axios.get(`/api/inspections/address/${address}`);
   }, 
+  getInspectionByID: function(id) {
+    return axios.get(`/api/inspections/id/${id}`)
+  }
 };
