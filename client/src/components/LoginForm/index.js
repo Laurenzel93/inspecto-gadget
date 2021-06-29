@@ -25,7 +25,7 @@ function LoginForm(props) {
       .then((res) => {
         setLoading(false);
         setUserSession(res.data.token, res.data.user);
-        props.history.push("/dashboard");
+        // props.history.push("/dashboard");
       })
       .catch((error) => {
         setLoading(false);

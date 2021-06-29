@@ -17,3 +17,6 @@ router.get('/id/:id', withAuth, async (req, res) => {
     console.log(error);
   }
 });
+
+
+module.exports = router;

@@ -2,7 +2,7 @@ import axios from "axios";
 
 
 export default {
-  getInspection: function() {
+  getInspections: function() {
     return axios.get("/api/inspections");
   }, 
   getInspectionByAddress: function(address) {
