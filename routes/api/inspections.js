@@ -6,7 +6,7 @@ const withAuth = require('../../scripts/auth');
 
 router.get("/", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
-    const inspectionData = await Inspection.findAll({order: '"date" DESC'});
+    const inspectionData = await Inspection.findAll({order: '"date" ASC'});
     res.json(inspectionData)
   }
   if (req.session.role === "inspector") {
@@ -26,11 +26,11 @@ router.get("/", withAuth, async (req, res) => {
   }
 });
 
-router.get('/address', withAuth, async (req, res) => {
+router.get('/address/:id', withAuth, async (req, res) => {
    if (req.session.role === "admin") {
      const inspectionData = await Inspection.findAll({
         where: {
-           address: req.address //TODO make sure this work
+           address: req.params.id //TODO make sure this work
         }
      });
      return inspectionData;
@@ -40,7 +40,7 @@ router.get('/address', withAuth, async (req, res) => {
        const inspectionData = await Inspection.findAll({
          where: {
            inspector: req.session.name,
-           address: req.address //TODO make sure this work
+           address: req.params.id //TODO make sure this work
          },
        });
        return inspectionData;
@@ -49,5 +49,29 @@ router.get('/address', withAuth, async (req, res) => {
      }
    }
 });
+
+router.get("/id/:id", withAuth, async (req, res) => {
+  if (req.session.role === "admin") {
+    const inspectionData = await Inspection.findAll({
+       where: {
+          id: req.params.id //TODO make sure this work
+       }
+    });
+    return inspectionData;
+  }
+  if (req.session.role === "inspector") {
+    try {
+      const inspectionData = await Inspection.findAll({
+        where: {
+          inspector: req.session.name,
+          id: req.params.id //TODO make sure this work
+        },
+      });
+      return inspectionData;
+    } catch (error) {
+      console.log(error);
+    }
+  }
+})
 
 module.exports = router;
