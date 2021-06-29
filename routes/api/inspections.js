@@ -53,6 +53,7 @@ router.get('/address/:id', withAuth, async (req, res) => {
 router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
     const inspectionData = await Inspection.findAll({
+      include: [{model: Note }],
        where: {
           id: req.params.id //TODO make sure this work
        }
@@ -62,6 +63,7 @@ router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "inspector") {
     try {
       const inspectionData = await Inspection.findAll({
+        include: [{model: Note }],
         where: {
           inspector: req.session.name,
           id: req.params.id //TODO make sure this work
