@@ -26,9 +26,9 @@ function PastInspections() {
   }
 
   inspections.forEach((inspection) => {
-      if(inspection.notes[0] !== undefined){
-        console.log(inspection.notes[0].note);
-      }
+    if (inspection.notes[0] !== undefined) {
+      console.log(inspection.notes[0].note);
+    }
     if (Moment(inspection.date).isBefore(Moment(), "day")) {
       past.push(inspection);
     } else if (Moment(inspection.date).isSame(Moment(), "day")) {
