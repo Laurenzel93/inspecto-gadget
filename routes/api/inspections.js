@@ -44,30 +44,30 @@ router.get("/", withAuth, async (req, res) => {
   }
 });
 
-router.get('/address/:id', withAuth, async (req, res) => {
-   if (req.session.role === "admin") {
+// router.get('/address/:id', withAuth, async (req, res) => {
+//    if (req.session.role === "admin") {
      
-     const inspectionData = await Inspection.findAll({
-        where: {
-           address: req.params.id //TODO make sure this work
-        }
-     });
-     return inspectionData;
-   }
-   if (req.session.role === "inspector") {
-     try {
-       const inspectionData = await Inspection.findAll({
-         where: {
-           inspector: req.session.name,
-           address: req.params.id //TODO make sure this work
-         },
-       });
-       res.json(inspectionData)
-     } catch (error) {
-       console.log(error);
-     }
-   }
-});
+//      const inspectionData = await Inspection.findAll({
+//         where: {
+//            address: req.params.id //TODO make sure this work
+//         }
+//      });
+//      return inspectionData;
+//    }
+//    if (req.session.role === "inspector") {
+//      try {
+//        const inspectionData = await Inspection.findAll({
+//          where: {
+//            inspector: req.session.name,
+//            address: req.params.id //TODO make sure this work
+//          },
+//        });
+//        res.json(inspectionData)
+//      } catch (error) {
+//        console.log(error);
+//      }
+//    }
+// });
 
 router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
