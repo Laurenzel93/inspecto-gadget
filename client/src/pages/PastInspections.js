@@ -26,7 +26,7 @@ function PastInspections() {
     };
 
        inspections.forEach(inspection => {
-           console.log(inspection.notes)
+       
           if((Moment(inspection.date).isBefore(Moment(), 'day'))){
               past.push(inspection)
           } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
@@ -76,7 +76,7 @@ function PastInspections() {
                                             <div className="card">
                                                  <h2>{Moment(inspection.date).format("dddd, MMMM Do YYYY")}</h2>
                                                     <InspectionsTable>
-                                                        <PastComponent key={inspection.permit_id}
+                                                        <PastComponent key={inspection.id}
                                                             date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
                                                             address = {inspection.address}
                                                             type = {inspection.type}
