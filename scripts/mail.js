@@ -30,13 +30,13 @@ function welcome (email) {
   transporter.sendMail(message); 
 };
 
-function inspection ({ email, message }) {
+function inspection ({ email, details }) {
   let message = {
     from: "orchardlakeinspect@gmail.com",
     to: email,
     subject: "Welcome to Inspecto-Gadget!",
-    text: message,
-    hmtl: `<p>${message}</p>`
+    text: details,
+    hmtl: `<p>${details}</p>`
   };
   
   transporter.sendMail(message);
