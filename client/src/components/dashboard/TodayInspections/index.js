@@ -1,14 +1,9 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 import API from '../../../utils/API'
 
 function TodaysInspections(props) {
-
-    // useEffect(() => {
-    //     console.log('useEffect has been hit');
-    //     // console.log(API);
-    //     API.getInspections().then(res => console.log(res));
-    // });
+    const history = useHistory();
 
     return (
                         <div className="card">
@@ -18,8 +13,7 @@ function TodaysInspections(props) {
                                     <tr>
                                         <th scope="row">1</th>
                                         <td>{props.date} |{props.address} |{props.type}  |{props.permit_id}  |notes? |{props.admin}| {props.date_scheduled} </td>
-                                        <td><button className="btn btn-secondary border border-dark">Results</button>
-                                        <Link to={"/inspections/" + props.id}></Link>
+                                        <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
                                         </td>
                                     </tr>
                                 </tbody>
