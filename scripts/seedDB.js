@@ -27,7 +27,7 @@ const seedDatabase = async () => {
     individualHooks: true,
     returning: true,
   }); 
-  const notes = await Note.bulkCreate(noteData, {
+  const note = await Note.bulkCreate(noteData, {
     individualHooks: true,
     returning: true,
   }) 
