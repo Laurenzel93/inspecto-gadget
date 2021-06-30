@@ -35,6 +35,7 @@
     "if-env": "^1.0.4",
     "mongoose": "^5.12.13",
     "mysql2": "^2.2.5",
+    "nodemailer": "^6.6.2",
     "react-helmet": "^6.1.0",
     "sequelize": "^6.6.2"
   }
