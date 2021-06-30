@@ -17,27 +17,27 @@ function PastInspections() {
     loadInspections();
   }, []);
 
-    async  function loadInspections() {  
-       await API.getInspections()
-       .then(res => {
-         setInspections(res.data)
-        }).catch(err => console.log(err));
-    };
-        present = [];
-        past = [];
-       inspections.forEach(inspection => {
-       
-          if((Moment(inspection.date).isBefore(Moment(), 'day'))){
-           
-              past.push(inspection)
-          } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
-           
-              present.push(inspection)
-          }    
-          })
-         
-    
- 
+  async function loadInspections() {
+    await API.getInspections()
+      .then(res => {
+        setInspections(res.data)
+      }).catch(err => console.log(err));
+  };
+  present = [];
+  past = [];
+  inspections.forEach(inspection => {
+
+    if ((Moment(inspection.date).isBefore(Moment(), 'day'))) {
+
+      past.push(inspection)
+    } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
+
+      present.push(inspection)
+    }
+  })
+
+
+
   const handleInputChange = (event) => {
     setAddressSearch(event.target.value);
   };
@@ -62,13 +62,13 @@ function PastInspections() {
         <div className="row mt-4">
           <div className="col-lg-12 col-sm-12">
             <h2 className="text-center">Past Inspections</h2>
-            <div className="border border-3 spacers p-3 bg-dark rounded">
-              <div className="card">
+            <div className="bordered p-3 bg-dark rounded mb-2">
+              <div>
                 {present.length ? (
-                  <div className="bg-light">
+                  <div className="card">
                     {present.map((inspection) => (
-                      <div className="card">
-                        <h2>
+                      <div className="border border-dark rounded bg-light m-1">
+                        <h2 className="p-1  align-middle">
                           {Moment(inspection.date).format(
                             "dddd, MMMM Do YYYY"
                           )}
@@ -97,13 +97,14 @@ function PastInspections() {
                 )}
               </div>
             </div>
-            <div className="border border-3 spacers p-3 bg-dark rounded">
+            
+            <div className="p-3 bg-dark rounded">
               <div className="card">
                 {past.length ? (
-                  <div className="bg-light">
+                  <div>
                     {past.map((inspection) => (
-                      <div className="card">
-                        <h2>
+                      <div className="border border-dark rounded bg-light m-1">
+                        <h2 className="p-1  align-middle">
                           {Moment(inspection.date).format(
                             "dddd, MMMM Do YYYY"
                           )}
