@@ -24,12 +24,15 @@ function PastInspections() {
          setInspections(res.data)
         }).catch(err => console.log(err));
     };
-
+        present = [];
+        past = [];
        inspections.forEach(inspection => {
        
           if((Moment(inspection.date).isBefore(Moment(), 'day'))){
+           
               past.push(inspection)
           } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
+           
               present.push(inspection)
           }    
           })
