@@ -7,11 +7,11 @@ function TodaysInspections(props) {
 
     return (
                         <div className="card">
-                            <h2>{props.length}</h2>
+                            <h2>{props.length} Inspections Today</h2>
                             <table className="table table-border table-striped">
                                 <tbody>
                                     <tr>
-                                        <th scope="row">1</th>
+                                        <th scope="row">{props.number}</th>
                                         <td>{props.date} |{props.address} |{props.type}  |{props.permit_id}  |notes? |{props.admin}| {props.date_scheduled} </td>
                                         <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
                                         </td>
