@@ -1,5 +1,7 @@
+import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useHistory, useLocation } from "react-router-dom";
+import { getUser, removeUserSession } from "../../utils/Session";
 import './style.css';
 
 function Nav() {
@@ -79,6 +81,7 @@ function Nav() {
     }
     useEffect(() => {
         locationStyle();
+        checkRole();
         if (isAdmin === false) {
             setGenUserStyle('myTopnav');
         }
@@ -87,8 +90,32 @@ function Nav() {
     /*
         Render Create Account button if Admin
     */
-    const [isAdmin, setIsAdmin] = useState(true);
+    const [isAdmin, setIsAdmin] = useState();
     const [genUserStyle, setGenUserStyle] = useState('');
+    const checkRole = () => {
+        if (getUser()) {
+            console.log('this is the result of getUser(): ' + getUser());
+            if (getUser().role === 'admin') {
+                setIsAdmin(true);
+            } else {
+                setIsAdmin(false);
+            }
+        }
+    }
+
+    /* 
+        Logout button 
+    */
+    const logout = () => {
+        axios.post('/api/users/logout')
+            .then(() => {
+                removeUserSession();
+                history.push('/login');
+            })
+            .catch(err => {
+                console.log(err);
+            });
+    }
 
     return (
         <div className="container-fluid headerContainer vw-100">
@@ -107,13 +134,13 @@ function Nav() {
                 </a>
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeDash} onClick={dashboardRoute}>Dashboard</button>
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activePast} onClick={pastInspectionsRoute}>Past Inspections</button>
-                { !isAdmin ?
-                null
-                :
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Create Account</button>
-            
+                {!isAdmin ?
+                    null
+                    :
+                    <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Create Account</button>
+
                 }
-                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout">Logout</button>
+                <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout" onClick={logout}>Logout</button>
             </nav>
         </div>
     )

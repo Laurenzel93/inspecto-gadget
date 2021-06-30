@@ -47,7 +47,7 @@ function Dashboard() {
         }
     })
 
-    console.log(future);
+    // console.log(future);
 
     return (
         <div>
@@ -55,7 +55,11 @@ function Dashboard() {
                 <title>Dashboard</title>
             </Helmet>
             <Nav />
-            <ActionRequiredBanner />
+            {present.length ? (
+                <ActionRequiredBanner />
+            ) : (
+                null
+            )}
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-lg-6 col-sm-12">
