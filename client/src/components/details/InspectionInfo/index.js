@@ -1,6 +1,7 @@
 import React from "react";
 import './style.css';
 
+
 function InspectionInfo(props) {
     console.log(props)
     return (
