@@ -3,6 +3,7 @@ import { useHistory } from "react-router-dom";
 
 function UpcomingInspections(props) {
     const history = useHistory();
+    console.log('props: ' + props)
 
     return (
         <div className="card">
