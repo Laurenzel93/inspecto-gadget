@@ -13,7 +13,7 @@ app.use(express.json());
 
 // Serve up static assets (usually on heroku)
 if (process.env.NODE_ENV === "production") {
-  app.use(express.static("client"));
+  app.use(express.static("client/build"));
 }
 
 //Cookie set-up
@@ -31,6 +31,10 @@ app.use(session(sess));
 
 // Add routes, both API and view
 app.use(routes);
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, "./client/build/index.html")); //path.join(__dirname, "./client/build/index.html")
+})
 
 // Connect to server
 sequelize.sync({ force: false }).then(() => {

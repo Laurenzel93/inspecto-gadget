@@ -47,95 +47,97 @@ function PastInspections() {
     console.log(addressSearch);
     API.getAddress(addressSearch);
 
-    return (
-      <div>
-        <Helmet>
-          <title>Past Inspections</title>
-        </Helmet>
-        <Nav />
-        <div className="container-fluid">
-          <div className="Search">
-            <SearchInput value={addressSearch} onChange={handleInputChange} />
-            <SearchBtn onClick={handleFormSubmit} />
-          </div>
-          <div className="row mt-4">
-            <div className="col-lg-12 col-sm-12">
-              <h2 className="text-center">Past Inspections</h2>
-              <div className="border border-3 spacers p-3 bg-dark rounded">
-                <div className="card">
-                  {present.length ? (
-                    <div className="bg-light">
-                      {present.map((inspection) => (
-                        <div className="card">
-                          <h2>
-                            {Moment(inspection.date).format(
+  };
+  return (
+    <div>
+      <Helmet>
+        <title>Past Inspections</title>
+      </Helmet>
+      <Nav />
+      <div className="container-fluid">
+        <div className="Search">
+          <SearchInput value={addressSearch} onChange={handleInputChange} />
+          <SearchBtn onClick={handleFormSubmit} />
+        </div>
+        <div className="row mt-4">
+          <div className="col-lg-12 col-sm-12">
+            <h2 className="text-center">Past Inspections</h2>
+            <div className="border border-3 spacers p-3 bg-dark rounded">
+              <div className="card">
+                {present.length ? (
+                  <div className="bg-light">
+                    {present.map((inspection) => (
+                      <div className="card">
+                        <h2>
+                          {Moment(inspection.date).format(
+                            "dddd, MMMM Do YYYY"
+                          )}
+                        </h2>
+                        <InspectionsTable>
+                          <PastComponent
+                            key={inspection.permit_id}
+                            id={inspection.id}
+                            date={Moment(inspection.date).format(
                               "dddd, MMMM Do YYYY"
                             )}
-                          </h2>
-                          <InspectionsTable>
-                            <PastComponent
-                              key={inspection.id}
-                              date={Moment(inspection.date).format(
-                                "dddd, MMMM Do YYYY"
-                              )}
-                              address={inspection.address}
-                              type={inspection.type}
-                              permit_id={inspection.permit_id}
-                              admin={inspection.admin}
-                              date_scheduled={Moment(
-                                inspection.date_scheduled
-                              ).format("MM- D-YY")}
-                            />
-                          </InspectionsTable>
-                        </div>
-                      ))}
-                    </div>
-                  ) : (
-                    <h3> No Result to Display</h3>
-                  )}
-                </div>
+                            address={inspection.address}
+                            type={inspection.type}
+                            permit_id={inspection.permit_id}
+                            admin={inspection.admin}
+                            date_scheduled={Moment(
+                              inspection.date_scheduled
+                            ).format("MM- D-YY")}
+                          />
+                        </InspectionsTable>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <h3> No Result to Display</h3>
+                )}
               </div>
-              <div className="border border-3 spacers p-3 bg-dark rounded">
-                <div className="card">
-                  {past.length ? (
-                    <div className="bg-light">
-                      {past.map((inspection) => (
-                        <div className="card">
-                          <h2>
-                            {Moment(inspection.date).format(
+            </div>
+            <div className="border border-3 spacers p-3 bg-dark rounded">
+              <div className="card">
+                {past.length ? (
+                  <div className="bg-light">
+                    {past.map((inspection) => (
+                      <div className="card">
+                        <h2>
+                          {Moment(inspection.date).format(
+                            "dddd, MMMM Do YYYY"
+                          )}
+                        </h2>
+                        <InspectionsTable>
+                          <PastComponent
+                            key={inspection.permit_id}
+                            id={inspection.id}
+                            index={inspection.findIndex}
+                            date={Moment(inspection.date).format(
                               "dddd, MMMM Do YYYY"
                             )}
-                          </h2>
-                          <InspectionsTable>
-                            <PastComponent
-                              key={inspection.permit_id}
-                              index={inspection.findIndex}
-                              date={Moment(inspection.date).format(
-                                "dddd, MMMM Do YYYY"
-                              )}
-                              address={inspection.address}
-                              type={inspection.type}
-                              permit_id={inspection.permit_id}
-                              admin={inspection.admin}
-                              date_scheduled={Moment(
-                                inspection.date_scheduled
-                              ).format("MM- D-YY")}
-                            />
-                          </InspectionsTable>
-                        </div>
-                      ))}
-                    </div>
-                  ) : (
-                    <h3> No Result to Display</h3>
-                  )}
-                </div>
+                            address={inspection.address}
+                            type={inspection.type}
+                            permit_id={inspection.permit_id}
+                            admin={inspection.admin}
+                            date_scheduled={Moment(
+                              inspection.date_scheduled
+                            ).format("MM- D-YY")}
+                          />
+                        </InspectionsTable>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <h3> No Result to Display</h3>
+                )}
               </div>
             </div>
           </div>
         </div>
       </div>
-    );
-  };
+    </div>
+  );
 }
 
 export default PastInspections;
