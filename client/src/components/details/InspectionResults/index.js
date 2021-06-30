@@ -1,4 +1,5 @@
 import { useState } from "react";
+import axios from 'axios';
 import './style.css';
 
 function InspectionResults() {
@@ -7,7 +8,8 @@ function InspectionResults() {
     const handleSubmit = (e) => {
         e.preventDefault()
         const allResults = { mainResult, inputNotes }
-        console.log(allResults)
+
+        axios('')
     }
 
     return (
