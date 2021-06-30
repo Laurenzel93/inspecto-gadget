@@ -17,25 +17,27 @@ function PastInspections() {
     loadInspections();
   }, []);
 
-  async function loadInspections() {
-    await API.getInspections()
-      .then((res) => {
-        setInspections(res.data);
-      })
-      .catch((err) => console.log(err));
-  }
-
-  inspections.forEach((inspection) => {
-    if (inspection.notes[0] !== undefined) {
-      console.log(inspection.notes[0].note);
-    }
-    if (Moment(inspection.date).isBefore(Moment(), "day")) {
-      past.push(inspection);
-    } else if (Moment(inspection.date).isSame(Moment(), "day")) {
-      present.push(inspection);
-    }
-  });
-
+    async  function loadInspections() {  
+       await API.getInspections()
+       .then(res => {
+         setInspections(res.data)
+        }).catch(err => console.log(err));
+    };
+        present = [];
+        past = [];
+       inspections.forEach(inspection => {
+       
+          if((Moment(inspection.date).isBefore(Moment(), 'day'))){
+           
+              past.push(inspection)
+          } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
+           
+              present.push(inspection)
+          }    
+          })
+         
+    
+ 
   const handleInputChange = (event) => {
     setAddressSearch(event.target.value);
   };

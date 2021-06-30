@@ -18,7 +18,7 @@ function Details() {
    console.log(id)
   
     const [inspection, setInspection] = useState([]);
-   
+    const [permit, setPermit] = useState([]);
     
     useEffect(() => {
         loadInspections()
@@ -29,6 +29,12 @@ function Details() {
        .then(res => {
          setInspection(res.data)
          console.log(inspection)
+        }).catch(err => console.log(err));
+        
+        await API.getPermit(id)
+       .then(res => {
+         setPermit(res.data)
+         console.log(permit)
         }).catch(err => console.log(err));
     };
 
@@ -49,7 +55,19 @@ function Details() {
             />
             <ResultsHistory/>
             <InspectionResults/>
-            <PermitInfo/> 
+            <PermitInfo
+            address = {permit.address}
+            parcel = {permit.parcel_number}
+            owner = {permit.owner}
+            owner_phone = {permit.owner_phone}
+            owner_mobile = {permit.owner_mobile}
+            contractor = {permit.contractor}
+            contractor_phone = {permit.contractor_phone}
+            contractor_email = {permit.contractor_email}
+            id = {permit.id}
+            issued = {permit.issued}
+            expired = {permit.expired}
+            work_description = {permit.work_description}   /> 
            
            
 

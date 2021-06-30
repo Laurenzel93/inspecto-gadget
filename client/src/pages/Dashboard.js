@@ -13,9 +13,8 @@ function Dashboard() {
     let today = Moment().format("dddd, MMMM Do YYYY").toString()
     const [inspections, setInspections] = useState([]);
 
-    let present = [];
+    let present = [];  
     let future = [];
-
     // const getInspectionData = () => {
     //     API.getInspections()
     //         .then(res => {
@@ -37,7 +36,8 @@ function Dashboard() {
           setInspections(res.data)
          }).catch(err => console.log(err));
      };
-    
+     present = [];
+     future = [];
      inspections.forEach(inspection => {
        if((Moment(inspection.date).isAfter(Moment(), 'day'))){
            future.push(inspection)

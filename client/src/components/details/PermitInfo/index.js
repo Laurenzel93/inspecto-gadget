@@ -12,30 +12,30 @@ function PermitInfo(props) {
                     <tbody>
                         <tr>
                             <th scope="row">Property Information</th>
-                            <td colSpan="2" id="address">props.address</td>
-                            <td colSpan="2" id="parcelID">props.parcel_number</td>
+                            <td colSpan="2" id="address">{props.address}</td>
+                            <td colSpan="2" id="parcelID">{props.parcel}</td>
                         </tr>
                         <tr>
                             <th scope="row">Owner Information</th>
-                            <td id="ownerName">props.owner</td>
-                            <td id="homePhone">props.owner_phone</td>
-                            <td id="cellPhone">props.owner_mobile</td>
+                            <td id="ownerName">{props.owner}</td>
+                            <td id="homePhone">{props.owner_phone}</td>
+                            <td id="cellPhone">{props.owner_mobile}</td>
                         </tr>
                         <tr>
                             <th scope="row">Contractor Information</th>
-                            <td id="contractorName">props.contractor</td>
-                            <td id="contractorPhone">props.contractor_phone</td>
-                            <td id="contractorEmail">props.contractor_email</td>
+                            <td id="contractorName">{props.contractor}</td>
+                            <td id="contractorPhone">{props.contractor_phone}</td>
+                            <td id="contractorEmail">{props.contractor_email}</td>
                         </tr>
                         <tr>
                             <th scope="row">More Permit Information</th>
-                            <td id="permitNumber">props.permit_id</td>
-                            <td id="issuedDate">props.date_issued</td>
-                            <td id="expirationDate">props.date_expired</td>
+                            <td id="permitNumber">{props.id}</td>
+                            <td id="issuedDate">{props.issued}</td>
+                            <td id="expirationDate">{props.expired}</td>
                         </tr>
                         <tr>
                             <th>Work Description </th>
-                            <td colSpan="4" id="workDescription">props.work_description</td>
+                            <td colSpan="4" id="workDescription">{props.work_description}</td>
                         </tr>
                     </tbody>
                 </table>
@@ -48,9 +48,9 @@ function PermitInfo(props) {
                         <th>Fee</th>
                     </thead>
                     <tbody>
-                        <td id="item">props.item</td>
-                        <td id="quantity">props.quantity</td>
-                        <td id="fee">props.amount_total</td>
+                        <td id="item">{props.item}</td>
+                        <td id="quantity">{props.quantity}</td>
+                        <td id="fee">{props.amount_total}</td>
                     </tbody>
                 </table>
 
