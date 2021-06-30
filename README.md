@@ -56,7 +56,7 @@ React.js, SQL, Sass,
 - [Email](KJ3641402@gmail.com)
 - [Portfolio](https://kellyjohnson364.github.io/knj-portfolio-page/)
 
-**Cory Rapala**
+**Corey Rapala**
 - [Github](https://github.com/crudd03)
 - [Email](coreyrapala@gmail.com)
 - [Portfolio](https://crudd03.github.io/my-portfolio/)

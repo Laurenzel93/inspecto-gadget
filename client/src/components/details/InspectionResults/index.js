@@ -7,9 +7,23 @@ function InspectionResults() {
     const [mainResult, setMainResult] = useState('')
     const handleSubmit = (e) => {
         e.preventDefault()
-        const allResults = { mainResult, inputNotes }
 
-        axios('')
+        console.log(window.location.href);
+        let magic = window.location.href.split('/');
+        console.log(magic[magic.length - 1]);
+
+        const allResults = {
+            result: mainResult,
+            notes: inputNotes,
+            inspection_id: magic[magic.length - 1]
+        }
+
+        axios.post('/api/results', {
+            allResults
+        }).then(() => {
+            console.log('results saved!')
+            console.log(allResults)
+        })
     }
 
     return (
