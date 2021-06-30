@@ -12,6 +12,7 @@ import API from '../utils/API';
 function Dashboard() {
     let today = Moment().format("dddd, MMMM Do YYYY").toString()
     const [inspections, setInspections] = useState([]);
+    const [id, setId] = useState('');
 
     let presentcounter 
     let futurecounter
@@ -32,7 +33,7 @@ function Dashboard() {
         loadInspections()
     }, [])
 
-    async  function loadInspections() {  
+    async function loadInspections() {
         await API.getInspections()
         .then(res => {
           setInspections(res.data)
@@ -106,7 +107,7 @@ function Dashboard() {
                         </div>
                         ) : (
                             <h3> No Result to Display</h3>
-                        )}        
+                        )}
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
