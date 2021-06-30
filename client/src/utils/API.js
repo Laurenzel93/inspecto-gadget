@@ -15,5 +15,12 @@ export default {
   postResult: function() {
     return axios.get("/api/results")
   },
-
+  createUser: function(username, password, role, name) {
+    return axios.post("/api/users/create", {
+      username,
+      password,
+      role,
+      name
+    })
+  }
 };
