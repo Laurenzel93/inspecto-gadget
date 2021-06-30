@@ -6,7 +6,12 @@ router.get('/');
 
 router.post('/', withAuth, async (req, res) => {
   try {
-    const resultData = await Result.create({ req });
+    console.log(req.body.allResults.result)
+    const resultData = await Result.create({
+      result: req.body.allResults.result,
+      notes: req.body.allResults.notes,
+      inspection_id: req.body.allResults.inspection_id
+    });
     console.log(resultData);
     res.json(resultData);
   } catch (err) {
