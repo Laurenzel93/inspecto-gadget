@@ -12,14 +12,30 @@ Permit.hasMany(Invoice, {
   foreignKey: 'permit_id',
   onDelete: 'CASCADE'
 });
+Invoice.belongsTo(Permit, {
+  foreignKey: 'permit_id',
+})
 Permit.hasOne(Inspection, {
   foreignKey: 'permit_id',
   onDelete: 'CASCADE'
+});
+Inspection.belongsTo(Permit, {
+  foreignKey: 'permit_id',
 });
 Inspection.hasMany(Note, {
   foreignKey: 'inspection_id',
   onDelete: 'CASCADE'
 });
+Note.belongsTo(Inspection, {
+  foreignKey: 'inspection_id,'
+});
+Inspection.hasMany(Result, {
+  foreignKey: 'inspection_id',
+  onDelete: 'CASCADE'
+});
+Result.belongsTo(Inspection, {
+  foreignKey: 'inspection_id,'
+})
 
 
 
