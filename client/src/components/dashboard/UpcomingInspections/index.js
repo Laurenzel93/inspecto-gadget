@@ -2,24 +2,7 @@ import React from "react";
 import { useHistory } from "react-router-dom";
 
 
-export function DateCard({ children }) {
-    return (
-        <div>
-            <table className="card table table-stripe">
-                <tbody>{children}</tbody>
-            </table>
-        </div>
-    )
-}
-export function Heading(props) {
-    return (
-        <h4 className="text-white">
-            <span className="mr-5">{props.date}</span>
-            <span className="ml-5">{props.length} Inspections Today</span>
-        </h4>
 
-    )
-}
 
 
 export function Upcoming(props) {
@@ -27,11 +10,22 @@ export function Upcoming(props) {
 
     return (
         <div className="card-body border border-dark m-1">
-            <tr>
+            <table className="card-body table table-striped">
+                <tbody>
+            <tr >
                 <th scope="row"></th>
-                <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type} &nbsp; &nbsp; {props.permit_id} &nbsp; &nbsp; Notes: props.notes  &nbsp; &nbsp; {props.date_scheduled} &nbsp; {props.admin}</td>
-                <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button></td>
+                <td>{props.date} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type} &nbsp; &nbsp; &nbsp; &nbsp;Created: {props.date_scheduled}&nbsp;by:{props.admin} &nbsp;</td>
+                <td colSpan ="2" className=" tmr-4 ">{props.permit_id}</td>
             </tr>
+            <tr>
+                    <th scope="row"></th>
+                    <td> Notes:&nbsp; {props.notes} </td>
+                   
+                    <td colSpan ="2" className=" mr-5"><button className="btn btn-secondary border border-dark " onClick={() => history.push('inspections/' + props.id)}>Results</button> &nbsp;</td>
+
+                    </tr>
+            </tbody>
+            </table>
         </div>
     )
 }

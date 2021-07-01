@@ -11,11 +11,7 @@ router.post('/create', withAuth, async (req, res) => {
         role: req.role,
         name: req.name 
       });
-<<<<<<< HEAD
-      res.json(userData);
-=======
       res.json({user: userData});
->>>>>>> a7516ed99a5edbc2401b9f797f2fb564cb6981d1
       console.log(userData);
     } catch (err) {
       res.json(err);

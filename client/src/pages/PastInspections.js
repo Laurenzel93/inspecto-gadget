@@ -85,28 +85,20 @@ function PastInspections() {
             </Helmet>
             <Nav />
             <div className="container-fluid">
-                <div className="Search">
-                    <SearchInput 
-                        value={addressSearch}
-                        onChange={handleInputChange}
-                    />
-                    <SearchBtn
-                        onClick={handleFormSubmit}
-                    />
-                </div>
                 <div className="row mt-4">
                     <div className="col-lg-12 col-sm-12">
-                        <h2 className="text-center">Today's Inspections</h2>
+                        <h2 className="text-center mt-4">Today's Inspections</h2>
                         {present.length ? (
                         <div className="border border-3 p-3 bg-dark rounded">
                             <h4 className="text-white">
-                                <span className= "mr-4">{Moment().format("dddd, MMMM Do YYYY").toString()}</span>
-                                <span className= "ml-4">{present.length} Inspections Today</span>
+                                <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
+                                <p className= ""> Inspections Today:{" "}{present.length} </p>
                             </h4>
                               {present.map(inspection => (
                                 <div className="card">
                                   <div className="bg-light">
                                         <PastComponent key={inspection.id}
+                                            id = {inspection.id}
                                             date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
                                             address = {inspection.address}
                                             type = {inspection.type}
@@ -120,45 +112,41 @@ function PastInspections() {
                         </div>        
                         ) : (
                         <h3> No Inspections Today</h3>
-                                     )}        
+                      )}        
                     </div>
-                </div>
-                        <div>
-                            <h2 className="text-center">Past Inspections</h2>
-                                {yore.length ? (
-                                <div>
-                                    {yore.map(card => (   
-                                        <div className="border border-3 spacers p-3 bg-dark rounded">
-                                            <Heading
-                                                date = {Moment(card.date).format("dddd, MMMM Do YYYY")} 
-                                                length = {card.inspections.length}
-                                            />
-                                            <div className="card">
-                                                <div className="bg-light"></div>
-                                                    <DateCard>
-                                                        {card.inspections.map(inspection => (
-                                                            <PastComponent key={inspection.permit_id}
+                     {yore.length ? (
+                        <div className="col-lg-12 col-sm-12">
+                            <h2 className="text-center mt-4">Past Inspections</h2>
+                              {yore.map(card => (   
+                                     <div className="border border-3 spacers p-3 bg-dark rounded">
+                                            <h4 className="text-white d-flex justify-content-between">
+                                                <span className= "mr-4">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
+                                                <span className= "ml-5 align-right">Inspections: &nbsp; &nbsp; &nbsp; &nbsp;{card.inspections.length} </span>
+                                            </h4>
+                                            {card.inspections.map(inspection => (
+                                            <div className="card ">
+                                                <div className="bg-light">
+                                                    <PastComponent key={inspection.permit_id}
                                                                 id = {inspection.id}
-                                                                index = {inspection.findIndex}
                                                                 date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
                                                                 address = {inspection.address}
                                                                 type = {inspection.type}
                                                                 permit_id = {inspection.permit_id}
                                                                 admin = {inspection.admin}
                                                                 date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                                            />
-                                                        ))}    
-                                                    </DateCard>
+                                                    />
                                                 </div>  
-                                        </div> 
-                                    ))}
-                                </div>                    
-                            ) : (
+                                            </div>  
+                                            ))}             
+                                      </div> 
+                                ))}
+                        </div>                    
+                    ) : (
                             <h3> No Result to Display</h3>
                              )}        
-                    </div>
-                </div>
-            </div>   
+            </div>
+        </div>
+      </div>     
     )
 };
 

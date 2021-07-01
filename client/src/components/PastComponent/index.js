@@ -7,13 +7,25 @@ export function PastComponent(props) {
     const history = useHistory();
 
     return (
-        <tr>
-            <th scope="row">{props.number}</th>
-            <td>{props.date} | { props.address} | {props.type} | {props.permit_id}  |  {props.admin} | {props.date_scheduled} </td>
-            <td>results and notes</td>
-            <td><button className="btn btn-secondary border border-dark">More Info</button>
-            </td>
-        </tr>
+        <div className="card-body border border-dark m-1">
+            <table className="card-body table table-striped">
+                <tbody>
+                    <tr>
+                        <th scope="row"></th>
+                        <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type}  &nbsp; &nbsp;   &nbsp; &nbsp; 
+                        Date Created: {props.date_scheduled} &nbsp; {props.admin}&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</td>
+                        
+                        <td className="text-right align-middle float-right"><button className="btn btn-secondary border border-dark mb-2" onClick={() => history.push('inspections/' + props.id)}>Details</button></td>
+                    </tr>
+                    <tr>
+                    <th scope="row"></th>
+                    <td>Results and Notes</td>
+                    <td className="float-right">{props.permit_id}</td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     );
 }
 
