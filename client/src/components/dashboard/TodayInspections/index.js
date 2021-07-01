@@ -5,14 +5,14 @@ function TodaysInspections(props) {
     const history = useHistory();
 
     return (
-        <div className="card">
-            <h2>{props.length} Inspections Today</h2>
-            <table className="table table-border table-striped">
+        <div className="card border border-dark m-1">
+            
+            <table className="card-body table table-striped">
                 <tbody>
                     <tr>
                         <th scope="row">{props.number}</th>
-                        <td>{props.date} |{props.address} |{props.type}  |{props.permit_id}  |notes? |{props.admin}| {props.date_scheduled} </td>
-                        <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
+                        <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type}  &nbsp; &nbsp; {props.permit_id}  &nbsp; &nbsp; Notes: props.notes &nbsp; &nbsp; Date Created: {props.date_scheduled} &nbsp; {props.admin}</td>
+                        <td className="text-right align-middle"><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
                         </td>
                     </tr>
                 </tbody>
