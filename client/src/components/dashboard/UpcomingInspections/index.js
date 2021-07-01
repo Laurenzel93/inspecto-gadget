@@ -26,13 +26,12 @@ export function Upcoming(props) {
     const history = useHistory();
 
     return (
-        
-                    <tr>
-                        <th scope="row"></th>
-                        <td>{props.date}  |{props.address} |{props.type} |{props.permit_id}| notes?  |{props.admin}|{props.date_scheduled} </td>
-                        <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
-                        </td>
-                    </tr>
+        <tr>
+            <th scope="row"></th>
+            <td>{props.date}  |{props.address} |{props.type} |{props.permit_id}| notes?  |{props.admin}|{props.date_scheduled} </td>
+            <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
+            </td>
+        </tr>
                
     )
 }

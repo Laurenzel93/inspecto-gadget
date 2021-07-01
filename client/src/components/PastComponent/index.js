@@ -2,13 +2,6 @@ import React from "react";
 import { useHistory } from "react-router-dom";
 
 
-export function InspectionsTable({ children }) {
-    return (
-        <table className="table table-bordered table-striped">
-            <tbody>{children}</tbody>
-        </table>
-    )
-}
 
 export function PastComponent(props) {
     const history = useHistory();
