@@ -72,32 +72,32 @@ function Dashboard() {
                 <div className="row">
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
-                        {present.length ? (
-                        <div className="border border-3 p-3 bg-dark rounded">
-                            <h4 className="text-white">
-                                <span className= "mr-4">{Moment().format("dddd, MMMM Do YYYY").toString()}</span>
-                                <span className= "ml-4">{present.length} Inspections Today</span>
-                            </h4>
-                              {present.map(inspection => (
-                                <div className="card">
-                                  <div className="bg-light">
-                                      <Today key={inspection.id}
-                                            id = {inspection.id}
-                                            length = {present.length}
-                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
-                                            address = {inspection.address}
-                                            type = {inspection.type}
-                                            permit_id = {inspection.permit_id}
-                                            admin = {inspection.admin}
-                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                      />
-                                  </div>
+                            {present.length ? (
+                                <div className="border border-3 p-3 bg-dark rounded">
+                                    <h4 className="text-white">
+                                        <span className= "mr-4">{Moment().format("dddd, MMMM Do YYYY").toString()}</span>
+                                        <span className= "ml-4">{present.length} Inspections Today</span>
+                                    </h4>
+                                        {present.map(inspection => (
+                                            <div className="card">
+                                                <div className="bg-light">
+                                                <Today key={inspection.id}
+                                                    id = {inspection.id}
+                                                    length = {present.length}
+                                                    date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
+                                                    address = {inspection.address}
+                                                    type = {inspection.type}
+                                                    permit_id = {inspection.permit_id}
+                                                    admin = {inspection.admin}
+                                                    date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
+                                                />
+                                            </div>
+                                            </div>
+                                        ))}  
                                 </div>
-                              ))}  
-                        </div>
-                        ) : (
+                            ) : (
                             <h3> No Result to Display</h3>
-                        )}
+                            )}
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>

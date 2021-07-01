@@ -90,31 +90,32 @@ function PastInspections() {
                 <div className="row mt-4">
                     <div className="col-lg-12 col-sm-12">
                         <h2 className="text-center">Today's Inspections</h2>
-                        <div className="border border-3 spacers p-3 bg-dark rounded">
-                            <div className="card">
-                                {present.length ? (
-                                    <div className="bg-light">
-                                         {present.map(inspection => (
-                                            <div className="card">
-                                                 <h2>{Moment(inspection.date).format("dddd, MMMM Do YYYY")}</h2>
-                                                    <InspectionsTable>
-                                                        <PastComponent key={inspection.id}
-                                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
-                                                            address = {inspection.address}
-                                                            type = {inspection.type}
-                                                            permit_id = {inspection.permit_id}
-                                                            admin = {inspection.admin}
-                                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                                            />
-                                                        </InspectionsTable>
-                                                    </div> 
-                                                 ))}   
-                                             </div>        
-                                         ) : (
-                                        <h3> No Inspections Today</h3>
+                        {present.length ? (
+                        <div className="border border-3 p-3 bg-dark rounded">
+                            <h4 className="text-white">
+                                <span className= "mr-4">{Moment().format("dddd, MMMM Do YYYY").toString()}</span>
+                                <span className= "ml-4">{present.length} Inspections Today</span>
+                            </h4>
+                              {present.map(inspection => (
+                                <div className="card">
+                                  <div className="bg-light">
+                                        <PastComponent key={inspection.id}
+                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
+                                            address = {inspection.address}
+                                            type = {inspection.type}
+                                            permit_id = {inspection.permit_id}
+                                            admin = {inspection.admin}
+                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
+                                        />
+                                    </div>
+                                </div> 
+                             ))}   
+                        </div>        
+                        ) : (
+                        <h3> No Inspections Today</h3>
                                      )}        
-                            </div>
-                        </div>
+                    </div>
+                </div>
                         <div>
                             <h2 className="text-center">Past Inspections</h2>
                                 {yore.length ? (
@@ -150,12 +151,7 @@ function PastInspections() {
                              )}        
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-          
-             
-       
+            </div>   
     )
 };
 
