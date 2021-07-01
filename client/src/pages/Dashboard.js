@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useHistory } from 'react-router';
 import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
@@ -7,6 +8,7 @@ import Calendar from "../components/dashboard/Calendar";
 import { Upcoming, DateCard, Heading }from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
 import API from '../utils/API';
+import { getUser } from '../utils/Session';
 import { DayCellContent } from '@fullcalendar/react';
 
 
@@ -30,8 +32,14 @@ function Dashboard() {
     //         .catch(error => console.log(error))
     // }
 
+    const history = useHistory();
+
     useEffect(() => {
-        loadInspections()
+        if (getUser() != null) {
+            loadInspections()
+        } else {
+            history.push('/login');
+        }
     }, [])
 
     async function loadInspections() {

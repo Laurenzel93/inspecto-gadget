@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import { useHistory } from 'react-router';
+import { getUser } from '../utils/Session';
 import { Helmet } from "react-helmet";
 import { PastComponent, InspectionsTable } from "../components/PastComponent";
 import Nav from "../components/Nav";
@@ -13,8 +15,13 @@ function PastInspections() {
     const [inspections, setInspections] = useState([]);
     const [addressSearch, setAddressSearch] = useState("");
     
+    const history = useHistory();
     useEffect(() => {
-        loadInspections()
+        if (getUser() != null) {
+            loadInspections()
+        } else {
+            history.push('/login');
+        }
     }, [])
 
     async  function loadInspections() {  
