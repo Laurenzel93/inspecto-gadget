@@ -1,3 +1,4 @@
+//! Why don't you work??? -Ian 
 
 import React from 'react';
 import { Route, Redirect } from 'react-router-dom';
@@ -8,9 +9,9 @@ const PrivateRoute = ({ component: Component, ...rest }) => {
         // Show the component only when the user is logged in
         // Otherwise, redirect the user to /login page
         <Route {...rest} render={props => (
-            getToken() ?
+            getToken() === 'admin' ?
                 <Component {...props} />
-                : <Redirect to="/login" />
+                : <Redirect to={{pathname: "/login", state: { from: props.location }}} />
         )} />
     );
 };

@@ -1,4 +1,6 @@
 import { useEffect, useState } from 'react';
+import { useHistory } from 'react-router';
+import { getUser } from '../utils/Session';
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 import Nav from "../components/Nav";
@@ -20,8 +22,13 @@ function Details() {
     const [inspection, setInspection] = useState([]);
     const [permit, setPermit] = useState([]);
     
+    const history = useHistory();
     useEffect(() => {
-        loadInspections()
+        if (getUser() != null) {
+            loadInspections()
+        } else {
+            history.push('/login');
+        }
     }, [])
 
     async  function loadInspections() {  
