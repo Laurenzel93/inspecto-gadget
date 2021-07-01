@@ -98,4 +98,31 @@ router.get("/id/:id", withAuth, async (req, res) => {
   }
 })
 
+router.get('/calender', async (req, res) => {
+  if (req.session.role === "admin") {
+    try {
+      const inspectionData = await Inspection.findAll({});
+      console.log(inspectionData);
+      res.json(inspectionData);
+    } catch (err) {
+      res.json(err);
+      console.log(err);
+    }
+  }
+  if (req.session.role === "inspector") {
+    try {
+      const inspectionData = await Inspection.findAll({
+        where: {
+          inspector: req.session.name
+        },
+      });
+      console.log(inspectionData);
+      res.json(inspectionData);
+    } catch (error) {
+      res.json(error)
+      console.log(error);
+    }
+  }
+});
+
 module.exports = router;
