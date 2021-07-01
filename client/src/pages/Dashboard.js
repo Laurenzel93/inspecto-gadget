@@ -5,7 +5,7 @@ import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
-import { Upcoming, DateCard, Heading }from "../components/dashboard/UpcomingInspections";
+import { Upcoming }from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
 import API from '../utils/API';
 import { getUser } from '../utils/Session';
@@ -17,20 +17,6 @@ function Dashboard() {
     const [inspections, setInspections] = useState([]);
     
 
-    let presentcounter
-    let futurecounter
-    let present
-    let future
-    // const getInspectionData = () => {
-    //     API.getInspections()
-    //         .then(res => {
-    //             console.log('===========')
-    //             console.log(res)
-    //             console.log('===========')
-    //         })
-    //         .then(res => setTodayInspections(res))
-    //         .catch(error => console.log(error))
-    // }
 
     const history = useHistory();
 
@@ -50,18 +36,18 @@ function Dashboard() {
     }
     
     
-    present = [];
-    future = [];
-     inspections.forEach(inspection => {
+    let present = [];
+    let future = [];
+    inspections.forEach(inspection => {
        if((Moment(inspection.date).isAfter(Moment(), 'day'))){
            future.push(inspection)
        } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
            present.push(inspection)
        }
           
-       }) 
-       const grouped = future.reduce((grouped, inspection) => {
-        const date = inspection.date;
+    }) 
+    const grouped = future.reduce((grouped, inspection) => {
+    const date = inspection.date;
         if (!grouped[date]) {
             grouped[date] = [];
         }
@@ -92,35 +78,34 @@ function Dashboard() {
                 null
             )}
             <div className="container-fluid">
-                <div className="row">
+                <div className="row mt-4">
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
-                        {present.length ? (
-                        <div className="border border-3 p-3 bg-dark rounded">
-                            <h4 className="text-white">
-                                <span className= "mr-4">{Moment().format("dddd, MMMM Do YYYY").toString()}</span>
-                                <span className= "ml-4">{present.length} Inspections Today</span>
-                            </h4>
-                              {present.map(inspection => (
-                                <div className="card">
-                                  <div className="bg-light">
-                                      <Today key={inspection.id}
-                                            id = {inspection.id}
-                                            length = {present.length}
-                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
-                                            address = {inspection.address}
-                                            type = {inspection.type}
-                                            permit_id = {inspection.permit_id}
-                                            admin = {inspection.admin}
-                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                      />
-                                  </div>
+                            {present.length ? (
+                                <div className="border border-3 p-3 bg-dark rounded">
+                                    <h4 className="text-white">
+                                        <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
+                                        <p className= "">Inspections Today:{" "}{present.length} </p>
+                                    </h4>
+                                        {present.map(inspection => (
+                                            <div className="card">
+                                                <div className="bg-light">
+                                                <Today key={inspection.id}
+                                                    id = {inspection.id}
+                                                    date = {Moment(inspection.date).format("ddd, MMMM Do")} 
+                                                    address = {inspection.address}
+                                                    type = {inspection.type}
+                                                    permit_id = {inspection.permit_id}
+                                                    admin = {inspection.admin}
+                                                    date_scheduled = {Moment(inspection.date_scheduled).format("l")}
+                                                />
+                                            </div>
+                                            </div>
+                                        ))}  
                                 </div>
-                              ))}  
-                        </div>
-                        ) : (
+                            ) : (
                             <h3> No Result to Display</h3>
-                        )}
+                            )}
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
@@ -132,41 +117,36 @@ function Dashboard() {
                             </div>
                         </div>
                     </div>
+                    {upcoming.length ? (
                     <div className="col-lg-12 col-sm-12">
                         <h2 className="text-center mt-4">Upcoming Inspections</h2>
-                        {upcoming.length ? (
-                           <div> 
-                            {upcoming.map(card => (  
-                                <div className="border border-3 p-3 bg-dark rounded">
-                                     <Heading
-                                        date = {Moment(card.date).format("dddd, MMMM Do YYYY")} 
-                                        length = {card.inspections.length}
-                                        />
+                                {upcoming.map(card => (  
+                                    <div className="border border-3 p-3 bg-dark rounded">
+                                     <h4 className="text-white d-flex justify-content-between ">
+                                     <span className= "mr-5">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
+                                     <span className= "ml-5">Inspections:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{card.inspections.length}&nbsp; &nbsp; </span>
+                                    </h4>
+                                    {card.inspections.map(inspection => (
                                     <div className="card">
-                                        <div className="bg-light"></div>
-                                            <DateCard>
-                                              
-                                                    {card.inspections.map(inspection => (
-                                                        <Upcoming key={inspection.permit_id}
+                                        <div className="bg-light">
+                                            <Upcoming key={inspection.permit_id}
                                                             id = {inspection.id}
-                                                            number = {futurecounter++}
-                                                            date = {Moment(inspection.date).format("dddd, MMMM Do YYYY")} 
+                                                            date = {Moment(inspection.date).format("ddd, MMMM Do")} 
                                                             address = {inspection.address}
                                                             type = {inspection.type}
                                                             permit_id = {inspection.permit_id}
                                                             admin = {inspection.admin}
-                                                            date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                                        />
-                                                    ))}
-                                            </DateCard>               
-                                    </div>        
-                                </div>
-                            ))} 
-                            </div>
-                        ) : (
+                                                            date_scheduled = {Moment(inspection.date_scheduled).format("l")}
+                                                />
+                                            </div>
+                                        </div>
+                                     ))}
+                                  </div>               
+                                ))} 
+                           </div>
+                    ) : (
                         <h3> No Result to Display</h3>
                         )}        
-                    </div>
                 </div>
             </div>
         </div>

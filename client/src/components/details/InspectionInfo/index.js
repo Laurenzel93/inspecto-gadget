@@ -17,8 +17,8 @@ function InspectionInfo(props) {
                         </tr>
                         <tr>
                             <td colSpan="2" id="notes">Notes: </td>
-                            <td colSpan="2" id="admin">{props.admin}</td>
-                            <td colSpan="2" id="timestamp">{props.date_scheduled}</td>
+                            <td colSpan="1" id="admin">{props.admin}</td>
+                            <td colSpan="1" id="timestamp">{props.date_scheduled}</td>
                         </tr>
                     </tbody>
                 </table>
