@@ -6,7 +6,11 @@ router.get('/');
 
 router.post('/', withAuth, async (req, res) => {
   try {
-    const resultData = await Result.create({ req });
+    const resultData = await Result.create({
+      result: req.body.result,
+      notes: req.body.notes,
+      inspection_id: req.body.inspection_id
+    });
     console.log(resultData);
     res.json(resultData);
   } catch (err) {
