@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { setUserSession } from "../../utils/Session";
-import { login } from "../../utils/API";
 import "./style.css";
 import axios from "axios";
 import { useHistory } from "react-router-dom";
@@ -11,17 +10,12 @@ function LoginForm(props) {
   const password = useFormInput("");
   const [error, setError] = useState(null);
 
-  // const dashboardRoute = () => {
-  //   const dashboardPath = '/dashboard';
-  //   useHistory().push(dashboardPath);
-  // }
-
   const hist = useHistory();
 
   const loginHandler = (e) => {
     e.preventDefault();
 
-    console.log(username.value, password.value);
+    // console.log(username.value, password.value);
     setError(null);
     setLoading(true);
     axios
@@ -32,9 +26,10 @@ function LoginForm(props) {
       .then((res) => {
         setLoading(false);
         setUserSession(res.data.token, res.data.user);
-        console.log('==========');
-        console.log('hit login router!');
-        console.log('==========');
+        // console.log('==========');
+        // console.log('hit login router!');
+        // console.log('==========');
+        console.log(res)
         hist.push('/dashboard');
       })
       .catch((error) => {
@@ -44,9 +39,9 @@ function LoginForm(props) {
       axios.post("/api/users/sessions")
         .then((res) => {
             console.log(res);
-            console.log('==========')
-            console.log('hit sessions router!')
-            console.log('==========')
+            // console.log('==========')
+            // console.log('hit sessions router!')
+            // console.log('==========')
 
 
         })

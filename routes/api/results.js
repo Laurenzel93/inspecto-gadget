@@ -6,10 +6,11 @@ router.get('/');
 
 router.post('/', withAuth, async (req, res) => {
   try {
+    console.log(req.body.allResults.result)
     const resultData = await Result.create({
-      result: req.body.result,
-      notes: req.body.notes,
-      inspection_id: req.body.inspection_id
+      result: req.body.allResults.result,
+      notes: req.body.allResults.notes,
+      inspection_id: req.body.allResults.inspection_id
     });
     console.log(resultData);
     res.json(resultData);
