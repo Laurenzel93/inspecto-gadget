@@ -94,10 +94,11 @@ function Nav() {
     const [genUserStyle, setGenUserStyle] = useState('');
     const checkRole = () => {
         if (getUser()) {
-            console.log('this is the result of getUser(): ' + getUser());
+            console.log('this is the result of getUser(): ' + getUser().role);
             if (getUser().role === 'admin') {
                 setIsAdmin(true);
             } else {
+                // console.log('admin is false')
                 setIsAdmin(false);
             }
         }

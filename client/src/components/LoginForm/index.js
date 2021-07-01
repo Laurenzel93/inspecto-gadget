@@ -29,6 +29,7 @@ function LoginForm(props) {
         // console.log('==========');
         // console.log('hit login router!');
         // console.log('==========');
+        console.log(res)
         hist.push('/dashboard');
       })
       .catch((error) => {

@@ -1,10 +1,18 @@
-import React from 'react';
-// used to change the title of the document (title user sees in tab)
+import { useEffect } from 'react';
+import { useHistory } from 'react-router';
+import { getUser } from '../utils/Session';
 import { Helmet } from 'react-helmet';
 import AccountCreationForm from '../components/AccountCreationForm';
 import Nav from '../components/Nav';
 
 function AccountCreation() {
+    const history = useHistory();
+    useEffect(() => {
+        if (getUser() === null) {
+            history.push('/login');
+        }
+    }) 
+
     return (
         <div>
             <Helmet>

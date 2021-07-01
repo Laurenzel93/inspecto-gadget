@@ -11,7 +11,7 @@ router.post('/create', withAuth, async (req, res) => {
         role: req.role,
         name: req.name 
       });
-      req.json(userData);
+      res.json({user: userData});
       console.log(userData);
     } catch (err) {
       res.json(err);
