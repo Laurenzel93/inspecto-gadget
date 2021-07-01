@@ -4,8 +4,8 @@ import { useHistory } from "react-router-dom";
 
 export function DateCard({children}) {
     return (
-        <div className="card">
-          <table className="table table-border table-striped">
+        <div className="card border border-dark m-1">
+          <table className="card-body table table-striped">
             <tbody>{children}</tbody>
           </table>
         </div>
@@ -29,8 +29,8 @@ export function Upcoming(props) {
         
                     <tr>
                         <th scope="row"></th>
-                        <td>{props.date}  |{props.address} |{props.type} |{props.permit_id}| notes?  |{props.admin}|{props.date_scheduled} </td>
-                        <td><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
+                        <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type} &nbsp; &nbsp; {props.permit_id} &nbsp; &nbsp; Notes: props.notes  &nbsp; &nbsp; {props.date_scheduled} &nbsp; {props.admin}</td>
+                        <td className="text-right align-middle"><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
                         </td>
                     </tr>
                
