@@ -89,7 +89,10 @@ function Dashboard() {
                         <h2 className="text-center mt-4">Today's Inspections</h2>
                         {present.length ? (
                         <div className="border border-3 p-3 bg-dark rounded">
-                            <h4 className="text-white">{Moment().format("dddd, MMMM Do YYYY").toString()}</h4>
+                            <h4 className="text-white">
+                                <span className= "mr-4">{Moment().format("dddd, MMMM Do YYYY").toString()}</span>
+                                <span className= "ml-4">{present.length} Inspections Today</span>
+                            </h4>
                               {present.map(inspection => (
                                 <div className="card">
                                   <div className="bg-light">

@@ -13,7 +13,11 @@ export function DateCard({children}) {
 }
 export function Heading (props) {
     return (
-    <h4 className="text-white"> {props.date}{" "}{props.length}{" "}Inspections Today</h4>
+        <h4 className="text-white">
+            <span className= "mr-5">{props.date}</span>
+            <span className= "ml-5">{props.length} Inspections Today</span>
+        </h4>
+   
     )
 }
 

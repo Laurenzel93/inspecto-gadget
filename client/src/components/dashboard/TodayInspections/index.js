@@ -6,7 +6,7 @@ function TodaysInspections(props) {
 
     return (
         <div className="card">
-            <h2>{props.length} Inspections Today</h2>
+            
             <table className="table table-border table-striped">
                 <tbody>
                     <tr>
