@@ -15,10 +15,10 @@ function Dashboard() {
     const [inspections, setInspections] = useState([]);
     
 
-    let presentcounter 
+    let presentcounter
     let futurecounter
-    let present 
-    let future 
+    let present
+    let future
     // const getInspectionData = () => {
     //     API.getInspections()
     //         .then(res => {
@@ -36,14 +36,14 @@ function Dashboard() {
 
     async function loadInspections() {
         await API.getInspections()
-        .then(res => {
-          setInspections(res.data)
-           }).catch(err => console.log(err));
-        }
+            .then(res => {
+                setInspections(res.data)
+            }).catch(err => console.log(err));
+    }
     
     
-          present = [];
-          future = [];
+    present = [];
+    future = [];
      inspections.forEach(inspection => {
        if((Moment(inspection.date).isAfter(Moment(), 'day'))){
            future.push(inspection)
@@ -55,22 +55,21 @@ function Dashboard() {
        const grouped = future.reduce((grouped, inspection) => {
         const date = inspection.date;
         if (!grouped[date]) {
-          grouped[date] = [];
+            grouped[date] = [];
         }
         grouped[date].push(inspection);
         return grouped;
-      }, {});
-      
-      // Edit: to add it in the array format instead
-      const upcoming = Object.keys(grouped).map((date) => {
+    }, {});
+
+    // Edit: to add it in the array format instead
+    const upcoming = Object.keys(grouped).map((date) => {
         return {
-          date,
-          inspections: grouped[date]
+            date,
+            inspections: grouped[date]
         };
-      });
-      
-      console.log(upcoming);
-    
+    });
+
+    console.log(upcoming);
 
 
     return (
@@ -79,7 +78,11 @@ function Dashboard() {
                 <title>Dashboard</title>
             </Helmet>
             <Nav />
-            <ActionRequiredBanner />
+            {present.length ? (
+                <ActionRequiredBanner />
+            ) : (
+                null
+            )}
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-lg-6 col-sm-12">
