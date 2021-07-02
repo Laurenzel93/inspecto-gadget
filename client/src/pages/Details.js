@@ -17,7 +17,7 @@ import Moment from 'moment';
 function Details() {
     const {id} = useParams()
    
-   console.log(id)
+    // console.log(id)
   
     const [inspection, setInspection] = useState([]);
     const [permit, setPermit] = useState([]);
@@ -28,6 +28,7 @@ function Details() {
     
     const history = useHistory();
     useEffect(() => {
+        window.scrollTo(0, 0);
         if (getUser() != null) {
             loadInspections()
         } else {
