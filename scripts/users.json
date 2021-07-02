@@ -2,12 +2,14 @@
   {
     "username": "Administrator",
     "password": "pass12345",
+    "email": "test@email.com",
     "role": "admin",
     "name": "Addy Minn"
   },
   {
     "username": "Electrical",
     "password": "pass12345",
+    "email": "test@email.com",
     "role": "inspector",
     "name": "Ron Shelton"
   }

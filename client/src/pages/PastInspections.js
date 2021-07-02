@@ -51,33 +51,33 @@ function PastInspections() {
         }
         grouped[date].push(inspection);
         return grouped;
-    }, {});
+        }, {});
+    
+        // Edit: to add it in the array format instead
+        const yore = Object.keys(grouped).map((date) => {
+            return {
+                date,
+                inspections: grouped[date]
+            };
+        });
+    
+        console.log(past);
+          
+    
+    // const handleInputChange = event => {
+    //   setAddressSearch(event.target.value);
+    // };
 
-    // Edit: to add it in the array format instead
-    const yore = Object.keys(grouped).map((date) => {
-        return {
-            date,
-            inspections: grouped[date]
-        };
-    });
+    // const handleFormSubmit = event => {
+    //     event.preventDefault();
+    //     console.log(addressSearch)
+    //     API.getAddress(addressSearch)
+            
+    //       .then(res => setInspections(res.data))
+    //       .catch(err => console.log(err));
+    //   };
 
-    console.log(yore);
-
-
-    const handleInputChange = event => {
-        setAddressSearch(event.target.value);
-    };
-
-    const handleFormSubmit = event => {
-        event.preventDefault();
-        console.log(addressSearch)
-        API.getAddress(addressSearch)
-
-            .then(res => setInspections(res.data))
-            .catch(err => console.log(err));
-    };
-
-
+    console.log(inspections)
     return (
         <div>
             <Helmet>
@@ -86,34 +86,6 @@ function PastInspections() {
             <Nav />
             <div className="container-fluid">
                 <div className="row mt-4">
-                    <div className="col-lg-12 col-sm-12">
-                        <h2 className="text-center mt-4">Today's Inspections</h2>
-                        {present.length ? (
-                            <div className="p-3 bg-dark rounded">
-                                <h4 className="text-white">
-                                    <p className="">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
-                                    <p className=""> Inspections Today:{" "}{present.length} </p>
-                                </h4>
-                                {present.map(inspection => (
-                                    <div className="card">
-                                        <div className="bg-light">
-                                            <PastComponent key={inspection.id}
-                                                id={inspection.id}
-                                                date={Moment(inspection.date).format("dddd, MMMM Do YYYY")}
-                                                address={inspection.address}
-                                                type={inspection.type}
-                                                permit_id={inspection.permit_id}
-                                                admin={inspection.admin}
-                                                date_scheduled={Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                            />
-                                        </div>
-                                    </div>
-                                ))}
-                            </div>
-                        ) : (
-                            <h3> No Inspections Today</h3>
-                        )}
-                    </div>
                     {yore.length ? (
                         <div className="col-lg-12 col-sm-12">
                             <h2 className="text-center mt-4">Past Inspections</h2>

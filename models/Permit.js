@@ -43,6 +43,9 @@ Permit.init(
     parcel_number: {
       type: DataTypes.STRING,
     },
+    address: {
+      type: DataTypes.STRING,
+    },
     
   },  
   {
