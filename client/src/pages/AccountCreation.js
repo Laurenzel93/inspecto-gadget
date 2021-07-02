@@ -8,6 +8,7 @@ import Nav from '../components/Nav';
 function AccountCreation() {
     const history = useHistory();
     useEffect(() => {
+        window.scrollTo(0, 0);
         if (getUser() === null) {
             history.push('/login');
         }

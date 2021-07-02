@@ -42,11 +42,10 @@ function Details() {
         await API.getPermit(id)
        .then(res => {
          setPermit(res.data)
-        //  console.log(permit)
+            console.log(res.data)
         }).catch(err => console.log(err));
     };
-
-      
+  
     return (
         <div>
             <Helmet>
@@ -64,18 +63,18 @@ function Details() {
             <ResultsHistory/>
             <InspectionResults/>
             <PermitInfo
-            address = {permit.address}
-            parcel = {permit.parcel_number}
-            owner = {permit.owner}
-            owner_phone = {permit.owner_phone}
-            owner_mobile = {permit.owner_mobile}
-            contractor = {permit.contractor}
-            contractor_phone = {permit.contractor_phone}
-            contractor_email = {permit.contractor_email}
-            id = {permit.id}
-            issued = {permit.issued}
-            expired = {permit.expired}
-            work_description = {permit.work_description}   /> 
+                address = {permit.address}
+                parcel = {permit.parcel_number}
+                owner = {permit.owner}
+                owner_phone = {permit.owner_phone}
+                owner_mobile = {permit.owner_mobile}
+                contractor = {permit.contractor}
+                contractor_phone = {permit.contractor_phone}
+                contractor_email = {permit.contractor_email}
+                id = {permit.id}
+                issued = {permit.issued}
+                expired = {permit.expired}
+                work_description = {permit.work_description}   /> 
            
            
 

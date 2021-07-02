@@ -99,35 +99,35 @@ function Dashboard() {
                 <div className="row mt-4">
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
-                        {present.length ? (
-                            <div className="border border-3 p-3 bg-dark rounded">
-                                <h4 className="text-white">
-                                    <p className="">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
-                                    <p className="">Inspections Today:{" "}{present.length} </p>
-                                </h4>
-                                {present.map(inspection => (
-                                    <div className="card">
-                                        <div className="bg-light">
-                                            <Today key={inspection.id}
-                                                id={inspection.id}
-                                                date={Moment(inspection.date).format("ddd, MMMM Do")}
-                                                address={inspection.address}
-                                                type={inspection.type}
-                                                permit_id={inspection.permit_id}
-                                                admin={inspection.admin}
-                                                date_scheduled={Moment(inspection.date_scheduled).format("l")}
-                                            />
-                                        </div>
-                                    </div>
-                                ))}
-                            </div>
-                        ) : (
+                            {present.length ? (
+                                <div className="p-3 bg-dark rounded">
+                                    <h4 className="text-white">
+                                        <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
+                                        <p className= "">Inspections Today:{" "}{present.length} </p>
+                                    </h4>
+                                        {present.map(inspection => (
+                                            <div className="card">
+                                                <div className="bg-light">
+                                                <Today key={inspection.id}
+                                                    id = {inspection.id}
+                                                    date = {Moment(inspection.date).format("ddd, MMMM Do")} 
+                                                    address = {inspection.address}
+                                                    type = {inspection.type}
+                                                    permit_id = {inspection.permit_id}
+                                                    admin = {inspection.admin}
+                                                    date_scheduled = {Moment(inspection.date_scheduled).format("l")}
+                                                />
+                                            </div>
+                                            </div>
+                                        ))}  
+                                </div>
+                            ) : (
                             <h3> No Result to Display</h3>
                         )}
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
-                        <div className="border border-3 p-3 bg-dark rounded">
+                        <div className="p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
                                     <Calendar></Calendar>
@@ -136,13 +136,13 @@ function Dashboard() {
                         </div>
                     </div>
                     {upcoming.length ? (
-                        <div className="col-lg-12 col-sm-12">
-                            <h2 className="text-center mt-4">Upcoming Inspections</h2>
-                            {upcoming.map(card => (
-                                <div className="border border-3 p-3 bg-dark rounded">
-                                    <h4 className="text-white d-flex justify-content-between ">
-                                        <span className="mr-5">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
-                                        <span className="ml-5">Inspections:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{card.inspections.length}&nbsp; &nbsp; </span>
+                    <div className="col-lg-12 col-sm-12">
+                        <h2 className="text-center mt-4">Upcoming Inspections</h2>
+                                {upcoming.map(card => (  
+                                    <div className="mt-2 p-3 bg-dark rounded">
+                                     <h4 className="text-white d-flex justify-content-between ">
+                                     <span className= "mr-5">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
+                                     <span className= "ml-5">Inspections:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{card.inspections.length}&nbsp; &nbsp; </span>
                                     </h4>
                                     {card.inspections.map(inspection => (
                                         <div className="card">

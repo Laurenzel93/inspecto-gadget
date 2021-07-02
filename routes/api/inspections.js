@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { Inspection, Note, Permit } = require("../../models");
+const { Inspection, Note, Permit, Result, Invoice } = require("../../models");
 const withAuth = require('../../scripts/auth');
 
 
@@ -10,7 +10,15 @@ router.get("/", withAuth, async (req, res) => {
       const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
         limit: 20,
-        include: [{model: Note }],
+        include: [
+          {
+            model: Note,
+          },
+          {
+            model: Result,
+
+           }
+          ],
       });
       inspectionData.forEach(element => {
         console.log('============================')
@@ -31,7 +39,15 @@ router.get("/", withAuth, async (req, res) => {
       const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
         limit:30,
-        include: [{model: Note }],
+        include: [
+          {
+            model: Note,
+          },
+          {
+            model: Result,
+
+           }
+          ],
         where: {
           inspector: req.session.name,
         },
@@ -74,7 +90,23 @@ router.get("/id/:id", withAuth, async (req, res) => {
     console.log(req.params.id)
     const inspectionData = await Inspection.findOne({
      
-      include: [{model: Note }],
+      include: [
+        {
+          model: Note,
+        },
+        {
+          model: Result,
+
+         },
+         {
+          model: Permit,
+
+         },
+         {
+          model: Invoice,
+
+         }
+        ],
        where: {
           id: req.params.id //TODO make sure this work
        }
