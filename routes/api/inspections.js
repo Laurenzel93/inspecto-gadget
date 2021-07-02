@@ -17,18 +17,22 @@ router.get("/", withAuth, async (req, res) => {
           {
             model: Result,
 
+           },
+           {
+            model: Permit,
+
            }
           ],
       });
-      inspectionData.forEach(element => {
-        console.log('============================')
-        console.log(element.dataValues)
-        console.log('----------------------------')
-        element.dataValues.notes.forEach(note => {
-          console.log(note.dataValues.note)
-        })
-        console.log('============================')
-      });
+      //inspectionData.forEach(element => {
+       // console.log('============================')
+       // console.log(element.dataValues)
+       // console.log('----------------------------')
+       // element.dataValues.notes.forEach(note => {
+       //   console.log(note.dataValues.note)
+       // })
+       // console.log('============================')
+     // });
       res.json(inspectionData)
     } catch (err) {
       console.log(err)
@@ -36,7 +40,7 @@ router.get("/", withAuth, async (req, res) => {
   }
   if (req.session.role === "inspector") {
     try {
-      const inspectionData = await Inspection.findAll({
+      const inspectionData = await Inspection.findOne({
         order: [['date',  'ASC']],
         limit:30,
         include: [
@@ -45,6 +49,10 @@ router.get("/", withAuth, async (req, res) => {
           },
           {
             model: Result,
+
+           },
+           {
+            model: Permit,
 
            }
           ],
@@ -89,7 +97,6 @@ router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
     console.log(req.params.id)
     const inspectionData = await Inspection.findOne({
-     
       include: [
         {
           model: Note,
@@ -100,10 +107,6 @@ router.get("/id/:id", withAuth, async (req, res) => {
          },
          {
           model: Permit,
-
-         },
-         {
-          model: Invoice,
 
          }
         ],
@@ -116,8 +119,20 @@ router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "inspector") {
     try {
       
-      const inspectionData = await Inspection.findAll({
-        include: [{model: Note }, {model: Permit}],
+      const inspectionData = await Inspection.findOne({
+        include: [
+          {
+            model: Note,
+          },
+          {
+            model: Result,
+
+           },
+           {
+            model: Permit,
+
+           }
+          ],
         where: {
           inspector: req.session.name,
           id: req.params.id //TODO make sure this work

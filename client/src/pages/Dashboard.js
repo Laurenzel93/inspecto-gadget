@@ -5,11 +5,12 @@ import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
-import { Upcoming } from "../components/dashboard/UpcomingInspections";
+import { Upcoming, Button, Notes }from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
 import API from '../utils/API';
 import { getUser } from '../utils/Session';
 import { DayCellContent } from '@fullcalendar/react';
+
 
 
 function Dashboard() {
@@ -33,6 +34,7 @@ function Dashboard() {
         await API.getInspections()
             .then(res => {
                 setInspections(res.data)
+                console.log(res.data)
             }).catch(err => console.log(err));
     }
 
@@ -66,7 +68,7 @@ function Dashboard() {
             inspections: grouped[date]
         };
     });
-
+  
     // console.log(upcoming);
 
     const unfulfilled = () => {
@@ -81,7 +83,7 @@ function Dashboard() {
         return isUnfulfilled
     }
 
-    console.log(unfulfilled());
+    // console.log(unfulfilled());
 
 
     return (
@@ -140,9 +142,9 @@ function Dashboard() {
                         <h2 className="text-center mt-4">Upcoming Inspections</h2>
                                 {upcoming.map(card => (  
                                     <div className="mt-2 p-3 bg-dark rounded">
-                                     <h4 className="text-white d-flex justify-content-between ">
-                                     <span className= "mr-5">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
-                                     <span className= "ml-5">Inspections:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{card.inspections.length}&nbsp; &nbsp; </span>
+                                     <h4 className="text-white">
+                                     <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
+                                     <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
                                     </h4>
                                     {card.inspections.map(inspection => (
                                         <div className="card">
@@ -156,6 +158,15 @@ function Dashboard() {
                                                     admin={inspection.admin}
                                                     date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
+                                                
+                                                {inspection.notes.map(note => (
+                                                   
+                                                    <Notes 
+                                                    note = {note.note}/>
+
+                                                ))}
+                                                <Button
+                                                id = {inspection.id}/>
                                             </div>
                                         </div>
                                     ))}

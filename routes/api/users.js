@@ -14,7 +14,7 @@ router.post('/create', withAuth, async (req, res) => {
         name: req.body.name 
       });
       res.json({user: userData});
-      console.log(userData);
+    //  console.log(userData);
     } catch (err) {
       res.json(err);
       console.log(err);
@@ -74,8 +74,8 @@ router.post("/sessions", withAuth, async (req, res) => {
       const sessions = await req.sessionStore.sessionModel.findAll();
       sessions.forEach((element) => {
         let parsedData = JSON.parse(element.dataValues.data).name;
-        console.log("============================");
-        console.log(element.dataValues.updatedAt);
+       // console.log("============================");
+       // console.log(element.dataValues.updatedAt);
         if (parsedData) {
           console.log(parsedData);
         }
