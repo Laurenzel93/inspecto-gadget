@@ -1,14 +1,14 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
-
+import "./style.css";
 
 
 export function PastComponent(props) {
     const history = useHistory();
 
     return (
-        <div className="card-body border border-dark m-1">
-            <table className="card-body table table-striped">
+        <div className="card future-results late-result m-1">
+            <table className="card-body table table-borderless">
                 <tbody>
                     <tr>
                         <th scope="row"></th>

@@ -82,7 +82,7 @@ function Dashboard() {
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Today's Inspections</h2>
                             {present.length ? (
-                                <div className="border border-3 p-3 bg-dark rounded">
+                                <div className="p-3 bg-dark rounded">
                                     <h4 className="text-white">
                                         <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
                                         <p className= "">Inspections Today:{" "}{present.length} </p>
@@ -109,7 +109,7 @@ function Dashboard() {
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
-                        <div className="border border-3 p-3 bg-dark rounded">
+                        <div className="p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
                                     <Calendar></Calendar>
@@ -121,7 +121,7 @@ function Dashboard() {
                     <div className="col-lg-12 col-sm-12">
                         <h2 className="text-center mt-4">Upcoming Inspections</h2>
                                 {upcoming.map(card => (  
-                                    <div className="border border-3 p-3 bg-dark rounded">
+                                    <div className="mt-2 p-3 bg-dark rounded">
                                      <h4 className="text-white d-flex justify-content-between ">
                                      <span className= "mr-5">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
                                      <span className= "ml-5">Inspections:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{card.inspections.length}&nbsp; &nbsp; </span>
