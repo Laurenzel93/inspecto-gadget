@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
 import { useHistory } from "react-router-dom";
+import "./style.css";
 
 function TodaysInspections(props) {
     const history = useHistory();
 
     return (
-        <div className="card border border-dark m-1">
-            <table className="card-body table table-striped">
+        <div className="resultConfirm no-result-yet future-results card m-1">
+            <table className="card-body table table-borderless">
                 <tbody>
                     <tr>
                         <th scope="row"></th>
