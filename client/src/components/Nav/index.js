@@ -2,6 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useHistory, useLocation } from "react-router-dom";
 import { getUser, removeUserSession } from "../../utils/Session";
+import Swal from 'sweetalert2';
 import './style.css';
 
 function Nav() {
@@ -95,7 +96,7 @@ function Nav() {
     const checkRole = () => {
         if (getUser()) {
             console.log('this is the result of getUser(): ' + getUser().role);
-            if (getUser().role === 'admin') {
+            if (getUser().role === 'admin' || getUser().role === 'Admin') {
                 setIsAdmin(true);
             } else {
                 // console.log('admin is false')
@@ -109,6 +110,20 @@ function Nav() {
     */
     const logout = () => {
         axios.post('/api/users/logout')
+            .then((res) => {
+                console.log(res);
+                if (res.status === 204) {
+                    Swal.fire({
+                        icon: 'success',
+                        iconColor: '#b8daff',
+                        title: '<span>Logged out successfully</span>',
+                        showConfirmButton: false,
+                        background: '#343a40',
+                        timer: 1500
+
+                      })
+                }
+            })
             .then(() => {
                 removeUserSession();
                 history.push('/login');

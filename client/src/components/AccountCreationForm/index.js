@@ -19,17 +19,19 @@ function AccountCreationForm() {
         // console.log('password: ' + password.value);
         // console.log('role: ' + role.value);
 
-        axios.post('/api/users/create', {
-            name: name.value,
-            username: username.value,
-            password: password.value,
-            role: role.value
-        })
-        .then(res => {
-            console.log(res);
-            // history.push('/dashboard');
-        })
-        .catch(err => console.log(err));
+        axios.post('/api/users/create',
+            {
+                name: name.value,
+                username: username.value,
+                password: password.value,
+                role: role.value
+            }
+        )
+            .then(res => {
+                console.log(res);
+                // history.push('/dashboard');
+            })
+            .catch(err => console.log(err));
     }
 
     return (

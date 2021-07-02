@@ -3,13 +3,14 @@ const { User } = require("../../models");
 const withAuth = require("../../scripts/auth");
 
 router.post('/create', withAuth, async (req, res) => {
+  console.log(req.body);
   if(req.session.role === 'admin'){
     try {
       const userData = await User.create({
-        username: req.username,
-        password: req.password,
-        role: req.role,
-        name: req.name 
+        username: req.body.username,
+        password: req.body.password,
+        role: req.body.role,
+        name: req.body.name 
       });
       res.json({user: userData});
       console.log(userData);

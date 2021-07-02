@@ -34,6 +34,10 @@
     background-color: #9ca9b6;
 }
 
+span {
+    color: white;
+}
+
 @media screen and (max-width: 992px) {
     #activeDash, #activePast, #activeCreate {
         border-bottom: none !important;
