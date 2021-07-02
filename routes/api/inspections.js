@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { Inspection, Note, Permit, Result } = require("../../models");
+const { Inspection, Note, Permit, Result, Invoice } = require("../../models");
 const withAuth = require('../../scripts/auth');
 
 
@@ -96,6 +96,14 @@ router.get("/id/:id", withAuth, async (req, res) => {
         },
         {
           model: Result,
+
+         },
+         {
+          model: Permit,
+
+         },
+         {
+          model: Invoice,
 
          }
         ],
