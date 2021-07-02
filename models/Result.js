@@ -29,7 +29,7 @@ Result.init(
     sequelize,
     freezeTableName: true,
     underscored: true,
-    modelName: 'comment'
+    modelName: 'result'
   }
 );
 

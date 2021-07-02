@@ -8,6 +8,7 @@ router.post('/create', withAuth, async (req, res) => {
       const userData = await User.create({
         username: req.username,
         password: req.password,
+        email: req.email,
         role: req.role,
         name: req.name 
       });
