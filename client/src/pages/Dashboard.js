@@ -33,6 +33,19 @@ function Dashboard() {
             .then(res => {
                 setInspections(res.data)
             }).catch(err => console.log(err));
+        await API.getCalender()
+            .then(res => {
+                console.log("====================")
+                console.log("API GET CALENDER")
+                console.log(res)
+                console.log("END OF CALENDER GET")
+                console.log("=====================")
+            })
+            .catch(err => {
+                console.log("GET CALENDER ERROR")
+                console.log(err)
+                console.log("GET CALENDER ERROR")
+            })
     }
     
     

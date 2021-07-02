@@ -9,6 +9,9 @@ export default {
   getInspection: function(id) {
     return axios.get(`/api/inspections/id/${id}`)
   },
+  getCalender: function() {
+    return axios.get('/api/inspections/calender')
+  },
   getPermit: function(id) {
     return axios.get(`/api/permits/id/${id}`)
   },
