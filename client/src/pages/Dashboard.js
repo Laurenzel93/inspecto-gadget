@@ -5,7 +5,7 @@ import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
-import { Upcoming, Button, Notes }from "../components/dashboard/UpcomingInspections";
+import { Upcoming, Notes }from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
 import API from '../utils/API';
 import { getUser } from '../utils/Session';
@@ -99,14 +99,15 @@ function Dashboard() {
             )}
             <div className="container-fluid">
                 <div className="row mt-4">
-                    <div className="col-lg-6 col-sm-12">
-                        <h2 className="text-center mt-4">Today's Inspections</h2>
-                            {present.length ? (
+                        <div className="col-lg-6 col-sm-12">
+                            <h2 className="text-center mt-4">Today's Inspections</h2>
                                 <div className="p-3 bg-dark rounded">
                                     <h4 className="text-white">
                                         <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
                                         <p className= "">Inspections Today:{" "}{present.length} </p>
                                     </h4>
+                                    {present.length ? (
+                                        <div>
                                         {present.map(inspection => (
                                             <div className="card">
                                                 <div className="bg-light">
@@ -116,17 +117,38 @@ function Dashboard() {
                                                     address = {inspection.address}
                                                     type = {inspection.type}
                                                     permit_id = {inspection.permit_id}
-                                                    admin = {inspection.admin}
+                                                    admin = {(inspection.admin).toLowerCase()}
                                                     date_scheduled = {Moment(inspection.date_scheduled).format("l")}
                                                 />
-                                            </div>
-                                            </div>
-                                        ))}  
-                                </div>
-                            ) : (
-                            <h3> No Result to Display</h3>
-                        )}
-                    </div>
+                                                {inspection.notes.length ? (
+                                                    <div>
+                                                        {inspection.notes.map(note => (
+                                                            <Notes 
+                                                                note = {note.note}/>
+                                                        ))}
+                                                    </div>
+                                                ) : (
+                                                    <div className= "card-body mb-3 pt-0 container col-12 ">
+                                                        <div className="row">
+                                                            <div className="col- col-md-10  border border-top-0 ">No Notes to Display</div>
+                                                        </div>    
+                                                    </div>
+                                                    )}    
+                                                </div> 
+                                            </div>     
+                                        ))}
+                                        </div>
+                                     ) : (
+                                        <div className="card">
+                                        <div className="bg-light p-4 text-center">
+                                        <h5> No Inspections Today</h5>
+                                        </div>
+                                        </div>
+                                    )}        
+                            </div> 
+                        </div>                  
+                   
+               
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
                         <div className="p-3 bg-dark rounded">
@@ -142,10 +164,10 @@ function Dashboard() {
                         <h2 className="text-center mt-4">Upcoming Inspections</h2>
                                 {upcoming.map(card => (  
                                     <div className="mt-2 p-3 bg-dark rounded">
-                                     <h4 className="text-white">
-                                     <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
-                                     <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
-                                    </h4>
+                                        <h4 className="text-white">
+                                            <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
+                                            <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
+                                        </h4>
                                     {card.inspections.map(inspection => (
                                         <div className="card">
                                             <div className="bg-light">
@@ -158,27 +180,34 @@ function Dashboard() {
                                                     admin={inspection.admin}
                                                     date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
-                                                
-                                                {inspection.notes.map(note => (
-                                                   
-                                                    <Notes 
-                                                    note = {note.note}/>
-
-                                                ))}
-                                                <Button
-                                                id = {inspection.id}/>
+                                                {inspection.notes.length ? (
+                                                    <div>
+                                                        
+                                                        {inspection.notes.map(note => (
+                                                            <Notes 
+                                                                note = {note.note}/>
+                                                        ))}
+                                                    </div>
+                                                ) : (
+                                            <div className= "card-body mb-3 pt-0 container col-12 ">
+                                                <div className="row">
+                                                    <div className="col- col-md-10  border border-top-0 "></div>
+                                                </div>    
                                             </div>
+                                            )}
                                         </div>
+                                    </div>  
                                     ))}
-                                </div>
-                            ))}
-                        </div>
+                                    </div> 
+                                ))}
+                            </div>                  
                     ) : (
-                        <h3> No Result to Display</h3>
-                    )}
-                </div>
+                        <h3> No Notes to Display</h3>
+                        )}
             </div>
         </div>
+     </div>         
+        
     )
 
 };

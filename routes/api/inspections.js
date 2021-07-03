@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { Inspection, Note, Permit, Result, Invoice } = require("../../models");
+const { Inspection, Note, Permit, Result } = require("../../models");
 const withAuth = require('../../scripts/auth');
 
 
@@ -24,15 +24,7 @@ router.get("/", withAuth, async (req, res) => {
            }
           ],
       });
-      //inspectionData.forEach(element => {
-       // console.log('============================')
-       // console.log(element.dataValues)
-       // console.log('----------------------------')
-       // element.dataValues.notes.forEach(note => {
-       //   console.log(note.dataValues.note)
-       // })
-       // console.log('============================')
-     // });
+     
       res.json(inspectionData)
     } catch (err) {
       console.log(err)
@@ -40,7 +32,7 @@ router.get("/", withAuth, async (req, res) => {
   }
   if (req.session.role === "inspector") {
     try {
-      const inspectionData = await Inspection.findOne({
+      const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
         limit:30,
         include: [
@@ -55,6 +47,7 @@ router.get("/", withAuth, async (req, res) => {
             model: Permit,
 
            }
+           
           ],
         where: {
           inspector: req.session.name,
@@ -68,30 +61,7 @@ router.get("/", withAuth, async (req, res) => {
   }
 });
 
-// router.get('/address/:id', withAuth, async (req, res) => {
-//    if (req.session.role === "admin") {
-     
-//      const inspectionData = await Inspection.findAll({
-//         where: {
-//            address: req.params.id //TODO make sure this work
-//         }
-//      });
-//      return inspectionData;
-//    }
-//    if (req.session.role === "inspector") {
-//      try {
-//        const inspectionData = await Inspection.findAll({
-//          where: {
-//            inspector: req.session.name,
-//            address: req.params.id //TODO make sure this work
-//          },
-//        });
-//        res.json(inspectionData)
-//      } catch (error) {
-//        console.log(error);
-//      }
-//    }
-// });
+
 
 router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
@@ -111,7 +81,7 @@ router.get("/id/:id", withAuth, async (req, res) => {
          }
         ],
        where: {
-          id: req.params.id //TODO make sure this work
+          id: req.params.id 
        }
     });
     res.json(inspectionData)
@@ -135,7 +105,7 @@ router.get("/id/:id", withAuth, async (req, res) => {
           ],
         where: {
           inspector: req.session.name,
-          id: req.params.id //TODO make sure this work
+          id: req.params.id 
         },
       });
       res.json(inspectionData)

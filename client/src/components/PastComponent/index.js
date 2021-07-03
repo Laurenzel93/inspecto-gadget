@@ -7,25 +7,30 @@ export function PastComponent(props) {
     const history = useHistory();
 
     return (
-        <div className="card future-results late-result m-1">
-            <table className="card-body table table-borderless">
-                <tbody>
-                    <tr>
-                        <th scope="row"></th>
-                        <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type}  &nbsp; &nbsp;   &nbsp; &nbsp; 
-                        Date Created: {props.date_scheduled} &nbsp; {props.admin}&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</td>
-                        
-                        <td className="text-right align-middle float-right"><button className="btn btn-secondary border border-dark mb-2" onClick={() => history.push('inspections/' + props.id)}>Details</button></td>
-                    </tr>
-                    <tr>
-                    <th scope="row"></th>
-                    <td>Results and Notes</td>
-                    <td className="float-right">{props.permit_id}</td>
-
-                    </tr>
-                </tbody>
-            </table>
+        <div className= "pb-0 card-body mb-0 container col-12 ">
+            <div className="row">
+                <div className="col-12 col-md-12 "><button className="btn btn-secondary border border-dark float-right mr-3" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
+                <div className="col-12 col-md-auto ">{props.date}</div>
+                <div className="col-12 col-md-auto">{props.address}</div>
+                <div className="col-12 col-md-auto">{props.type}</div>
+                <div className="col-12 col-md-auto">{props.permit_id}</div>
+                <div className="col-12 col-md-auto"> Created: {props.date_scheduled} &nbsp; by: {props.admin.toLowerCase()}</div>
+                <div className="col- col-md-10  border border-bottom-0 ">Results:</div>
+            </div>
         </div>
+  
     );
 }
 
+export function Results(props) {
+   
+
+    return (
+        <div className= "card-body mb-3 pt-0 container col-12 ">
+            <div className="row">
+                <div className="col- col-md-10  border border-top-0 ">{props.result} on {props.time} notes: {props.notes} </div>
+            </div>    
+        </div>
+)
+   
+}
