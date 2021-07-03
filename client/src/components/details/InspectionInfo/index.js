@@ -5,19 +5,16 @@ import './style.css';
 export function InspectionInfo(props) {
   
     return (
-        <div className= " mb-0 container col-11 ">
-            <div className="row">
-      <div className="col-12 col-md-auto mb-2 border">{props.date}</div>
-      <div className="col-12 col-md-auto mb-2 border">{props.address}</div>
-      <div className="col-12 col-md-auto mb-2 border">{props.type}</div>
-      <div className="col-12 col-md-auto mb-2 border">{props.permit_id}</div>
-      <div className="col-12 col-md-auto mb-2 border"> Created:{props.date_scheduled} &nbsp; by: {props.admin}</div>
-      <div className="col- col-md-10 border border-bottom-0 ">Notes:</div>
-     
-    
-      
-    
-    </div>
+        <div className= " mb-0 container mt-4 col-11 ">
+            <div className="row" style={{ fontSize: "20px" }}>
+              
+                <div className="col-12 col-md-auto mb-2 ">{props.date}</div>
+                <div className="col-12 col-md-auto mb-2 ">{props.address}</div>
+                <div className="col-12 col-md-auto mb-2 ">{props.type}</div>
+                <div className="col-12 col-md-auto mb-2 ">{props.permit_id}</div>
+                <div className="col-12 col-md-auto mb-2 "> Created:{props.date_scheduled} &nbsp; by: {props.admin}</div>
+                <div className="col- col-md-12 border border-bottom-0 ">Notes:</div>
+            </div>
     
         </div>
       
@@ -53,7 +50,7 @@ export function NoteDetails(props) {
             return (
                 <div className= "container mt-0 col-11 mb-2">
                     <div className="row">
-                        <div className="col- col-md-10  border border-top-0">{props.note}</div>
+                        <div className="col- col-md-12  border border-top-0">{props.note}</div>
                         </div>    
                 </div>
         )
