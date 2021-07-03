@@ -5,10 +5,11 @@ const withAuth = require('../../scripts/auth');
 router.get('/');
 
 router.get('/id/:id', withAuth, async (req, res) => {
+  console.log(req.params.id,)
   try {
-    const permitData = await Permit.findAll({
+    const permitData = await Permit.findOne({
       where: {
-        id: req.params.id,
+        inspection: req.params.id,
       },
     });
     console.log(permitData)

@@ -48,9 +48,11 @@ function PermitInfo(props) {
                         <th>Fee</th>
                     </thead>
                     <tbody>
+                        <tr>
                         <td id="item">{props.item}</td>
                         <td id="quantity">{props.quantity}</td>
                         <td id="fee">{props.amount_total}</td>
+                        </tr> 
                     </tbody>
                 </table>
 

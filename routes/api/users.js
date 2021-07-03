@@ -3,16 +3,18 @@ const { User } = require("../../models");
 const withAuth = require("../../scripts/auth");
 
 router.post('/create', withAuth, async (req, res) => {
+  console.log(req.body);
   if(req.session.role === 'admin'){
     try {
       const userData = await User.create({
-        username: req.username,
-        password: req.password,
-        role: req.role,
-        name: req.name 
+        username: req.body.username,
+        password: req.body.password,
+        email: req.body.email,
+        role: req.body.role,
+        name: req.body.name 
       });
       res.json({user: userData});
-      console.log(userData);
+    //  console.log(userData);
     } catch (err) {
       res.json(err);
       console.log(err);
@@ -72,8 +74,8 @@ router.post("/sessions", withAuth, async (req, res) => {
       const sessions = await req.sessionStore.sessionModel.findAll();
       sessions.forEach((element) => {
         let parsedData = JSON.parse(element.dataValues.data).name;
-        console.log("============================");
-        console.log(element.dataValues.updatedAt);
+       // console.log("============================");
+       // console.log(element.dataValues.updatedAt);
         if (parsedData) {
           console.log(parsedData);
         }

@@ -5,6 +5,7 @@ import { useHistory } from 'react-router-dom';
 
 function AccountCreationForm() {
     const name = useFormInput('');
+    const email = useFormInput('');
     const username = useFormInput('');
     const password = useFormInput('');
     const role = useFormInput('');
@@ -22,12 +23,13 @@ function AccountCreationForm() {
         axios.post('/api/users/create', {
             name: name.value,
             username: username.value,
+            email: email.value,
             password: password.value,
             role: role.value
         })
         .then(res => {
             console.log(res);
-            // history.push('/dashboard');
+            history.push('/dashboard');
         })
         .catch(err => console.log(err));
     }
@@ -50,6 +52,10 @@ function AccountCreationForm() {
                     <div className="mb-3">
                         <label htmlFor="password" className="form-label">Password</label>
                         <input type="password" {...password} className="form-control" id="password" />
+                    </div>
+                    <div className="mb-3">
+                        <label htmlFor="email" className="form-label">Email</label>
+                        <input type="password" {...email} className="form-control" id="email" />
                     </div>
                     <div className="checkboxContainer">
                         <div id="accountTypeHeader" className="form-text">
