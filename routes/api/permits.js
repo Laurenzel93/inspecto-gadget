@@ -8,7 +8,18 @@ router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
     console.log(req.params.id)
     const permitData = await Permit.findOne({
-      include: [{all: true}],
+      include: [
+        
+        {
+          model: Inspection,
+
+        },
+        {
+          model: Invoice,
+
+        }
+
+        ],
        where: {
           id: req.params.id 
        }

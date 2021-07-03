@@ -10,7 +10,7 @@ export function Upcoming(props) {
 return (
     <div className= "pb-0 card-body mb-0 container col-12 ">
         <div className="row">
-            <div className="col-12 col-md-12 "><button className="btn btn-secondary border border-dark float-right mr-3" onClick={() => history.push('permits/' + props.permit_id)}>Details</button></div>
+            <div className="col-12 col-md-12 "><button className="btn btn-secondary border border-dark float-right mr-3" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
             <div className="col-12 col-md-auto ">{props.date}</div>
             <div className="col-12 col-md-auto">{props.address}</div>
             <div className="col-12 col-md-auto">{props.type}</div>

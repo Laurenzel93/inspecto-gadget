@@ -20,7 +20,7 @@ function App() {
         <PrivateRoute exact path='/create-account'>
           <AccountCreation />
         </PrivateRoute>
-        <PrivateRoute exact path='/permits/:id'>
+        <PrivateRoute exact path='/inspections/:id'>
           <Details />
         </PrivateRoute>
         <PrivateRoute exact path='/past-inspections'>

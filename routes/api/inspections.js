@@ -74,6 +74,10 @@ router.get("/id/:id", withAuth, async (req, res) => {
         {
           model: Result,
 
+         },
+         {
+          model: Permit,
+
          }
         ],
        where: {
@@ -92,9 +96,12 @@ router.get("/id/:id", withAuth, async (req, res) => {
           },
           {
             model: Result,
-  
+
+           },
+           {
+            model: Permit,
+
            }
-  
           ],
         where: {
           inspector: req.session.name,

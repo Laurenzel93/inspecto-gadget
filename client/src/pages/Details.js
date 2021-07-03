@@ -36,20 +36,23 @@ function Details() {
     }, [])
 
     async  function loadInspections() {  
-       await API.getPermit(id)
+       await API.getInspection(id)
        .then ( res  =>  {
-        setInspection(res.data.inspection)
-        setPermit(res.data)
-        setInvoices(res.data.invoices)
-         console.log(res.data)
-         API.getInspection(res.data.inspection.id)
+        setInspection(res.data)
+        setPermit(res.data.Permit)
+        setResults(res.data.results)
+        setNotes(res.data.notes)       
+    
+         API.getPermit(res.data.Permit.id)
             .then(res => {
-                setResults(res.data.results)
-                setNotes(res.data.notes)
+                console.log(res.data)
+                setInvoices(res.data.invoices)
             })
        }).catch(err => console.log(err));
 
-       console.log(inspection)
+    //    console.log(inspection)
+    //    console.log(permit)
+      
         
     }
     return (
@@ -67,6 +70,7 @@ function Details() {
                 admin = {inspection.admin}
                 date_scheduled = {Moment(inspection.date_scheduled).format("MM- D-YY")}
             />
+            
             {notes.length ? (
                 <div>
              {notes.map(note => (
