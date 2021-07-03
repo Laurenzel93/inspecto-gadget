@@ -14,19 +14,20 @@ import { DayCellContent } from '@fullcalendar/react';
 
 
 function Dashboard() {
-    
+
     const [inspections, setInspections] = useState([]);
-    
+
 
 
     const history = useHistory();
 
     useEffect(() => {
+        window.scrollTo(0, 0);
         if (getUser() != null) {
             loadInspections()
         } else {
             history.push('/login');
-        }
+        };
     }, [])
 
     async function loadInspections() {
@@ -36,20 +37,23 @@ function Dashboard() {
                 console.log(res.data)
             }).catch(err => console.log(err));
     }
-    
-    
+
+
     let present = [];
     let future = [];
+    let past = [];
     inspections.forEach(inspection => {
-       if((Moment(inspection.date).isAfter(Moment(), 'day'))){
-           future.push(inspection)
-       } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
-           present.push(inspection)
-       }
-          
-    }) 
+        if ((Moment(inspection.date).isAfter(Moment(), 'day'))) {
+            future.push(inspection)
+        } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
+            present.push(inspection)
+        } else if ((Moment(inspection.date).isBefore(Moment(), 'day'))) {
+            past.push(inspection)
+        }
+
+    })
     const grouped = future.reduce((grouped, inspection) => {
-    const date = inspection.date;
+        const date = inspection.date;
         if (!grouped[date]) {
             grouped[date] = [];
         }
@@ -64,8 +68,22 @@ function Dashboard() {
             inspections: grouped[date]
         };
     });
+  
+    // console.log(upcoming);
 
-    //console.log(upcoming);
+    const unfulfilled = () => {
+        let isUnfulfilled = true
+        past.forEach(inspection => {
+            if (!inspection.results) {
+                return
+            } else {
+                isUnfulfilled = false
+            }
+        })
+        return isUnfulfilled
+    }
+
+    // console.log(unfulfilled());
 
 
     return (
@@ -74,7 +92,7 @@ function Dashboard() {
                 <title>Dashboard</title>
             </Helmet>
             <Nav />
-            {present.length ? (
+            {unfulfilled() === true ? (
                 <ActionRequiredBanner />
             ) : (
                 null
@@ -151,16 +169,16 @@ function Dashboard() {
                                             <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
                                         </h4>
                                     {card.inspections.map(inspection => (
-                                    <div className="card ">
-                                        <div className="bg-light ">
-                                            <Upcoming key={inspection.permit_id}
-                                                            id = {inspection.id}
-                                                            date = {Moment(inspection.date).format("ddd, MMMM Do")} 
-                                                            address = {inspection.address}
-                                                            type = {inspection.type}
-                                                            permit_id = {inspection.permit_id}
-                                                            admin = {(inspection.admin).toLowerCase()}
-                                                            date_scheduled = {Moment(inspection.date_scheduled).format("l")}
+                                        <div className="card">
+                                            <div className="bg-light">
+                                                <Upcoming key={inspection.permit_id}
+                                                    id={inspection.id}
+                                                    date={Moment(inspection.date).format("ddd, MMMM Do")}
+                                                    address={inspection.address}
+                                                    type={inspection.type}
+                                                    permit_id={inspection.permit_id}
+                                                    admin={inspection.admin}
+                                                    date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
                                                     <div>

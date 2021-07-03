@@ -9,6 +9,7 @@ function Login() {
 
     const history = useHistory();
     useEffect(() => {
+        window.scrollTo(0, 0);
         if (getUser() != null) {
             history.push('/dashboard');
         }

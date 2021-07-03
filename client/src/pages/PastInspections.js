@@ -19,11 +19,12 @@ function PastInspections() {
 
     const history = useHistory();
     useEffect(() => {
+        window.scrollTo(0, 0);
         if (getUser() != null) {
             loadInspections()
         } else {
             history.push('/login');
-        }
+        };
     }, [])
 
     async function loadInspections() {
