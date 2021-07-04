@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const { Inspection, Note, Permit, Result, Invoice } = require("../../models");
 const withAuth = require('../../scripts/auth');
-
+const moment = require('moment');
 
 
 router.get("/", withAuth, async (req, res) => {
@@ -159,12 +159,13 @@ router.get("/calender", withAuth, async (req, res) => {
           element.dataValues.date.getTime() >= firstDay.getTime() &&
           element.dataValues.date.getTime() <= lastDay.getTime()
         ) {
-          dateArray.push(element.dataValues.date);
+          let tempDate = moment(element.dataValues.date).format('YYYY-MM-DD')
+          dateArray.push(tempDate.toString());
         }
       });
       dateArray.forEach((element) => {
         events.push(
-          `{title: 'Inspection', start: ${element}},`
+          `{title: 'Inspection', date: ${element}},`
         );
       });
       console.log(events);
