@@ -133,9 +133,8 @@ router.get("/calender", withAuth, async (req, res) => {
         }
       });
       dateArray.forEach((element) => {
-        events.push(
-          `{title: 'Inspection', date: ${element}},`
-        );
+        let tempObject = { title: `Inspection`, date: `${element}` }
+        events.push(tempObject);
       });
       console.log(events);
       console.log(dateArray);
