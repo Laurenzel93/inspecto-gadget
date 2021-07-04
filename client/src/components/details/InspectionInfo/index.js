@@ -5,15 +5,15 @@ import './style.css';
 export function InspectionInfo(props) {
   
     return (
-        <div className= " mb-0 container mt-4 col-11 ">
+        <div className=" mb-0 container mt-4 col-11 bg-light">
             <div className="row" style={{ fontSize: "20px" }}>
               
                 <div className="col-12 col-md-auto mb-2 ">{props.date}</div>
                 <div className="col-12 col-md-auto mb-2 ">{props.address}</div>
                 <div className="col-12 col-md-auto mb-2 ">{props.type}</div>
                 <div className="col-12 col-md-auto mb-2 ">{props.permit_id}</div>
-                <div className="col-12 col-md-auto mb-2 "> Created:{props.date_scheduled} &nbsp; by: {props.admin}</div>
-                <div className="col- col-md-12 border border-bottom-0 ">Notes:</div>
+                <div className="col-12 col-md-auto mb-2 "> Created: {props.date_scheduled} &nbsp; by: {props.admin}</div>
+                <div className="col- col-md-12 border border-bottom-0 bg-light ">Notes: </div>
             </div>
     
         </div>
