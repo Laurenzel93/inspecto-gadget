@@ -1,14 +1,14 @@
 const router = require("express").Router();
 const { Inspection, Note, Permit, Result } = require("../../models");
 const withAuth = require('../../scripts/auth');
-
+const moment = require('moment');
 
 
 router.get("/", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
     try {
       const inspectionData = await Inspection.findAll({
-        order: [['date',  'ASC']],
+        order: [["date", "ASC"]],
         limit: 20,
         include: [
           {
@@ -27,8 +27,8 @@ router.get("/", withAuth, async (req, res) => {
      
       res.json(inspectionData)
     } catch (err) {
-      console.log(err)
-    };
+      console.log(err);
+    }
   }
   if (req.session.role === "inspector") {
     try {
@@ -53,8 +53,8 @@ router.get("/", withAuth, async (req, res) => {
           inspector: req.session.name,
         },
       });
-      console.log(inspectionData)
-      res.json(inspectionData)
+      console.log(inspectionData);
+      res.json(inspectionData);
     } catch (error) {
       console.log(error);
     }
@@ -62,10 +62,9 @@ router.get("/", withAuth, async (req, res) => {
 });
 
 
-
 router.get("/id/:id", withAuth, async (req, res) => {
   if (req.session.role === "admin") {
-    console.log(req.params.id)
+    console.log(req.params.id);
     const inspectionData = await Inspection.findOne({
       include: [
         {
@@ -84,7 +83,7 @@ router.get("/id/:id", withAuth, async (req, res) => {
           id: req.params.id 
        }
     });
-    res.json(inspectionData)
+    res.json(inspectionData);
   }
   if (req.session.role === "inspector") {
     try {
@@ -108,11 +107,57 @@ router.get("/id/:id", withAuth, async (req, res) => {
           id: req.params.id 
         },
       });
-      res.json(inspectionData)
+      res.json(inspectionData);
     } catch (error) {
       console.log(error);
     }
   }
-})
+});
+
+router.get("/calender", withAuth, async (req, res) => {
+  const today = new Date();
+  const firstDay = new Date(today.getFullYear(), today.getMonth(), 1);
+  const lastDay = new Date(today.getFullYear(), today.getMonth() + 1, 1);
+  let dateArray = [];
+  let events = [];
+  if (req.session.role === "admin") {
+    try {
+      const inspectionData = await Inspection.findAll();
+      inspectionData.forEach((element) => {
+        if (
+          element.dataValues.date.getTime() >= firstDay.getTime() &&
+          element.dataValues.date.getTime() <= lastDay.getTime()
+        ) {
+          let tempDate = moment(element.dataValues.date).format('YYYY-MM-DD')
+          dateArray.push(tempDate.toString());
+        }
+      });
+      dateArray.forEach((element) => {
+        let tempObject = { title: `Inspection`, date: `${element}` }
+        events.push(tempObject);
+      });
+      console.log(events);
+      console.log(dateArray);
+      res.json(events);
+    } catch (err) {
+      res.json(err);
+      console.log(err);
+    }
+  }
+  if (req.session.role === "inspector") {
+    try {
+      const inspectionData = await Inspection.findAll({
+        where: {
+          inspector: req.session.name,
+        },
+      });
+      console.log(inspectionData);
+      res.json(inspectionData);
+    } catch (error) {
+      res.json(error);
+      console.log(error);
+    }
+  }
+});
 
 module.exports = router;

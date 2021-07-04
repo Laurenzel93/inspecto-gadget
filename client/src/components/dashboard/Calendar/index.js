@@ -8,17 +8,9 @@ export default class Calendar extends React.Component {
         return (
             <FullCalendar
                 plugins={[dayGridPlugin]}
-                eventContent={renderEventContent}
+                events={this.props.children[1]}
+                onLoad={console.log(this.props.children[1])}
             />
         )
     }
-}
-
-function renderEventContent(eventInfo) {
-    return (
-        <>
-            <b>{eventInfo.timeText}</b>
-            <i>{eventInfo.event.title}</i>
-        </>
-    )
-}
+};

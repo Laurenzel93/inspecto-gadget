@@ -16,8 +16,7 @@ import { DayCellContent } from '@fullcalendar/react';
 function Dashboard() {
 
     const [inspections, setInspections] = useState([]);
-
-
+    const [calendar, setCalendar] = useState([])
 
     const history = useHistory();
 
@@ -36,6 +35,14 @@ function Dashboard() {
                 setInspections(res.data)
                 console.log(res.data)
             }).catch(err => console.log(err));
+        await API.getCalender()
+            .then(res => {
+              console.log(res.data)
+              setCalendar(res.data)
+            })
+            .catch(err => {
+              console.log(err)
+            })
     }
 
 
@@ -154,7 +161,9 @@ function Dashboard() {
                         <div className="p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
-                                    <Calendar></Calendar>
+                                    <Calendar>
+                                      events={calendar}
+                                    </Calendar>
                                 </div>
                             </div>
                         </div>
