@@ -115,29 +115,15 @@ router.get("/id/:id", withAuth, async (req, res) => {
 });
 
 router.get("/calender", withAuth, async (req, res) => {
-  const today = new Date();
-  const firstDay = new Date(today.getFullYear(), today.getMonth(), 1);
-  const lastDay = new Date(today.getFullYear(), today.getMonth() + 1, 1);
-  let dateArray = [];
   let events = [];
   if (req.session.role === "admin") {
     try {
       const inspectionData = await Inspection.findAll();
       inspectionData.forEach((element) => {
-        if (
-          element.dataValues.date.getTime() >= firstDay.getTime() &&
-          element.dataValues.date.getTime() <= lastDay.getTime()
-        ) {
-          let tempDate = moment(element.dataValues.date).format('YYYY-MM-DD')
-          dateArray.push(tempDate.toString());
-        }
-      });
-      dateArray.forEach((element) => {
-        let tempObject = { title: `Inspection`, date: `${element}` }
-        events.push(tempObject);
+          let date = moment(element.dataValues.date).format('YYYY-MM-DD')
+          events.push({ title: `${element.dataValues.type}`, date: date.toString() });
       });
       console.log(events);
-      console.log(dateArray);
       res.json(events);
     } catch (err) {
       res.json(err);
