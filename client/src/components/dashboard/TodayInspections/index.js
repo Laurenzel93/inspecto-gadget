@@ -7,16 +7,17 @@ function TodaysInspections(props) {
 
     return (
         <div className="resultConfirm no-result-yet future-results card m-1">
-            <table className="card-body table table-borderless">
-                <tbody>
-                    <tr>
-                        <th scope="row"></th>
-                        <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type}  &nbsp; &nbsp; {props.permit_id}  &nbsp; &nbsp; Notes: props.notes &nbsp; &nbsp; Date Created: {props.date_scheduled} &nbsp; {props.admin}</td>
-                        <td className="text-right align-middle float-right"><button className="btn btn-secondary border border-dark" onClick={() => history.push('inspections/' + props.id)}>Results</button>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            <div className= "pb-0 card-body mb-0 container col-12 ">
+                <div className="row">
+                    <div className="col-12 col-md-12 "><button className="btn btn-secondary border border-dark float-right mr-3" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
+                    <div className="col-12 col-md-auto ">{props.date}</div>
+                    <div className="col-12 col-md-auto">{props.address}</div>
+                    <div className="col-12 col-md-auto">{props.type}</div>
+                    <div className="col-12 col-md-auto">{props.permit_id}</div>
+                    <div className="col-12 col-md-auto"> Created: {props.date_scheduled} &nbsp; by: {props.admin.toLowerCase()}</div>
+                    <div className="col- col-md-10  border border-bottom-0 ">Notes:</div>
+                </div>
+            </div>
         </div>
     )
 }

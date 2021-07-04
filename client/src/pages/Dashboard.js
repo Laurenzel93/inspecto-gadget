@@ -81,7 +81,10 @@ function Dashboard() {
     const unfulfilled = () => {
         let isUnfulfilled = true
         past.forEach(inspection => {
-            if (!inspection.results) {
+            console.log(inspection.results[0])
+            if (inspection.results.length == 0) {
+        
+             isUnfulfilled = true   
                 return
             } else {
                 isUnfulfilled = false
@@ -94,7 +97,7 @@ function Dashboard() {
 
 
     return (
-        <div>
+        <div style={{ fontSize: "20px" }}>
             <Helmet>
                 <title>Dashboard</title>
             </Helmet>

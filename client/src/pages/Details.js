@@ -61,31 +61,37 @@ function Details() {
                 <title>Details</title>
             </Helmet>
             <Nav />
-            <InspectionInfo
-                key={inspection.id}
-                date={Moment(inspection.date).format("dddd, MMMM Do YYYY")}
-                address={inspection.address}
-                type={inspection.type}
-                permit_id={inspection.permit_id}
-                admin={inspection.admin}
-                date_scheduled={Moment(inspection.date_scheduled).format("MM- D-YY")}
-            />
-
-            {notes.length ? (
-                <div>
-                    {notes.map(note => (
-                        <NoteDetails
-                            note={note.note}
-                        />
-                    ))}
+            <div className=" mb-0 container mt-4 col-11 bg-light">
+                <InspectionInfo
+                    key={inspection.id}
+                    date={Moment(inspection.date).format("dddd, MMMM Do YYYY")}
+                    address={inspection.address}
+                    type={inspection.type}
+                    permit_id={inspection.permit_id}
+                    admin={inspection.admin}
+                    date_scheduled={Moment(inspection.date_scheduled).format("MM- D-YY")}
+                />
+                {notes.length ? (
+                 
+                <div className="row" style={{ fontSize: "20px" }}>
+                    <div className="col-12 col-md-auto bg-light ">Notes: </div> 
+                        {notes.map(note => (
+                            <NoteDetails
+                                note={note.note}
+                            />
+                        ))}
                 </div>
-            ) : (
-                    <div className="container mt-0 col-11 mb-2">
-                        <div className="row">
-                            <div className="col- col-md-10  border border-top-0"></div>
-                        </div>
-                    </div>
+                
+                ) : (
+                    
+                <div className="row">
+                    <div className="col- col-md-9"></div>
+                </div>
+                   
                 )}
+            </div> 
+                 
+         
             <div className="container-fluid ml-auto m-3 p-3 border rounded border-primary bg-light" id="previousNotesContainer">
                 <h3 className="d-flex justify-content-center">Results History</h3>
                 {results.length ? (
@@ -95,7 +101,8 @@ function Details() {
                                 <ResultsHistory
                                     time={Moment(result.createdAt).format("lll")}
                                     result={result.result}
-                                    notes={result.notes} />
+                                    notes={result.notes} 
+                                   />
                             ))}
                         </tbody>
                     </table>
@@ -105,6 +112,7 @@ function Details() {
 
             </div>
             <InspectionResults />
+            <div className="container-fluid col-10 border rounded border-primary p-4" id="permitInfoContainer">
             <PermitInfo
                 address={permit.address}
                 parcel={permit.parcel_number}
@@ -131,15 +139,11 @@ function Details() {
                     </div>
 
                 </div>
-
-
-
             ) : (
-                    <h6>There are no Invoiced Items for this Inspection</h6>
-                )}
-
-
-        </div>
+                <h6>There are no Invoiced Items for this Inspection</h6>
+            )}
+            </div>
+        </div>  
     )
 };
 

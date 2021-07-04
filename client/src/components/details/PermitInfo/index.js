@@ -3,8 +3,8 @@ import './style.css';
 
 export function PermitInfo(props) {
     return (
-        <div className="" >
-            <div className="container col-10 border rounded border-primary p-4" id="permitInfoContainer">
+      
+            
                 <div className="row justify-content-center">
                     <h3 className="col-12 col-md-10  text-center mb-0 border" >Permit Information</h3>
 
@@ -26,8 +26,8 @@ export function PermitInfo(props) {
                     <div style={{ fontWeight: "bold" }} className="col-12 col-md-3 border m-0 bg-light">Work Description</div>
                     <div className="col-12 col-md-7 border bg-light" id="workDescription">{props.work_description}</div>
                 </div>
-            </div>
-        </div>
+    
+      
     )
 }
 
@@ -36,8 +36,8 @@ export function InvoiceInfo(props) {
 
     return (
 
-        <div className="" >
-            <div className="container col-10 border rounded border-primary p-4" id="permitInfoContainer">
+        
+            
                 <div className="row justify-content-center">
                     <h3 className="col-12 col-md-10  text-center" >Fee Information</h3>
                     {/* <div style={{ fontWeight: "bold" }} className="col-12 col-md-3  border border-botom-0 m-0 bg-light">Item</div> */}
@@ -46,8 +46,7 @@ export function InvoiceInfo(props) {
                     <div className="col-12 col-md-3 border bg-light text-center" id="cost">${props.amount_total}</div>
                     <div className="col-12 col-md-3 border bg-light text-right" id="cost">${props.amount_total}</div>
                 </div>
-            </div>
-        </div>
+          
 
 
     )
