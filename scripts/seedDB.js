@@ -3,7 +3,7 @@ const { Note, Inspection, Permit, User, Invoice } = require('../models');
 
 const noteData = require('./notes.json');
 const inspectionData = require("./inspections.json");
-const invoiceData = require("./invoice_items.json");
+const invoiceData = require("./invoices.json");
 const permitData = require("./permits.json");
 const userData = require("./users.json");
 
@@ -23,7 +23,7 @@ const seedDatabase = async () => {
     individualHooks: true,
     returning: true,  
   });
-  const invoice_item = await Invoice.bulkCreate(invoiceData, {
+  const invoices = await Invoice.bulkCreate(invoiceData, {
     individualHooks: true,
     returning: true,
   }); 

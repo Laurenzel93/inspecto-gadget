@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useHistory } from 'react-router';
 import { getUser } from '../utils/Session';
 import { Helmet } from "react-helmet";
-import { PastComponent, InspectionsTable } from "../components/PastComponent";
+import { PastComponent, Results } from "../components/PastComponent";
 import Nav from "../components/Nav";
 import { Upcoming, DateCard, Heading } from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
@@ -91,24 +91,40 @@ function PastInspections() {
                         <div className="col-lg-12 col-sm-12">
                             <h2 className="text-center mt-4">Past Inspections</h2>
                             {yore.map(card => (
-                                <div className="p-3 bg-dark rounded">
-                                    <h4 className="text-white d-flex justify-content-between">
-                                        <span className="mr-4">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</span>
-                                        <span className="ml-5 align-right">Inspections: &nbsp; &nbsp; &nbsp; &nbsp;{card.inspections.length} </span>
-                                    </h4>
-                                    {card.inspections.map(inspection => (
-                                        <div className="card ">
-                                            <div className="bg-light">
-                                                <PastComponent key={inspection.permit_id}
-                                                    id={inspection.id}
-                                                    date={Moment(inspection.date).format("dddd, MMMM Do YYYY")}
-                                                    address={inspection.address}
-                                                    type={inspection.type}
-                                                    permit_id={inspection.permit_id}
-                                                    admin={inspection.admin}
-                                                    date_scheduled={Moment(inspection.date_scheduled).format("MM- D-YY")}
-                                                />
+                                 <div className="mt-2 p-3 bg-dark rounded">
+                                 <h4 className="text-white">
+                                 <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
+                                 <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
+                                </h4>
+                                {card.inspections.map(inspection => (
+                                <div className="card  border-dark ">
+                                    <div className="bg-light ">
+                                        <PastComponent key={inspection.permit_id}
+                                                        id = {inspection.id}
+                                                        date = {Moment(inspection.date).format("ddd, MMMM Do")} 
+                                                        address = {inspection.address}
+                                                        type = {inspection.type}
+                                                        permit_id = {inspection.permit_id}
+                                                        admin = {(inspection.admin).toLowerCase()}
+                                                        date_scheduled = {Moment(inspection.date_scheduled).format("l")}
+                                            />
+                                            {inspection.results.length ? (
+                                                <div>
+                                                    {inspection.results.map(result => (
+                                                        <Results 
+                                                            result = {result.result}
+                                                            time = {Moment(result.createdAt).format("MMM D, YYYY ha")}
+                                                            notes = {result.notes}/>
+                                                    ))}
+                                                </div>
+                                            ) : (
+                                                <div className= "card-body mb-3 pt-0 container col-12 ">
+                                                    <div className="row">
+                                                        <div className="col- col-md-10  border border-top-0 ">No Results to Display</div>
+                                                    </div>    
                                             </div>
+                                                )}
+                                            </div>    
                                         </div>
                                     ))}
                                 </div>
