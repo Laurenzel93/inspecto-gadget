@@ -34,9 +34,9 @@ function InspectionResults() {
                 <h2>Inspection Results</h2>
 
                 {/* <!-- Drop Down Button--> */}
-                <div className="container-fluid input-group form-check">
+                <div className="container-fluid form-group input-group form-check">
                     <select value={mainResult} onChange={(e) => setMainResult(e.target.value)}
-                        className="custom-select col-4" required>
+                        className="custom-select  col-7" required>
                         <option selected>No result</option>
                         <option value="Approved">Approved</option>
                         <option value="Disapproved">Disapproved</option>
@@ -58,8 +58,7 @@ function InspectionResults() {
                 {/* <!-- Save Icon Button --> */}
                 <div className="ml-auto align-self-end">
                     <button className="btn btn-outline-success"
-                        style={{ fontSize: "25px" }}>Save
-                     <i style={{ fontSize: "50px" }}
+                        style={{ fontSize: "25px" }}> Save <i style={{ fontSize: "25px" }}
                             className="fa fa-save"></i>
                     </button>
                 </div>

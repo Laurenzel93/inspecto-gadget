@@ -1,3 +1,4 @@
+
 import React from "react";
 import { useHistory } from "react-router-dom";
 import "./style.css";
@@ -7,25 +8,26 @@ export function PastComponent(props) {
     const history = useHistory();
 
     return (
-        <div className="card future-results late-result m-1">
-            <table className="card-body table table-borderless">
-                <tbody>
-                    <tr>
-                        <th scope="row"></th>
-                        <td>{props.date} &nbsp; &nbsp; {props.address} &nbsp; &nbsp; {props.type}  &nbsp; &nbsp;   &nbsp; &nbsp; 
-                        Date Created: {props.date_scheduled} &nbsp; {props.admin}&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</td>
-                        
-                        <td className="text-right align-middle float-right"><button className="btn btn-secondary border border-dark mb-2" onClick={() => history.push('inspections/' + props.id)}>Details</button></td>
-                    </tr>
-                    <tr>
-                    <th scope="row"></th>
-                    <td>Results and Notes</td>
-                    <td className="float-right">{props.permit_id}</td>
-
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+        
+        <div className="row mb-2" style={{ fontSize: "18px" }} >
+                    <div className="col-6">{props.date}</div>
+                    <div className="col-6 float-right"><button className="btn btn-secondary border border-dark float-right" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
+                    <div className="col-12 col-md-auto">{props.address}</div>
+                    <div className="col-12 col-md-auto">{props.type}</div>
+                    <div className="col-12 col-md-auto">{props.permit_id}</div>
+                    <div className="col-12 col-md-auto"> Created: {props.date_scheduled} &nbsp; by: {props.admin.toLowerCase()}</div>
+            </div>
+        
     );
 }
 
+export function Results(props) {
+   
+
+    return (
+       
+                <div className="col- col-md-auto">{props.result} on {props.time} notes: {props.notes} </div>
+          
+)
+   
+}
