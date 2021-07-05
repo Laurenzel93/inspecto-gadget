@@ -11,11 +11,11 @@ export function PermitInfo(props) {
                     <div style={{ fontWeight: "bold" }} className="col-12 col-md-3  border border-botom-0 m-0 bg-light">Property Information</div>
                     <div className="col-12 col-md-4 border bg-light m-0" id="address"> {props.address}</div>
                     <div className="col-12 col-md-3 border bg-light" id="parcelID">parcel: {props.parcel}</div>
-                    <div style={{ fontWeight: "bold" }} className="align-middle col-12 col-md-3 border m-0">Owner Information</div>
+                    <div style={{ fontWeight: "bold" }} className="col-12 col-md-3 border m-0">Owner Information</div>
                     <div className="col-12 col-md-2 border" id="ownerName">{props.owner}</div>
                     <div className="col-12 col-md-2 border" id="homePhone">ph: {props.owner_phone}</div>
                     <div className="col-12 col-md-3 border" id="cellPhone">cell: {props.owner_mobile}</div>
-                    <div style={{ fontWeight: "bold" }} className="col-12 col-md-3 border  m-0 bg-light">Contractor Information</div>
+                    <div style={{ fontWeight: "bold" }} className="col-12 col-md-3 border m-0 bg-light">Contractor Information</div>
                     <div className="col-12 col-md-2 border bg-light" id="contractorName">{props.contractor}</div>
                     <div className="col-12 col-md-2 border bg-light" id="contractorPhone">ph: {props.contractor_phone}</div>
                     <div className="col-12 col-md-3 border bg-light" id="contractorEmail">email: {props.contractor_email}</div>

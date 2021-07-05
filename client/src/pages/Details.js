@@ -47,16 +47,17 @@ function Details() {
                     .then(res => {
                         console.log(res.data)
                         setInvoices(res.data.invoices)
+                        setTotal(res.data.invoices.reduce((a, b) => +a + +b.total, 0))
                     }).catch(err => console.log(err));
 
         //    console.log(inspection)
         //    console.log(permit)
-        // inspection.invoices.reduce((a, b) => +a + +b.price, 0);       
-            console.log(invoices)
+           
+           
      })
     }
-      let grandTotal = (invoices.reduce((a, b) => +a + +b.total, 0))
-
+     
+      console.log(inspection)
     return (
         <div>
             <Helmet>
@@ -70,7 +71,7 @@ function Details() {
                     address={inspection.address}
                     type={inspection.type}
                     permit_id={inspection.permit_id}
-                    admin={inspection.admin.toLowerCase()}
+                    admin = {inspection.admin}
                     date_scheduled={Moment(inspection.date_scheduled).format("MM- D-YY")}
                 />
                 {notes.length ? (
@@ -114,7 +115,7 @@ function Details() {
 
             </div>
             <InspectionResults />
-            <div className="container-fluid col-12 border rounded border-primary p-4" id="permitInfoContainer">
+            <div className="container-fluid col-12 border  rounded border-primary p-4" id="permitInfoContainer">
             <PermitInfo
                 address={permit.address}
                 parcel={permit.parcel_number}
@@ -146,11 +147,11 @@ function Details() {
                          <div className="row bg-light" style={{ fontWeight: "bold" }}>
                             <div className="col-8 border text-center"></div>
                             <div className="col-1 border bg-ligth text-right"style={{ fontWeight: "bold" }} >Total</div>
-                            <div className="col-3 border bg-light text-center  border-dark-top">${grandTotal}</div>
+                            <div className="col-3 border bg-light text-center  border-dark-top">${total}</div>
                         </div>
                     </div>    
             ) : (
-                <h6>There are no Invoiced Items for this Inspection</h6>
+                <h6 className="text-center">There are no Invoiced Items for this Inspection</h6>
             )}
             </div>
         </div>  
