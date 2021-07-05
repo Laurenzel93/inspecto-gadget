@@ -8,17 +8,17 @@ export function Upcoming(props) {
     
        
 return (
-    <div className= "pb-0 card-body mb-0 container col-12 ">
-        <div className="row">
-            <div className="col-12 col-md-12 "><button className="btn btn-secondary border border-dark float-right mr-3" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
-            <div className="col-12 col-md-auto ">{props.date}</div>
+   
+        <div className="row mb-2"  style={{ fontSize: "18px" }}>
+            <div className="col-6 ">{props.date}</div>
+            <div className="col-6 float-right "><button className="btn btn-secondary border border-dark float-right " onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
             <div className="col-12 col-md-auto">{props.address}</div>
             <div className="col-12 col-md-auto">{props.type}</div>
             <div className="col-12 col-md-auto">{props.permit_id}</div>
             <div className="col-12 col-md-auto"> Created: {props.date_scheduled} &nbsp; by: {props.admin.toLowerCase()}</div>
-            <div className="col- col-md-10  border border-bottom-0 ">Notes:</div>
+           
         </div>
-    </div>
+    
   
 )
    
@@ -28,11 +28,9 @@ export function Notes(props) {
    
 
     return (
-        <div className= "card-body mb-3 pt-0 container col-12 ">
-            <div className="row">
-                <div className="col- col-md-10  border border-top-0 ">{props.note}</div>
-            </div>    
-        </div>
+       
+        <div className="col-auto ">{props.note}</div>
+          
                
 )
    

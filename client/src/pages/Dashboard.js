@@ -33,19 +33,16 @@ function Dashboard() {
         await API.getInspections()
             .then(res => {
                 setInspections(res.data)
-                console.log(res.data)
             }).catch(err => console.log(err));
         await API.getCalender()
             .then(res => {
-              console.log(res.data)
+             // console.log(res.data)
               setCalendar(res.data)
             })
             .catch(err => {
               console.log(err)
             })
     }
-
-
     let present = [];
     let future = [];
     let past = [];
@@ -59,6 +56,27 @@ function Dashboard() {
         }
 
     })
+    present.forEach(inspection => {
+        console.log(present)
+        inspection.classname ="card p-2 "
+       
+        if (inspection.results.length == 0) {
+            inspection.classname += "no-result-yet"
+        } else {
+            inspection.classname += "resultConfirm"
+        }
+    })
+    future.forEach(inspection => {
+        console.log(present)
+        inspection.classname ="card p-2 "
+       
+        if (inspection.results.length == 0) {
+            inspection.classname += "no-result-yet"
+        } else {
+            inspection.classname += "resultConfirm"
+        }
+    })
+
     const grouped = future.reduce((grouped, inspection) => {
         const date = inspection.date;
         if (!grouped[date]) {
@@ -81,7 +99,6 @@ function Dashboard() {
     const unfulfilled = () => {
         let isUnfulfilled = true
         past.forEach(inspection => {
-            console.log(inspection.results[0])
             if (inspection.results.length == 0) {
         
              isUnfulfilled = true   
@@ -97,7 +114,7 @@ function Dashboard() {
 
 
     return (
-        <div style={{ fontSize: "20px" }}>
+        <div>
             <Helmet>
                 <title>Dashboard</title>
             </Helmet>
@@ -119,10 +136,11 @@ function Dashboard() {
                                     {present.length ? (
                                         <div>
                                         {present.map(inspection => (
-                                            <div className="card">
+                                            <div className={inspection.classname}>
                                                 <div className="bg-light">
                                                 <Today key={inspection.id}
                                                     id = {inspection.id}
+                                                    class = {inspection.classname}
                                                     date = {Moment(inspection.date).format("ddd, MMMM Do")} 
                                                     address = {inspection.address}
                                                     type = {inspection.type}
@@ -131,12 +149,15 @@ function Dashboard() {
                                                     date_scheduled = {Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
-                                                    <div>
-                                                        {inspection.notes.map(note => (
-                                                            <Notes 
-                                                                note = {note.note}/>
-                                                        ))}
-                                                    </div>
+                                                    <div className={inspection.classname}>
+                                                      <div className="row mb-4 ">
+                                                        <div className="col-auto ">Notes: </div> 
+                                                            {inspection.notes.map(note => (
+                                                                 <Notes 
+                                                                    note = {note.note}/>
+                                                            ))}
+                                                        </div>
+                                                    </div> 
                                                 ) : (
                                                     <div className= "card-body mb-3 pt-0 container col-12 ">
                                                         <div className="row">
@@ -181,10 +202,11 @@ function Dashboard() {
                                             <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
                                         </h4>
                                     {card.inspections.map(inspection => (
-                                        <div className="card">
-                                            <div className="bg-light">
+                                           <div className={inspection.classname}>
+                                            <div className= "pb-0 card-body mb-0 container col-12 ">
                                                 <Upcoming key={inspection.permit_id}
                                                     id={inspection.id}
+                                                    class = {inspection.classname}
                                                     date={Moment(inspection.date).format("ddd, MMMM Do")}
                                                     address={inspection.address}
                                                     type={inspection.type}
@@ -193,19 +215,20 @@ function Dashboard() {
                                                     date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
-                                                    <div>
-                                                        
-                                                        {inspection.notes.map(note => (
-                                                            <Notes 
-                                                                note = {note.note}/>
-                                                        ))}
+                                                     <div className={inspection.classname}>
+                                                        <div className="row mb-4 ">
+                                                            <div className="col-12 col-md-auto ">Notes: </div> 
+                                                                {inspection.notes.map(note => (
+                                                                    <Notes 
+                                                                         note = {note.note}/>
+                                                                ))}
+                                                        </div>
                                                     </div>
+
                                                 ) : (
-                                            <div className= "card-body mb-3 pt-0 container col-12 ">
                                                 <div className="row">
-                                                    <div className="col- col-md-10  border border-top-0 "></div>
+                                                    <div className="col- col-md-10"></div>
                                                 </div>    
-                                            </div>
                                             )}
                                         </div>
                                     </div>  

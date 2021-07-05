@@ -11,7 +11,7 @@ export function PermitInfo(props) {
                     <div style={{ fontWeight: "bold" }} className="col-12 col-md-3  border border-botom-0 m-0 bg-light">Property Information</div>
                     <div className="col-12 col-md-4 border bg-light m-0" id="address"> {props.address}</div>
                     <div className="col-12 col-md-3 border bg-light" id="parcelID">parcel: {props.parcel}</div>
-                    <div style={{ fontWeight: "bold" }} className="col-12 col-md-3 border m-0">Owner Information</div>
+                    <div style={{ fontWeight: "bold" }} className="align-middle col-12 col-md-3 border m-0">Owner Information</div>
                     <div className="col-12 col-md-2 border" id="ownerName">{props.owner}</div>
                     <div className="col-12 col-md-2 border" id="homePhone">ph: {props.owner_phone}</div>
                     <div className="col-12 col-md-3 border" id="cellPhone">cell: {props.owner_mobile}</div>
@@ -38,14 +38,13 @@ export function InvoiceInfo(props) {
 
         
             
-                <div className="row justify-content-center">
-                    <h3 className="col-12 col-md-10  text-center" >Fee Information</h3>
-                    {/* <div style={{ fontWeight: "bold" }} className="col-12 col-md-3  border border-botom-0 m-0 bg-light">Item</div> */}
-                    <div style={{ fontWeight: "bold" }} className="col-12 col-md-3 border bg-light m-0 text-center" id="item"> {props.item}</div>
-                    <div className="col-12 col-md-2 border bg-light text-center" id="quantity">Quantity: {props.quantity}</div>
-                    <div className="col-12 col-md-3 border bg-light text-center" id="cost">${props.amount_total}</div>
-                    <div className="col-12 col-md-3 border bg-light text-right" id="cost">${props.amount_total}</div>
-                </div>
+                
+        <div className="row">
+                   
+                    <div className="col-6 border m-0 text-center" id="item"> {props.item}</div>
+                    <div className="col-3 border text-center" id="quantity">{props.quantity}</div>
+                    <div className="col-3 border text-center" id="cost">${props.amount}</div>
+        </div>
           
 
 
