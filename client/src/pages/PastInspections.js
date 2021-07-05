@@ -55,7 +55,7 @@ function PastInspections() {
             inspection.classname += "resulted"
         }
     })
-        console.log(past)
+        // console.log(past)
 
 
     const grouped = past.reduce((grouped, inspection) => {
@@ -75,7 +75,7 @@ function PastInspections() {
             };
         });
     
-        console.log(past);
+        // console.log(past);
           
     
     // const handleInputChange = event => {
@@ -91,7 +91,7 @@ function PastInspections() {
     //       .catch(err => console.log(err));
     //   };
 
-    console.log(inspections)
+    // console.log(inspections)
     return (
         <div  >
             <Helmet>

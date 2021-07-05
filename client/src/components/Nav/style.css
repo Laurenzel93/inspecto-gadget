@@ -34,6 +34,10 @@
     background-color: #9ca9b6;
 }
 
+.modalText {
+    color: white !important;
+}
+
 span {
     color: white;
 }

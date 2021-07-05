@@ -4,6 +4,7 @@ import { useHistory, useLocation } from "react-router-dom";
 import { getUser, removeUserSession } from "../../utils/Session";
 import Swal from 'sweetalert2';
 import './style.css';
+import { whenTransitionDone } from "@fullcalendar/core";
 
 function Nav() {
 
@@ -95,7 +96,7 @@ function Nav() {
     const [genUserStyle, setGenUserStyle] = useState('');
     const checkRole = () => {
         if (getUser()) {
-            console.log('this is the result of getUser(): ' + getUser().role);
+            // console.log('this is the result of getUser(): ' + getUser().role);
             if (getUser().role === 'admin' || getUser().role === 'Admin') {
                 setIsAdmin(true);
             } else {
@@ -109,28 +110,40 @@ function Nav() {
         Logout button 
     */
     const logout = () => {
-        axios.post('/api/users/logout')
-            .then((res) => {
-                console.log(res);
-                if (res.status === 204) {
-                    Swal.fire({
-                        icon: 'success',
-                        iconColor: '#b8daff',
-                        title: '<span>Logged out successfully</span>',
-                        showConfirmButton: false,
-                        background: '#343a40',
-                        timer: 1500
+        Swal.fire({
+            title: '<span>Are you sure you want to logout?</span>',
+            confirmButtonText: 'Yes',
+            showCancelButton: true,
+            cancelButtonColor: '#f00022',
+            background: '#343a40'
+        }).then(res => {
+            if (res.isConfirmed) {
+                axios.post('/api/users/logout')
+                    .then((res) => {
+                        console.log(res);
+                        if (res.status === 204) {
+                            Swal.fire({
+                                icon: 'success',
+                                iconColor: '#b8daff',
+                                title: '<span>Logged out successfully</span>',
+                                showConfirmButton: false,
+                                background: '#343a40',
+                                timer: 1500
 
-                      })
-                }
-            })
-            .then(() => {
-                removeUserSession();
-                history.push('/login');
-            })
-            .catch(err => {
-                console.log(err);
-            });
+                            })
+                        }
+                    })
+                    .then(() => {
+                        removeUserSession();
+                        history.push('/login');
+                    })
+                    .catch(err => {
+                        console.log(err);
+                    });
+            } else if (res.isDenied) {
+                return
+            }
+        })
     }
 
     return (
