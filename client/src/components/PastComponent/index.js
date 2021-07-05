@@ -9,9 +9,9 @@ export function PastComponent(props) {
 
     return (
         
-        <div className="row mb-2" >
-                    <div className="col-12 col-md-12 p-0"><button className="btn btn-secondary border border-dark float-right mr-3" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
-                    <div className="col-12 col-md-auto ">{props.date}</div>
+        <div className="row mb-2" style={{ fontSize: "18px" }} >
+                    <div className="col-6">{props.date}</div>
+                    <div className="col-6 float-right"><button className="btn btn-secondary border border-dark float-right" onClick={() => history.push('inspections/' + props.id)}>Details</button></div>
                     <div className="col-12 col-md-auto">{props.address}</div>
                     <div className="col-12 col-md-auto">{props.type}</div>
                     <div className="col-12 col-md-auto">{props.permit_id}</div>

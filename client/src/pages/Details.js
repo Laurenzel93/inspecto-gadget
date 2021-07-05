@@ -23,7 +23,7 @@ function Details() {
     const [notes, setNotes] = useState([]);
     const [results, setResults] = useState([]);
     const [invoices, setInvoices] = useState([]);
-
+    const [total, setTotal] = useState([]);
 
     const history = useHistory();
     useEffect(() => {
@@ -47,14 +47,16 @@ function Details() {
                     .then(res => {
                         console.log(res.data)
                         setInvoices(res.data.invoices)
-                    })
-            }).catch(err => console.log(err));
+                    }).catch(err => console.log(err));
 
         //    console.log(inspection)
         //    console.log(permit)
-
-
+        // inspection.invoices.reduce((a, b) => +a + +b.price, 0);       
+            console.log(invoices)
+     })
     }
+      let grandTotal = (invoices.reduce((a, b) => +a + +b.total, 0))
+
     return (
         <div>
             <Helmet>
@@ -68,13 +70,13 @@ function Details() {
                     address={inspection.address}
                     type={inspection.type}
                     permit_id={inspection.permit_id}
-                    admin={inspection.admin}
+                    admin={inspection.admin.toLowerCase()}
                     date_scheduled={Moment(inspection.date_scheduled).format("MM- D-YY")}
                 />
                 {notes.length ? (
                  
-                <div className="row" style={{ fontSize: "20px" }}>
-                    <div className="col-12 col-md-auto bg-light ">Notes: </div> 
+                <div className="row">
+                    <div className="col-auto bg-light ">Notes: </div> 
                         {notes.map(note => (
                             <NoteDetails
                                 note={note.note}
@@ -85,7 +87,7 @@ function Details() {
                 ) : (
                     
                 <div className="row">
-                    <div className="col- col-md-9"></div>
+                    <div></div>
                 </div>
                    
                 )}
@@ -112,7 +114,7 @@ function Details() {
 
             </div>
             <InspectionResults />
-            <div className="container-fluid col-10 border rounded border-primary p-4" id="permitInfoContainer">
+            <div className="container-fluid col-12 border rounded border-primary p-4" id="permitInfoContainer">
             <PermitInfo
                 address={permit.address}
                 parcel={permit.parcel_number}
@@ -127,18 +129,26 @@ function Details() {
                 expired={Moment(permit.expired).format("l")}
                 work_description={permit.description} />
             {invoices.length ? (
-                <div>
-                    <div>
+                    <div className="container col-10">
+                        <h3 className="col-12 text-center" >Fee Information</h3>
+                        <div className="row" style={{ fontWeight: "bold" }}>
+                        <div className="text-center col-6 border bg-light m-0">Item</div>
+                        <div className="text-center col-3 border bg-light m-0">Quant.</div>
+                        <div className="text-center col-3 border bg-light m-0">Cost</div>   
+                        </div>
                         {invoices.map(invoice => (
                             <InvoiceInfo
                                 item={invoice.item}
                                 quantity={invoice.quantity}
-                                amount_total={invoice.total}
+                                amount={invoice.total}
                             />
                         ))}
-                    </div>
-
-                </div>
+                         <div className="row bg-light" style={{ fontWeight: "bold" }}>
+                            <div className="col-8 border text-center"></div>
+                            <div className="col-1 border bg-ligth text-right"style={{ fontWeight: "bold" }} >Total</div>
+                            <div className="col-3 border bg-light text-center  border-dark-top">${grandTotal}</div>
+                        </div>
+                    </div>    
             ) : (
                 <h6>There are no Invoiced Items for this Inspection</h6>
             )}

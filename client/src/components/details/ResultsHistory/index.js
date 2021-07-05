@@ -5,11 +5,11 @@ function ResultsHistory(props) {
     return (
 
        
-                        <tr>
-                            <td className="col-2" id="timestamp">{props.time}</td>
-                            <td id="resultsHistory">{props.result}     notes: {props.notes}</td>
-
-                        </tr>
+        <div className="row mb-2" style={{ fontSize: "18px" }} >
+            <div className="col-auto ml-2" id="timestamp">{props.time}</div>
+            <div className="col-auto"id="results">{props.result}</div>
+            <div className="col-auto"id="resultnotes"> notes: {props.notes}</div>
+        </div>                
                        )  
                    }
 

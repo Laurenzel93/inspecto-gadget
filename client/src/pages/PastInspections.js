@@ -47,7 +47,7 @@ function PastInspections() {
     })
 
     past.forEach(inspection => {
-        inspection.classname ="card "
+        inspection.classname ="card p-2 "
         console.log(inspection.results.length)
         if (inspection.results.length == 0) {
             inspection.classname += "late-result"
@@ -93,7 +93,7 @@ function PastInspections() {
 
     console.log(inspections)
     return (
-        <div style={{ fontSize: "20px" }} >
+        <div  >
             <Helmet>
                 <title>Past Inspections</title>
             </Helmet>

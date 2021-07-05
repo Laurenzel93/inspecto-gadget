@@ -1,4 +1,4 @@
-import { PromiseProvider } from "mongoose";
+
 import React from "react";
 import './style.css';
 
@@ -7,7 +7,7 @@ export function InspectionInfo(props) {
   
     return (
 
-            <div className="row" style={{ fontSize: "20px" }}>
+            <div className="row" style={{ fontSize: "18px" }}>
               
                 <div className="col-12 col-md-auto mb-2 ">{props.date}</div>
                 <div className="col-12 col-md-auto mb-2 ">{props.address}</div>
