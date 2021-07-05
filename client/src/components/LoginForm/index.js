@@ -3,6 +3,7 @@ import { setUserSession } from "../../utils/Session";
 import "./style.css";
 import axios from "axios";
 import { useHistory } from "react-router-dom";
+import Swal from 'sweetalert2';
 
 function LoginForm(props) {
   const [loading, setLoading] = useState(false);
@@ -34,7 +35,14 @@ function LoginForm(props) {
       })
       .catch((error) => {
         setLoading(false);
-        console.log(error);
+        // console.log(error);
+          Swal.fire({
+              icon: 'error',
+              title: '<span>Incorrect username or password.</span>',
+              showConfirmButton: false,
+              background: '#343a40',
+              timer: 1500
+            })
       });
       axios.post("/api/users/sessions")
         .then((res) => {

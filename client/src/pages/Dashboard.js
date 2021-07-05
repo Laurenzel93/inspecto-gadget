@@ -70,10 +70,11 @@ function Dashboard() {
     // console.log(upcoming);
 
     const unfulfilled = () => {
-        let isUnfulfilled = true
+        let isUnfulfilled;
         past.forEach(inspection => {
-            if (!inspection.results) {
-                return
+            // console.log(inspection.results)
+            if (inspection.results.length === 0) {
+                isUnfulfilled = true
             } else {
                 isUnfulfilled = false
             }
@@ -81,7 +82,7 @@ function Dashboard() {
         return isUnfulfilled
     }
 
-    console.log(unfulfilled());
+    // console.log(unfulfilled());
 
 
     return (
