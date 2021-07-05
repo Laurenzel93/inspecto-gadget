@@ -127,7 +127,7 @@ function Dashboard() {
             <div className="container-fluid">
                 <div className="row mt-4">
                         <div className="col-lg-6 col-sm-12">
-                            <h2 className="text-center mt-4">Today's Inspections</h2>
+                            <h3 className="text-center mt-4">Today's Inspections</h3>
                                 <div className="p-3 bg-dark rounded">
                                     <h4 className="text-white">
                                         <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
@@ -181,7 +181,7 @@ function Dashboard() {
                    
                
                     <div className="col-lg-6 col-sm-12">
-                        <h2 className="text-center mt-4">Calendar</h2>
+                        <h3 className="text-center mt-4">Calendar</h3>
                         <div className="p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
@@ -194,7 +194,7 @@ function Dashboard() {
                     </div>
                     {upcoming.length ? (
                     <div className="col-lg-12 col-sm-12">
-                        <h2 className="text-center mt-4">Upcoming Inspections</h2>
+                        <h3 className="text-center mt-4">Upcoming Inspections</h3>
                                 {upcoming.map(card => (  
                                     <div className="mt-2 p-3 bg-dark rounded">
                                         <h4 className="text-white">

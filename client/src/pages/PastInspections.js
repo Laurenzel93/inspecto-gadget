@@ -102,7 +102,7 @@ function PastInspections() {
                 <div className="row mt-4">
                     {yore.length ? (
                         <div className="col-lg-12 col-sm-12">
-                            <h2 className="text-center mt-4">Past Inspections</h2>
+                            <h3 className="text-center mt-4">Past Inspections</h3>
                             {yore.map(card => (
                                 <div className="mt-2 p-3 bg-dark rounded">
                                  <h4 className="text-white">
