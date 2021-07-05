@@ -1,6 +1,8 @@
 import { useState } from "react";
 import axios from 'axios';
 import './style.css';
+import { useHistory, useLocation } from "react-router-dom";
+import Swal from 'sweetalert2';
 
 function InspectionResults() {
     const [inputNotes, setInputNotes] = useState('')
@@ -23,6 +25,22 @@ function InspectionResults() {
         }).then(() => {
             console.log('results saved!')
             console.log(allResults)
+        })
+    }
+
+    const history = useHistory();
+
+    const dashboardRoute = () => {
+        let dashboardPath = '/dashboard';
+        history.push(dashboardPath);
+        Swal.fire({
+            icon: 'success',
+            iconColor: '#b8daff',
+            title: '<span>Results Saved</span>',
+            showConfirmButton: false,
+            background: '#343a40',
+            timer: 1500
+
         })
     }
 
@@ -57,7 +75,7 @@ function InspectionResults() {
 
                 {/* <!-- Save Icon Button --> */}
                 <div className="ml-auto align-self-end">
-                    <button className="btn btn-outline-success"
+                    <button onClick={dashboardRoute} className="btn btn-outline-success"
                         style={{ fontSize: "25px" }}> Save <i style={{ fontSize: "25px" }}
                             className="fa fa-save"></i>
                     </button>
