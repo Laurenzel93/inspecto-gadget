@@ -7,6 +7,7 @@ import Swal from 'sweetalert2';
 function InspectionResults() {
     const [inputNotes, setInputNotes] = useState('')
     const [mainResult, setMainResult] = useState('')
+    const history = useHistory();
     const handleSubmit = (e) => {
         e.preventDefault()
 
@@ -26,11 +27,7 @@ function InspectionResults() {
             console.log('results saved!')
             console.log(allResults)
         })
-    }
 
-    const history = useHistory();
-
-    const dashboardRoute = () => {
         let dashboardPath = '/dashboard';
         history.push(dashboardPath);
         Swal.fire({
@@ -39,10 +36,12 @@ function InspectionResults() {
             title: '<span>Results Saved</span>',
             showConfirmButton: false,
             background: '#343a40',
-            timer: 1500
+            timer: 2000
 
         })
+
     }
+
 
     return (
 
@@ -75,7 +74,7 @@ function InspectionResults() {
 
                 {/* <!-- Save Icon Button --> */}
                 <div className="ml-auto align-self-end">
-                    <button onClick={dashboardRoute} className="btn btn-outline-success"
+                    <button className="btn btn-outline-success"
                         style={{ fontSize: "25px" }}> Save <i style={{ fontSize: "25px" }}
                             className="fa fa-save"></i>
                     </button>
