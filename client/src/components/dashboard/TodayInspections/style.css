@@ -1,14 +1,9 @@
 .resultConfirm {
-  background-color: rgba(83, 216, 83, 0.603) !important;
-  border: solid 2px rgba(36, 92, 36, 0.486) !important;
+  background-color: rgb(141, 241, 141) !important;
+  border: solid 5px rgb(36, 92, 36) !important;
 }
 
- .no-result-yet {
- background-color: rgba(243, 221, 23, 0.726);
- border: solid 2px rgb(180, 155, 12);
-} 
-
- .future-results {
-background-color: rgb(230, 231, 231);
-border: solid 2px rgb(163, 161, 161);
-} 
+.no-result-yet {
+ background-color: rgb(250, 241, 162) !important;
+ border: solid 5px rgb(214, 193, 72) !important;
+}
