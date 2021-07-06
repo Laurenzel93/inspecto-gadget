@@ -1,10 +1,13 @@
 import { useState } from "react";
 import axios from 'axios';
 import './style.css';
+import { useHistory, useLocation } from "react-router-dom";
+import Swal from 'sweetalert2';
 
 function InspectionResults() {
     const [inputNotes, setInputNotes] = useState('')
     const [mainResult, setMainResult] = useState('')
+    const history = useHistory();
     const handleSubmit = (e) => {
         e.preventDefault()
 
@@ -24,7 +27,21 @@ function InspectionResults() {
             console.log('results saved!')
             console.log(allResults)
         })
+
+        let dashboardPath = '/dashboard';
+        history.push(dashboardPath);
+        Swal.fire({
+            icon: 'success',
+            iconColor: '#b8daff',
+            title: '<span>Results Saved</span>',
+            showConfirmButton: false,
+            background: '#343a40',
+            timer: 2000
+
+        })
+
     }
+
 
     return (
 
