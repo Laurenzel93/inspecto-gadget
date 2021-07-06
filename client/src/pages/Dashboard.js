@@ -9,6 +9,7 @@ import { Upcoming, Notes } from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
 import API from '../utils/API';
 import { getUser } from '../utils/Session';
+
 import { DayCellContent } from '@fullcalendar/react';
 
 
@@ -126,18 +127,18 @@ function Dashboard() {
             )}
             <div className="container-fluid">
                 <div className="row mt-4">
-                    <div className="col-lg-6 col-sm-12">
-                        <h2 className="text-center mt-4">Today's Inspections</h2>
-                        <div className="p-3 bg-dark rounded">
-                            <h4 className="text-white">
-                                <p className="">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
-                                <p className="">Inspections Today:{" "}{present.length} </p>
-                            </h4>
-                            {present.length ? (
-                                <div>
-                                    {present.map(inspection => (
-                                        <div className={inspection.classname}>
-                                            <div className="bg-light">
+                        <div className="col-lg-6 col-sm-12">
+                            <h3 className="text-center mt-4">Today's Inspections</h3>
+                                <div className="p-3 bg-dark rounded">
+                                    <h4 className="text-white">
+                                        <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
+                                        <p className= "">Inspections Today:{" "}{present.length} </p>
+                                    </h4>
+                                    {present.length ? (
+                                        <div>
+                                        {present.map(inspection => (
+                                            <div className={inspection.classname}>
+                                                <div className="">
                                                 <Today key={inspection.id}
                                                     id={inspection.id}
                                                     class={inspection.classname}
@@ -181,7 +182,7 @@ function Dashboard() {
 
 
                     <div className="col-lg-6 col-sm-12">
-                        <h2 className="text-center mt-4">Calendar</h2>
+                        <h3 className="text-center mt-4">Calendar</h3>
                         <div className="p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
@@ -193,17 +194,17 @@ function Dashboard() {
                         </div>
                     </div>
                     {upcoming.length ? (
-                        <div className="col-lg-12 col-sm-12">
-                            <h2 className="text-center mt-4">Upcoming Inspections</h2>
-                            {upcoming.map(card => (
-                                <div className="mt-2 p-3 bg-dark rounded">
-                                    <h4 className="text-white">
-                                        <p className="">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
-                                        <p className="">Inspections: &nbsp;{card.inspections.length} </p>
-                                    </h4>
+                    <div className="col-lg-12 col-sm-12">
+                        <h3 className="text-center mt-4">Upcoming Inspections</h3>
+                                {upcoming.map(card => (  
+                                    <div className="mt-2 p-3 bg-dark rounded">
+                                        <h4 className="text-white">
+                                            <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
+                                            <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
+                                        </h4>
                                     {card.inspections.map(inspection => (
-                                        <div className={inspection.classname}>
-                                            <div className="pb-0 card-body mb-0 container col-12 ">
+                                           <div className="card p-2">
+                                            <div className= "pb-0 card-body mb-0 container col-12 ">
                                                 <Upcoming key={inspection.permit_id}
                                                     id={inspection.id}
                                                     class={inspection.classname}
@@ -215,7 +216,7 @@ function Dashboard() {
                                                     date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
-                                                    <div className={inspection.classname}>
+                                                     <div className="p-2 class">
                                                         <div className="row mb-4 ">
                                                             <div className="col-12 col-md-auto ">Notes: </div>
                                                             {inspection.notes.map(note => (
