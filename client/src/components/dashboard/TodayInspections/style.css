@@ -1,14 +1,14 @@
 .resultConfirm {
-  background-color: rgba(83, 216, 83, 0.603);
-  border: solid 2px rgba(36, 92, 36, 0.486);
+  background-color: rgba(83, 216, 83, 0.603) !important;
+  border: solid 2px rgba(36, 92, 36, 0.486) !important;
 }
 
-/* .no-result-yet {
+ .no-result-yet {
  background-color: rgba(243, 221, 23, 0.726);
  border: solid 2px rgb(180, 155, 12);
-} */
+} 
 
-/* .future-results {
+ .future-results {
 background-color: rgb(230, 231, 231);
 border: solid 2px rgb(163, 161, 161);
-} */
+} 
