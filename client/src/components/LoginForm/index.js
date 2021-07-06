@@ -3,6 +3,7 @@ import { setUserSession } from "../../utils/Session";
 import "./style.css";
 import axios from "axios";
 import { useHistory } from "react-router-dom";
+import Swal from 'sweetalert2';
 
 function LoginForm(props) {
   const [loading, setLoading] = useState(false);
@@ -10,7 +11,7 @@ function LoginForm(props) {
   const password = useFormInput("");
   const [error, setError] = useState(null);
 
-  const hist = useHistory();
+  const history = useHistory();
 
   const loginHandler = (e) => {
     e.preventDefault();
@@ -26,24 +27,26 @@ function LoginForm(props) {
       .then((res) => {
         setLoading(false);
         setUserSession(res.data.token, res.data.user);
-        // console.log('==========');
-        // console.log('hit login router!');
-        // console.log('==========');
         console.log(res)
-        hist.push('/dashboard');
+        // console.log('logged in successfully');
+        history.push('/dashboard');
       })
       .catch((error) => {
-        setLoading(false);
         console.log(error);
+        setLoading(false);
+        console.log('login error: ', error);
+          Swal.fire({
+              icon: 'error',
+              title: '<span>Incorrect username or password.</span>',
+              showConfirmButton: false,
+              background: '#343a40',
+              timer: 1500
+            })
       });
       axios.post("/api/users/sessions")
         .then((res) => {
             console.log(res);
-            // console.log('==========')
-            // console.log('hit sessions router!')
-            // console.log('==========')
-
-
+            // console.log('session stored successfully');
         })
         .catch((err) => {
             console.log(err)
