@@ -126,7 +126,7 @@ function AccountCreationForm() {
                     </div>
                     <div className="mb-3">
                         <label htmlFor="password" className="form-label">Password</label>
-                        <input type="password" {...password} className="form-control" id="password" />
+                        <input type="text" {...password} className="form-control" id="password" />
                     </div>
                     <div className="checkboxContainer">
                         <div id="accountTypeHeader" className="form-text">

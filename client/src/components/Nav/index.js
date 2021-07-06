@@ -4,7 +4,7 @@ import { useHistory, useLocation } from "react-router-dom";
 import { getUser, removeUserSession } from "../../utils/Session";
 import Swal from 'sweetalert2';
 import './style.css';
-import { whenTransitionDone } from "@fullcalendar/core";
+// import { whenTransitionDone } from "@fullcalendar/core"; 
 
 function Nav() {
 

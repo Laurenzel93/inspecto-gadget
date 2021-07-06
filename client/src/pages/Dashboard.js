@@ -5,7 +5,7 @@ import Nav from "../components/Nav";
 import ActionRequiredBanner from "../components/dashboard/ActionRequiredBanner";
 import Today from "../components/dashboard/TodayInspections";
 import Calendar from "../components/dashboard/Calendar";
-import { Upcoming, Notes }from "../components/dashboard/UpcomingInspections";
+import { Upcoming, Notes } from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
 import API from '../utils/API';
 import { getUser } from '../utils/Session';
@@ -36,11 +36,11 @@ function Dashboard() {
             }).catch(err => console.log(err));
         await API.getCalender()
             .then(res => {
-             // console.log(res.data)
-              setCalendar(res.data)
+                // console.log(res.data)
+                setCalendar(res.data)
             })
             .catch(err => {
-              console.log(err)
+                console.log(err)
             })
     }
     let present = [];
@@ -58,8 +58,8 @@ function Dashboard() {
     })
     present.forEach(inspection => {
         console.log(present)
-        inspection.classname ="card p-2 "
-       
+        inspection.classname = "card p-2 "
+
         if (inspection.results.length == 0) {
             inspection.classname += "no-result-yet"
         } else {
@@ -68,8 +68,8 @@ function Dashboard() {
     })
     future.forEach(inspection => {
         console.log(present)
-        inspection.classname ="card p-2 "
-       
+        inspection.classname = "card p-2 "
+
         if (inspection.results.length == 0) {
             inspection.classname += "no-result-yet"
         } else {
@@ -93,15 +93,15 @@ function Dashboard() {
             inspections: grouped[date]
         };
     });
-  
+
     // console.log(upcoming);
 
     const unfulfilled = () => {
-        let isUnfulfilled;
+        let isUnfulfilled = true
         past.forEach(inspection => {
             if (inspection.results.length == 0) {
-        
-             isUnfulfilled = true   
+
+                isUnfulfilled = true
                 return
             } else {
                 isUnfulfilled = false
@@ -126,87 +126,87 @@ function Dashboard() {
             )}
             <div className="container-fluid">
                 <div className="row mt-4">
-                        <div className="col-lg-6 col-sm-12">
-                            <h2 className="text-center mt-4">Today's Inspections</h2>
-                                <div className="p-3 bg-dark rounded">
-                                    <h4 className="text-white">
-                                        <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
-                                        <p className= "">Inspections Today:{" "}{present.length} </p>
-                                    </h4>
-                                    {present.length ? (
-                                        <div>
-                                        {present.map(inspection => (
-                                            <div className={inspection.classname}>
-                                                <div className="bg-light">
+                    <div className="col-lg-6 col-sm-12">
+                        <h2 className="text-center mt-4">Today's Inspections</h2>
+                        <div className="p-3 bg-dark rounded">
+                            <h4 className="text-white">
+                                <p className="">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
+                                <p className="">Inspections Today:{" "}{present.length} </p>
+                            </h4>
+                            {present.length ? (
+                                <div>
+                                    {present.map(inspection => (
+                                        <div className={inspection.classname}>
+                                            <div className="bg-light">
                                                 <Today key={inspection.id}
-                                                    id = {inspection.id}
-                                                    class = {inspection.classname}
-                                                    date = {Moment(inspection.date).format("ddd, MMMM Do")} 
-                                                    address = {inspection.address}
-                                                    type = {inspection.type}
-                                                    permit_id = {inspection.permit_id}
-                                                    admin = {(inspection.admin).toLowerCase()}
-                                                    date_scheduled = {Moment(inspection.date_scheduled).format("l")}
+                                                    id={inspection.id}
+                                                    class={inspection.classname}
+                                                    date={Moment(inspection.date).format("ddd, MMMM Do")}
+                                                    address={inspection.address}
+                                                    type={inspection.type}
+                                                    permit_id={inspection.permit_id}
+                                                    admin={(inspection.admin).toLowerCase()}
+                                                    date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
                                                     <div className={inspection.classname}>
-                                                      <div className="row mb-4 ">
-                                                        <div className="col-auto ">Notes: </div> 
+                                                        <div className="row mb-4 ">
+                                                            <div className="col-auto ">Notes: </div>
                                                             {inspection.notes.map(note => (
-                                                                 <Notes 
-                                                                    note = {note.note}/>
+                                                                <Notes
+                                                                    note={note.note} />
                                                             ))}
                                                         </div>
-                                                    </div> 
+                                                    </div>
                                                 ) : (
-                                                    <div className= "card-body mb-3 pt-0 container col-12 ">
+                                                    <div className="card-body mb-3 pt-0 container col-12 ">
                                                         <div className="row">
                                                             <div className="col- col-md-10  border border-top-0 ">No Notes to Display</div>
-                                                        </div>    
+                                                        </div>
                                                     </div>
-                                                    )}    
-                                                </div> 
-                                            </div>     
-                                        ))}
+                                                )}
+                                            </div>
                                         </div>
-                                     ) : (
-                                        <div className="card">
-                                        <div className="bg-light p-4 text-center">
+                                    ))}
+                                </div>
+                            ) : (
+                                <div className="card">
+                                    <div className="bg-light p-4 text-center">
                                         <h5> No Inspections Today</h5>
-                                        </div>
-                                        </div>
-                                    )}        
-                            </div> 
-                        </div>                  
-                   
-               
+                                    </div>
+                                </div>
+                            )}
+                        </div>
+                    </div>
+
+
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="text-center mt-4">Calendar</h2>
                         <div className="p-3 bg-dark rounded">
                             <div className="card">
                                 <div className="card-body bg-light">
                                     <Calendar>
-                                      events={calendar}
+                                        events={calendar}
                                     </Calendar>
                                 </div>
                             </div>
                         </div>
                     </div>
                     {upcoming.length ? (
-                    <div className="col-lg-12 col-sm-12">
-                        <h2 className="text-center mt-4">Upcoming Inspections</h2>
-                                {upcoming.map(card => (  
-                                    <div className="mt-2 p-3 bg-dark rounded">
-                                        <h4 className="text-white">
-                                            <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
-                                            <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
-                                        </h4>
+                        <div className="col-lg-12 col-sm-12">
+                            <h2 className="text-center mt-4">Upcoming Inspections</h2>
+                            {upcoming.map(card => (
+                                <div className="mt-2 p-3 bg-dark rounded">
+                                    <h4 className="text-white">
+                                        <p className="">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
+                                        <p className="">Inspections: &nbsp;{card.inspections.length} </p>
+                                    </h4>
                                     {card.inspections.map(inspection => (
-                                           <div className={inspection.classname}>
-                                            <div className= "pb-0 card-body mb-0 container col-12 ">
+                                        <div className={inspection.classname}>
+                                            <div className="pb-0 card-body mb-0 container col-12 ">
                                                 <Upcoming key={inspection.permit_id}
                                                     id={inspection.id}
-                                                    class = {inspection.classname}
+                                                    class={inspection.classname}
                                                     date={Moment(inspection.date).format("ddd, MMMM Do")}
                                                     address={inspection.address}
                                                     type={inspection.type}
@@ -215,34 +215,34 @@ function Dashboard() {
                                                     date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
-                                                     <div className={inspection.classname}>
+                                                    <div className={inspection.classname}>
                                                         <div className="row mb-4 ">
-                                                            <div className="col-12 col-md-auto ">Notes: </div> 
-                                                                {inspection.notes.map(note => (
-                                                                    <Notes 
-                                                                         note = {note.note}/>
-                                                                ))}
+                                                            <div className="col-12 col-md-auto ">Notes: </div>
+                                                            {inspection.notes.map(note => (
+                                                                <Notes
+                                                                    note={note.note} />
+                                                            ))}
                                                         </div>
                                                     </div>
 
                                                 ) : (
-                                                <div className="row">
-                                                    <div className="col- col-md-10"></div>
-                                                </div>    
-                                            )}
+                                                    <div className="row">
+                                                        <div className="col- col-md-10"></div>
+                                                    </div>
+                                                )}
+                                            </div>
                                         </div>
-                                    </div>  
                                     ))}
-                                    </div> 
-                                ))}
-                            </div>                  
+                                </div>
+                            ))}
+                        </div>
                     ) : (
                         <h3> No Notes to Display</h3>
-                        )}
+                    )}
+                </div>
             </div>
         </div>
-     </div>         
-        
+
     )
 
 };

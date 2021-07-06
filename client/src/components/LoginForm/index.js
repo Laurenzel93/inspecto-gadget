@@ -29,9 +29,6 @@ function LoginForm(props) {
         setUserSession(res.data.token, res.data.user);
         console.log(res)
         // console.log('logged in successfully');
-        // history.push('/dashboard');
-      })
-      .then(() => {
         history.push('/dashboard');
       })
       .catch((error) => {
