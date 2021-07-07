@@ -25,6 +25,7 @@ function LoginForm(props) {
         password: password.value,
       })
       .then((res) => {
+        
         setLoading(false);
         setUserSession(res.data.token, res.data.user);
         console.log(res)

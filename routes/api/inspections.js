@@ -9,7 +9,7 @@ router.get("/", withAuth, async (req, res) => {
     try {
       const inspectionData = await Inspection.findAll({
         order: [["date", "ASC"]],
-        limit: 20,
+        limit: 50,
         include: [
           {
             model: Note,
@@ -34,7 +34,7 @@ router.get("/", withAuth, async (req, res) => {
     try {
       const inspectionData = await Inspection.findAll({
         order: [['date',  'ASC']],
-        limit:30,
+        limit:20,
         include: [
           {
             model: Note,
