@@ -7,17 +7,17 @@
 An inspection scheduling application to be utilized by the City of Orchard Lake Building Department. The City currently uses BS&A software with a SQL database to schedule/store inspection information. City inspectors and administrative staff will be able to view today’s inspections and upcoming inspections, as well as store results/notes when the inspection is completed.
 
 ### Current Problem
-When an inspection is scheduled, each inspector needs to be notified in different ways (email, fax, phone call) and this often creates more work for administrative staff to ensure the information is passed along. Furthermore, inspectors are able to claim information was never received and inspection appointments are often missed. 
+Currently, when an inspection is scheduled, each inspector needs to be notified in different ways (email, fax, phone call) and this often creates more work for administrative staff to ensure the information is passed along. Oftentimes, there are miscommunications that cause scheduled inspections to be missed and then require more work to have them rescheduled. Finally, inspection results are frequently input late, and inspectors often must be contacted in order for administrative staff to receive results.
 
 ### Solution
-This new app will become the main portal for inspectors to view current and past inspections, and pass along notes/results to administrative staff.
+This new app will become the main portal for inspectors and admins to login and view past, present, and future inspections. The dashboard will show today's inspections, upcoming inspections, and features a calendar component that will give users a better visual in order to plan their work schedule accordingly. Inspectors will be able to input the results of their inspections, and any custom notes, which will be saved for all users to view. Users will be notified if results are missing from an inspection based on specific colorings and notification system.
 
 ### Functionality 
 * Admins and Inspectors must login with their own unique IDs (username & password)
-* When the details button is clicked on a given inspection, the inspection details page is opened which will display all information (similar to inspection PDF that is normally printed) which includes: date of inspection, permit number, site address, inspection type, any custom comments/notes, owner name/information, contractor name, contractor phone number, work description, permit expiration date, and fee information.
+* When the details button is clicked on a given inspection, the inspection details page is opened which will display all information which includes: date of inspection, permit number, site address, inspection type, any custom comments/notes, owner name/information, contractor name, contractor phone number, work description, permit expiration date, and fee information.
 * Admins will be able to view all inspection results/result notes when they are input by Inspectors.
 * When an inspection is created, the time and admin that created it will be displayed.
-* Inspectors will be able to view scheduled inspections and choose their result status (Approved, Disapproved, Partially Approved, etc), and input any custom notes.
+* Inspectors will be able to view scheduled inspections and choose their result status (Approved, Disapproved, Partially Approved, etc) and input any custom notes.
 * Once an inspection has been assigned a result by the Inspector, inspections on the dashboard will change from a yellow color to a green color. Inspector’s may edit/update results and notes at any time. 
 * Any results input or edits made to inspections, will be saved and posted with a time stamp.
 * There will be a search bar on the “past inspections” page for inspections to be able to quickly search past results.
@@ -46,12 +46,12 @@ This new app will become the main portal for inspectors to view current and past
 
 ## Future Development 
 * When an inspection record is created in BS&A, this data will immediately populate into the new app.
-* When a record of inspection is created in BS&A, a brief notification email will be sent to the Inspector.
+* When a record of inspection is populated into Inspecto-Gadget, a brief notification email will be sent to the Inspector.
 * Login history will be tracked to verify that inspectors did or did not login to view their inspections in a timely manner.
-* When an inspection is scheduled in BS&A by an admin, the inspection record is created within the new app and posted to the corresponding inspector’s page with the following information: date of inspection, permit number, site address, inspection type, and any custom comments/notes (Ex: lockbox code, preferred time of inspection, etc.)
-* Admins will be able to see when an Inspector clicks on a scheduled inspection (read receipts) and the last time they logged in to the app.
-* Inspectors will be able to update a calendar to demonstrate their availability.
+* Admins will be able to see when an inspector clicks on a scheduled inspection (read receipts) and the last time they logged in to the app.
+* Inspectors will be able to update another calendar component to demonstrate their availability.
 * Inspection results will be printable in PDF form.
+* Past Inspections will be sortable by month and year.
 
 ## Collaborators
 **Lauren Wenzel**
