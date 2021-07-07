@@ -31,6 +31,14 @@ This new app will become the main portal for inspectors to view current and past
 - [Collaborators](#collaborators)
 - [Questions](#questions)
 
+![Screenshot (119)](https://user-images.githubusercontent.com/76264693/124683708-aab1ac80-de9b-11eb-97cf-25aa9c1c6df9.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/76264693/124683721-b8673200-de9b-11eb-920b-698947bf5913.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/76264693/124683743-c2893080-de9b-11eb-93e5-a6b7284d51aa.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/76264693/124683750-c4eb8a80-de9b-11eb-8e82-b0578d3b0f2a.png)
+![Screenshot (127)](https://user-images.githubusercontent.com/76264693/124683769-d5036a00-de9b-11eb-9ccc-61686fa9781f.png)
+![Screenshot (129)](https://user-images.githubusercontent.com/76264693/124683774-d6cd2d80-de9b-11eb-86f0-6823a2d1d47a.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/76264693/124683785-dc2a7800-de9b-11eb-8b1c-d9a445bfd28e.png)
+
 ## Technology Utilized
 [React.js](https://reactjs.org/), SQL, [Bootstrap (v4.6.0)](https://getbootstrap.com/), [weetalert2](https://www.npmjs.com/package/sweetalert2), [FullCalendar](https://fullcalendar.io/), [Moment](https://momentjs.com/), and [NodeMailer](https://nodemailer.com/about/)/.
 
