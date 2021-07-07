@@ -12,7 +12,7 @@ export function SearchBar (props) {
             type="text"
             name="search"
             value = {props.value}
-            placeholder="Search by Address or Permit No."
+            placeholder="Search Address or Permit No."
             onChange={props.onChange}
           />
           <button onClick={props.onClick} className="SearchBtn btn">
@@ -21,7 +21,7 @@ export function SearchBar (props) {
         </div>
          <div className="container col-12">
          <div className="row col-4" style={{ fontSize: "20px" }}>
-         <button onClick= {props.onClick} className="btn p-0" style={{ fontSize: "20px" }}>{'<<Back'}</button> 
+         <button onClick= {props.onClick} className={ props.back } style={{ fontSize: "20px" }}>{'<<Return to all Inspections'}</button> 
          </div>  
        </div>
       </div>
