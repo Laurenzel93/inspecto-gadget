@@ -57,26 +57,35 @@ function Dashboard() {
         }
 
     })
+
+   
+
+    let unfulfilled = []
+    past.forEach(inspection => {
+        if (inspection.results.length == 0) {
+            unfulfilled.push(inspection)
+        }
+       // console.log(unfulfilled)
+    })
+
     present.forEach(inspection => {
-        console.log(present)
-        inspection.classname = "card p-2 "
-
+        inspection.classname ="card p-2 "
+       
         if (inspection.results.length == 0) {
             inspection.classname += "no-result-yet"
         } else {
             inspection.classname += "resultConfirm"
         }
     })
-    future.forEach(inspection => {
-        console.log(present)
-        inspection.classname = "card p-2 "
-
-        if (inspection.results.length == 0) {
-            inspection.classname += "no-result-yet"
-        } else {
-            inspection.classname += "resultConfirm"
-        }
-    })
+    // future.forEach(inspection => {
+    //     inspection.classname ="card p-2 "
+       
+    //     if (inspection.results.length == 0) {
+    //         inspection.classname += "no-result-yet"
+    //     } else {
+    //         inspection.classname += "resultConfirm"
+    //     }
+    // })
 
     const grouped = future.reduce((grouped, inspection) => {
         const date = inspection.date;
@@ -97,19 +106,19 @@ function Dashboard() {
 
     // console.log(upcoming);
 
-    const unfulfilled = () => {
-        let isUnfulfilled = true
-        past.forEach(inspection => {
-            if (inspection.results.length == 0) {
-
-                isUnfulfilled = true
-                return
-            } else {
-                isUnfulfilled = false
-            }
-        })
-        return isUnfulfilled
-    }
+    // const unfulfilled = () => {
+    //     let isUnfulfilled = true
+    //     past.forEach(inspection => {
+    //         if (inspection.results.length == 0) {
+        
+    //          isUnfulfilled = true   
+            
+    //         } else {
+    //             isUnfulfilled = false
+    //         }
+    //     })
+    //     return isUnfulfilled
+    // }
 
     // console.log(unfulfilled());
 
@@ -120,7 +129,7 @@ function Dashboard() {
                 <title>Dashboard</title>
             </Helmet>
             <Nav />
-            {unfulfilled() === true ? (
+            {unfulfilled.length ? (
                 <ActionRequiredBanner />
             ) : (
                 null

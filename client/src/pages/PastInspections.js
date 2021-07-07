@@ -2,11 +2,10 @@ import React, { useEffect, useState } from "react";
 import { useHistory } from 'react-router';
 import { getUser } from '../utils/Session';
 import { Helmet } from "react-helmet";
-import { PastComponent, Results, Card } from "../components/PastComponent";
+import { PastComponent, Results } from "../components/PastComponent";
 import Nav from "../components/Nav";
-import { Upcoming, DateCard, Heading } from "../components/dashboard/UpcomingInspections";
 import Moment from 'moment';
-import { SearchInput, SearchBtn } from "../components/SearchBar";
+import { SearchBar} from "../components/SearchBar";
 import API from "../utils/API"
 
 
@@ -14,10 +13,13 @@ import API from "../utils/API"
 
 
 function PastInspections() {
-    const [inspections, setInspections] = useState([]);
-    const [addressSearch, setAddressSearch] = useState("");
 
+    const [inspections, setInspections] = useState([]);
+    const [search, setSearch] = useState("");
+    const [results, setResults] = useState([])
     const history = useHistory();
+
+
     useEffect(() => {
         window.scrollTo(0, 0);
         if (getUser() != null) {
@@ -30,80 +32,108 @@ function PastInspections() {
     async function loadInspections() {
         await API.getInspections()
             .then(res => {
-                setInspections(res.data)
+                sortInspections(res.data)
             }).catch(err => console.log(err));
     };
 
-    let present = [];
+    
+
+   
+      //find inspections that include search term
+      function filterItems() {
+        //console.log(inspections)
+      return inspections.filter(function(inspection) {
+          return inspection.address.toLowerCase().indexOf(search.toLowerCase()) !== -1 || inspection.permit_id.toLowerCase().indexOf(search.toLowerCase()) !== -1
+      })
+    }
+  
+    
+      //console.log(inspections)
+    
+    
+  // when search/return button is clicked
+ function handleFormSubmit(event) {
+     console.log(search)
+    event.preventDefault();
+    if (search === "") { 
+        loadInspections()
+    } else {
+        let searched = (filterItems(inspections, search)) 
+        setSearch("") 
+        sortInspections(searched)
+    }
+}
+    // console.log(results)  
+      
+
+
     let past = [];
-    inspections.forEach(inspection => {
+    let sortInspections = (inspections) => {
 
-        if ((Moment(inspection.date).isBefore(Moment(), 'day'))) {
-            past.push(inspection)
+        inspections.forEach(inspection => {
 
-        } else if ((Moment(inspection.date).isSame(Moment(), 'day'))) {
-            present.push(inspection)
-        }
-    })
+            if ((Moment(inspection.date).isBefore(Moment(), 'day'))) {
+                past.unshift(inspection)
+            } 
+                setInspections(past)
+        })
+           
+        past.forEach(inspection => {
+            inspection.classname ="card p-2 "
+        //console.log(inspection.results.length)
+             if (inspection.results.length == 0) {
+                inspection.classname += "late-result"
+            } else {
+                inspection.classname += "resulted"
+            }
+        })
+        const grouped = past.reduce((grouped, inspection) => {
+            const date = inspection.date;
+            if (!grouped[date]) {
+                grouped[date] = [];
+            }
+            grouped[date].push(inspection);
+            return grouped;
+            }, {});
 
-    past.forEach(inspection => {
-        inspection.classname ="card p-2 "
-        console.log(inspection.results.length)
-        if (inspection.results.length == 0) {
-            inspection.classname += "late-result"
-        } else {
-            inspection.classname += "resulted"
-        }
-    })
-        // console.log(past)
-
-
-    const grouped = past.reduce((grouped, inspection) => {
-        const date = inspection.date;
-        if (!grouped[date]) {
-            grouped[date] = [];
-        }
-        grouped[date].push(inspection);
-        return grouped;
-        }, {});
+            setResults(Object.keys(grouped).map((date) => {
+                return {
+                    date,
+                    inspections: grouped[date]
+                };
+            }))
+    }     
+    function handleInputChange(event) {
+        event.preventDefault();
+        setSearch(event.target.value)
+        console.log(event.target.value)
+    } 
+         
+  
     
         // Edit: to add it in the array format instead
-        const yore = Object.keys(grouped).map((date) => {
-            return {
-                date,
-                inspections: grouped[date]
-            };
-        });
+      
     
-        // console.log(past);
+        //console.log(past);
           
-    
-    // const handleInputChange = event => {
-    //   setAddressSearch(event.target.value);
-    // };
-
-    // const handleFormSubmit = event => {
-    //     event.preventDefault();
-    //     console.log(addressSearch)
-    //     API.getAddress(addressSearch)
-            
-    //       .then(res => setInspections(res.data))
-    //       .catch(err => console.log(err));
-    //   };
-
-    // console.log(inspections)
     return (
         <div  >
             <Helmet>
                 <title>Past Inspections</title>
             </Helmet>
             <Nav />
+            
             <div className="container-fluid">
+            <SearchBar 
+                value={search}
+                onChange={handleInputChange}
+                onClick={handleFormSubmit}
+                /> 
                 <div className="row mt-4">
-                    {yore.length ? (
+                    {results.length ? (
                         <div className="col-lg-12 col-sm-12">
                             <h3 className="text-center mt-4">Past Inspections</h3>
-                            {yore.map(card => (
+                            {results.map(card => (
                                 <div className="mt-2 p-3 bg-dark rounded">
                                  <h4 className="text-white">
                                  <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
