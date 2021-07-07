@@ -71,7 +71,7 @@ This new app will become the main portal for inspectors to view current and past
 
 **Ian Everitt**
 - [Github](https://github.com/rflctvEQ)
-- [Email](Link)
+- [Email](ian.andrew.everitt@gmail.com)
 - [Portfolio](https://rflctveq.github.io/ian-everitt-portfolio/)
 
 ## Questions
