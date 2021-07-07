@@ -84,16 +84,16 @@ function Nav() {
     useEffect(() => {
         locationStyle();
         checkRole();
-        if (isAdmin === false) {
-            setGenUserStyle('myTopnav');
-        }
+        // if (isAdmin === false) {
+        //     setGenUserStyle('myTopnav');
+        // } 
     });
 
     /*
         Render Create Account button if Admin
     */
     const [isAdmin, setIsAdmin] = useState();
-    const [genUserStyle, setGenUserStyle] = useState('');
+    const [genUserStyle, setGenUserStyle] = useState('myTopnav');
     const checkRole = () => {
         if (getUser()) {
            // console.log('this is the result of getUser(): ' + getUser().role);
