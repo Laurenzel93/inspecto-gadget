@@ -31,16 +31,18 @@ This new app will become the main portal for inspectors to view current and past
 - [Collaborators](#collaborators)
 - [Questions](#questions)
 
-![Screenshot (119)](https://user-images.githubusercontent.com/76264693/124683708-aab1ac80-de9b-11eb-97cf-25aa9c1c6df9.png)
-![Screenshot (123)](https://user-images.githubusercontent.com/76264693/124683721-b8673200-de9b-11eb-920b-698947bf5913.png)
-![Screenshot (120)](https://user-images.githubusercontent.com/76264693/124683743-c2893080-de9b-11eb-93e5-a6b7284d51aa.png)
-![Screenshot (121)](https://user-images.githubusercontent.com/76264693/124683750-c4eb8a80-de9b-11eb-8e82-b0578d3b0f2a.png)
-![Screenshot (127)](https://user-images.githubusercontent.com/76264693/124683769-d5036a00-de9b-11eb-9ccc-61686fa9781f.png)
-![Screenshot (129)](https://user-images.githubusercontent.com/76264693/124683774-d6cd2d80-de9b-11eb-86f0-6823a2d1d47a.png)
-![Screenshot (130)](https://user-images.githubusercontent.com/76264693/124683785-dc2a7800-de9b-11eb-8b1c-d9a445bfd28e.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/76264693/124687259-8e653e00-dea2-11eb-8abf-6a065a355744.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/76264693/124687263-8f966b00-dea2-11eb-823b-dca1d74a9c3e.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/76264693/124687266-91602e80-dea2-11eb-8060-568b4771b7d8.png)
+![Screenshot (136)](https://user-images.githubusercontent.com/76264693/124687270-9329f200-dea2-11eb-946f-24d4ebd51cfc.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/76264693/124687276-958c4c00-dea2-11eb-8a78-915aa7747521.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/76264693/124687281-96bd7900-dea2-11eb-8861-ae0ac30277bf.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/76264693/124687287-991fd300-dea2-11eb-8cb6-affec1540494.png)
+![Screenshot (141)](https://user-images.githubusercontent.com/76264693/124687293-9ae99680-dea2-11eb-92a4-77ccb67bbb09.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/76264693/124687250-8a392080-dea2-11eb-9836-4ba4757d04b5.png)
 
 ## Technology Utilized
-[React.js](https://reactjs.org/), SQL, [Bootstrap (v4.6.0)](https://getbootstrap.com/), [weetalert2](https://www.npmjs.com/package/sweetalert2), [FullCalendar](https://fullcalendar.io/), [Moment](https://momentjs.com/), and [NodeMailer](https://nodemailer.com/about/)/.
+[React.js](https://reactjs.org/), SQL, [Bootstrap (v4.6.0)](https://getbootstrap.com/), [sweetalert2](https://www.npmjs.com/package/sweetalert2), [FullCalendar](https://fullcalendar.io/), and [Moment](https://momentjs.com/).
 
 ## Future Development 
 * When an inspection record is created in BS&A, this data will immediately populate into the new app.
