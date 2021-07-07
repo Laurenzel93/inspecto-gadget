@@ -51,9 +51,7 @@ function Details() {
                     }).catch(err => console.log(err));
 
         //    console.log(inspection)
-        //    console.log(permit)
-           
-           
+        //    console.log(permit)      
      })
     }
      
@@ -145,9 +143,9 @@ function Details() {
                             />
                         ))}
                          <div className="row bg-light" style={{ fontWeight: "bold" }}>
-                            <div className="col-8 border text-center"></div>
-                            <div className="col-1 border bg-ligth text-right"style={{ fontWeight: "bold" }} >Total</div>
-                            <div className="col-3 border bg-light text-center  border-dark-top">${total}</div>
+                            <div className="col-6 border text-center"></div>
+                            <div className="col-3 border bg-ligth text-right"style={{ fontWeight: "bold" }} >Total</div>
+                            <div className="col-3 border bg-light text-center float-right border-dark-top">${total}</div>
                         </div>
                     </div>    
             ) : (
