@@ -22,7 +22,7 @@ function Login() {
             </Helmet>
             <div className="jumbo">
                 <div className="container">
-                    <h2 className="jumboHeading">Welcome to the City of Orchard Lake Inspections App</h2>
+                    <h2 className="jumboHeading">Inspecto-Gadget</h2>
                 </div>
             </div>
             <LoginForm />
