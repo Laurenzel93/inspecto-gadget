@@ -103,7 +103,7 @@ span {
 
     .bigNav a.icon {
         position: relative;
-        left: 90%;
+        left: 50%;
         display: block !important;
         padding-bottom: 10px;
     }
