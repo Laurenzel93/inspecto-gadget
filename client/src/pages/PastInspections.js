@@ -17,6 +17,7 @@ function PastInspections() {
     const [inspections, setInspections] = useState([]);
     const [search, setSearch] = useState("");
     const [results, setResults] = useState([])
+    const [back, setBack] = useState("invisible btn p-0")
     const history = useHistory();
 
 
@@ -57,8 +58,10 @@ function PastInspections() {
     event.preventDefault();
     if (search === "") { 
         loadInspections()
+        setBack("invisible btn p-0")
     } else {
         let searched = (filterItems(inspections, search)) 
+        setBack("visible btn p-0")
         setSearch("") 
         sortInspections(searched)
     }
@@ -123,11 +126,12 @@ function PastInspections() {
             </Helmet>
             <Nav />
             
-            <div className="container-fluid">
+            <div className="container-fluid col-12">
             <SearchBar 
                 value={search}
                 onChange={handleInputChange}
                 onClick={handleFormSubmit}
+                back={back}
                 /> 
                 <div className="row mt-4">
                     {results.length ? (
