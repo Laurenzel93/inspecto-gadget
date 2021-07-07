@@ -22,7 +22,7 @@ function Login() {
             </Helmet>
             <div className="jumbo">
                 <div className="container">
-                    <h2 className="jumboHeading">Inspecto-Gadget</h2>
+                    <h3 className="jumboHeading">Inspecto-Gadget</h3>
                 </div>
             </div>
             <LoginForm />

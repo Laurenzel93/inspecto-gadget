@@ -20,7 +20,7 @@ export function SearchBar (props) {
           </button>
         </div>
          <div className="container col-12">
-         <div className="row col-4" style={{ fontSize: "20px" }}>
+         <div className="row col-12" style={{ fontSize: "20px" }}>
          <button onClick= {props.onClick} className={ props.back } style={{ fontSize: "20px" }}>{'<<Return to all Inspections'}</button> 
          </div>  
        </div>

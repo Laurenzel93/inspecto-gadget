@@ -33,6 +33,7 @@ function Dashboard() {
     async function loadInspections() {
         await API.getInspections()
             .then(res => {
+                console.log(res.data)
                 setInspections(res.data)
             }).catch(err => console.log(err));
         await API.getCalender()
@@ -104,7 +105,7 @@ function Dashboard() {
         };
     });
 
-    // console.log(upcoming);
+     console.log(upcoming);
 
     // const unfulfilled = () => {
     //     let isUnfulfilled = true
