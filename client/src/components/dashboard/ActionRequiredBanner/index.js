@@ -1,12 +1,15 @@
 import React from "react";
+import { useHistory } from "react-router-dom";
 
 //This ONLY appears IF a inspection result is missing.
 
 function ActionRequiredBanner() {
+    const history = useHistory();
     return (
         <div>
-            <div className="container-fluid p-3">
-                <div className="alert alert-danger d-flex align-items-center mt-4" role="alert">
+            <div onClick={() => history.push('/past-inspections')}className="container-fluid col-12 p-3 ">
+                <div className="row">
+                <button onClick={() => history.push('/past-inspections')} className="alert alert-danger col-12 d-flex align-items-center mt-4" role="alert">
 
             {/* commented out the icon because React jsx doesn't like the "use link". Will troubleshoot this later */}
 
@@ -21,6 +24,7 @@ function ActionRequiredBanner() {
                     <h3>
                         Action Required! Inspection Results Missing
                     </h3>
+                </button>
                 </div>
             </div>
         </div>

@@ -137,8 +137,12 @@ router.get("/calender", withAuth, async (req, res) => {
           inspector: req.session.name,
         },
       });
-      console.log(inspectionData);
-      res.json(inspectionData);
+      inspectionData.forEach((element) => {
+        let date = moment(element.dataValues.date).format('YYYY-MM-DD')
+        events.push({ title: `${element.dataValues.type}`, date: date.toString() });
+    });
+      console.log(events);
+      res.json(events);
     } catch (error) {
       res.json(error);
       console.log(error);
