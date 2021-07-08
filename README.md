@@ -3,6 +3,14 @@
 ## Deployed Application
 [Inspecto-Gadget](https://arcane-taiga-84005.herokuapp.com/)
 
+### Admin-view Login
+Username: Administrator
+Password: pass12345
+
+### Inspector-view Login
+Username: Electrical
+Password: pass12345
+
 ## Description
 An inspection scheduling application to be utilized by the City of Orchard Lake Building Department. The City currently uses BS&A software with a SQL database to schedule/store inspection information. City inspectors and administrative staff will be able to view today’s inspections and upcoming inspections, as well as store results/notes when the inspection is completed.
 
