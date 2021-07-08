@@ -4,11 +4,11 @@
 [Inspecto-Gadget](https://arcane-taiga-84005.herokuapp.com/)
 
 ### Admin-view Login
-Username: Administrator
+Username: Administrator <br>
 Password: pass12345
 
 ### Inspector-view Login
-Username: Electrical
+Username: Electrical <br>
 Password: pass12345
 
 ## Description
