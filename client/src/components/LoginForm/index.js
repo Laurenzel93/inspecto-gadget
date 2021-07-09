@@ -44,14 +44,14 @@ function LoginForm(props) {
               timer: 1500
             })
       });
-      axios.post("/api/users/sessions")
-        .then((res) => {
-            console.log(res);
-            // console.log('session stored successfully');
-        })
-        .catch((err) => {
-            console.log(err)
-        })
+      // axios.post("/api/users/sessions")
+      //   .then((res) => {
+      //       console.log(res);
+      //       // console.log('session stored successfully');
+      //   })
+      //   .catch((err) => {
+      //       console.log(err)
+      //   })
   };
 
   return (

@@ -69,6 +69,7 @@ function PastInspections() {
     // console.log(results)  
       
 
+    // sort by date
 
     let past = [];
     let sortInspections = (inspections) => {
@@ -80,6 +81,8 @@ function PastInspections() {
             } 
                 setInspections(past)
         })
+
+        // add class depending on results
            
         past.forEach(inspection => {
             inspection.classname ="card p-2 "
@@ -90,6 +93,9 @@ function PastInspections() {
                 inspection.classname += "resulted"
             }
         })
+
+        // group inspections by date
+
         const grouped = past.reduce((grouped, inspection) => {
             const date = inspection.date;
             if (!grouped[date]) {
@@ -105,7 +111,9 @@ function PastInspections() {
                     inspections: grouped[date]
                 };
             }))
-    }     
+    }  
+    
+    
     function handleInputChange(event) {
         event.preventDefault();
         setSearch(event.target.value)
