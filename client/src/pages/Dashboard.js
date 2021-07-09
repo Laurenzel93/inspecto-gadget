@@ -45,6 +45,9 @@ function Dashboard() {
                 console.log(err)
             })
     }
+
+    // Sort by date
+
     let present = [];
     let future = [];
     let past = [];
@@ -59,7 +62,7 @@ function Dashboard() {
 
     })
 
-   
+   // Look for past due results
 
     let unfulfilled = []
     past.forEach(inspection => {
@@ -68,6 +71,8 @@ function Dashboard() {
         }
        // console.log(unfulfilled)
     })
+
+    //Add classname for today's inspections
 
     present.forEach(inspection => {
         inspection.classname ="card p-2 "
@@ -87,6 +92,8 @@ function Dashboard() {
     //         inspection.classname += "resultConfirm"
     //     }
     // })
+
+    // Group inspections by date
 
     const grouped = future.reduce((grouped, inspection) => {
         const date = inspection.date;
