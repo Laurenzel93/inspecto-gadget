@@ -4,6 +4,8 @@ import { getUser } from '../utils/Session';
 import { Helmet } from 'react-helmet';
 import AccountCreationForm from '../components/AccountCreationForm';
 import Nav from '../components/Nav';
+import Timestamps from '../components/Stats/Timestamps';
+import ResultsStats from '../components/Stats/ResultsStats';
 
 function AccountCreation() {
     const history = useHistory();
@@ -20,7 +22,10 @@ function AccountCreation() {
                 <title>Create Account</title>
             </Helmet>
             <Nav />
+            <Timestamps />
+            <ResultsStats />
             <AccountCreationForm />
+
         </div>
     )
 }
