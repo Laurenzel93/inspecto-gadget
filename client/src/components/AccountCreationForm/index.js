@@ -108,7 +108,7 @@ function AccountCreationForm() {
     return (
         <main>
             <div className="createFormContainer">
-                <form className='createForm' onSubmit={createAccountHandler}>
+                <form className='createForm text-center' onSubmit={createAccountHandler}>
                     <div id="createAccount" className="form-text">
                         Create an account
                     </div>
