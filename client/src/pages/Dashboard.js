@@ -10,7 +10,7 @@ import Moment from 'moment';
 import API from '../utils/API';
 import { getUser } from '../utils/Session';
 
-import { DayCellContent } from '@fullcalendar/react';
+
 
 
 
@@ -33,7 +33,7 @@ function Dashboard() {
     async function loadInspections() {
         await API.getInspections()
             .then(res => {
-                console.log(res.data)
+                //console.log(res.data)
                 setInspections(res.data)
             }).catch(err => console.log(err));
         await API.getCalender()
@@ -112,7 +112,7 @@ function Dashboard() {
         };
     });
 
-     console.log(upcoming);
+     //console.log(upcoming);
 
     // const unfulfilled = () => {
     //     let isUnfulfilled = true
@@ -160,7 +160,8 @@ function Dashboard() {
                                                     id={inspection.id}
                                                     class={inspection.classname}
                                                     date={Moment(inspection.date).format("ddd, MMMM Do")}
-                                                    address={inspection.address}
+                                                    href= {'http://maps.google.com/?q=' + inspection.address + ', Orchard Lake, MI 48324'}
+                                                    address= {inspection.address}
                                                     type={inspection.type}
                                                     permit_id={inspection.permit_id}
                                                     admin={(inspection.admin).toLowerCase()}
@@ -226,6 +227,7 @@ function Dashboard() {
                                                     id={inspection.id}
                                                     class={inspection.classname}
                                                     date={Moment(inspection.date).format("ddd, MMMM Do")}
+                                                    href= {'http://maps.google.com/?q='+ inspection.address +', Orchard Lake, MI 48324'}
                                                     address={inspection.address}
                                                     type={inspection.type}
                                                     permit_id={inspection.permit_id}

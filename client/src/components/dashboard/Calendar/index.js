@@ -8,7 +8,7 @@ export default class Calendar extends React.Component {
             <FullCalendar
                 plugins={[dayGridPlugin]}
                 events={this.props.children[1]}
-                //onLoad={console.log(this.props.children[1])}
+                onLoad={console.log(this.props.children[1])}
                 hiddenDays={[0, 6]}
             />
         )

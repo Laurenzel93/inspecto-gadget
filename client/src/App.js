@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import PrivateRoute from './components/PrivateRoute';
 // eslint-disable-next-line no-unused-vars
-import { AccountCreation, Dashboard, Details, Login, PastInspections, NoMatch } from './pages';
+import { AccountCreation, Dashboard, Details, Login, PastInspections, NoMatch, AvailabilityCalendar } from './pages';
 import './App.css';
 
 
@@ -25,6 +25,9 @@ function App() {
         </PrivateRoute>
         <PrivateRoute exact path='/past-inspections'>
           <PastInspections />
+        </PrivateRoute>
+        <PrivateRoute exact path='/availability-calendar'>
+          <AvailabilityCalendar />
         </PrivateRoute>
         <Route path='*'>
           <NoMatch />
