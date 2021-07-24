@@ -1,5 +1,6 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
+import "./style.css";
 
 //This ONLY appears IF a inspection result is missing.
 

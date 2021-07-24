@@ -120,8 +120,23 @@ router.get("/calender", withAuth, async (req, res) => {
     try {
       const inspectionData = await Inspection.findAll();
       inspectionData.forEach((element) => {
+        let color
+        switch (element.dataValues.inspector) {
+          case 'Ron Shelton':
+            color = 'red'
+            break;
+          case 'Steve Munson':
+            color = 'blue'
+            break;
+          case 'Curtis Stowe':
+            color = 'orange'
+            break;
+          default:
+            color = 'yellow';
+        }
+         console.log(element.dataValues)
           let date = moment(element.dataValues.date).format('YYYY-MM-DD')
-          events.push({ title: `${element.dataValues.type}`, date: date.toString() });
+          events.push({ title: `${element.dataValues.type}`, date: date.toString(), color: color });
       });
       console.log(events);
       res.json(events);
@@ -138,8 +153,22 @@ router.get("/calender", withAuth, async (req, res) => {
         },
       });
       inspectionData.forEach((element) => {
+        let color
+        switch (element.dataValues.inspector) {
+          case 'Ron Shelton':
+            color = 'red'
+            break;
+          case 'Steve Munson':
+            color = 'blue'
+            break;
+          case 'Curtis Stowe':
+            color = 'orange'
+            break;
+          default:
+            color = 'yellow';
+        }
         let date = moment(element.dataValues.date).format('YYYY-MM-DD')
-        events.push({ title: `${element.dataValues.type}`, date: date.toString() });
+        events.push({ title: `${element.dataValues.type}`, date: date.toString(), color: color });
     });
       console.log(events);
       res.json(events);
