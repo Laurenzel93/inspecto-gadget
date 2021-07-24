@@ -166,7 +166,7 @@ function Nav() {
                 {!isAdmin ?
                     null
                     :
-                    <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Create Account</button>
+                    <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>User Information</button>
 
                 }
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout" onClick={logout}>Logout</button>
