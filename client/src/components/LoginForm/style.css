@@ -3,9 +3,9 @@
     --blue-background: #b8daff;
 }
 
-body {
+/* body {
     background-color: var(--blue-background) !important;
-}
+} */
 
 /* Header styling */
 .jumbo {

@@ -9,6 +9,7 @@ function AccountCreationForm() {
     const email = useFormInput('');
     const username = useFormInput('');
     const password = useFormInput('');
+    const passwordCheck = useFormInput('');
     const role = useFormInput('');
 
     const history = useHistory();
@@ -55,6 +56,20 @@ function AccountCreationForm() {
                 icon: 'error',
                 title: '<span>Incomplete account information</span>',
                 html: '<span>Password must have at least 9 characters</span>',
+                background: '#343a40'
+            })
+        } else if (passwordCheck.value === '') {
+            Swal.fire({
+                icon: 'error',
+                title: '<span>Incomplete account information</span>',
+                html: '<span>Please type password again.</span>',
+                background: '#343a40'
+            })
+        } else if (password.value !== passwordCheck.value) {
+            Swal.fire({
+                icon: 'error',
+                title: '<span>Oops...</span>',
+                html: '<span>The passwords you entered do not match.</span>',
                 background: '#343a40'
             })
         } else if (role.value === '') {
@@ -105,6 +120,24 @@ function AccountCreationForm() {
         }
     }
 
+    const showOrHidePassword = () => {
+        const passwordInput = document.getElementById('password');
+        if (passwordInput.getAttribute('type') === 'text') {
+            passwordInput.setAttribute('type', 'password');
+        } else if (passwordInput.getAttribute('type') === 'password') {
+            passwordInput.setAttribute('type', 'text');
+        }
+    };
+
+    const showOrHidePasswordCheck = () => {
+        const passwordCheckInput = document.getElementById('passwordCheck');
+        if (passwordCheckInput.getAttribute('type') === 'text') {
+            passwordCheckInput.setAttribute('type', 'password');
+        } else if (passwordCheckInput.getAttribute('type') === 'password') {
+            passwordCheckInput.setAttribute('type', 'text');
+        }
+    }
+
     return (
         <main>
             <div className="createFormContainer">
@@ -126,7 +159,21 @@ function AccountCreationForm() {
                     </div>
                     <div className="mb-3">
                         <label htmlFor="password" className="form-label">Password</label>
-                        <input type="text" {...password} className="form-control" id="password" />
+                        <div className="passwordRow">
+                            <input type="password" {...password} className="form-control" id="password" />
+                            <button type='button' id='eye' onClick={showOrHidePassword}>
+                                <img src='https://cdn0.iconfinder.com/data/icons/feather/96/eye-16.png' alt='show/hide password' />
+                            </button>
+                        </div>
+                    </div>
+                    <div className="mb-3">
+                        <label htmlFor="password" className="form-label">Retype password</label>
+                        <div className="passwordRow">
+                            <input type="password" {...passwordCheck} className="form-control" id="passwordCheck" />
+                            <button type='button' id='eyeCheck' onClick={showOrHidePasswordCheck}>
+                                <img src='https://cdn0.iconfinder.com/data/icons/feather/96/eye-16.png' alt='show/hide password' />
+                            </button>
+                        </div>
                     </div>
                     <div className="checkboxContainer">
                         <div id="accountTypeHeader" className="form-text">
