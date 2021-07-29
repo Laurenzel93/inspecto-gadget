@@ -74,9 +74,9 @@ input {
     border: none !important;
     border-radius: 100%;
     background-color: white !important;
-    /* position: absolute;
-    right: 0;
-    top: 5px; */
+    /* position: relative;
+    right: 40px; */
+    /* top: 5px; */
 }
 
 .btnContainer {

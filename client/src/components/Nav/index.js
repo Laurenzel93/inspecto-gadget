@@ -175,7 +175,7 @@ function Nav() {
                     null
                     :
                     <>
-                        <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Create Account</button>
+                        <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Users</button>
                         <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeAvailability} onClick={availabilityCalanderRoute}>Availability Calendar</button>
                     </>
 
