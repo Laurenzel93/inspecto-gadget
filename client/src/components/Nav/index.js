@@ -63,6 +63,11 @@ function Nav() {
         history.push(createAccountPath);
     }
 
+    const availabilityCalanderRoute = () => {
+        let availabilityCalendarPath = '/availability-calendar';
+        history.push(availabilityCalendarPath);
+    }
+
     /*
         Button styling specific to user's current route
     */
@@ -70,6 +75,7 @@ function Nav() {
     const [activeDash, setActiveDash] = useState('');
     const [activePast, setActivePast] = useState('');
     const [activeCreate, setActiveCreate] = useState('');
+    const [activeAvailability, setActiveAvailability] = useState('');
 
     const locationStyle = () => {
         // console.log(location);
@@ -79,6 +85,8 @@ function Nav() {
             setActivePast('activePast');
         } else if (location === "/create-account") {
             setActiveCreate('activeCreate');
+        } else if (location === "/availability-calendar") {
+            setActiveAvailability('activeAvailability');
         }
     }
     useEffect(() => {
@@ -96,7 +104,7 @@ function Nav() {
     const [genUserStyle, setGenUserStyle] = useState('myTopnav');
     const checkRole = () => {
         if (getUser()) {
-           // console.log('this is the result of getUser(): ' + getUser().role);
+            // console.log('this is the result of getUser(): ' + getUser().role);
             if (getUser().role === 'admin' || getUser().role === 'Admin') {
                 setIsAdmin(true);
             } else {
@@ -149,7 +157,7 @@ function Nav() {
     return (
         <div className="container-fluid headerContainer vw-100">
             <nav className={responsive} id={genUserStyle}>
-                <h1 className="col-lg-4 col-sm-12 p-3 text-center">
+                <h1 className="col-lg-2 col-sm-12 p-3 nav-header">
                     Inspecto-Gadget
                 </h1>
                 <a href="javascript:void(0);" className="icon" onClick={responsiveMenuHandler}>
@@ -166,7 +174,10 @@ function Nav() {
                 {!isAdmin ?
                     null
                     :
-                    <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>User Information</button>
+                    <>
+                        <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeCreate} onClick={createAccountRoute}>Users</button>
+                        <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id={activeAvailability} onClick={availabilityCalanderRoute}>Availability Calendar</button>
+                    </>
 
                 }
                 <button className="btn btn-secondary border border-dark col-lg-2 col-sm-12 navBtn" id="logout" onClick={logout}>Logout</button>

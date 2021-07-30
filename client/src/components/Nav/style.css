@@ -11,6 +11,11 @@
     /* padding: 10px; */
 }
 
+.nav-header {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
 .bigNav {
     overflow: hidden;
 }
@@ -25,12 +30,12 @@
 }
 
 /* styling for nav button associated with current route */
-#activeDash, #activePast, #activeCreate {
+#activeDash, #activePast, #activeCreate, #activeAvailability {
     border-bottom: 5px solid var(--blue-background) !important;
     background-color: #9ca9b6;
 }
 
-#activeDash:hover, #activePast:hover, #activeCreate:hover {
+#activeDash:hover, #activePast:hover, #activeCreate:hover, #activeAvailability:hover {
     background-color: #9ca9b6;
 }
 
@@ -40,6 +45,10 @@
 
 span {
     color: white;
+}
+
+.navBtn {
+    font-size: .9rem !important;
 }
 
 @media screen and (max-width: 992px) {
