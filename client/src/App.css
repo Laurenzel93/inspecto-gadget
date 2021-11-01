@@ -1,6 +1,6 @@
 :root {
   --gray-background: #343a40;
-  --blue-background: #b8daff;
+  --main-background: #b6c1ce;
 }
 
 ::selection {
@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: var(--blue-background) !important;
+  background-color: var(--main-background) !important;
 }
 
 .App {
