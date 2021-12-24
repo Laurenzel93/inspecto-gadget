@@ -62,21 +62,21 @@ function Dashboard() {
 
     })
 
-   // Look for past due results
+    // Look for past due results
 
     let unfulfilled = []
     past.forEach(inspection => {
         if (inspection.results.length == 0) {
             unfulfilled.push(inspection)
         }
-       // console.log(unfulfilled)
+        // console.log(unfulfilled)
     })
 
     //Add classname for today's inspections
 
     present.forEach(inspection => {
-        inspection.classname ="card p-2 "
-       
+        inspection.classname = "card p-2 "
+
         if (inspection.results.length == 0) {
             inspection.classname += "no-result-yet"
         } else {
@@ -85,7 +85,7 @@ function Dashboard() {
     })
     // future.forEach(inspection => {
     //     inspection.classname ="card p-2 "
-       
+
     //     if (inspection.results.length == 0) {
     //         inspection.classname += "no-result-yet"
     //     } else {
@@ -112,15 +112,15 @@ function Dashboard() {
         };
     });
 
-     //console.log(upcoming);
+    //console.log(upcoming);
 
     // const unfulfilled = () => {
     //     let isUnfulfilled = true
     //     past.forEach(inspection => {
     //         if (inspection.results.length == 0) {
-        
+
     //          isUnfulfilled = true   
-            
+
     //         } else {
     //             isUnfulfilled = false
     //         }
@@ -144,24 +144,24 @@ function Dashboard() {
             )}
             <div className="container-fluid">
                 <div className="row mt-4">
-                        <div className="col-lg-6 col-sm-12">
-                            <h3 className="text-center mt-4">Today's Inspections</h3>
-                                <div className="p-3 bg-dark rounded">
-                                    <h4 className="text-white">
-                                        <p className= "">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
-                                        <p className= "">Inspections Today:{" "}{present.length} </p>
-                                    </h4>
-                                    {present.length ? (
-                                        <div>
-                                        {present.map(inspection => (
-                                            <div className={inspection.classname}>
-                                                <div className="">
+                    <div className="col-lg-6 col-sm-12">
+                        <h3 className="text-center mt-4">Today's Inspections</h3>
+                        <div className="p-3 bg-dark rounded">
+                            <h4 className="text-white">
+                                <p className="">{Moment().format("dddd, MMMM Do YYYY").toString()}</p>
+                                <p className="">Inspections Today:{" "}{present.length} </p>
+                            </h4>
+                            {present.length ? (
+                                <div>
+                                    {present.map(inspection => (
+                                        <div className={inspection.classname}>
+                                            <div className="">
                                                 <Today key={inspection.id}
                                                     id={inspection.id}
                                                     class={inspection.classname}
                                                     date={Moment(inspection.date).format("ddd, MMMM Do")}
-                                                    href= {'http://maps.google.com/?q=' + inspection.address + ', Orchard Lake, MI 48324'}
-                                                    address= {inspection.address}
+                                                    href={'http://maps.google.com/?q=' + inspection.address + ', Orchard Lake, MI 48324'}
+                                                    address={inspection.address}
                                                     type={inspection.type}
                                                     permit_id={inspection.permit_id}
                                                     admin={(inspection.admin).toLowerCase()}
@@ -212,22 +212,22 @@ function Dashboard() {
                         </div>
                     </div>
                     {upcoming.length ? (
-                    <div className="col-lg-12 col-sm-12">
-                        <h3 className="text-center mt-4">Upcoming Inspections</h3>
-                                {upcoming.map(card => (  
-                                    <div className="mt-2 p-3 bg-dark rounded">
-                                        <h4 className="text-white">
-                                            <p className= "">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
-                                            <p className= "">Inspections: &nbsp;{card.inspections.length} </p>
-                                        </h4>
+                        <div className="col-lg-12 col-sm-12">
+                            <h3 className="text-center mt-4">Upcoming Inspections</h3>
+                            {upcoming.map(card => (
+                                <div className="mt-2 p-3 bg-dark rounded">
+                                    <h4 className="text-white">
+                                        <p className="">{Moment(card.date).format("dddd, MMMM Do YYYY").toString()}</p>
+                                        <p className="">Inspections: &nbsp;{card.inspections.length} </p>
+                                    </h4>
                                     {card.inspections.map(inspection => (
-                                           <div className="card p-2">
-                                            <div className= "pb-0 card-body mb-0 container col-12 ">
+                                        <div className="card p-2">
+                                            <div className="pb-0 card-body mb-0 container col-12 ">
                                                 <Upcoming key={inspection.permit_id}
                                                     id={inspection.id}
                                                     class={inspection.classname}
                                                     date={Moment(inspection.date).format("ddd, MMMM Do")}
-                                                    href= {'http://maps.google.com/?q='+ inspection.address +', Orchard Lake, MI 48324'}
+                                                    href={'http://maps.google.com/?q=' + inspection.address + ', Orchard Lake, MI 48324'}
                                                     address={inspection.address}
                                                     type={inspection.type}
                                                     permit_id={inspection.permit_id}
@@ -235,7 +235,7 @@ function Dashboard() {
                                                     date_scheduled={Moment(inspection.date_scheduled).format("l")}
                                                 />
                                                 {inspection.notes.length ? (
-                                                     <div className="p-2 class">
+                                                    <div className="p-2 class">
                                                         <div className="row mb-4 ">
                                                             <div className="col-12 col-md-auto ">Notes: </div>
                                                             {inspection.notes.map(note => (

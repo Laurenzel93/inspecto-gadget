@@ -2,6 +2,25 @@ const router = require("express").Router();
 const { User } = require("../../models");
 const withAuth = require("../../scripts/auth");
 
+router.get('/', withAuth, async (req, res) => {
+  console.log(req.body);
+  if(req.session.role === 'admin') {
+    try {
+      const userData = await User.findAll({
+        // get just inspectors, not admins
+        where: {
+          role: "inspector"
+        }
+      });
+      console.log(userData);
+      res.json(userData);
+    } catch (err) {
+      res.json(err);
+      console.log(err);
+    }
+  }
+})
+
 router.post('/create', withAuth, async (req, res) => {
   console.log(req.body);
   if(req.session.role === 'admin'){
